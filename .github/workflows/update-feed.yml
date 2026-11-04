@@ -1,0 +1,32 @@
+name: Update calendar feeds
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # continue-on-error: if one site changes and its script breaks, the other feed still updates
+      - name: Build Philly Gay Calendar feed
+        continue-on-error: true
+        run: python3 pgc_to_ics.py --out docs/feed.ics --history docs/pgc_history.json
+      - name: Build CreativePHL feed
+        continue-on-error: true
+        run: python3 creativephl_to_ics.py --out docs/creativephl.ics
+      - name: Commit if changed
+        run: |
+          git config user.name  "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add docs/
+          git diff --cached --quiet || git commit -m "Update feed $(date -u +%F' '%H:%M)"
+          git push

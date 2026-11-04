@@ -1,0 +1,767 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pgc_to_ics//PhillyGayCalendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Philly Gay Calendar
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f977c989843c3df59bca513e8d924db94c28b3df@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261027T180000
+DTEND;TZID=America/New_York:20261027T200000
+SUMMARY:Gender-Affirming Voice Workshop with Wes Harris
+LOCATION:Church of St Luke and the Epiphany\, 330 South 13th Street\, Phila
+ delphia\, PA\, USA
+DESCRIPTION:With: Wes Harris\nJoin us for a free Gender Affirming Voice Wor
+ kshop with Wes Harris of Philadelphia Voice Studio on Tuesday\, October 27
+ th from 6-8pm! Wes Harris (he/they) is a music educator and voice coach wh
+ o specializes in gender-affirming voice and communication. He…\nTags: So
+ ber\, Talks & Workshops\, Trans\nTickets/info: https://www.waygay.org/cale
+ ndar\nhttps://phillygaycalendar.com/events/gender-affirming-voice-workshop
+ -with-wes-harris/
+URL:https://phillygaycalendar.com/events/gender-affirming-voice-workshop-wi
+ th-wes-harris/
+CATEGORIES:Sober,Talks & Workshops,Trans
+END:VEVENT
+BEGIN:VEVENT
+UID:53b94e13092d9864d75b29503dcafbdc1a951a58@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261027T183000
+DTEND;TZID=America/New_York:20261027T213000
+SUMMARY:Do-Re-Meet: LGBTQIA+ Halloween Mingle + Concert
+LOCATION:Maclean House\, 79 Nassau Street\, Princeton\, NJ
+DESCRIPTION:With: Ema Nikolovska\nB-sharp\, B-natural\, Be YOU - in costume
+ ! Connect with fellow music lovers over some frighteningly fun pre-concert
+  festivities before experiencing mezzo-soprano Ema Nikolovska and guitaris
+ t Sean Shibe in their genre-defying program inspired by Virginia Woolf’s
+  "Orlando" with your new connections.…\nTags: Arts & Theater\, Halloween
+ \, Sober\nTickets/info: https://concerts.princeton.edu/events/26-27-do-re-
+ meet-lgbtqia-and-allies-mingle-nikolovska-shibe/\nhttps://phillygaycalenda
+ r.com/events/do-re-meet-lgbtqia-halloween-mingle-concert/
+URL:https://phillygaycalendar.com/events/do-re-meet-lgbtqia-halloween-mingl
+ e-concert/
+CATEGORIES:Arts & Theater,Halloween,Sober
+END:VEVENT
+BEGIN:VEVENT
+UID:4b9707fd025e9e174fbf5a7183312584b411e5f9@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261027T190000
+DTEND;TZID=America/New_York:20261027T210000
+SUMMARY:The Boulet Brothers Dragula Season 7 Weekly Viewing Party
+LOCATION:Strangelove’s\, 216 S 11th St\, Philadelphia\, PA 19107\, USA
+DESCRIPTION:With: Onyx Ondyx\, Pi\nGet Ready for the Ultimate Dragula Viewi
+ ng Experience! Hello Uglies! 📺 Join us for an electrifying weekly drag 
+ viewing of Season 7 of The Boulet Brothers Dragula\, where we’ll be spil
+ ling blood (and tea) all night at Strangelove's! Bring your…\nTags: Comm
+ unity\, Drag\, Halloween\nTickets/info: https://www.instagram.com/p/DeCphC
+ 8RMs8/\nhttps://phillygaycalendar.com/events/the-boulet-brothers-dragula-s
+ eason-7-weekly-viewing-party/
+URL:https://phillygaycalendar.com/events/the-boulet-brothers-dragula-season
+ -7-weekly-viewing-party/
+CATEGORIES:Community,Drag,Halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:0ac7420e71fc4a151a6c9955cf80dc4da33662bc@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261027T200000
+DTEND;TZID=America/New_York:20261027T220000
+SUMMARY:Soap on a Rope
+LOCATION:Club Philly\, 1220 Chancellor street
+DESCRIPTION:Welcome to Soap on a Rope!Get ready for an unforgettable evenin
+ g as the Philly Bondage Club teams up with Club Philly for the very first 
+ time! Dive into a world of exploration and freedom\, where all gender iden
+ tities are celebrated…\nTickets/info: https://www.instagram.com/p/DeiCiF
+ tlVgX/?img_index=1\nhttps://phillygaycalendar.com/events/soap-on-a-rope/
+URL:https://phillygaycalendar.com/events/soap-on-a-rope/
+END:VEVENT
+BEGIN:VEVENT
+UID:6b6194ce6640bcd9c795d65d859a9ac74c3baba9@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261027T210000
+DTEND;TZID=America/New_York:20261027T233000
+SUMMARY:Bingo
+LOCATION:Paradise\, 101 Asbury Avenue\, Asbury Park\, NJ\, USA
+DESCRIPTION:With: Jolina Jasmine\nJoin us every Tuesday at Paradise for Bin
+ go with Jolina Jasmine — where the balls are rolling\, the prizes are fl
+ owing\, and the energy is absolutely electric! Jolina brings the glam\, th
+ e giggles\, and just the right amount of sass…\nTags: Drag\, Halloween\n
+ Tickets/info: https://www.paradisenj.com\nhttps://phillygaycalendar.com/ev
+ ents/bingo-4/
+URL:https://phillygaycalendar.com/events/bingo-4/
+CATEGORIES:Drag,Halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:6e297a03e6455e82cf7733098dc0427324e8fdee@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261028T080000
+DTEND;TZID=America/New_York:20261028T190000
+SUMMARY:Pride in Your Legacy: Securing LGBT+ Equality
+LOCATION:Church of St Luke and the Epiphany\, 330 South 13th Street\, Phila
+ delphia\, PA\, USA
+DESCRIPTION:A legacy planning session from William Way on protecting LGBT+ 
+ estates\, rights and records.Runs through the day from 8 AM at the Church 
+ of St Luke and the Epiphany.\nTags: Community\, Sober\, Talks & Workshops\
+ nTickets/info: https://www.eventbrite.com/e/pride-in-your-legacy-the-legac
+ y-planning-series-securing-lgbtq-equality-tickets-2002961169777\nhttps://p
+ hillygaycalendar.com/events/pride-in-your-legacy-securing-lgbt-equality/
+URL:https://phillygaycalendar.com/events/pride-in-your-legacy-securing-lgbt
+ -equality/
+CATEGORIES:Community,Sober,Talks & Workshops
+END:VEVENT
+BEGIN:VEVENT
+UID:dbeaf30b4ee4ff822b9947532c44e93a900fa8d3@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261028T083000
+DTEND;TZID=America/New_York:20261028T100000
+SUMMARY:IBA Women in Business Breakfast: The Solopreneur Mindset
+LOCATION:Quorum at the University City Science Center\, 3675 Market St\, 2n
+ d Floor\, Philadelphia\, PA 19104
+DESCRIPTION:The Independence Business Alliance\, Greater Philadelphia's LGB
+ T+ chamber of commerce\, restarts its Women in Business programming with a
+  breakfast panel on Wednesday October 28\, 8:30 to 10:00 AM. The subject i
+ s The Solopreneur Mindset: Expanding Courageous Ecosystems. As workplace e
+ xpectations…\nTags: Community\, Sober\, Talks & Workshops\nTickets/info:
+  https://members.thinkiba.com/calendar/Details/women-in-business-breakfast
+ -the-solopreneur-mindset-expanding-courageous-ecosystems-1859495\nhttps://
+ phillygaycalendar.com/events/iba-women-in-business-breakfast-the-soloprene
+ ur-mindset/
+URL:https://phillygaycalendar.com/events/iba-women-in-business-breakfast-th
+ e-solopreneur-mindset/
+CATEGORIES:Community,Sober,Talks & Workshops
+END:VEVENT
+BEGIN:VEVENT
+UID:f1922ffbaa9bf805b528f6d803774ac6e2206239@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261028T180000
+DTEND;TZID=America/New_York:20261028T210000
+SUMMARY:BiJinx: A Bisexual Social Meetup
+LOCATION:Franky Bradley's\, 1320 Chancellor St\, Philadelphia\, PA 19107\, 
+ USA
+DESCRIPTION:BiJinx is Philadelphia's monthly bisexual social meetup\, for a
+ nybody into everybody. Bi\, pan\, queer\, questioning\, and curious folks 
+ take over the atrium at Franky Bradley's for a low-pressure night of mingl
+ ing\, conversation\, and drinks with people who get it. The…\nTags: Comm
+ unity\, Happy Hour\nTickets/info: https://instagram.com/bijinx.philly\nhtt
+ ps://phillygaycalendar.com/events/bijinx-a-bisexual-social-meetup/
+URL:https://phillygaycalendar.com/events/bijinx-a-bisexual-social-meetup/
+CATEGORIES:Community,Happy Hour
+END:VEVENT
+BEGIN:VEVENT
+UID:03662ab113b78736f4a80dd417bcdd458097b62f@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261028T180000
+DTEND;TZID=America/New_York:20261028T200000
+SUMMARY:A Second Healing: A Gathering
+LOCATION:Church of St Luke and the Epiphany\, 330 South 13th Street\, Phila
+ delphia\, PA\, USA
+DESCRIPTION:For our October Women’s Coffee House\, we will be honoring Br
+ east Cancer Awareness Month\, with an evening of sharing and community car
+ e\, hosted by Susan DiPronio. A Second Healing: A Gathering is an event fo
+ cused on the experiences and stories…\nTags: Lesbian\, Talks & Workshops
+ \nTickets/info: https://www.instagram.com/p/DexIn7eF6tX/?utm_source=ig_web
+ _copy_link&xtok=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==\nhttps://phillygayc
+ alendar.com/events/a-second-healing-a-gathering/
+URL:https://phillygaycalendar.com/events/a-second-healing-a-gathering/
+CATEGORIES:Lesbian,Talks & Workshops
+END:VEVENT
+BEGIN:VEVENT
+UID:ffdbaad7f852cdaf5e367eef519225079cd527a5@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261028T190000
+DTEND;TZID=America/New_York:20261028T230000
+SUMMARY:Mystery Movie at Tattooed Mom
+LOCATION:Tattooed Mom\, 530 South St\, Philadelphia\, PA\, USA
+DESCRIPTION:Gay Film Club Philly returns to Tattooed Mom with a mystery scr
+ eening. The title is not announced in advance.Doors at 6:30 PM\, film at 7
+  PM.\nTags: Community\, Film\, Performance\nTickets/info: https://www.even
+ tbrite.com/e/mystery-movie-tattooed-mom-tickets-2002566924579\nhttps://phi
+ llygaycalendar.com/events/mystery-movie-at-tattooed-mom/
+URL:https://phillygaycalendar.com/events/mystery-movie-at-tattooed-mom/
+CATEGORIES:Community,Film,Performance
+END:VEVENT
+BEGIN:VEVENT
+UID:8ca5eef984e36c35345795c4481a4acdf902ed7d@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261028T200000
+DTEND;TZID=America/New_York:20261028T210000
+SUMMARY:Costume Contest
+LOCATION:Franky Bradley's\, 1320 Chancellor St\, Philadelphia\, PA 19107\, 
+ USA
+DESCRIPTION:Join Us for a Night of Fun and Creativity! Get ready to unleash
+  your creativity at our fabulous Costume Contest at Franky Bradley's! On O
+ ctober 28th\, we invite you to display your most imaginative and daring co
+ stumes for a chance…\nTags: Halloween\nTickets/info: https://www.instagr
+ am.com/p/DetI6q5p2rO/\nhttps://phillygaycalendar.com/events/costume-contes
+ t/
+URL:https://phillygaycalendar.com/events/costume-contest/
+CATEGORIES:Halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:dfa170d211e1d6154c47b7a6cf9f75051b968434@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261028T200000
+DTEND;TZID=America/New_York:20261028T223000
+SUMMARY:E. Lixorcist
+LOCATION:Paradise\, 101 Asbury Avenue\, Asbury Park\, NJ\, USA
+DESCRIPTION:With: E. LicksHer\nThis spooky season\, we bring you our versio
+ n of the Exorcist (yes\, it was an off brodway musical and there will be n
+ umbers that are just as raunchy as you think they are)! Join us on Wednesd
+ ay\, October 28th at…\nTags: Comedy\, Drag\, Halloween\nTickets/info: ht
+ tps://www.paradisenj.com\nhttps://phillygaycalendar.com/events/e-lixorcist
+ /
+URL:https://phillygaycalendar.com/events/e-lixorcist/
+CATEGORIES:Comedy,Drag,Halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:2cf8ffed6a7add8d09d5b6266ab5c1a95f1513f6@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261028T200000
+DTEND;TZID=America/New_York:20261028T230000
+SUMMARY:Hump(!) Wednesdays: Free Weekly Burlesque at 254
+LOCATION:254\, 254\, South 12th Street\, Philadelphia\, PA
+DESCRIPTION:A free\, themed burlesque show every Wednesday at 254. Tassel R
+ equest Live\, Turnpyke's Balls\, Fever Dream and Sleepover rotate through.
+ 8 PM. The series runs through December 16.\nTags: Burlesque\, Drag\, Perfo
+ rmance\nTickets/info: https://www.eventbrite.com/e/hump-wednesdays-free-we
+ ekly-burlesque-show-at-254-tickets-1988090872317\nhttps://phillygaycalenda
+ r.com/events/hump-wednesdays-free-weekly-burlesque-at-254/
+URL:https://phillygaycalendar.com/events/hump-wednesdays-free-weekly-burles
+ que-at-254/
+CATEGORIES:Burlesque,Drag,Performance
+END:VEVENT
+BEGIN:VEVENT
+UID:9838c4f6d72ef0f62fe8098f255387c64e091b30@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261029T180000
+DTEND;TZID=America/New_York:20261029T210000
+SUMMARY:Rocky Horror Tribute Show
+LOCATION:Fabrika\, 1108 Frankford Ave\, Philadelphia\, PA 19125\, USA
+DESCRIPTION:Fabrika's immersive Rocky Horror returns for a third year\, and
+  this run is dedicated to Tim Curry. This is not a screening with a shadow
+  cast. It is a full production: drag\, burlesque\, aerial work\, fire perf
+ ormance\, dancing\, and a…\nTags: Burlesque\, Drag\, Halloween\, Perform
+ ance\nTickets/info: https://fabrikaphilly.com\nhttps://phillygaycalendar.c
+ om/events/rocky-horror-tribute-show-2/
+URL:https://phillygaycalendar.com/events/rocky-horror-tribute-show-2/
+CATEGORIES:Burlesque,Drag,Halloween,Performance
+END:VEVENT
+BEGIN:VEVENT
+UID:b221f15b8b23a7be735f30f3573adcc8bf0b9f27@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261029T190000
+DTEND;TZID=America/New_York:20261029T220000
+SUMMARY:Ghoul’s Night: Dracula – Horror Movie Night and Halloween Drag 
+ Show
+LOCATION:Val's Lesbian Bar\, 605 S 3rd St\, Philadelphia\, PA 19147
+DESCRIPTION:With: Lamia\, Suli Skekli\, Vudu Thee Dahl\nThe TRANSylvanian T
+ rio celebrates the Halloween season presenting Bram Stoker's Dracula with 
+ a Drag Show and Costume Contest "See Me." The Sirens of Slayher are gettin
+ g sapphic at Val's Lesbian Bar this Fall! Witness the Horror of Drag Shows
+  \,…\nTags: Drag\, Halloween\, Trans\nTickets/info: https://ghoulsnight.
+ eventbrite.com\nhttps://phillygaycalendar.com/events/ghouls-night-dracula-
+ horror-movie-night-and-halloween-drag-show/
+URL:https://phillygaycalendar.com/events/ghouls-night-dracula-horror-movie-
+ night-and-halloween-drag-show/
+CATEGORIES:Drag,Halloween,Trans
+END:VEVENT
+BEGIN:VEVENT
+UID:9e30a64ee691024d70458dc4404a8542e94b085d@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261029T193000
+DTEND;TZID=America/New_York:20261029T213000
+SUMMARY:Horror Video Bingo
+LOCATION:Strangelove’s\, 216 S 11th St\, Philadelphia\, PA 19107\, USA
+DESCRIPTION:We’ll play a clip from a horror movie\, and you’ll need to 
+ recognize the movie and/or character (depending on what’s on your bingo 
+ card). If it’s on your card\, stamp it with one of our bingo stampers! W
+ hether you’re a…\nTags: Halloween\, Trivia\nTickets/info: https://www.
+ eventbrite.com/e/horror-video-bingo-tickets-2000536856591?aff=ebemoffollow
+ publishemail&ref=eemail&utm_campaign=following_published_event&utm_content
+ =follow_notification&utm_medium=email&utm_source=eventbrite\nhttps://phill
+ ygaycalendar.com/events/horror-video-bingo/
+URL:https://phillygaycalendar.com/events/horror-video-bingo/
+CATEGORIES:Halloween,Trivia
+END:VEVENT
+BEGIN:VEVENT
+UID:9a037ed737d4933fd95a9a951e2dae4fca133d1f@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261029T200000
+DTEND;TZID=America/New_York:20261030T010000
+SUMMARY:Wepa – Noche de Brujas
+LOCATION:Paradise\, 101 Asbury Avenue\, Asbury Park\, NJ\, USA
+DESCRIPTION:Wepa night special edition: Noche de Brujas with DJ Nick Peters
+  playing your favorite Latin Music\, Pop Hits and More all night long! Dra
+ g show at 9pm hosted by Aurora Van Wales w/ special guests Franchesca LaRo
+ se\, Madison Katar and…\nTags: Dance Party\, Drag\, Halloween\nTickets/i
+ nfo: https://www.paradisenj.com\nhttps://phillygaycalendar.com/events/wepa
+ -noche-de-brujas/
+URL:https://phillygaycalendar.com/events/wepa-noche-de-brujas/
+CATEGORIES:Dance Party,Drag,Halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:3e6d6bf037539e3876b889febf88e4166ac95304@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261030T170000
+DTEND;TZID=America/New_York:20261030T190000
+SUMMARY:Spooky Crafts with Cassie’s Coven
+LOCATION:Philly Pride Visitor Center\, 12th and Locust St\, Philadelphia\, 
+ PA 19107
+DESCRIPTION:Second session of Cassie's Craft Coven at the Philly Pride Visi
+ tor Center. Make witches bells or potion pouches\, materials provided.Dona
+ tion based\, NOTAFLOF. Runs 5 to 7 PM. The first session is October 24.\nT
+ ags: Arts & Theater\, Community\, Halloween\, Sober\nTickets/info: https:/
+ /www.eventbrite.com/e/spooky-crafts-with-cassies-coven-x-philly-pride-visi
+ tor-center-tickets-2000281776640\nhttps://phillygaycalendar.com/events/spo
+ oky-crafts-with-cassies-coven-2/
+URL:https://phillygaycalendar.com/events/spooky-crafts-with-cassies-coven-2
+ /
+CATEGORIES:Arts & Theater,Community,Halloween,Sober
+END:VEVENT
+BEGIN:VEVENT
+UID:f542b4586fed7fdc02904324ff1e309cbfeed5fc@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261030T180000
+DTEND;TZID=America/New_York:20261030T210000
+SUMMARY:Siloam Wellness 31st Anniversary Celebration
+LOCATION:Springfield Country Club\, 400 W Sproul Rd\, Springfield\, PA 1906
+ 4
+DESCRIPTION:Siloam Wellness marks 31 years on Friday October 30 with an eve
+ ning at Springfield Country Club\, 6:00 to 9:00 PM. The celebration honors
+  Patrick J. Burns\, a business leader and philanthropist whose work on hea
+ lthy food access and community development…\nTags: Community\, Fundraise
+ r\nTickets/info: https://siloamwellness.org\nhttps://phillygaycalendar.com
+ /events/siloam-wellness-31st-anniversary-celebration/
+URL:https://phillygaycalendar.com/events/siloam-wellness-31st-anniversary-c
+ elebration/
+CATEGORIES:Community,Fundraiser
+END:VEVENT
+BEGIN:VEVENT
+UID:2c50490fd8eff8b966c4e05a13aa749b18046b6e@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261030T190000
+DTEND;TZID=America/New_York:20261030T220000
+SUMMARY:Halloween Drag Show at Bayers!
+LOCATION:Bayer's Tavern\, 500 Jersey Ave\, Gloucester City\, NJ 08030
+DESCRIPTION:With: Ariel Versace\nThe Babes of Bayers take over the upstairs
+  room at Bayer's Tavern for a Halloween edition of their drag show\, hoste
+ d by Ariel Versace of RuPaul's Drag Race.Expect costumes\, Halloween numbe
+ rs and the usual Bayers crowd. Doors at 7 PM\,…\nTags: Drag\, Halloween\
+ , Performance\nTickets/info: https://www.eventbrite.com/e/halloween-drag-s
+ how-at-bayers-1030-tickets-2002813125974\nhttps://phillygaycalendar.com/ev
+ ents/halloween-drag-show-at-bayers/
+URL:https://phillygaycalendar.com/events/halloween-drag-show-at-bayers/
+CATEGORIES:Drag,Halloween,Performance
+END:VEVENT
+BEGIN:VEVENT
+UID:6d0e6d4f011ab1f0a895ed0390ae8d1a9f5d13bd@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261030T190000
+DTEND;TZID=America/New_York:20261030T213000
+SUMMARY:$5 Fridays at Franky Bradley’s
+LOCATION:Franky Bradley's\, 1320 Chancellor St\, Philadelphia\, PA 19107\, 
+ USA
+DESCRIPTION:The weekly $5 Friday night at Franky Bradley's.7 PM every Frida
+ y. Listed here through the end of December.\nTags: Dance Party\, Happy Hou
+ r\, Performance\nTickets/info: https://www.eventbrite.com/e/5-fridays-tick
+ ets-2002903984735\nhttps://phillygaycalendar.com/events/5-fridays-at-frank
+ y-bradleys/
+URL:https://phillygaycalendar.com/events/5-fridays-at-franky-bradleys/
+CATEGORIES:Dance Party,Happy Hour,Performance
+END:VEVENT
+BEGIN:VEVENT
+UID:7f5152528c990b90b55e8db69aeaf1feba9b0f87@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261030T190000
+DTEND;TZID=America/New_York:20261030T220000
+SUMMARY:Brutal Angel: Mischief Night Drag Situation and Halloween Party
+LOCATION:Little Big Planet\, 1123 Walnut St\, Philadelphia\, PA 19107
+DESCRIPTION:With: Lamia\, Suli Skekli\, Vudu Thee Dahl\nGet into the Extrav
+ aganza with the most ferocious horror drag show at this nightmare on Walnu
+ t St. Presented by the succubi of 215\, SLAYHER Philly's Only All Heavy Me
+ tal Drag Show has presented the finest in frights and the mistresses…\nT
+ ags: Arts & Theater\, Dance Party\, Drag\, Halloween\nTickets/info: https:
+ //brutalangel.eventbrite.com\nhttps://phillygaycalendar.com/events/brutal-
+ angel-mischief-night-drag-situation-and-halloween-party/
+URL:https://phillygaycalendar.com/events/brutal-angel-mischief-night-drag-s
+ ituation-and-halloween-party/
+CATEGORIES:Arts & Theater,Dance Party,Drag,Halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:66e666772154ed02f8322235f75022cb8ebff23c@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261030T193000
+DTEND;TZID=America/New_York:20261030T230000
+SUMMARY:Pitch-A-Friend: Living Eulogy Night!
+LOCATION:Brooklyn Bowl\, 1009 Canal St\, Philadelphia\, PA\, USA
+DESCRIPTION:🖤 DEARLY DEPARTED: THE DATING HABITS 🖤 Philadelphia\, it
+ ’s time to put some things to rest. ⚰️ This October 30\, Pitch-A-Fri
+ end is hosting a Living Eulogy Night\, where we’re saying goodbye to bad
+  dating habits\, questionable situationships\, and the versions…\nTags: 
+ Halloween\, Lesbian\, Open Mic\, People of Color\nTickets/info: https://pi
+ tch-a-friend.com/philly/signup/2026-bb-halloween\nhttps://phillygaycalenda
+ r.com/events/pitch-a-friend-living-eulogy-night/
+URL:https://phillygaycalendar.com/events/pitch-a-friend-living-eulogy-night
+ /
+CATEGORIES:Halloween,Lesbian,Open Mic,People of Color
+END:VEVENT
+BEGIN:VEVENT
+UID:579f6e1f5503faf921d8f109d9430e7ce780404d@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261030T193000
+DTEND;TZID=America/New_York:20261030T213000
+SUMMARY:Vanya and Sonia and Masha and Spike
+LOCATION:Players Club of Swarthmore\, 614 Fairview Road\, Swarthmore\, PA
+DESCRIPTION:Family reunions are complicated enough without a fading movie s
+ tar\, her much younger boyfriend\, and a housekeeper who deals in prophecy
+ . PCS Theater opens a limited Main Stage engagement of Christopher Durang'
+ s Tony Award-winning comedy in Swarthmore\, running October 30…\nTags: A
+ rts & Theater\, Comedy\, Sober\nTickets/info: https://ci.ovationtix.com/11
+ 7/production/1273307\nhttps://phillygaycalendar.com/events/vanya-and-sonia
+ -and-masha-and-spike/
+URL:https://phillygaycalendar.com/events/vanya-and-sonia-and-masha-and-spik
+ e/
+CATEGORIES:Arts & Theater,Comedy,Sober
+END:VEVENT
+BEGIN:VEVENT
+UID:bd10ef66406b71b5d49d0d530b891e17cec4eb81@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261030T210000
+DTEND;TZID=America/New_York:20261031T020000
+SUMMARY:SUPERNATURAL DANCE PARTY
+LOCATION:Underground Arts\, 1200 Callowhill St\, Philadelphia\, PA 19107
+DESCRIPTION:2 PARTIES. 2 ROOMS. 1 TICKET. THE CRYPT in the Main Room Inspir
+ ed by your favorite vampire shows & movies. Sink your teeth into dance-pop
+  hits with DJ Riot Meg spinning all night long. THE COVEN in the Black Box
+ …\nTags: Dance Party\, Halloween\, Lesbian\nTickets/info: https://www.ti
+ xr.com/groups/undergroundarts/events/underground-arts-supernatural-dance-p
+ arty-203023\nhttps://phillygaycalendar.com/events/supernatural-dance-party
+ /
+URL:https://phillygaycalendar.com/events/supernatural-dance-party/
+CATEGORIES:Dance Party,Halloween,Lesbian
+END:VEVENT
+BEGIN:VEVENT
+UID:f151071ba2eede887d664b612d9e65ddd3f9627c@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261031T094000
+DTEND;TZID=America/New_York:20261031T104000
+SUMMARY:Philadelphia Front Runners
+LOCATION:Lloyd Hall Recreation Center\, 1 Boathouse Row\, Philadelphia\, PA
+  19130
+DESCRIPTION:Philadelphia Front Runners is a Philadelphia-based running/walk
+ ing club for all LGBTQIA+ athletes & allies of all paces founded in 1983. 
+ Join us every Saturday Morning at 9:40 am at Lloyd Hall Recreation Center.
+  This run/walk is on the Schuylkill River…\nTags: Sports\, Sober\nTicket
+ s/info: https://www.strava.com/clubs/philadelphia-frontrunners-290917/\nht
+ tps://phillygaycalendar.com/events/philadelphia-front-runners/
+URL:https://phillygaycalendar.com/events/philadelphia-front-runners/
+CATEGORIES:Sports,Sober
+END:VEVENT
+BEGIN:VEVENT
+UID:bac1de775d780a043fd2834ca1070255b49d7060@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261031T120000
+DTEND;TZID=America/New_York:20261031T150000
+SUMMARY:SADBrunch Presents: HallowQueen Drag Brunch
+LOCATION:City Winery Philadelphia\, 990 Filbert St\, Philadelphia\, PA 1910
+ 7\, USA
+DESCRIPTION:SADBrunch brings a Halloween drag brunch to the Loft at City Wi
+ nery\, with a cast of Philadelphia drag performers and a costume contest.D
+ oors open at 11 AM\, show at noon. Come in costume.\nTags: Brunch\, Drag\,
+  Halloween\, Performance\nTickets/info: https://eventvesta.com/events/1646
+ 94/t/tickets\nhttps://phillygaycalendar.com/events/sadbrunch-presents-hall
+ owqueen-drag-brunch/
+URL:https://phillygaycalendar.com/events/sadbrunch-presents-hallowqueen-dra
+ g-brunch/
+CATEGORIES:Brunch,Drag,Halloween,Performance
+END:VEVENT
+BEGIN:VEVENT
+UID:d5cb0ba7d03320359c15b9d0ae5020c0dd77bc36@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261031T120000
+DTEND;TZID=America/New_York:20261031T140000
+SUMMARY:Big Wig Halloween Brunch: The Ultimate Drag Experience
+LOCATION:Punch Line Philadelphia\, 33 West Laurel Street\, Philadelphia\, P
+ A\, USA
+DESCRIPTION:The Halloween edition of Big Wig Brunch at Punch Line Philly\, 
+ with performances from local queens over brunch.Doors and seating before t
+ he noon show. 18+. This is the Halloween-day date\; the series also runs O
+ ctober 24.\nTags: Brunch\, Drag\, Halloween\, Performance\nhttps://phillyg
+ aycalendar.com/events/big-wig-halloween-brunch-the-ultimate-drag-experienc
+ e-2/
+URL:https://phillygaycalendar.com/events/big-wig-halloween-brunch-the-ultim
+ ate-drag-experience-2/
+CATEGORIES:Brunch,Drag,Halloween,Performance
+END:VEVENT
+BEGIN:VEVENT
+UID:226b55f50189d19592d2d036098c5afb55c857fb@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261031T120000
+DTEND;TZID=America/New_York:20261031T150000
+SUMMARY:Rocky Horror Tribute Show
+LOCATION:Fabrika\, 1108 Frankford Ave\, Philadelphia\, PA 19125\, USA
+DESCRIPTION:Fabrika's immersive Rocky Horror returns for a third year\, and
+  this run is dedicated to Tim Curry. This is not a screening with a shadow
+  cast. It is a full production: drag\, burlesque\, aerial work\, fire perf
+ ormance\, dancing\, and a…\nTags: Burlesque\, Drag\, Halloween\, Perform
+ ance\nTickets/info: https://fabrikaphilly.com\nhttps://phillygaycalendar.c
+ om/events/rocky-horror-tribute-show-2/
+URL:https://phillygaycalendar.com/events/rocky-horror-tribute-show-2/
+CATEGORIES:Burlesque,Drag,Halloween,Performance
+END:VEVENT
+BEGIN:VEVENT
+UID:57a25c1d453cbf4dd1e621b082ae9d6067e97e42@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261031T180000
+DTEND;TZID=America/New_York:20261031T220000
+SUMMARY:Let’s Get SPOOKY! Kiki Ball Part 2
+LOCATION:The Rotunda\, 4014 Walnut Street\, Philadelphia\, PA
+DESCRIPTION:With: DJ Delish\, Legendary Godfather Wally Versace X\, Legenda
+ ry Jahad Versace\, Legendary Rylee 007\nJoin the Spooktacular Festivities!
+  Calling all ghouls\, goblins\, and lovers of all things fabulous! The Kik
+ i Ball is back with its second installment\, and it’s time to unleash yo
+ ur inner creature of the night at the Let’s Get SPOOKY! Kiki…\nTags: D
+ rag\, Halloween\nTickets/info: https://www.instagram.com/p/Der6Tz7RkqD/\nh
+ ttps://phillygaycalendar.com/events/lets-get-spooky-kiki-ball-part-2/
+URL:https://phillygaycalendar.com/events/lets-get-spooky-kiki-ball-part-2/
+CATEGORIES:Drag,Halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:e3d5b70de9610fbbcfd0f4a5652ad8e4651c0a43@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261031T193000
+DTEND;TZID=America/New_York:20261031T213000
+SUMMARY:Vanya and Sonia and Masha and Spike
+LOCATION:Players Club of Swarthmore\, 614 Fairview Road\, Swarthmore\, PA
+DESCRIPTION:Family reunions are complicated enough without a fading movie s
+ tar\, her much younger boyfriend\, and a housekeeper who deals in prophecy
+ . PCS Theater opens a limited Main Stage engagement of Christopher Durang'
+ s Tony Award-winning comedy in Swarthmore\, running October 30…\nTags: A
+ rts & Theater\, Comedy\, Sober\nTickets/info: https://ci.ovationtix.com/11
+ 7/production/1273307\nhttps://phillygaycalendar.com/events/vanya-and-sonia
+ -and-masha-and-spike/
+URL:https://phillygaycalendar.com/events/vanya-and-sonia-and-masha-and-spik
+ e/
+CATEGORIES:Arts & Theater,Comedy,Sober
+END:VEVENT
+BEGIN:VEVENT
+UID:444926a96d2ff4225b8b411d190a6ba22a3fd12a@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261031T210000
+DTEND;TZID=America/New_York:20261101T020000
+SUMMARY:Sip City Sapphic UHaul-o-ween
+LOCATION:Rosy's East//Segundo Piso\, 624 S 6th St\, Philadelphia\, PA 19147
+DESCRIPTION:Sip City takes over Rosy's East for a sapphic Halloween party a
+ cross two floors.Dancing all night\, drink specials\, a photo booth and do
+ or prizes. Costumes are the point. Open to sapphics and friends.Doors at 9
+  PM\, running until 2 AM.\nTags: Dance Party\, Halloween\, Lesbian\nTicket
+ s/info: https://www.sickening.events/e/sipcitysapphicuhauloween\nhttps://p
+ hillygaycalendar.com/events/sip-city-sapphic-uhaul-o-ween/
+URL:https://phillygaycalendar.com/events/sip-city-sapphic-uhaul-o-ween/
+CATEGORIES:Dance Party,Halloween,Lesbian
+END:VEVENT
+BEGIN:VEVENT
+UID:cf6bb9e9afa1a3842aca22ffe754c3997bfee41a@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261031T210000
+DTEND;TZID=America/New_York:20261101T023000
+SUMMARY:Hell In Paradise
+LOCATION:Paradise\, 101 Asbury Avenue\, Asbury Park\, NJ\, USA
+DESCRIPTION:With: Freeda Kulo\, Vanity LaVain\nGet ready for the ULTIMATE H
+ alloween party at Paradise on Saturday\, October 31st\, from 9PM til close
+ ! Dance the night away with beats by DJ Mikey Mo and DJ Hound Circus acros
+ s two dance floors\, and plenty of Halloween madness…\nTags: Dance Party
+ \, Halloween\nTickets/info: https://www.paradisenj.com\nhttps://phillygayc
+ alendar.com/events/hell-in-paradise/
+URL:https://phillygaycalendar.com/events/hell-in-paradise/
+CATEGORIES:Dance Party,Halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:af219e45bd837d68cfa6789d33c3c3f97694d252@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261031T210000
+DTEND;TZID=America/New_York:20261031T230000
+SUMMARY:THE WITCHING HOUR
+LOCATION:254\, 254\, South 12th Street\, Philadelphia\, PA
+DESCRIPTION:With: Athena Chanteuse\, Calliope\nSpooktacular Dance Party Awa
+ itsYour Halloween plans have been taken care of with the most extra specia
+ l dance party this October! Get ready for THE WITCHING HOUR at 254\, broug
+ ht to you by the fabulous Goddesses. This isn't just any night\;…\nTags:
+  Drag\, Halloween\nTickets/info: https://www.instagram.com/p/DesDihTPK6P/\
+ nhttps://phillygaycalendar.com/events/the-witching-hour/
+URL:https://phillygaycalendar.com/events/the-witching-hour/
+CATEGORIES:Drag,Halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:240804aed92358b2881886c7b1a66975ecbb4f7e@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261031T210000
+DTEND;TZID=America/New_York:20261101T020000
+SUMMARY:Nightmare on Sway Street: The Sway Halloween Bash
+LOCATION:World Cafe Live\, 3025 Walnut St\, Philadelphia\, PA 19104
+DESCRIPTION:Sway Philly's Halloween party is back and bigger than ever\, mo
+ ving up to the World Stage at World Cafe Live. Sway is a party by and for 
+ Black and brown LGBT+ folks\, and last year's Halloween bash sold out. Com
+ e…\nTags: Dance Party\, Halloween\, Lesbian\, People of Color\nTickets/i
+ nfo: https://www.eventbrite.com/e/nightmare-on-sway-street-the-sway-hallow
+ een-bash-tickets-2003177615171\nhttps://phillygaycalendar.com/events/night
+ mare-on-sway-street-the-sway-halloween-bash/
+URL:https://phillygaycalendar.com/events/nightmare-on-sway-street-the-sway-
+ halloween-bash/
+CATEGORIES:Dance Party,Halloween,Lesbian,People of Color
+END:VEVENT
+BEGIN:VEVENT
+UID:6855e69630de7800a20569a797af7a78f145cfcf@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261031T210000
+DTEND;TZID=America/New_York:20261101T013000
+SUMMARY:The 5th Annual 80’s + 90’s Halloween Dance Party
+LOCATION:MilkBoy\, 1100 Chestnut St\, Philadelphia\, PA 19107\, USA
+DESCRIPTION:DJ’s Riot Meg and Jawn Cena spinning 80’s + 90’s p with H
+ alloween tunes mixed in! Costume contest with prizes! Free themed photo-bo
+ oth until 9:30pm! Themed decor\, drink specials and visuals!\nTags: Dance 
+ Party\, Halloween\, Lesbian\nTickets/info: https://www.tixr.com/groups/mil
+ kboy/events/the-5th-annual-80-s-90-s-halloween-dance-party-204051\nhttps:/
+ /phillygaycalendar.com/events/the-5th-annual-80s-90s-halloween-dance-party
+ /
+URL:https://phillygaycalendar.com/events/the-5th-annual-80s-90s-halloween-d
+ ance-party/
+CATEGORIES:Dance Party,Halloween,Lesbian
+END:VEVENT
+BEGIN:VEVENT
+UID:982b18c6d0a9cfd46441b7e0e15e0f85acb5ee08@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261031T210000
+DTEND;TZID=America/New_York:20261101T000000
+SUMMARY:MASQUERADE TASTING
+DESCRIPTION:A members-only tasting lounge for women who love women - where 
+ you sample the bottle before you commit to it. Quiet\, curated\, not for e
+ veryone.\nTags: Dance Party\, Halloween\, Lesbian\nTickets/info: https://w
+ ww.eventbrite.com/e/2000505117659?aff=oddtdtcreator\nhttps://phillygaycale
+ ndar.com/events/masquerade-tasting/
+URL:https://phillygaycalendar.com/events/masquerade-tasting/
+CATEGORIES:Dance Party,Halloween,Lesbian
+END:VEVENT
+BEGIN:VEVENT
+UID:11aff556dae915ed468a16248c9a7af13637d54d@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261031T220000
+DTEND;TZID=America/New_York:20261101T000000
+SUMMARY:Knock’s Halloween Costume Contest 🎃
+LOCATION:Knock Restaurant and Bar\, 225 S 12th St\, Philadelphia\, PA 19107
+ \, USA
+DESCRIPTION:With: Iris Spectre\n🎃 **Halloween Costume Contest at Knock!*
+ * Join us Saturday\, October 31\, for a spooktacular Halloween celebration
+  at Knock Restaurant & Bar in Philadelphia's Gayborhood! Hosted by the fab
+ ulous **Iris Spectre**\, our Halloween Costume Contest begins at **11 PM**
+ \, with contestants…\nTags: Drag\, Halloween\nhttps://phillygaycalendar.
+ com/events/knocks-halloween-costume-contest-%f0%9f%8e%83/
+URL:https://phillygaycalendar.com/events/knocks-halloween-costume-contest-%
+ f0%9f%8e%83/
+CATEGORIES:Drag,Halloween
+END:VEVENT
+BEGIN:VEVENT
+UID:bec1bd9df6f269a84dfd1d4b84a81c2190d80ff5@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261101T120000
+DTEND;TZID=America/New_York:20261101T150000
+SUMMARY:RuPaul’s Takeover Brunch: Mhi’ya Iman Le’Paige & Eureka O’H
+ ara
+LOCATION:Fabrika\, 1108 Frankford Ave\, Philadelphia\, PA 19125\, USA
+DESCRIPTION:With: Eureka O'Hara\, Mhi'ya Iman Le'Paige\nDrag Race alums Mhi
+ 'ya Iman Le'Paige and Eureka O'Hara take over the Fabrika drag brunch.Seat
+ ing from 1 PM in Fishtown.\nTags: Brunch\, Celebrity\, Drag\, Performance\
+ nTickets/info: https://www.eventbrite.com/e/rupauls-takeover-brunch-mhiya-
+ iman-lepaige-eureka-ohara-tickets-2002750573879\nhttps://phillygaycalendar
+ .com/events/rupauls-takeover-brunch-mhiya-iman-lepaige-eureka-ohara/
+URL:https://phillygaycalendar.com/events/rupauls-takeover-brunch-mhiya-iman
+ -lepaige-eureka-ohara/
+CATEGORIES:Brunch,Celebrity,Drag,Performance
+END:VEVENT
+BEGIN:VEVENT
+UID:fb52e10ae16d81d04c9b886f84092eebea4538a6@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261101T130000
+DTEND;TZID=America/New_York:20261101T150000
+SUMMARY:Vanya and Sonia and Masha and Spike
+LOCATION:Players Club of Swarthmore\, 614 Fairview Road\, Swarthmore\, PA
+DESCRIPTION:Family reunions are complicated enough without a fading movie s
+ tar\, her much younger boyfriend\, and a housekeeper who deals in prophecy
+ . PCS Theater opens a limited Main Stage engagement of Christopher Durang'
+ s Tony Award-winning comedy in Swarthmore\, running October 30…\nTags: A
+ rts & Theater\, Comedy\, Sober\nTickets/info: https://ci.ovationtix.com/11
+ 7/production/1273307\nhttps://phillygaycalendar.com/events/vanya-and-sonia
+ -and-masha-and-spike/
+URL:https://phillygaycalendar.com/events/vanya-and-sonia-and-masha-and-spik
+ e/
+CATEGORIES:Arts & Theater,Comedy,Sober
+END:VEVENT
+BEGIN:VEVENT
+UID:a72e8e354d2315e8706c6150bb3e2cdbb8ecf509@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261101T140000
+DTEND;TZID=America/New_York:20261101T183000
+SUMMARY:PHILLY LEATHER PRIDE 2026: CHOSEN FAMILY
+LOCATION:Rodeph Shalom\, 615 N Broad St\, Philadelphia\, PA 19123\, USA
+DESCRIPTION:With: Andra Lamour\nJoin us for Philly Leather Pride 2026\, a c
+ elebration of Philadelphia’s leather\, LGBTQ+\, kink\, and chosen family
+  communities. This year’s theme\, “Chosen Family: Honoring Our Legacy.
+  Building Our Future\,” celebrates the people and communities who came b
+ efore us while looking…\nTags: Bears\, Drag\, Fundraiser\, Leather\nTick
+ ets/info: https://www.eventbee.com/v/philly-leather-pride-night-2026/event
+ ?eid=289026315&fbclid=IwY2xjawUZFXlwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMGlDbmpBNH
+ MyNjdQbllpdDdzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEefvnmwYrgqLHiTn-P4cmt
+ NK-Jr5l6nKlHMIrk65VzguwfHAt5AaSAj2nYZBs_aem_yGpdtfRU0goA5ItSBzcfTw#/ticket
+ s\nhttps://phillygaycalendar.com/events/philly-leather-pride-2026-chosen-f
+ amily/
+URL:https://phillygaycalendar.com/events/philly-leather-pride-2026-chosen-f
+ amily/
+CATEGORIES:Bears,Drag,Fundraiser,Leather
+END:VEVENT
+BEGIN:VEVENT
+UID:5adc4483418ca62dd6e454b62fb6cbdf7deb2609@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261101T160000
+DTEND;TZID=America/New_York:20261101T210000
+SUMMARY:Boyz of Philly
+LOCATION:Stir Lounge\, 1705 Chancellor Street\, Philadelphia\, PA 19103\, U
+ SA
+DESCRIPTION:Philly's sexiest men are dancing at Stir in Rittenhouse on Sund
+ ays starting at 5pm for Happy Hour.\nTags: Dance Party\, Happy Hour\nhttps
+ ://phillygaycalendar.com/events/boyz-of-philly/
+URL:https://phillygaycalendar.com/events/boyz-of-philly/
+CATEGORIES:Dance Party,Happy Hour
+END:VEVENT
+BEGIN:VEVENT
+UID:4148d1131fe944b2de6a64bfaf8a6dae4d1c7694@phillygaycalendar.com
+DTSTAMP:20261027T173345Z
+DTSTART;TZID=America/New_York:20261103T190000
+DTEND;TZID=America/New_York:20261103T225500
+SUMMARY:Club Papi Chulo
+LOCATION:Bar X\, 255 S Camac St\, Philadelphia\, PA 19107\, USA
+DESCRIPTION:Latin night at Bar X1st and 3rd Tuesday of the MonthAya Papi Ch
+ ulo contest at midnight plus hot Latin go go dancers.\nTags: Dance Party\,
+  People of Color\nhttps://phillygaycalendar.com/events/club-papi-chulo/
+URL:https://phillygaycalendar.com/events/club-papi-chulo/
+CATEGORIES:Dance Party,People of Color
+END:VEVENT
+END:VCALENDAR
