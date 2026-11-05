@@ -77,6 +77,26 @@ def scan(page_url, text, feeds, platforms):
     return [urllib.parse.urljoin(page_url, html.unescape(s)) for s in IFRAME_SRC.findall(text)]
 
 
+TEC_MARK = re.compile(r"tribe-events|the-events-calendar|tribe_events", re.I)
+
+
+def probe_known_plugins(page_url, text, feeds):
+    """Some calendar plugins publish a feed at a conventional URL that never appears
+    in the page source. The Events Calendar (WordPress) answers at <page>?ical=1."""
+    if TEC_MARK.search(text):
+        base = page_url.split("?")[0].split("#")[0]
+        root = "{0.scheme}://{0.netloc}".format(urllib.parse.urlsplit(base))
+        for cand in (base + "?ical=1", root + "/events/?ical=1"):
+            try:
+                req = urllib.request.Request(cand, headers={"User-Agent": UA})
+                with urllib.request.urlopen(req, timeout=20) as r:
+                    if "text/calendar" in (r.headers.get("Content-Type") or ""):
+                        feeds.setdefault(cand, "The Events Calendar export")
+                        break
+            except Exception:
+                pass
+
+
 def check(feed):
     """Return the number of events in a feed, or None if it can't be read."""
     try:
@@ -95,7 +115,9 @@ def main(argv):
         print(f"\n=== {url}")
         feeds, platforms = {}, {}
         try:
-            iframes = scan(url, fetch(url), feeds, platforms)
+            text = fetch(url)
+            iframes = scan(url, text, feeds, platforms)
+            probe_known_plugins(url, text, feeds)
         except Exception as e:
             print(f"  could not load page: {e}")
             continue
