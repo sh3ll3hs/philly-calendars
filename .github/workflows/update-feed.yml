@@ -23,6 +23,9 @@ jobs:
       - name: Build CreativePHL feed
         continue-on-error: true
         run: python3 creativephl_to_ics.py --out docs/creativephl.ics
+      - name: Build WKDU Philly Haps feed
+        continue-on-error: true
+        run: python3 wkdu_to_ics.py --out docs/wkdu.ics --venues docs/wkdu_venues.json
       - name: Commit if changed
         run: |
           git config user.name  "feed-bot"
