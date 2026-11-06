@@ -912,7 +912,7 @@
   "id": 44668,
   "performers": "",
   "start": "2026-11-06T19:00:00",
-  "ticket": "https://www.eventbrite.com/e/5-fridays-tickets-2002903984735",
+  "ticket": "https://www.eventbrite.com/e/5-fridays-tickets-2004172880035?aff=erelpanelorg",
   "time": "2:00 PM \u2013 4:30 PM",
   "title": "$5 Fridays at Franky Bradley\u2019s",
   "url": "https://phillygaycalendar.com/events/5-fridays-at-franky-bradleys/",
@@ -932,7 +932,7 @@
   "id": 44668,
   "performers": "",
   "start": "2026-11-13T19:00:00",
-  "ticket": "https://www.eventbrite.com/e/5-fridays-tickets-2002903984735",
+  "ticket": "https://www.eventbrite.com/e/5-fridays-tickets-2004172880035?aff=erelpanelorg",
   "time": "2:00 PM \u2013 4:30 PM",
   "title": "$5 Fridays at Franky Bradley\u2019s",
   "url": "https://phillygaycalendar.com/events/5-fridays-at-franky-bradleys/",
@@ -1655,5 +1655,104 @@
   "title": "Laugh It Off: Stand Up Comedy & Burlesque",
   "url": "https://phillygaycalendar.com/events/laugh-it-off-stand-up-comedy-burlesque/",
   "venue": "CLUB 624"
+ },
+ "45986-2026-11-07": {
+  "address": "Martin Luther King Jr Dr & Benjamin Franklin Pkwy, Philadelphia, PA 19130, USA",
+  "all_day": false,
+  "cats": [
+   "Outdoor",
+   "Sober",
+   "Sports"
+  ],
+  "date": "2026-11-07",
+  "desc": "Have you never skated before? Own a board but too scared to start using it? Just need a little support? Come to Paine's Park. We all bought a board at one point to impress the ladies (or gents, or other)\u2026",
+  "end": "2026-11-07T11:00:00",
+  "id": 45986,
+  "performers": "",
+  "start": "2026-11-07T09:00:00",
+  "ticket": "https://www.eventbrite.com/e/beginner-skate-lesson-paines-park-tickets-2003407068472?aff=oddtdtcreator",
+  "time": "4:00 AM \u2013 6:00 AM",
+  "title": "Beginner Skate Lesson",
+  "url": "https://phillygaycalendar.com/events/beginner-skate-lesson/",
+  "venue": "Paine's Park"
+ },
+ "45992-2026-11-13": {
+  "address": "1705 Chancellor Street, Philadelphia, PA 19103, USA",
+  "all_day": false,
+  "cats": [
+   "Christmas",
+   "Dance Party",
+   "Drag"
+  ],
+  "date": "2026-11-13",
+  "desc": "Tis the Damn Season to go out to the bar, meet new friends, see old friends, maybe kiss someone under the disco ball\ud83d\ude0f Let\u2019s kick off the holiday season right, come out to Stir for a Taylor Swift dance party.\u2026",
+  "end": "2026-11-13T23:45:00",
+  "id": 45992,
+  "performers": "Athena Chanteuse",
+  "start": "2026-11-13T20:00:00",
+  "ticket": "https://partiful.com/e/NaGjbQupfHuuS2EG07MR?c=QeybTRjY",
+  "time": "3:00 PM \u2013 6:45 PM",
+  "title": "Tis the Damn Season",
+  "url": "https://phillygaycalendar.com/events/tis-the-damn-season/",
+  "venue": "Stir Lounge"
+ },
+ "45997-2026-11-08": {
+  "address": "1108 Frankford Ave, Philadelphia, PA 19125, USA",
+  "all_day": false,
+  "cats": [
+   "Brunch",
+   "Drag"
+  ],
+  "date": "2026-11-08",
+  "desc": "Drag Brunch at Fabrika, every Sunday in Fishtown. Brunch starts at 12:00 PM and the show begins at 1:00 PM: iconic queens, rotating guest performers and RuPaul's Drag Race alumni on Fabrika's 360\u00b0 hydraulic stage, with a full brunch menu\u2026",
+  "end": "2026-11-08T15:45:00",
+  "id": 45997,
+  "performers": "",
+  "start": "2026-11-08T12:00:00",
+  "ticket": "https://fabrikaphilly.com/events/drag-brunch-sunday?utm_source=phillygaycalendar&utm_medium=calendar&utm_campaign=drag-brunch",
+  "time": "7:00 AM \u2013 10:45 AM",
+  "title": "Drag Brunch at Fabrika",
+  "url": "https://phillygaycalendar.com/events/drag-brunch-at-fabrika-2/",
+  "venue": "Fabrika"
+ },
+ "45999-2026-11-13": {
+  "address": "1108 Frankford Ave, Philadelphia, PA 19125, USA",
+  "all_day": false,
+  "cats": [
+   "Burlesque",
+   "Dinner"
+  ],
+  "date": "2026-11-13",
+  "desc": "TEASE returns to Fabrika in Fishtown for its fifth installment: an evening of burlesque in an intimate cabaret setting, with dinner and cocktails. Hosted by Bear Trap, featuring Elle Dorado, Aquarius Moon, Lady Morango, Adrienne, Nirvana Noire and Wet Betty.\u2026",
+  "end": "2026-11-13T21:00:00",
+  "id": 45999,
+  "performers": "Adrienne, Aquarius Moon, Bear Trap, Elle Dorado, Lady Morango, Nirvana Noire",
+  "start": "2026-11-13T17:00:00",
+  "ticket": "https://fabrikaphilly.com/events/tease-vol-5?utm_source=phillygaycalendar&utm_medium=calendar&utm_campaign=tease-vol-5",
+  "time": "12:00 PM \u2013 4:00 PM",
+  "title": "TEASE Vol. 5: Glamour, Seduction & Burlesque",
+  "url": "https://phillygaycalendar.com/events/tease-vol-5-glamour-seduction-burlesque/",
+  "venue": "Fabrika"
+ },
+ "46031-2026-11-11": {
+  "address": "1123 S Broad St, Philadelphia, PA 19147, USA",
+  "all_day": false,
+  "cats": [
+   "Arts & Theater",
+   "Bears",
+   "Comedy",
+   "Leather"
+  ],
+  "date": "2026-11-11",
+  "desc": "Hosted by Mike Centanni, Say Gay is a showcase of some of the world\u2019s funniest queer comics at Claude\u2019s Comedy Club in South Philly! October 14 at 8PM at Claude\u2019s Comedy Club & Bar. Full bar and NO DRINK MINIMUM!\u2026",
+  "end": "2026-11-11T22:00:00",
+  "id": 46031,
+  "performers": "Bev, Mike Centanni",
+  "start": "2026-11-11T20:00:00",
+  "ticket": "https://tickets.claudescomedy.com/e/say-gay-2026-11-11-claude-s-comedy-club-bar-philadelphia-c93bee",
+  "time": "3:00 PM \u2013 5:00 PM",
+  "title": "Say Gay \u2013 A Queer Standup Comedy Night",
+  "url": "https://phillygaycalendar.com/events/say-gay-a-queer-standup-comedy-night/",
+  "venue": "Claude's Comedy Club"
  }
 }
