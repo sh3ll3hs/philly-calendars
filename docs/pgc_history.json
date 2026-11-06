@@ -918,6 +918,26 @@
   "url": "https://phillygaycalendar.com/events/5-fridays-at-franky-bradleys/",
   "venue": "Franky Bradley's"
  },
+ "44668-2026-11-13": {
+  "address": "1320 Chancellor St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Dance Party",
+   "Happy Hour",
+   "Performance"
+  ],
+  "date": "2026-11-13",
+  "desc": "The weekly $5 Friday night at Franky Bradley's.7 PM every Friday. Listed here through the end of December.",
+  "end": "2026-11-13T21:30:00",
+  "id": 44668,
+  "performers": "",
+  "start": "2026-11-13T19:00:00",
+  "ticket": "https://www.eventbrite.com/e/5-fridays-tickets-2002903984735",
+  "time": "2:00 PM \u2013 4:30 PM",
+  "title": "$5 Fridays at Franky Bradley\u2019s",
+  "url": "https://phillygaycalendar.com/events/5-fridays-at-franky-bradleys/",
+  "venue": "Franky Bradley's"
+ },
  "44669-2026-10-28": {
   "address": "254, South 12th Street, Philadelphia, PA",
   "all_day": false,
@@ -1553,6 +1573,27 @@
   "url": "https://phillygaycalendar.com/events/josie-the-pussycats/",
   "venue": "Franky Bradley's"
  },
+ "45242-2026-11-13": {
+  "address": "129 S State Rd, Upper Darby Township, PA 19082, USA",
+  "all_day": false,
+  "cats": [
+   "Burlesque",
+   "Comedy",
+   "Drag",
+   "Family"
+  ],
+  "date": "2026-11-13",
+  "desc": "Come party with Brittany Lynn and the dolls of the Philly Drag Mafia at Mickey\u2019s Tavern, Delco\u2019s most LGBTQIA+ friendly space! Hosted by Brittany Lynn with performances by Morgan Wells, Billy Cavallo, and Turnpyke! Music by Dj Da Boo Boo\u2026",
+  "end": "2026-11-13T22:00:00",
+  "id": 45242,
+  "performers": "Billy Cavallo, Brittany Lynn, DJ BooBoo, Morgan Wells, Turnpyke",
+  "start": "2026-11-13T20:00:00",
+  "ticket": "https://phillydragmafia.com/event/drag-me-to-delco/",
+  "time": "3:00 PM \u2013 5:00 PM",
+  "title": "Drag Me To Delco",
+  "url": "https://phillygaycalendar.com/events/drag-me-to-delco/",
+  "venue": "Mickey's Tavern"
+ },
  "45420-2026-11-04": {
   "address": "4014 Walnut Street, Philadelphia, PA",
   "all_day": false,
@@ -1593,5 +1634,26 @@
   "title": "Examining the Legacy of William \u201cBill\u201d Way (1942-1988)",
   "url": "https://phillygaycalendar.com/events/examining-the-legacy-of-william-bill-way-1942-1988/",
   "venue": "Church of St Luke and the Epiphany"
+ },
+ "45958-2026-11-13": {
+  "address": "Above Rosie's Tacos, 624 S 6th Street",
+  "all_day": false,
+  "cats": [
+   "Arts & Theater",
+   "Burlesque",
+   "Celebrity",
+   "Comedy"
+  ],
+  "date": "2026-11-13",
+  "desc": "HoneyReno productions presents a night of tee hees and ta tas featuring comedians James Knight & Alex Pearlman HoneyReno productions presents a night of stand up and stripping down, with comedy sets by nationally renowned comedians Alex Pearlman (aka Pearlmania500,\u2026",
+  "end": "2026-11-13T22:00:00",
+  "id": 45958,
+  "performers": "Alex Pearlman, HoneyTree EvilEye, James Knight, Victoria Reno",
+  "start": "2026-11-13T19:00:00",
+  "ticket": "https://www.eventbrite.com/e/laugh-it-off-stand-up-comedy-burlesque-tickets-1998072086397?aff=oddtdtcreator",
+  "time": "2:00 PM \u2013 5:00 PM",
+  "title": "Laugh It Off: Stand Up Comedy & Burlesque",
+  "url": "https://phillygaycalendar.com/events/laugh-it-off-stand-up-comedy-burlesque/",
+  "venue": "CLUB 624"
  }
 }
