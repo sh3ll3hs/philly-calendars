@@ -37,6 +37,25 @@
   "url": "https://phillygaycalendar.com/events/philadelphia-front-runners/",
   "venue": "Lloyd Hall Recreation Center"
  },
+ "30290-2026-11-14": {
+  "address": "1 Boathouse Row, Philadelphia, PA 19130",
+  "all_day": false,
+  "cats": [
+   "Sports",
+   "Sober"
+  ],
+  "date": "2026-11-14",
+  "desc": "Philadelphia Front Runners is a Philadelphia-based running/walking club for all LGBTQIA+ athletes & allies of all paces founded in 1983. Join us every Saturday Morning at 9:40 am at Lloyd Hall Recreation Center. This run/walk is on the Schuylkill River\u2026",
+  "end": "2026-11-14T10:40:00",
+  "id": 30290,
+  "performers": "",
+  "start": "2026-11-14T09:40:00",
+  "ticket": "https://www.strava.com/clubs/philadelphia-frontrunners-290917/",
+  "time": "4:40 AM \u2013 5:40 AM",
+  "title": "Philadelphia Front Runners",
+  "url": "https://phillygaycalendar.com/events/philadelphia-front-runners/",
+  "venue": "Lloyd Hall Recreation Center"
+ },
  "32685-2026-11-03": {
   "address": "255 S Camac St, Philadelphia, PA 19107, USA",
   "all_day": false,
@@ -155,6 +174,27 @@
   "title": "MASQUERADE TASTING",
   "url": "https://phillygaycalendar.com/events/masquerade-tasting/",
   "venue": ""
+ },
+ "43769-2026-11-14": {
+  "address": "725 S 10th St, Philadelphia, PA 19147, USA",
+  "all_day": false,
+  "cats": [
+   "Fundraiser",
+   "Sober",
+   "Sports",
+   "Trans"
+  ],
+  "date": "2026-11-14",
+  "desc": "Welcome to Kicking Out Transphobia Philadelphia 2026 \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\u26bd\ud83e\udd4e This November, during Trans Awareness Week, we\u2019re bringing our community together for the 7th. Annual Kicking Out Transphobia Tournament \u2014 a grassroots celebration where sports, community, and activism come together to kick\u2026",
+  "end": "2026-11-14T23:00:00",
+  "id": 43769,
+  "performers": "",
+  "start": "2026-11-14T21:00:00",
+  "ticket": "https://www.zeffy.com/en-US/ticketing/kicking-out-transphobia-philadelphia--2026",
+  "time": "4:00 PM",
+  "title": "Kicking Out Transphobia Kickball Tournament",
+  "url": "https://phillygaycalendar.com/events/kicking-out-transphobia-kickball-tournament-3/",
+  "venue": "Palumbo Recreation Center"
  },
  "43803-2026-10-28": {
   "address": "1320 Chancellor St, Philadelphia, PA 19107, USA",
@@ -594,6 +634,25 @@
   "url": "https://phillygaycalendar.com/events/get-you-a-babe-who-can-do-both-sex-death/",
   "venue": "Prism Arts"
  },
+ "44573-2026-11-14": {
+  "address": "1440 Wallingford Rd #250, Springfield, PA 19064, USA",
+  "all_day": false,
+  "cats": [
+   "Sober",
+   "Sports"
+  ],
+  "date": "2026-11-14",
+  "desc": "Home-team Double Header! West Philly Warriors vs. Passyunk Punks Germantown Cannons vs. North Philly Knockouts Come cheer for your team! Come cheer for all the teams! Have beers and learn about flat track roller derby with a league who's A\u2026",
+  "end": "2026-11-14T17:00:00",
+  "id": 44573,
+  "performers": "",
+  "start": "2026-11-14T13:00:00",
+  "ticket": "https://phillyrollerderby.com/tickets/",
+  "time": "8:00 AM \u2013 12:00 PM",
+  "title": "Philly Roller Derby!",
+  "url": "https://phillygaycalendar.com/events/philly-roller-derby/",
+  "venue": "Hockey Dek"
+ },
  "44589-2026-10-30": {
   "address": "614 Fairview Road, Swarthmore, PA",
   "all_day": false,
@@ -1018,6 +1077,24 @@
   "url": "https://phillygaycalendar.com/events/mystery-movie-at-tattooed-mom/",
   "venue": "Tattooed Mom"
  },
+ "44725-2026-11-14": {
+  "address": "923 N. Watts St. Philadelphia, PA 19123",
+  "all_day": false,
+  "cats": [
+   "Dance Party"
+  ],
+  "date": "2026-11-14",
+  "desc": "Join Porkroll on Saturday, November 14th as we return to one of our favorite spots, the freshly upgraded Cambridge Hall downstairs at Warehouse at Watts. This month, we welcome Janky from Chicago\u2013known for bringing his infectious energy to some of\u2026",
+  "end": "2026-11-15T02:00:00",
+  "id": 44725,
+  "performers": "Janky, Redevil",
+  "start": "2026-11-14T21:00:00",
+  "ticket": "https://www.porkroll.party",
+  "time": "4:00 PM \u2013 9:00 PM",
+  "title": "Porkroll PHL",
+  "url": "https://phillygaycalendar.com/events/porkroll-phl/",
+  "venue": "Warehouse on Watts"
+ },
  "44732-2026-10-31": {
   "address": "3025 Walnut St, Philadelphia, PA 19104",
   "all_day": false,
@@ -1439,6 +1516,26 @@
   "url": "https://phillygaycalendar.com/events/eagles-watch-party-2/",
   "venue": "Two Locals Brewing Co"
  },
+ "45177-2026-11-14": {
+  "address": "615 N. Broad St, Philadelphia, PA 19123",
+  "all_day": false,
+  "cats": [
+   "Comedy",
+   "Drag",
+   "Fundraiser"
+  ],
+  "date": "2026-11-14",
+  "desc": "Don't be a drag, just be a queen! \ud83d\udc83 We're celebrating Lady Gaga with a ball for her Little Monsters, and you\u2019re invited! Join us on November 14th for Monsters and Mayhem GayBINGO! Tickets are $50 online and available until\u2026",
+  "end": "2026-11-14T22:00:00",
+  "id": 45177,
+  "performers": "",
+  "start": "2026-11-14T19:00:00",
+  "ticket": "https://actionwellness.givecloud.co/monstersandmayhem",
+  "time": "2:00 PM \u2013 5:00 PM",
+  "title": "Monsters and Mayhem GayBINGO!",
+  "url": "https://phillygaycalendar.com/events/monsters-and-mayhem-gaybingo/",
+  "venue": "Congregation Rodeph Shalom"
+ },
  "45192-2026-11-05": {
   "address": "4000 Spruce St, Philadelphia, PA 19104",
   "all_day": false,
@@ -1593,6 +1690,27 @@
   "title": "Drag Me To Delco",
   "url": "https://phillygaycalendar.com/events/drag-me-to-delco/",
   "venue": "Mickey's Tavern"
+ },
+ "45256-2026-11-14": {
+  "address": "Above Rosie's Tacos, 624 S 6th Street",
+  "all_day": false,
+  "cats": [
+   "Arts & Theater",
+   "Burlesque",
+   "Comedy",
+   "Drag"
+  ],
+  "date": "2026-11-14",
+  "desc": "Come on out to Club 624 for all queer performers, immaculate vibes and supporting Indigenous Philadelphians! This QJC will donate proceeds to Indedu, Indigenous Education which is a grassroots non-governmental organization that shines a light on the untold stories of\u2026",
+  "end": "2026-11-14T21:30:00",
+  "id": 45256,
+  "performers": "Victoria Reno",
+  "start": "2026-11-14T19:30:00",
+  "ticket": "https://partiful.com/e/lr3Av6tN9QSLVXRcEQNc?c=Mprv-rND",
+  "time": "2:30 PM \u2013 4:30 PM",
+  "title": "Queer Joy Cabaret",
+  "url": "https://phillygaycalendar.com/events/queer-joy-cabaret/",
+  "venue": "CLUB 624"
  },
  "45420-2026-11-04": {
   "address": "4014 Walnut Street, Philadelphia, PA",
