@@ -37,8 +37,8 @@
  },
  "507993": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:Sellersville Theater",
+  "time": "19:30",
   "url": "https://www.etix.com/ticket/p/62298760/wxpn-welcomes-the-war-and-treaty-sellersville-sellersville-theater-1894"
  },
  "509984": {
@@ -133,14 +133,14 @@
  },
  "510862": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:Sellersville Theater",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/77425510/on-a-winters-night-featuring-cliff-eberhardtjohn-gorkalucy-kaplansky-patty-larkin-sellersville-sellersville-theater-1894?_gl=1*1nuwqb9*_gcl_aw*R0NMLjE3NjIyODQwNzEuQ2owS0NRaUE1YWJJQmhDYUFSSXNBTTMtekZVOE1uZGpPMldQdUxDbmYyVnZoNnRvT1pDUlpERzNpZEVmVGlkeEJxam5JNFhfbUprdEVQRWFBcm8yRUFMd193Y0I.*_gcl_au*NjA2MzQ5MTc2LjE3NjIyODM2NDI.*_ga*NzExNjM0MTA3LjE3NjIyODM2NDI.*_ga_4PHVE2WDGX*czE3NjIyODM2NDEkbzEkZzEkdDE3NjIyODQwNzAkajQxJGwwJGgw"
  },
  "510869": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:Sellersville Theater",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/96778441/steven-page-formerly-of-barenaked-ladiesstevens-greetings-sellersville-sellersville-theater-1894?utm_source=hive&amp;utm_medium=email&amp;utm_campaign=hive_email_id_598004_steven-page-date-correction&amp;h_sid=04dbb99a25-1b7357ce9a5e0d727e2f3b98&amp;h_slt=eyJoaXZlX3VzZXJfaWQiOjEwMDUxMTkyMiwiaGFzaCI6IjQzMmYxYjU4Nzg0MWFiMyJ9"
  },
  "510883": {
@@ -169,8 +169,8 @@
  },
  "510905": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:Sellersville Theater",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/40500213/squirrel-nut-zippers-present-christmas-caravan-sellersville-sellersville-theater-1894?_gl=1*1myd6o6*_gcl_aw*R0NMLjE3ODIzMzE5MjcuQ2p3S0NBandnTzdSQmhCS0Vpd0FaTlA4NXU5UENJRVRoVE1pQTR6MGVPOTNmVC1Kcl9ZblEyQ0doRUFEYWkxT19TdWtPbThJMmxZa01Sb0NhVGdRQXZEX0J3RQ..*_gcl_au*MTM2MDg0Njc0Mi4xNzgyMzMxOTE1*_ga*NzE3NjgzOC4xNzgyMzMxOTE1*_ga_4PHVE2WDGX*czE3ODIzMzE5MTUkbzEkZzEkdDE3ODIzMzE5MjgkajQ3JGwwJGgw"
  },
  "510907": {
@@ -307,8 +307,8 @@
  },
  "511104": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:The Queen (name match)",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/alejandro-escovedo-the-electric-saints-wilmington-delaware-11-19-2026/event/020064FA7D114933"
  },
  "511106": {
@@ -325,8 +325,8 @@
  },
  "511110": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:Sellersville Theater",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/30615242/marshall-crenshaw-with-special-guests-sarah-borges-eric-ambel-sellersville-sellersville-theater-1894?_gl=1*1myd6o6*_gcl_aw*R0NMLjE3ODIzMzE5MjcuQ2p3S0NBandnTzdSQmhCS0Vpd0FaTlA4NXU5UENJRVRoVE1pQTR6MGVPOTNmVC1Kcl9ZblEyQ0doRUFEYWkxT19TdWtPbThJMmxZa01Sb0NhVGdRQXZEX0J3RQ..*_gcl_au*MTM2MDg0Njc0Mi4xNzgyMzMxOTE1*_ga*NzE3NjgzOC4xNzgyMzMxOTE1*_ga_4PHVE2WDGX*czE3ODIzMzE5MTUkbzEkZzEkdDE3ODIzMzE5MjgkajQ3JGwwJGgw"
  },
  "511112": {
@@ -373,8 +373,8 @@
  },
  "511606": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:Highmark Mann",
+  "time": "19:00",
   "url": "https://www.ticketmaster.com/event/0200653CE1FB18A5"
  },
  "511773": {
@@ -559,8 +559,8 @@
  },
  "513571": {
   "checked": "2026-11-08",
-  "source": "http:406",
-  "time": null,
+  "source": "doors+1h",
+  "time": "19:00",
   "url": "https://www.keswicktheatre.com/events/detail/1642205"
  },
  "513573": {
@@ -619,8 +619,8 @@
  },
  "513599": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:Highmark Mann",
+  "time": "19:30",
   "url": "https://www.ticketmaster.com/event/0200653EAA31A9CF"
  },
  "513602": {
@@ -1759,26 +1759,26 @@
  },
  "514809": {
   "checked": "2026-11-08",
-  "source": "http:200",
-  "time": null,
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
   "url": "https://www.parxcasino.com/bensalem/calendar"
  },
  "514812": {
   "checked": "2026-11-08",
-  "source": "http:200",
-  "time": null,
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
   "url": "https://www.parxcasino.com/bensalem/calendar"
  },
  "514814": {
   "checked": "2026-11-08",
-  "source": "http:200",
-  "time": null,
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
   "url": "https://www.parxcasino.com/bensalem/calendar"
  },
  "514816": {
   "checked": "2026-11-08",
-  "source": "http:200",
-  "time": null,
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
   "url": "https://www.parxcasino.com/bensalem/calendar"
  },
  "514822": {
@@ -2053,8 +2053,8 @@
  },
  "515478": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "venue-site:SOUTH Jazz Club",
+  "time": "18:00",
   "url": "https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/"
  },
  "515481": {
@@ -2215,50 +2215,50 @@
  },
  "515570": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:The Queen",
+  "time": "19:30",
   "url": "https://www.ticketmaster.com/the-maine-wilmington-delaware-11-09-2026/event/020064A5929898FA"
  },
  "515572": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:The Queen",
+  "time": "19:00",
   "url": "https://www.ticketmaster.com/microwave-free-throw-wilmington-delaware-11-11-2026/event/020064D18D2575AC"
  },
  "515574": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:The Queen",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/evan-fox-mikeal-anthony-greto-the-wilmington-delaware-11-12-2026/event/0200650B9D31AD3F"
  },
  "515576": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:The Queen",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/alicia-maxwell-project-wilmington-delaware-11-13-2026/event/02006529893663E8"
  },
  "515578": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:The Queen",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/jackie-greene-wilmington-delaware-11-14-2026/event/02006514925D9D2F"
  },
  "515580": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:The Queen",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/brad-goodall-wilmington-delaware-11-19-2026/event/020065307EFC5A7F"
  },
  "515582": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:The Queen",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/funksgiving-universal-funk-order-wilmington-delaware-11-25-2026/event/0200654678E42A5E"
  },
  "515584": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:The Queen",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/elizabeth-cook-wilmington-delaware-12-03-2026/event/02006551AC5E6A35"
  },
  "515592": {

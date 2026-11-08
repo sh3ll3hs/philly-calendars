@@ -1,0 +1,11 @@
+{"_comment": "Hand-made sample in the documented Discovery API v2 shape (no API key available when written). Replace with a real response once TM_API_KEY is set.",
+ "_embedded": {"events": [
+  {"name": "Remi Wolf", "url": "https://www.ticketmaster.com/event/02006507A1B2C3D4",
+   "dates": {"start": {"localDate": "2026-12-04", "localTime": "20:00:00", "timeTBA": false, "noSpecificTime": false}},
+   "pleaseNote": "Doors open at 7pm. All ages.",
+   "priceRanges": [{"min": 45.5, "max": 89.5}],
+   "_embedded": {"attractions": [{"name": "Remi Wolf"}, {"name": "Emma Ogier"}]}},
+  {"name": "TBA Night", "url": "https://www.ticketmaster.com/event/02006507FFFF0000",
+   "dates": {"start": {"localDate": "2027-01-10", "timeTBA": true, "noSpecificTime": true}}}
+ ]},
+ "page": {"totalPages": 1}}

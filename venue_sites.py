@@ -19,6 +19,7 @@ Ticketmaster/Etix page XPN does), then by date + artist-name overlap.
 """
 import datetime as dt
 import json
+import os
 import re
 import sys
 import urllib.parse
@@ -199,19 +200,49 @@ def scrape(url):
     return url, items
 
 
+SCRAPED = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs", "venues", "events.json")
+
+
+def load_scraped(path=SCRAPED):
+    """Records written by run_all.py (scrapers/), converted to index items. Only
+    records with a real show time are useful here."""
+    if not os.path.exists(path):
+        return []
+    with open(path) as f:
+        recs = json.load(f)
+    out = []
+    for r in recs:
+        if not r.get("show_time") or not r.get("date"):
+            continue
+        h, m = map(int, r["show_time"].split(":"))
+        base = {"title": r.get("title") or "", "date": dt.date.fromisoformat(r["date"]),
+                "time": dt.time(h, m), "host": r.get("venue") or "scraper"}
+        for link in {r.get("ticket_url"), r.get("url")} - {None, ""}:
+            out.append({**base, "url": link})
+    return out
+
+
 class VenueIndex:
     def __init__(self):
         self.by_url, self.by_date = {}, {}
         sources = LISTINGS + [f"aeg:{vid}" for vid in AEG_JSON]
         with ThreadPoolExecutor(max_workers=6) as pool:
             for url, items in pool.map(scrape, sources):
-                for it in items:
-                    k = norm_url(it["url"])
-                    if k:
-                        self.by_url.setdefault(k, it)
-                    self.by_date.setdefault(it["date"], []).append(it)
+                self._add(items)
+        scraped = load_scraped()
+        self._add(scraped)
         n = sum(len(v) for v in self.by_date.values())
-        print(f"venue sites: indexed {n} shows from {len(sources)} listing pages", file=sys.stderr)
+        print(f"venue sites: indexed {n} shows from {len(sources)} listing pages "
+              f"+ {len(scraped)} links from venue scrapers", file=sys.stderr)
+
+    def _add(self, items):
+        for it in items:
+            k = norm_url(it["url"])
+            if k:
+                self.by_url.setdefault(k, it)
+            day = self.by_date.setdefault(it["date"], [])
+            if not any(x["title"] == it["title"] and x["host"] == it["host"] for x in day):
+                day.append(it)
 
     def find(self, ticket_url, date, title):
         """Return (time, source) or None."""

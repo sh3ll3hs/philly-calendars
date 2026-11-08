@@ -28,6 +28,16 @@ jobs:
         run: python3 wkdu_to_ics.py --out docs/wkdu.ics --venues docs/wkdu_venues.json
       - name: Install scraping libraries
         run: pip install --quiet requests beautifulsoup4
+      # Parser tests run against saved pages; a failure here flags a parser bug
+      # without stopping the feeds from publishing.
+      - name: Test venue parsers
+        continue-on-error: true
+        run: python3 -m unittest discover -s tests
+      - name: Run venue scrapers
+        continue-on-error: true
+        env:
+          TM_API_KEY: ${{ secrets.TM_API_KEY }}   # optional; Ticketmaster houses are skipped without it
+        run: python3 run_all.py --out-dir docs/venues
       - name: Build WXPN concert feed
         continue-on-error: true
         run: python3 xpn_to_ics.py --out docs/xpn.ics --times-cache docs/xpn_times.json
