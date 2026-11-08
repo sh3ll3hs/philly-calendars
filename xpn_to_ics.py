@@ -87,8 +87,8 @@ def main():
     raw = fetch_all(today.isoformat(), (today + dt.timedelta(days=a.days_ahead)).isoformat())
     times = {}
     if not a.all_day and not a.no_scrape:
-        times = resolve_times([{"id": e["id"], "website": e.get("website"), "date": e["start_date"][:10]}
-                               for e in raw], a.times_cache)
+        times = resolve_times([{"id": e["id"], "website": e.get("website"), "date": e["start_date"][:10],
+                                "title": e.get("title") or ""} for e in raw], a.times_cache)
     now = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     out = ["BEGIN:VCALENDAR", "VERSION:2.0",
            "PRODID:-//xpn_to_ics//WXPN Concerts//EN",
@@ -120,6 +120,8 @@ def main():
         real = dt.time(*map(int, rec["time"].split(":"))) if rec.get("time") else None
         if a.all_day:
             note = ""
+        elif real and str(rec.get("source", "")).startswith("venue-site:"):
+            note = f"Show time from the venue's website ({rec['source'].split(':', 1)[1]})."
         elif real:
             note = f"Show time from the ticket page ({urllib.parse.urlsplit(tickets).netloc.removeprefix('www.')})."
         else:

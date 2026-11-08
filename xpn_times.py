@@ -155,6 +155,8 @@ def resolve_times(events, cache_path):
             continue
         if c and c.get("source") == "blocked-site":
             continue
+        if c and str(c.get("source", "")).startswith("venue-site"):
+            continue
         todo.append(e)
 
     def work(e):
@@ -166,6 +168,23 @@ def resolve_times(events, cache_path):
         with ThreadPoolExecutor(max_workers=WORKERS) as pool:
             for key, rec in pool.map(work, todo):
                 cache[key] = rec
+
+    # Second pass: shows still without a time (blocked ticket sites, or nothing
+    # found on the page) are looked up on the venues' own websites.
+    missing = [e for e in events if not (cache.get(str(e["id"])) or {}).get("time")]
+    if missing:
+        try:
+            from venue_sites import VenueIndex
+            idx = VenueIndex()
+            for e in missing:
+                hit = idx.find(e.get("website") or "", dt.date.fromisoformat(e["date"]), e.get("title") or "")
+                if hit:
+                    t, src = hit
+                    rec = cache.get(str(e["id"])) or {"url": e.get("website") or ""}
+                    rec.update({"time": t.strftime("%H:%M"), "source": src, "checked": today})
+                    cache[str(e["id"])] = rec
+        except Exception as ex:
+            print(f"venue-site lookup skipped: {type(ex).__name__}: {ex}", file=sys.stderr)
 
     # drop cache rows for events no longer listed
     live = {str(e["id"]) for e in events}

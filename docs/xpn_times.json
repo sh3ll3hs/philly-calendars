@@ -7,8 +7,8 @@
  },
  "493872": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:undergroundarts.org (name match)",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/undergroundarts/events/anna-von-hausswolff-179765"
  },
  "494024": {
@@ -49,26 +49,26 @@
  },
  "509989": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/daniel-donato-s-cosmic-country-197478"
  },
  "509993": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/daniel-donato-s-cosmic-country-197478"
  },
  "509995": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/daniel-donato-s-cosmic-country-197478"
  },
  "509997": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:r5productions.com",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/90331267/-philadelphia-the-first-unitarian-church?partner_id=100"
  },
  "510000": {
@@ -103,8 +103,8 @@
  },
  "510846": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1447996/blondshell-tickets"
  },
  "510848": {
@@ -115,8 +115,8 @@
  },
  "510850": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1582226/dinosaur-jr-tickets?mkt_campaign=11Z79878P2S8X7W6C049BUTM"
  },
  "510852": {
@@ -127,8 +127,8 @@
  },
  "510854": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com (name match)",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/g-love-special-sauce-206667"
  },
  "510862": {
@@ -145,8 +145,8 @@
  },
  "510883": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:johnnybrendas.com",
+  "time": "21:00",
   "url": "https://www.etix.com/ticket/p/72425485/strand-of-oaks-philadelphia-johnny-brendas"
  },
  "510885": {
@@ -163,8 +163,8 @@
  },
  "510902": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:themetphilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/an-evening-with-lord-huron-philadelphia-pennsylvania-12-12-2026/event/020064FBB561F75F?utm_campaign=PRM-00524446&amp;utm_source=wxpn&amp;utm_medium=ln_promo"
  },
  "510905": {
@@ -175,8 +175,8 @@
  },
  "510907": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1457701/rhye-tickets?_gl=1*lc59p3*_gcl_au*NTg3NDQzMTUwLjE3ODEwMzI0MzI."
  },
  "510909": {
@@ -187,26 +187,26 @@
  },
  "510932": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:r5productions.com",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/98190926/friendship-charlotte-cornfieldwith-more-eaze-philadelphia-the-first-unitarian-church"
  },
  "510936": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "18:00",
   "url": "http://tixr.com/groups/ardmoremusichall/events/huffamoose-hezekiah-jones-203149"
  },
  "511044": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:johnnybrendas.com",
+  "time": "19:00",
   "url": "https://www.etix.com/ticket/p/78627542/lia-menaker-philadelphia-johnny-brendas"
  },
  "511046": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "19:30",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/daniel-lanois-trio-200773"
  },
  "511048": {
@@ -223,8 +223,8 @@
  },
  "511053": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "19:30",
   "url": "https://www.tixr.com/groups/118north/events/michaela-anne-200053"
  },
  "511055": {
@@ -241,8 +241,8 @@
  },
  "511080": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "19:30",
   "url": "https://www.tixr.com/groups/118north/events/michael-mcdermott-205576"
  },
  "511082": {
@@ -259,20 +259,20 @@
  },
  "511087": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:r5productions.com",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/63726119/mary-in-the-junkyard-philadelphia-philamoca-r5-productions"
  },
  "511089": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1468093/julia-jacklin-tickets"
  },
  "511091": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:johnnybrendas.com",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/31516646/john-fayesug-daniels-roberta-faceplant-philadelphia-johnny-brendas"
  },
  "511093": {
@@ -289,20 +289,20 @@
  },
  "511098": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1443713/angine-de-poitrine-tickets?skin=fmh"
  },
  "511100": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/paula-cole-187745"
  },
  "511102": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1414994/low-cut-connie-tickets"
  },
  "511104": {
@@ -319,8 +319,8 @@
  },
  "511108": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:r5productions.com",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/43032727/greg-freemanwith-robber-robber-philadelphia-the-first-unitarian-church"
  },
  "511110": {
@@ -331,14 +331,14 @@
  },
  "511112": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/wesley-stace-the-english-uk-204948"
  },
  "511114": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:themetphilly.com (name match)",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/event/0200651C798F74B0"
  },
  "511116": {
@@ -349,20 +349,20 @@
  },
  "511597": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1617122/a-philadelphia-tribute-to-the-last-waltz-tickets"
  },
  "511600": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com (name match)",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/mondo-cozmo-philadelphia-pennsylvania-12-17-2026/event/0200652892C95B06?utm_campaign=PRM-00535522&amp;utm_source=wxpn&amp;utm_medium=ln_promo"
  },
  "511602": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/milkboy/events/boy-golden-205331"
  },
  "511604": {
@@ -385,8 +385,8 @@
  },
  "511777": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer (name match)",
+  "time": "19:00",
   "url": "https://tix.axs.com/YOHNEQAAAADFrphMAgAAAAAz%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fDlVuaW9uIFRyYW5zZmVyAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f?skin=&amp;tags=&amp;cpch=&amp;cpdate=&amp;cprid=&amp;cpid=&amp;cpcn=&amp;cpdid=&amp;cpdn=&amp;cpsrc=&amp;intoff=&amp;cid=&amp;utm_source=&amp;utm_medium=&amp;utm_campaign=&amp;utm_term=&amp;utm_content=&amp;aff=&amp;clickref=&amp;promocode=&amp;originalReferringURL=https%3A%2F%2Fwww.axs.com%2Fevents%2F1632179%2Fmichael-shannon-jason-narducy-and-friends-play-rems-document-tickets%3F__cf_chl_tk%3DxKRfCHHN2plbWRPgSrzdCXPKym9tfCvjoVVAfi4mBH8-1791302907-1.0.1.1-vskb9HuIsx9uc4SBeaSXoTsVOqKviYIcfWgQcp6NAr4&amp;upgrade=&amp;mkt_campaign=&amp;irclickid=&amp;gclid=&amp;fbclid=&amp;_gl=&amp;axsEventId=1632179&amp;q=ee6ae898-474f-4873-8b82-90cb428fac83&amp;p=4809d019-9095-4c13-897c-a897319e58fb&amp;ts=1791302940&amp;c=axs&amp;e=29870524838574254&amp;rt=Safetynet&amp;h=5a7ace6e79fd79259a8e16ba2389d4a8"
  },
  "512162": {
@@ -421,32 +421,32 @@
  },
  "512265": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "19:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/the-olllam-175647"
  },
  "512267": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/joy-oladokun-191241"
  },
  "512269": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/joy-oladokun-191241"
  },
  "512271": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/the-breaks-eddie-roberts-robert-walter-stanton-moore-191238"
  },
  "512273": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/tommy-conwell-the-young-rumblers-169960"
  },
  "513204": {
@@ -457,32 +457,32 @@
  },
  "513206": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "venue-site:brooklynbowl.com (name match)",
+  "time": "20:00",
   "url": "https://www.brooklynbowl.com/philadelphia/events/detail/mountain-grass-unit-appalachian-smoke-tour-vvg1fz_gkeabdi"
  },
  "513210": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "venue-site:brooklynbowl.com (name match)",
+  "time": "20:00",
   "url": "https://www.brooklynbowl.com/philadelphia/events/detail/pi-erre-bourne-made-in-paris-vv17fz_fgkdaqhqb"
  },
  "513212": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "venue-site:brooklynbowl.com (name match)",
+  "time": "20:00",
   "url": "https://www.brooklynbowl.com/philadelphia/events/detail/alyssa-grace-vv17fz_ogki-ejxw"
  },
  "513214": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "venue-site:brooklynbowl.com (name match)",
+  "time": "20:00",
   "url": "https://www.brooklynbowl.com/philadelphia/events/detail/west-22nd-places-to-be-vv1aezk3fgkd5bujn"
  },
  "513216": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "venue-site:brooklynbowl.com (name match)",
+  "time": "19:30",
   "url": "https://www.brooklynbowl.com/philadelphia/events/detail/tiny-habits-vvg1fz_gkgbg1a"
  },
  "513282": {
@@ -565,38 +565,38 @@
  },
  "513573": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/the-disco-biscuits-bisco-sixer-26-210185"
  },
  "513575": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/the-disco-biscuits-bisco-sixer-26-210185"
  },
  "513577": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/the-disco-biscuits-bisco-sixer-26-210185"
  },
  "513580": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/the-disco-biscuits-bisco-sixer-26-210185"
  },
  "513582": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/the-disco-biscuits-bisco-sixer-26-210185"
  },
  "513586": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/the-disco-biscuits-bisco-sixer-26-210185"
  },
  "513591": {
@@ -607,14 +607,14 @@
  },
  "513594": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:themetphilly.com (name match)",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/event/020065469FAA6E71?utm_campaign=PRM-00546080&amp;utm_source=wxpn&amp;utm_medium=ln_promo"
  },
  "513596": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1632169/mei-semones-tickets"
  },
  "513599": {
@@ -823,8 +823,8 @@
  },
  "513915": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:brooklynbowl.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/ayra-starr-starrgirl-world-tour-philadelphia-pennsylvania-03-26-2027/event/02006549270DBADD"
  },
  "513920": {
@@ -895,8 +895,8 @@
  },
  "513957": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:johnnybrendas.com",
+  "time": "21:00",
   "url": "https://www.etix.com/ticket/p/47892768/tj-kong-and-the-atomic-bomb-philadelphia-johnny-brendas"
  },
  "513958": {
@@ -1021,38 +1021,38 @@
  },
  "514043": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:r5productions.com",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/78838373/protomartyrwith-jrcg-philadelphia-the-first-unitarian-church?partner_id=100&amp;_gl=1*18bbl0h*_ga*MTEzMjg2NDI5NC4xNzg0MzAwODUw*_ga_6T50PMF8HM*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzEwMTckajM4JGwwJGgxMzIxMjcwMDg3*_ga_20QQYQHBVX*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzEwMTckajM4JGwwJGgxNDQ3OTM1OTIw"
  },
  "514045": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:r5productions.com",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/39698264/sweeping-promiseswith-zillas-on-acidmesh-philadelphia-the-first-unitarian-church?partner_id=100&amp;_gl=1*1jatw3t*_ga*MTEzMjg2NDI5NC4xNzg0MzAwODUw*_ga_6T50PMF8HM*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzE2NzEkajYwJGwwJGgxMzIxMjcwMDg3*_ga_20QQYQHBVX*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzE2NzEkajYwJGwwJGgxNDQ3OTM1OTIw"
  },
  "514048": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:r5productions.com",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/95366967/the-kilanswith-jade-street-philadelphia-philamoca?partner_id=100&amp;_gl=1*bclbbo*_ga*MTEzMjg2NDI5NC4xNzg0MzAwODUw*_ga_6T50PMF8HM*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzE4NTMkajE2JGwwJGgxMzIxMjcwMDg3*_ga_20QQYQHBVX*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzE4NTMkajE2JGwwJGgxNDQ3OTM1OTIw"
  },
  "514050": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:r5productions.com",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/93786302/why-philadelphia-the-first-unitarian-church?partner_id=100&amp;_gl=1*bkcw51*_ga*MTEzMjg2NDI5NC4xNzg0MzAwODUw*_ga_6T50PMF8HM*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzIwMTIkajUkbDAkaDEzMjEyNzAwODc.*_ga_20QQYQHBVX*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzIwMTIkajUkbDAkaDE0NDc5MzU5MjA."
  },
  "514052": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:r5productions.com",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/94797403/marci-philadelphia-philamoca?partner_id=100&amp;_gl=1*1ovxcz4*_ga*MTEzMjg2NDI5NC4xNzg0MzAwODUw*_ga_6T50PMF8HM*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzIxNjIkajUzJGwwJGgxMzIxMjcwMDg3*_ga_20QQYQHBVX*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzIxNjIkajUzJGwwJGgxNDQ3OTM1OTIw"
  },
  "514054": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:r5productions.com",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/79292123/sadurnwith-kitchenhemlock-philadelphia-the-first-unitarian-church?partner_id=100&amp;_gl=1*i79783*_ga*MTEzMjg2NDI5NC4xNzg0MzAwODUw*_ga_6T50PMF8HM*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzI0MzEkajYwJGwwJGgxMzIxMjcwMDg3*_ga_20QQYQHBVX*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzI0MzIkajU5JGwwJGgxNDQ3OTM1OTIw"
  },
  "514056": {
@@ -1081,50 +1081,50 @@
  },
  "514113": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/moe-run-1--208415"
  },
  "514115": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/moe-run-1--208415"
  },
  "514117": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/moe-run-1--208415"
  },
  "514119": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/moe-run-1--208415"
  },
  "514121": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/moe-run-1--208415"
  },
  "514123": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/moe-run-1--208415"
  },
  "514125": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/moe-run-1--208415"
  },
  "514127": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/moe-run-1--208415"
  },
  "514129": {
@@ -1135,14 +1135,14 @@
  },
  "514131": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:brooklynbowl.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/wxpn-welcomes-the-womack-sisters-philadelphia-pennsylvania-01-22-2027/event/02006542DF256F75"
  },
  "514183": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1664437/chvrches-tickets?skin=fmh"
  },
  "514185": {
@@ -1183,20 +1183,20 @@
  },
  "514337": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:undergroundarts.org",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-deerhoof-197658"
  },
  "514349": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1541143/george-clanton-tickets?skin=uniontransfer&amp;_gl=1*1q70aou*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
  },
  "514360": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1496399/the-blasting-company-tickets?skin=uniontransfer&amp;_gl=1*t8yl1b*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
  },
  "514368": {
@@ -1207,14 +1207,14 @@
  },
  "514379": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:undergroundarts.org",
+  "time": "21:00",
   "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-adult-a-place-to-bury-strangers-190596"
  },
  "514381": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "19:30",
   "url": "https://www.axs.com/events/1479534/chat-pile-tickets?skin=uniontransfer&amp;_gl=1*1m1zyp4*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
  },
  "514383": {
@@ -1225,14 +1225,14 @@
  },
  "514385": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1438480/slow-pulp-tickets?skin=uniontransfer&amp;_gl=1*f62ryp*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
  },
  "514387": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:undergroundarts.org",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-the-wldlfe-194075"
  },
  "514389": {
@@ -1255,56 +1255,56 @@
  },
  "514396": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1443856/beartooth-tickets?skin=fmh&amp;_gl=1*urkxwf*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
  },
  "514398": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1449347/ax-and-the-hatchetmen-tickets?skin=uniontransfer&amp;_gl=1*9pzzlk*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
  },
  "514400": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1434660/giant-rooks-tickets?skin=uniontransfer&amp;_gl=1*xhxt4j*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
  },
  "514402": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:undergroundarts.org",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-donny-ben-t-185089"
  },
  "514404": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1343297/die-spitz-tickets?skin=uniontransfer&amp;_gl=1*1250x5y*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
  },
  "514406": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:undergroundarts.org",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-caroline-189132"
  },
  "514408": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1597315/action-bronson-human-growth-hormone-tickets?skin=fmh&amp;_gl=1*m5j27z*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
  },
  "514411": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1489853/yaelokre-tickets?skin=uniontransfer&amp;_gl=1*1dnruf7*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
  },
  "514413": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:undergroundarts.org",
+  "time": "20:30",
   "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-noah-richardson-203438"
  },
  "514419": {
@@ -1495,8 +1495,8 @@
  },
  "514657": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1663112/caroline-rose-tickets?skin=uniontransfer"
  },
  "514659": {
@@ -1519,86 +1519,86 @@
  },
  "514695": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/milkboy/events/crobot-dark-chapel-205516"
  },
  "514697": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/milkboy/events/kate-stephenson-lighthearted-200058"
  },
  "514699": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/milkboy/events/neighbor-199431"
  },
  "514701": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "19:00",
   "url": "https://www.tixr.com/groups/milkboy/events/charlie-parr-200423"
  },
  "514704": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "22:30",
   "url": "https://www.tixr.com/groups/milkboy/events/dan-spencer-205684"
  },
  "514706": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "19:30",
   "url": "https://www.tixr.com/groups/milkboy/events/jesse-roper-193428"
  },
  "514708": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com (name match)",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/milkboy/events/shanghai-qiutian-206113"
  },
  "514710": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/milkboy/events/austin-giorgio-194895"
  },
  "514712": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/milkboy/events/tagua-tagua-200972"
  },
  "514714": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/milkboy/events/punchline-192838"
  },
  "514716": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "20:30",
   "url": "https://www.tixr.com/groups/milkboy/events/fruition-194727"
  },
  "514718": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "20:30",
   "url": "https://www.tixr.com/groups/milkboy/events/the-dirty-grass-players-198275"
  },
  "514720": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "19:30",
   "url": "https://www.tixr.com/groups/milkboy/events/surfing-for-daisy-199207"
  },
  "514722": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/milkboy/events/archawah-floating-granddogs-205021"
  },
  "514724": {
@@ -1609,14 +1609,14 @@
  },
  "514726": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "19:00",
   "url": "https://www.tixr.com/groups/milkboy/events/josceppi-203176"
  },
  "514728": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "19:30",
   "url": "https://www.tixr.com/groups/milkboy/events/blitzkid-198986"
  },
  "514733": {
@@ -1795,8 +1795,8 @@
  },
  "514830": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:r5productions.com",
+  "time": "20:00",
   "url": "https://www.etix.com/ticket/p/88188208/?_gl=1*1xhvq4*_ga*MTQ4ODMyODM0Ny4xNzg0ODUxMzE4*_ga_YQH4P4GGFF*czE3OTMwNjMxMTgkbzMkZzEkdDE3OTMwNjQ3OTIkajYwJGwwJGgw"
  },
  "514832": {
@@ -1831,8 +1831,8 @@
  },
  "514877": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:milkboyphilly.com",
+  "time": "20:30",
   "url": "https://www.tixr.com/groups/milkboy/events/stargazer-lily-album-release--208609"
  },
  "514880": {
@@ -1885,8 +1885,8 @@
  },
  "515040": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
   "url": "https://www.axs.com/events/1672961/hum-tickets"
  },
  "515041": {
@@ -2101,116 +2101,116 @@
  },
  "515505": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "19:30",
   "url": "https://www.ticketmaster.com/wdas-presents-maze-dressed-in-all-philadelphia-pennsylvania-11-19-2026/event/02006521BAED7BC9?_gl=1*v2j3ev*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTA1NDc5MDEkbzYkZzEkdDE3OTA1NDc5ODIkajUzJGwwJGgw"
  },
  "515508": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "18:30",
   "url": "https://www.ticketmaster.com/the-menzingers-everything-i-ever-saw-philadelphia-pennsylvania-11-20-2026/event/0200649CEDC8465C?_gl=1*1ob2zto*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTA1NDc5MDEkbzYkZzEkdDE3OTA1NDc5ODIkajUzJGwwJGgw"
  },
  "515510": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/syd-beard-tour-philadelphia-pennsylvania-12-05-2026/event/0200652BEEEE44E6?_gl=1*18y9vaq*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzAkdDE3OTM0NzQ4MDMkajYwJGwwJGgw"
  },
  "515512": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:tlaphilly.com (name match)",
+  "time": "19:00",
   "url": "https://www.ticketmaster.com/reconnect-2026-the-starting-line-2-philadelphia-pennsylvania-12-18-2026/event/02006538D1225FFF?_gl=1*1g30j11*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzAkdDE3OTM0NzQ4MDMkajYwJGwwJGgw"
  },
  "515515": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "19:00",
   "url": "https://www.ticketmaster.com/reconnect-2026-the-starting-line-with-philadelphia-pennsylvania-12-19-2026/event/02006538D1AD613C?_gl=1*1g07unj*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzAkdDE3OTM0NzQ4MDMkajYwJGwwJGgw"
  },
  "515531": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/michigander-philadelphia-pennsylvania-11-08-2026/event/020064A1B6D52BF4?_gl=1*t3x1hu*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
  },
  "515533": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "19:30",
   "url": "https://www.ticketmaster.com/boston-manor-philadelphia-pennsylvania-11-10-2026/event/020064B6F63F8F48?_gl=1*1pzk9jl*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
  },
  "515536": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/the-bends-philadelphia-pennsylvania-11-15-2026/event/0200648AFD339546?_gl=1*bv50u8*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
  },
  "515538": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/weatherday-philadelphia-pennsylvania-11-16-2026/event/0200648601E615FD?_gl=1*17sgze7*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
  },
  "515540": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/liana-flores-philadelphia-pennsylvania-11-17-2026/event/020064CFE8F63B70?_gl=1*9iru8t*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
  },
  "515542": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/father-of-peace-the-year-of-philadelphia-pennsylvania-11-19-2026/event/020064D1C7B932E4?_gl=1*13cp8lp*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
  },
  "515544": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "19:00",
   "url": "https://www.ticketmaster.com/catie-turner-with-special-guests-kiss-philadelphia-pennsylvania-11-22-2026/event/02006519D88DC850?_gl=1*gm9lq2*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
  },
  "515546": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/laya-lipstick-n-leather-philadelphia-pennsylvania-11-24-2026/event/0200654C0253C671?_gl=1*12ycfqx*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
  },
  "515548": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/we-are-scientists-20-years-of-philadelphia-pennsylvania-12-01-2026/event/020064D09B09A0A4?_gl=1*10zagsw*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
  },
  "515550": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/juice-philadelphia-pennsylvania-12-04-2026/event/020064E79C57932B?_gl=1*ea2kbr*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
  },
  "515552": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:thefillmorephilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/jalen-ngonda-doctrine-of-love-tour-philadelphia-pennsylvania-12-05-2026/event/020064C20B963620?_gl=1*114x870*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
  },
  "515558": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:themetphilly.com",
+  "time": "21:00",
   "url": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-philadelphia-pennsylvania-11-12-2026/event/02006522B5634466?_gl=1*qsc154*_ga*MzQwNDg2Mjg0LjE3ODU0Mjg1NTc.*_ga_C1T806G4DF*czE3OTA1NDgxNjckbzMkZzEkdDE3OTA1NDgxOTQkajMzJGwwJGgw"
  },
  "515560": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:themetphilly.com",
+  "time": "19:00",
   "url": "https://www.ticketmaster.com/lindsey-stirling-the-snow-waltz-tour-philadelphia-pennsylvania-12-01-2026/event/02006513C310392B?_gl=1*1lieszy*_ga*MzQwNDg2Mjg0LjE3ODU0Mjg1NTc.*_ga_C1T806G4DF*czE3OTA1NDgxNjckbzMkZzEkdDE3OTA1NDgxOTQkajMzJGwwJGgw"
  },
  "515562": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:themetphilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/dalvin-la-melodia-philadelphia-pennsylvania-12-10-2026/event/02006548E78F2B12?_gl=1*xtmvmd*_ga*MzQwNDg2Mjg0LjE3ODU0Mjg1NTc.*_ga_C1T806G4DF*czE3OTA1NDgxNjckbzMkZzEkdDE3OTA1NDgxOTQkajMzJGwwJGgw"
  },
  "515570": {
@@ -2371,74 +2371,74 @@
  },
  "515634": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:tlaphilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/amble-philadelphia-pennsylvania-11-10-2026/event/0200649C2D05CF92?_gl=1*m3oulj*_ga*MTkyNjcyMDMxNi4xNzgyMjQxMjU3*_ga_C1T806G4DF*czE3OTA2OTg2MDckbzUkZzAkdDE3OTA2OTg2MTgkajQ5JGwwJGgw"
  },
  "515636": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:tlaphilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/honey-revenge-philadelphia-pennsylvania-11-11-2026/event/0200653503E42C16?_gl=1*jgaqjm*_ga*MTkyNjcyMDMxNi4xNzgyMjQxMjU3*_ga_C1T806G4DF*czE3OTA2OTg2MDckbzUkZzAkdDE3OTA2OTg2MTgkajQ5JGwwJGgw"
  },
  "515638": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:tlaphilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/phillip-phillips-philadelphia-pennsylvania-11-12-2026/event/020064CF4A765989?_gl=1*1v1cpcx*_ga*MTkyNjcyMDMxNi4xNzgyMjQxMjU3*_ga_C1T806G4DF*czE3OTA2OTg2MDckbzUkZzAkdDE3OTA2OTg2MTgkajQ5JGwwJGgw"
  },
  "515640": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:tlaphilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/sleep-north-america-2026-philadelphia-pennsylvania-11-15-2026/event/020064D0AA96C1AF?_gl=1*1sq5748*_ga*MTkyNjcyMDMxNi4xNzgyMjQxMjU3*_ga_C1T806G4DF*czE3OTA2OTg2MDckbzUkZzAkdDE3OTA2OTg2MTgkajQ5JGwwJGgw"
  },
  "515770": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:tlaphilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/jojo-the-high-road-20-years-philadelphia-pennsylvania-11-17-2026/event/0200652AE8A77ECE?_gl=1*lyhil*_ga*MTkyNjcyMDMxNi4xNzgyMjQxMjU3*_ga_C1T806G4DF*czE3OTA2OTg2MDckbzUkZzAkdDE3OTA2OTg2MTgkajQ5JGwwJGgw"
  },
  "515772": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:tlaphilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/the-pineapple-thief-philadelphia-pennsylvania-11-19-2026/event/0200648716434FBC?_gl=1*2y6f00*_ga*MTkyNjcyMDMxNi4xNzgyMjQxMjU3*_ga_C1T806G4DF*czE3OTA2OTg2MDckbzUkZzAkdDE3OTA2OTg2MTgkajQ5JGwwJGgw"
  },
  "515774": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:tlaphilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/toosii-philadelphia-pennsylvania-11-22-2026/event/0200651FD9A26B13?_gl=1*2wmc3u*_ga*MTkyNjcyMDMxNi4xNzgyMjQxMjU3*_ga_C1T806G4DF*czE3OTA2OTg2MDckbzUkZzAkdDE3OTA2OTg2MTgkajQ5JGwwJGgw"
  },
  "515777": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:tlaphilly.com",
+  "time": "20:00",
   "url": "https://www.ticketmaster.com/grayscale-philadelphia-pennsylvania-12-05-2026/event/0200652BC455697B?_gl=1*1hfmfbo*_ga*MTkyNjcyMDMxNi4xNzgyMjQxMjU3*_ga_C1T806G4DF*czE3OTA2OTg2MDckbzUkZzAkdDE3OTA2OTg2MTgkajQ5JGwwJGgw"
  },
  "515781": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:undergroundarts.org",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-headache-190589"
  },
  "515788": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:undergroundarts.org",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-inayah-212346"
  },
  "515790": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:undergroundarts.org",
+  "time": "19:00",
   "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-funksgiving-ft-sam-greenfield-muscle-tough-203949"
  },
  "515804": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer (name match)",
+  "time": "20:00",
   "url": "https://www.utphilly.com/events/detail/?event_id=1587658"
  },
  "515813": {
@@ -2701,50 +2701,50 @@
  },
  "516336": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "19:30",
   "url": "https://www.tixr.com/groups/118north/events/jon-savage-and-the-classic-rockers-208583"
  },
  "516340": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/eric-mcgarry-duo-208215"
  },
  "516342": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/118north/events/rigometrics-202416"
  },
  "516344": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/118north/events/houseplant-202655"
  },
  "516346": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "19:30",
   "url": "https://www.tixr.com/groups/118north/events/aj-lee-blue-summit-194064"
  },
  "516349": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/tyler-asay-208219"
  },
  "516351": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/118north/events/smash-palace-203952"
  },
  "516356": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/wanderlust-199184"
  },
  "516358": {
@@ -2755,140 +2755,140 @@
  },
  "516359": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/118north/events/the-miners-203953"
  },
  "516364": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/wally-smith-organ-trio-212052"
  },
  "516366": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/kenn-kweder-the-men-from-wawa-204893"
  },
  "516479": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/118north/events/the-circus-hearts-bob-lowery-band-208467"
  },
  "516481": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "15:00",
   "url": "https://www.tixr.com/groups/118north/events/s-carey-solo-with-strings-200055"
  },
  "516483": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/118north/events/kid-davis-the-bullets-pawnshop-roses-205358"
  },
  "516485": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "19:30",
   "url": "https://www.tixr.com/groups/118north/events/tall-heights-207134"
  },
  "516487": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/the-29ers-holiday-bazaara-204569"
  },
  "516489": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/118north/events/quinn-sullivan-207320"
  },
  "516491": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "15:00",
   "url": "https://www.tixr.com/groups/118north/events/vahe-sarkissian-208458"
  },
  "516493": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "19:30",
   "url": "https://www.tixr.com/groups/118north/events/fireside-collective-204003"
  },
  "516495": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/dan-reed-182636"
  },
  "516497": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "18:00",
   "url": "https://www.tixr.com/groups/118north/events/a-charlie-brown-christmas-with-the-eric-mintel-quartet-early-show--209429"
  },
  "516499": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/118north/events/molly-martin-208605"
  },
  "516501": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/julia-miralles-owen-schwinn-213651"
  },
  "516503": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "19:30",
   "url": "https://www.tixr.com/groups/118north/events/an-evening-with-tony-trischka-210383"
  },
  "516505": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/118north/events/reggae-thunder-i-yahn-i-arkestra-209440"
  },
  "516507": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/jazzgrass-chamber-orchestra-210384"
  },
  "516509": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/118north/events/swing-that-cat-mighty-joe-castro-and-the-gravamen-211031"
  },
  "516511": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "19:00",
   "url": "https://www.tixr.com/groups/118north/events/that-1-guy-212829"
  },
  "516514": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/frank-viele-213650"
  },
  "516516": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "20:00",
   "url": "https://www.tixr.com/groups/118north/events/mike-viola-211208"
  },
  "516518": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:118northwayne.com",
+  "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/db-lambert-link-hansen-213653"
  },
  "516520": {
@@ -2959,8 +2959,8 @@
  },
  "516544": {
   "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "19:00",
   "url": "https://www.axs.com/events/1557941/into-it-over-it-tickets?_gl=1*fy6cvw*_gcl_au*MTY4Mjc1MjM5My4xNzg2NzE2NzM0"
  },
  "516546": {
