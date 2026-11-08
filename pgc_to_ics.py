@@ -50,6 +50,51 @@ END:VTIMEZONE"""
 
 TIME_RX = re.compile(r"(\d{1,2}):(\d{2})\s*([AP]M)", re.I)
 
+# --- helpers shared by the other *_to_ics.py scripts -------------------------
+CLOCK_RX = re.compile(r"\b(\d{1,2})(?::(\d{2}))?\s*([ap])\.?m\.?\b", re.I)
+CLOCK_RANGE_RX = re.compile(
+    r"\b(\d{1,2})(?::(\d{2}))?\s*([ap])?\.?m?\.?\s*(?:-|–|—|to)\s*(\d{1,2})(?::(\d{2}))?\s*([ap])\.?m\.?\b", re.I)
+
+
+def _to_time(h, m, ap):
+    h = int(h) % 12 + (12 if ap.lower() == "p" else 0)
+    return dt.time(h, int(m or 0))
+
+
+def clock_from_text(text):
+    """Find a start (and maybe end) clock time in free text like '7pm-11pm' or
+    'Oct 17, 7:30 PM'. Returns (start_time, end_time or None) or None."""
+    if not text:
+        return None
+    m = CLOCK_RANGE_RX.search(text)
+    if m:
+        h1, m1, ap1, h2, m2, ap2 = m.groups()
+        end = _to_time(h2, m2, ap2)
+        start = _to_time(h1, m1, ap1 or ap2)
+        if start >= end and not ap1:  # "7-11pm" read as 7pm-11pm, "11-2pm" as 11am-2pm
+            start = _to_time(h1, m1, "a" if ap2.lower() == "p" else "p")
+        return start, end
+    m = CLOCK_RX.search(text)
+    if m:
+        return _to_time(*m.groups()), None
+    return None
+
+
+def collapse_span(start, end, max_hours=20, default_hours=2):
+    """Calendars draw an event that spans days as a banner across every day.
+    For an exhibition or course like that, keep only the opening day and return
+    (start, end, through_date) so the caller can add '(through <date>)'."""
+    if end - start <= dt.timedelta(hours=max_hours):
+        return start, end, None
+    through = (end - dt.timedelta(seconds=1)).date()
+    same_day_end = dt.datetime.combine(start.date(), end.time())
+    if same_day_end <= start:
+        same_day_end = start + dt.timedelta(hours=default_hours)
+    if (through - start.date()).days <= 1:
+        # "8 PM -> next day 11 PM" is a data-entry quirk for a single evening, not a 2-day run
+        through = None
+    return start, same_day_end, through
+
 
 def fetch_agenda():
     req = urllib.request.Request(AGENDA, headers={"User-Agent": UA})

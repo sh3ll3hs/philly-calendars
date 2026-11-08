@@ -23,7 +23,7 @@ import re
 import sys
 import urllib.request
 
-from pgc_to_ics import VTIMEZONE, TZID, esc, fold
+from pgc_to_ics import VTIMEZONE, TZID, esc, fold, clock_from_text, collapse_span
 
 PAGE = "https://www.creativephl.org/oacce-calendar/"
 UA = "Mozilla/5.0 (creativephl_to_ics; personal calendar subscription)"
@@ -92,19 +92,39 @@ def main():
         all_day = bool(e.get("allDay"))
         url = (e.get("url") or "").split("?")[0]
         title = html.unescape(e.get("title") or "").strip()
-        desc = text(e.get("eventDescription"))
-        desc = (desc + "\n\n" + url).strip() if url else desc
+        full_desc = text(e.get("eventDescription"))
+        desc = (full_desc + "\n\n" + url).strip() if url else full_desc
         uid = hashlib.sha1(f"{e.get('id')}-{e.get('start')}".encode()).hexdigest() + "@creativephl.org"
+
+        # The site marks many timed events "all day"; recover the time from the text.
+        if all_day:
+            found = clock_from_text(full_desc)
+            if found:
+                st, en = found
+                start = dt.datetime.combine(start.date(), st)
+                end = dt.datetime.combine(start.date(), en) if en else None
+                if end and end <= start:
+                    end += dt.timedelta(days=1)
+                all_day = False
+
+        through = None
+        if not all_day:
+            if not end or end <= start:
+                end = start + dt.timedelta(hours=DEFAULT_HOURS)
+            start, end, through = collapse_span(start, end, default_hours=DEFAULT_HOURS)
+        else:
+            s = start.date()
+            last = end.date() if end and end.date() > s else s  # site's end date is the last day
+            if last > s:
+                through, last = last, s
+        if through:
+            title += f" (through {through:%b %-d})"
 
         out += ["BEGIN:VEVENT", f"UID:{uid}", f"DTSTAMP:{now}"]
         if all_day:
-            s = start.date()
-            last = end.date() if end and end.date() > s else s  # site's end date is the last day
             out += [f"DTSTART;VALUE=DATE:{s:%Y%m%d}",
-                    f"DTEND;VALUE=DATE:{last + dt.timedelta(days=1):%Y%m%d}"]
+                    f"DTEND;VALUE=DATE:{s + dt.timedelta(days=1):%Y%m%d}"]
         else:
-            if not end or end <= start:
-                end = start + dt.timedelta(hours=DEFAULT_HOURS)
             out += [f"DTSTART;TZID={TZID}:{start:%Y%m%dT%H%M%S}",
                     f"DTEND;TZID={TZID}:{end:%Y%m%dT%H%M%S}"]
         out.append(f"SUMMARY:{esc(title)}")
