@@ -1979,21 +1979,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Zoso The Ultimate Led Zeppelin Experience",
-  "subtitle": null,
-  "date": "2026-12-12",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/zoso-the-ultimate-led-zeppelin-experience/",
-  "ticket_url": "https://www.ticketmaster.com/zoso-the-ultimate-led-zeppelin-experience-wilmington-delaware-12-12-2026/event/0200651BB2BA1292",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Main Hall"
- },
- {
-  "venue": "The Queen",
   "title": "Runnin’ Late Holiday Show",
   "subtitle": null,
   "date": "2026-12-12",
@@ -2006,6 +1991,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Crown"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Zoso The Ultimate Led Zeppelin Experience",
+  "subtitle": null,
+  "date": "2026-12-12",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/zoso-the-ultimate-led-zeppelin-experience/",
+  "ticket_url": "https://www.ticketmaster.com/zoso-the-ultimate-led-zeppelin-experience-wilmington-delaware-12-12-2026/event/0200651BB2BA1292",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Main Hall"
  },
  {
   "venue": "Parx Casino",
