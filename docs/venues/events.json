@@ -1979,21 +1979,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Runnin’ Late Holiday Show",
-  "subtitle": null,
-  "date": "2026-12-12",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/runnin-late-holiday-show/",
-  "ticket_url": "https://www.ticketmaster.com/runnin-late-holiday-show-wilmington-delaware-12-12-2026/event/02006530768A4963",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "Zoso The Ultimate Led Zeppelin Experience",
   "subtitle": null,
   "date": "2026-12-12",
@@ -2006,6 +1991,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Runnin’ Late Holiday Show",
+  "subtitle": null,
+  "date": "2026-12-12",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/runnin-late-holiday-show/",
+  "ticket_url": "https://www.ticketmaster.com/runnin-late-holiday-show-wilmington-delaware-12-12-2026/event/02006530768A4963",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Parx Casino",
@@ -4459,6 +4459,36 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Sway Duo featuring Joanne Farrell",
+  "subtitle": null,
+  "date": "2027-03-31",
+  "show_time": "17:30",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Liberty Bell Gastropub"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Jimmy Jam & Terry Lewis",
+  "subtitle": "WDAS presents A Tribute to Gamble & Huff with special guests Morris Day, Ruben Studdard & Shanice Wilson - Benefitting the Universal Charter Schools",
+  "date": "2027-04-10",
+  "show_time": "19:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xcite Center"
  },
  {
   "venue": "The Queen",
