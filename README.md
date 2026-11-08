@@ -12,6 +12,7 @@ A GitHub Actions workflow rebuilds the feeds every 6 hours and publishes them vi
 | WXPN concert calendar | `https://sh3ll3hs.github.io/philly-calendars/xpn.ics` | `xpn_to_ics.py` + `xpn_times.py` — site's Events Calendar REST API; show times scraped from ticket pages and venues' own sites (~83% of shows; see Venue scrapers below), 8–11 PM placeholder for the rest |
 | City of Philadelphia events | `https://sh3ll3hs.github.io/philly-calendars/phila.ics` | `phila_to_ics.py` — merges ~146 department Google Calendars behind phila.gov/the-latest/all-events, tagged by department |
 | Grid Magazine events | `https://sh3ll3hs.github.io/philly-calendars/grid.ics` | `grid_to_ics.py` — site's REST API (the native `/events/?ical=1` export is capped at 30 events); daily runs collapsed to opening day |
+| Free Library of Philadelphia | `https://sh3ll3hs.github.io/philly-calendars/flp.ics` | `flp_to_ics.py` — the library's per-branch RSS feeds (the calendar site itself is behind a Cloudflare challenge); accumulates daily |
 
 Checked and not worth converting: Northeast Times community calendar (prose, last updated Jan 2025),
 Sound Advice newsletter (last issue June 2025), Visit Philly (editorial, stale dates),
@@ -27,6 +28,7 @@ Filmadelphia (bot-blocked ticketing), DIY PHL (site gone).
 - `xpn_times.py` — follows each XPN show's ticket link with requests + BeautifulSoup and reads the show time from schema.org data or "Show/Doors" text; results cached in `docs/xpn_times.json`. Ticketmaster, AXS, Tixr and Etix block automated requests, so for those shows it falls back to `venue_sites.py`. Needs `pip install requests beautifulsoup4`.
 - `venue_sites.py` — indexes the venues' own public listings (JSON-LD on Ardmore / MilkBoy / Underground Arts / 118 North / Live Nation venue sites; Rockhouse "Doors | Show" cards on R5 and Johnny Brenda's; AEG's public events JSON for Union Transfer and Franklin Music Hall) plus everything in `docs/venues/events.json` from the venue scrapers below, and matches shows by ticket URL, then by date + artist name.
 - `phila_to_ics.py` — builds `docs/phila.ics` from the city's department calendars (drops recurring series that already ended; falls back to the saved calendar list if the city API blocks the request).
+- `flp_to_ics.py` — builds `docs/flp.ics` from `libwww.freelibrary.org/rss/eventsrss.cfm`. Each feed returns only the next 10 events, so it walks every branch (codes from the RSS menu) and, for busy branches, each category, and merges into `docs/flp_history.json`. Times come from the line every item ends with ("11/12/26, 10:00 A.M. - Andorra Library"); events are 1 hour long by default. Runs at most once per 20 h. Busy branches (Parkway Central) only reach a week or two ahead; cancellations aren't detected.
 - `calfind.py` — finds embedded calendar feeds on any site: `python3 calfind.py --deep URL`.
 
 The feed scripts are plain Python 3; `xpn_times.py` and the venue scrapers need `pip install requests beautifulsoup4`.

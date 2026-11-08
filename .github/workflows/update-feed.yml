@@ -44,6 +44,10 @@ jobs:
       - name: Build Grid Magazine feed
         continue-on-error: true
         run: python3 grid_to_ics.py --out docs/grid.ics
+      # Runs at most once a day (the script skips itself otherwise) to keep load off the library's server
+      - name: Build Free Library feed
+        continue-on-error: true
+        run: python3 flp_to_ics.py --out docs/flp.ics --history docs/flp_history.json
       - name: Build City of Philadelphia feed
         continue-on-error: true
         run: python3 phila_to_ics.py --out docs/phila.ics --list docs/phila_calendars.json
