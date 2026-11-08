@@ -41,8 +41,21 @@ BLOCKED = {"ticketmaster.com", "axs.com", "tixr.com", "etix.com", "livenation.co
 RETRY_DAYS = 7
 WORKERS = 8
 
+# Venues whose ticket link is the show's own page on the venue site. There the
+# time on the page is the show's time, so the "must be near the date" guard used
+# for generic pages (restaurant hours, box-office hours) is not needed.
+EVENT_PAGE_HOSTS = {
+    "thecolonialtheatre.com", "kungfunecktie.com", "newhopewinery.com", "folkclub.org",
+    "elevatevocalarts.org", "camerataphiladelphia.org", "ensembleartsphilly.org",
+    "silkcityphilly.com", "variousartistsfestival.com", "xfinitymobilearena.com",
+    "brooklynbowl.com", "tickets.citywinery.com", "utphilly.com", "harmoniehall.space",
+    "thelansdownetheater.com", "scottishriteauditorium.com", "pennlivearts.org",
+}
+
 CLOCK = r"(\d{1,2})(?::(\d{2}))?\s*([ap])\.?\s*m\.?"
-LABELLED = re.compile(r"\b(show|showtime|starts?|start time|music|performance|concert)\b\W{0,12}(?:at\W)?" + CLOCK, re.I)
+LABELLED = re.compile(
+    r"\b(show|showtime|starts?|start time|music|performance|concert|curtain|takes the stage|on stage|set time)s?\b"
+    r"\W{0,12}(?:(?:at|begins?|starts?)\W{0,3})?" + CLOCK, re.I)
 DOORS = re.compile(r"\bdoors?\b\W{0,12}(?:at\W)?(?:open\W{0,3})?" + CLOCK, re.I)
 ANY = re.compile(r"(?<![\d:])" + CLOCK + r"(?![\d:])", re.I)
 LD_START = re.compile(r'"startDate"\s*:\s*"([^"]+)"')
@@ -92,7 +105,7 @@ def near_date(text, pos, show_date, window=400):
     return any(p.search(seg) for p in date_patterns(show_date))
 
 
-def from_text(text, show_date):
+def from_text(text, show_date, event_page=False):
     m = LABELLED.search(text)
     if m:
         t = _t(*m.groups()[1:])
@@ -100,15 +113,16 @@ def from_text(text, show_date):
             return t, "show"
     # Looser rules only count when the time sits next to the show's date, so a
     # restaurant's "open 5:00 PM" or box-office hours elsewhere on the page don't win.
+    # On a venue's own event page (EVENT_PAGE_HOSTS) that guard is skipped.
+    ok = (lambda pos: True) if event_page else (lambda pos: near_date(text, pos, show_date))
     for m in DOORS.finditer(text):
         t = _t(*m.groups())
-        if plausible(t) and near_date(text, m.start(), show_date):
+        if plausible(t) and ok(m.start()):
             return (dt.datetime.combine(dt.date.today(), t) + dt.timedelta(hours=1)).time(), "doors+1h"
-    evening = sorted(t for t in (_t(*m.groups()) for m in ANY.finditer(text)
-                                 if near_date(text, m.start(), show_date))
+    evening = sorted(t for t in (_t(*m.groups()) for m in ANY.finditer(text) if ok(m.start()))
                      if plausible(t) and t >= dt.time(17, 0))
     if evening:
-        return evening[0], "evening-time-near-date"
+        return evening[0], "evening-time-on-event-page" if event_page else "evening-time-near-date"
     return None
 
 
@@ -130,7 +144,8 @@ def lookup(url, show_date):
     for tag in soup(["script", "style", "noscript"]):
         tag.decompose()
     text = re.sub(r"\s+", " ", soup.get_text(" "))
-    hit = from_text(text, show_date)
+    event_page = host in EVENT_PAGE_HOSTS and urllib.parse.urlsplit(url).path.strip("/") != ""
+    hit = from_text(text, show_date, event_page)
     return hit if hit else (None, "no-time-found")
 
 

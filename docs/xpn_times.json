@@ -685,8 +685,8 @@
  },
  "513796": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "doors+1h",
+  "time": "19:00",
   "url": "https://tickets.citywinery.com/event/cus-campbell-li5gdp?_gl=1*60fcso*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMjA4MzQ4Mjg2OC4xNzkyNTA4NTU5LjE3OTI1MTAxNjk.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTI1MDg1NTkkbzEyJGcxJHQxNzkyNTEwMTcwJGo1NyRsMCRoMTkwMTk3NjUxOQ.."
  },
  "513802": {
@@ -901,14 +901,14 @@
  },
  "513958": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "show",
+  "time": "19:30",
   "url": "https://thecolonialtheatre.com/events/guest-presentations/music-for-everyone-vanessa-collier/"
  },
  "513964": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "evening-time-near-date",
+  "time": "20:00",
   "url": "https://thecolonialtheatre.com/events/colonial-events/hush-an-immersive-speakeasy-experience/"
  },
  "513967": {
@@ -931,8 +931,8 @@
  },
  "513975": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "evening-time-near-date",
+  "time": "20:00",
   "url": "https://thecolonialtheatre.com/events/live-music/judy-collins-sweet-judy-blue-eyes-farewell-tour/"
  },
  "513977": {
@@ -967,14 +967,14 @@
  },
  "513998": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "evening-time-near-date",
+  "time": "20:00",
   "url": "https://thecolonialtheatre.com/events/live-music/rachael-vilray-2/"
  },
  "514004": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "evening-time-near-date",
+  "time": "19:30",
   "url": "https://thecolonialtheatre.com/events/live-music/tab-benoit-w-bonerama/"
  },
  "514007": {
@@ -1621,8 +1621,8 @@
  },
  "514733": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "evening-time-near-date",
+  "time": "18:00",
   "url": "https://newhopewinery.com/event/liz-longley-with-special-guests-the-young-fables-the-holiday-fuss-tour/"
  },
  "514735": {
@@ -1771,7 +1771,7 @@
  },
  "514814": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
+  "source": "http:200",
   "time": null,
   "url": "https://www.parxcasino.com/bensalem/calendar"
  },
@@ -2065,14 +2065,14 @@
  },
  "515483": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "show",
+  "time": "19:00",
   "url": "https://www.southjazzkitchen.com/event/tammy-mccann-merry-christmas-baby-december-4-5-6-showtimes-vary-by-day/"
  },
  "515485": {
   "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
+  "source": "show",
+  "time": "19:00",
   "url": "https://www.southjazzkitchen.com/event/tammy-mccann-merry-christmas-baby-december-4-5-6-showtimes-vary-by-day/"
  },
  "515491": {

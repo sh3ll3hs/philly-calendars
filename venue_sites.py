@@ -40,7 +40,9 @@ LISTINGS = [
     "https://www.ardmoremusichall.com/",
     "https://www.118northwayne.com/calendar",
     "https://www.milkboyphilly.com/",
+    "https://www.milkboyphilly.com/events",
     "https://undergroundarts.org/",
+    "https://undergroundarts.org/events/",
     "https://www.thefillmorephilly.com/shows",      # The Fillmore + The Foundry
     "https://www.themetphilly.com/shows",
     "https://www.tlaphilly.com/shows",
