@@ -1189,6 +1189,25 @@
   "url": "https://phillygaycalendar.com/events/costume-contest/",
   "venue": "Franky Bradley's"
  },
+ "44850-2026-11-15": {
+  "address": "605 S 3rd St, Philadelphia, PA 19147",
+  "all_day": false,
+  "cats": [
+   "Community",
+   "Lesbian"
+  ],
+  "date": "2026-11-15",
+  "desc": "Stretch, Sip, and Socialize! Join us for an invigorating yoga experience at Val's Lesbian Bar on Sunday, November 15th. This is not just any yoga class; it's a celebration of community, wellness, and all things LGBT+. Led by the vibrant\u2026",
+  "end": "2026-11-15T17:30:00",
+  "id": 44850,
+  "performers": "",
+  "start": "2026-11-15T16:30:00",
+  "ticket": "https://www.instagram.com/p/DepRr9CSQv3/",
+  "time": "11:30 AM \u2013 12:30 PM",
+  "title": "GET STRETCHED",
+  "url": "https://phillygaycalendar.com/events/get-stretched/",
+  "venue": "Val's Lesbian Bar"
+ },
  "44852-2026-10-31": {
   "address": "4014 Walnut Street, Philadelphia, PA",
   "all_day": false,
@@ -1516,6 +1535,25 @@
   "url": "https://phillygaycalendar.com/events/eagles-watch-party-2/",
   "venue": "Two Locals Brewing Co"
  },
+ "45174-2026-11-15": {
+  "address": "140 N Christopher Columbus Blvd, Philadelphia, PA 19106, USA",
+  "all_day": false,
+  "cats": [
+   "Brunch",
+   "Drag"
+  ],
+  "date": "2026-11-15",
+  "desc": "Join us for a fabulous Drag Brunch with Brittany Lynn and her dolls, a buffet brunch, bottomless mimosas, and dazzling performances! Hosted by Brittany Lynn, with performances by her Philly Drag Mafia.",
+  "end": "2026-11-15T14:00:00",
+  "id": 45174,
+  "performers": "Brittany Lynn",
+  "start": "2026-11-15T11:00:00",
+  "ticket": "https://www.eventbrite.com/e/drag-brunch-returns-to-fringe-arts-tickets-2003005084126?utm_experiment=test_share_listing&aff=ebdsshios&sg=0503a5036fdd4d4544c98ebb21adbaff16b46f4e92b1b3a1b10a088ed5ea5a80a3de657b6d521198ece107125300d9c7f147e6aabb9f06b4c559bb10193d942d2f6b6654cbdbf9efeff2930f24fa",
+  "time": "6:00 AM \u2013 9:00 AM",
+  "title": "Brittany Lynn Hosts Drag Brunch",
+  "url": "https://phillygaycalendar.com/events/brittany-lynn-hosts-drag-brunch/",
+  "venue": "FringeArts"
+ },
  "45177-2026-11-14": {
   "address": "615 N. Broad St, Philadelphia, PA 19123",
   "all_day": false,
@@ -1753,6 +1791,22 @@
   "url": "https://phillygaycalendar.com/events/examining-the-legacy-of-william-bill-way-1942-1988/",
   "venue": "Church of St Luke and the Epiphany"
  },
+ "45894-2026-11-15": {
+  "address": "636 Bear Tavern Rd, Ewing Township, NJ 08628, USA",
+  "all_day": false,
+  "cats": [],
+  "date": "2026-11-15",
+  "desc": "Lambda Car Club International (LCCI), is the largest car club for LGBTQ+ and LGBTQ-friendly automobile enthusiasts in North America. Join us for this month's gathering at Al's Airport Inn in Ewing NJ. We're excited to return to this LGBTQ+ friendly\u2026",
+  "end": "2026-11-15T14:00:00",
+  "id": 45894,
+  "performers": "",
+  "start": "2026-11-15T11:30:00",
+  "ticket": "https://www.lambdacarclub.com/content.aspx?page_id=4002&club_id=829724&item_id=2926538",
+  "time": "6:30 AM \u2013 9:00 AM",
+  "title": "Cars and Brunch \u2013 Lambda Car Club International \u2013 Delaware Valley Region",
+  "url": "https://phillygaycalendar.com/events/cars-and-brunch-lambda-car-club-international-delaware-valley-region/",
+  "venue": "Al's Airport Inn"
+ },
  "45958-2026-11-13": {
   "address": "Above Rosie's Tacos, 624 S 6th Street",
   "all_day": false,
@@ -1851,6 +1905,27 @@
   "title": "TEASE Vol. 5: Glamour, Seduction & Burlesque",
   "url": "https://phillygaycalendar.com/events/tease-vol-5-glamour-seduction-burlesque/",
   "venue": "Fabrika"
+ },
+ "46006-2026-11-15": {
+  "address": "1320 Chancellor St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Arts & Theater",
+   "Burlesque",
+   "Comedy",
+   "Dinner"
+  ],
+  "date": "2026-11-15",
+  "desc": "Shrek is love, Shrek is life, Shrek is burlesque! We are excited to announce SWAMP A$$: A Drag & Burlesque Tribute to SHREK!! We promise you this show has layers. Come to our swamp (aka Franky Bradleys) on November 15th\u2026",
+  "end": "2026-11-15T22:30:00",
+  "id": 46006,
+  "performers": "Andy Laine, Betty Brash, Bodacious K, Darling Fox, Harley Honey, Jaeda, Maya Precious, Nicole Etage, Selene Rose, The Amazing Brettzo",
+  "start": "2026-11-15T20:00:00",
+  "ticket": "https://www.eventbrite.com/e/swamp-a-a-drag-burlesque-tribute-to-shrek-tickets-2003418319123?aff=oddtdtcreator",
+  "time": "3:00 PM \u2013 5:30 PM",
+  "title": "Dark Side Presents Swamp A$$: A Drag & Burlesque Tribute to Shrek",
+  "url": "https://phillygaycalendar.com/events/dark-side-presents-swamp-a-a-drag-burlesque-tribute-to-shrek/",
+  "venue": "Franky Bradley's"
  },
  "46031-2026-11-11": {
   "address": "1123 S Broad St, Philadelphia, PA 19147, USA",
