@@ -5,9 +5,10 @@ xpn_to_ics.py — turn WXPN's concert calendar into a subscribable .ics.
 xpn.org's own iCal export (/concert-and-events/?ical=1) stops at 30 events.
 The site's Events Calendar REST API has all of them (hundreds, months ahead),
 so this script pages through that and writes one all-day event per show.
-XPN lists dates but not show times. Rather than all-day events (which pile up
-in the all-day band), each show gets a placeholder evening slot (default
-8:00-11:00 PM) and a note to check the ticket link for the real time.
+XPN lists dates but not show times. xpn_times.py follows each show's ticket
+link and scrapes the real time where the venue page exposes it (cached in
+--times-cache). Shows whose ticket site blocks lookups, or lists no time, get
+a placeholder evening slot (default 8:00-11:00 PM) and a note saying so.
 
 Usage:
     python3 xpn_to_ics.py                                  # all regions -> xpn.ics
@@ -31,6 +32,7 @@ import urllib.parse
 import urllib.request
 
 from pgc_to_ics import VTIMEZONE, TZID, esc, fold
+from xpn_times import resolve_times
 
 API = "https://xpn.org/wp-json/tribe/events/v1/events"
 UA = "Mozilla/5.0 (xpn_to_ics; personal calendar subscription)"
@@ -75,12 +77,18 @@ def main():
     ap.add_argument("--all-day", action="store_true", help="write all-day events instead of a placeholder slot")
     ap.add_argument("--start", default="20:00", help="placeholder start time, HH:MM (default 20:00)")
     ap.add_argument("--hours", type=float, default=3, help="placeholder length in hours (default 3)")
+    ap.add_argument("--times-cache", default="xpn_times.json", help="cache of scraped show times")
+    ap.add_argument("--no-scrape", action="store_true", help="don't visit ticket pages; placeholders only")
     a = ap.parse_args()
     keep = {r.strip() for r in a.regions.split(",") if r.strip()}
     slot = dt.time(*map(int, a.start.split(":")))
 
     today = dt.date.today()
     raw = fetch_all(today.isoformat(), (today + dt.timedelta(days=a.days_ahead)).isoformat())
+    times = {}
+    if not a.all_day and not a.no_scrape:
+        times = resolve_times([{"id": e["id"], "website": e.get("website"), "date": e["start_date"][:10]}
+                               for e in raw], a.times_cache)
     now = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     out = ["BEGIN:VCALENDAR", "VERSION:2.0",
            "PRODID:-//xpn_to_ics//WXPN Concerts//EN",
@@ -108,8 +116,16 @@ def main():
         url = e.get("url") or ""
         tickets = e.get("website") or ""
         extras = [c for c in cats if c not in REGIONS]  # e.g. "WXPN Welcomes", "Free At Noon"
+        rec = times.get(str(e["id"])) or {}
+        real = dt.time(*map(int, rec["time"].split(":"))) if rec.get("time") else None
+        if a.all_day:
+            note = ""
+        elif real:
+            note = f"Show time from the ticket page ({urllib.parse.urlsplit(tickets).netloc.removeprefix('www.')})."
+        else:
+            note = "Show time not listed by XPN - check the ticket link."
         desc = "\n".join(x for x in (
-            "" if a.all_day else "Show time not listed by XPN - check the ticket link.",
+            note,
             f"Venue: {venue}" if venue else "",
             f"Region: {region}" if region else "",
             ", ".join(extras),
@@ -121,7 +137,7 @@ def main():
             out += [f"DTSTART;VALUE=DATE:{start:%Y%m%d}",
                     f"DTEND;VALUE=DATE:{end + dt.timedelta(days=1):%Y%m%d}"]
         else:
-            s = dt.datetime.combine(start, slot)
+            s = dt.datetime.combine(start, real or slot)
             en = s + dt.timedelta(hours=a.hours)
             out += [f"DTSTART;TZID={TZID}:{s:%Y%m%dT%H%M%S}",
                     f"DTEND;TZID={TZID}:{en:%Y%m%dT%H%M%S}"]

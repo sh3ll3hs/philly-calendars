@@ -26,9 +26,11 @@ jobs:
       - name: Build WKDU Philly Haps feed
         continue-on-error: true
         run: python3 wkdu_to_ics.py --out docs/wkdu.ics --venues docs/wkdu_venues.json
+      - name: Install scraping libraries
+        run: pip install --quiet requests beautifulsoup4
       - name: Build WXPN concert feed
         continue-on-error: true
-        run: python3 xpn_to_ics.py --out docs/xpn.ics
+        run: python3 xpn_to_ics.py --out docs/xpn.ics --times-cache docs/xpn_times.json
       - name: Build Grid Magazine feed
         continue-on-error: true
         run: python3 grid_to_ics.py --out docs/grid.ics
