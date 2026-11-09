@@ -1,53 +1,6 @@
 [
  {
   "venue": "Sellersville Theater",
-  "title": "3 Decades Rewind presents The 70's Show",
-  "subtitle": null,
-  "date": "2026-11-08",
-  "show_time": "14:00",
-  "doors_time": "13:30",
-  "set_times": [],
-  "url": "https://www.st94.com/events/3-decades-rewind-presents-the-70s-show/",
-  "ticket_url": "https://www.etix.com/ticket/p/99569036/3-decades-rewind-presents-the-70s-show-sellersville-sellersville-theater-1894",
-  "price": "$29.5 to $56.5",
-  "source": "html",
-  "needs_manual": false,
-  "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "SOUTH Jazz Club",
-  "title": "PHER",
-  "subtitle": null,
-  "date": "2026-11-08",
-  "show_time": "18:00",
-  "doors_time": null,
-  "set_times": [
-   "18:00",
-   "20:30"
-  ],
-  "url": "https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/",
-  "ticket_url": null,
-  "price": null,
-  "source": "html",
-  "needs_manual": false
- },
- {
-  "venue": "Sellersville Theater",
-  "title": "Robbie Fulks and Heather Maloney",
-  "subtitle": null,
-  "date": "2026-11-08",
-  "show_time": "20:00",
-  "doors_time": "19:30",
-  "set_times": [],
-  "url": "https://www.st94.com/events/robbie-fulks-and-heather-maloney/",
-  "ticket_url": "https://www.etix.com/ticket/p/66207054/robbie-fulks-and-heather-maloney-sellersville-sellersville-theater-1894",
-  "price": "$25 to $46.5",
-  "source": "html",
-  "needs_manual": false,
-  "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Sellersville Theater",
   "title": "Dine & Donate: Upper Bucks County Technical School Culinary Arts",
   "subtitle": null,
   "date": "2026-11-09",
@@ -174,7 +127,7 @@
   "show_time": null,
   "doors_time": null,
   "set_times": [],
-  "url": "https://www.southjazzkitchen.com/event/spur-of-the-moment-thursday-november-12-presented-by-unscripted-jazz/",
+  "url": "https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/",
   "ticket_url": null,
   "price": null,
   "source": "html",
@@ -2188,21 +2141,6 @@
  },
  {
   "venue": "Parx Casino",
-  "title": "Joe Conklin Holiday Special",
-  "subtitle": "with The City Rhythm Orchestra",
-  "date": "2026-12-17",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
   "title": "Get The Led Out",
   "subtitle": null,
   "date": "2026-12-17",
@@ -2215,6 +2153,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "Xcite Center"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Joe Conklin Holiday Special",
+  "subtitle": "with The City Rhythm Orchestra",
+  "date": "2026-12-17",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
@@ -2245,6 +2198,20 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "SOUTH Jazz Club",
+  "title": "Carol Riddick A Holiday To Remember",
+  "subtitle": null,
+  "date": "2026-12-18",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.southjazzkitchen.com/event/carol-riddick-a-holiday-to-remember-dec-18-20-showtimes-vary-by-day/",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
  },
  {
   "venue": "Sellersville Theater",
@@ -2395,6 +2362,20 @@
   "needs_manual": true
  },
  {
+  "venue": "SOUTH Jazz Club",
+  "title": "Carol Riddick A Holiday To Remember",
+  "subtitle": null,
+  "date": "2026-12-19",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.southjazzkitchen.com/event/carol-riddick-a-holiday-to-remember-dec-18-20-showtimes-vary-by-day/",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
+ },
+ {
   "venue": "The Queen",
   "title": "Santa Brunch",
   "subtitle": null,
@@ -2508,6 +2489,20 @@
   "doors_time": null,
   "set_times": [],
   "url": "http://beta.dawsonstreetpub.com/index.php",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
+ },
+ {
+  "venue": "SOUTH Jazz Club",
+  "title": "Carol Riddick A Holiday To Remember",
+  "subtitle": null,
+  "date": "2026-12-20",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.southjazzkitchen.com/event/carol-riddick-a-holiday-to-remember-dec-18-20-showtimes-vary-by-day/",
   "ticket_url": null,
   "price": null,
   "source": "html",

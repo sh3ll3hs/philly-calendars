@@ -1,7 +1,4 @@
 venue,title,subtitle,date,show_time,doors_time,set_times,url,ticket_url,price,source,needs_manual,room
-Sellersville Theater,3 Decades Rewind presents The 70's Show,,2026-11-08,14:00,13:30,,https://www.st94.com/events/3-decades-rewind-presents-the-70s-show/,https://www.etix.com/ticket/p/99569036/3-decades-rewind-presents-the-70s-show-sellersville-sellersville-theater-1894,$29.5 to $56.5,html,False,Sellersville Theater 1894
-SOUTH Jazz Club,PHER,,2026-11-08,18:00,,18:00 20:30,https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/,,,html,False,
-Sellersville Theater,Robbie Fulks and Heather Maloney,,2026-11-08,20:00,19:30,,https://www.st94.com/events/robbie-fulks-and-heather-maloney/,https://www.etix.com/ticket/p/66207054/robbie-fulks-and-heather-maloney-sellersville-sellersville-theater-1894,$25 to $46.5,html,False,Sellersville Theater 1894
 Sellersville Theater,Dine & Donate: Upper Bucks County Technical School Culinary Arts,,2026-11-09,16:00,,,https://www.st94.com/events/dine-donate-upper-bucks-county-technical-school-culinary-arts-2/,https://www.etix.com/ticket/p/63910545/dine-donateupper-bucks-county-technical-school-culinary-arts-sellersville-the-washington-house,,html,False,The Washington House
 The Queen,The Maine,,2026-11-09,19:30,18:30,,https://thequeenwilmington.com/events/the-maine/,https://www.ticketmaster.com/the-maine-wilmington-delaware-11-09-2026/event/020064A5929898FA,,html,False,The Main Hall
 Sellersville Theater,Spirit Tasting Dinner: An Evening with St. George Spirits,,2026-11-10,17:00,,,https://www.st94.com/events/spirit-tasting-dinner-an-evening-with-st-george-spirits/,,,html,False,The Washington House
@@ -10,7 +7,7 @@ Parx Casino,Sway Duo featuring Joanne Farrell,,2026-11-11,17:00,,,https://www.pa
 Parx Casino,A Salute To Veterans,"Featuring former U.S. Navy Seal, Robert J. O'Neill in conversation with Michael Smerconish",2026-11-11,19:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Beer Garden
 The Queen,Microwave / Free Throw,,2026-11-11,19:00,18:00,,https://thequeenwilmington.com/events/microwave-free-throw/,https://www.ticketmaster.com/microwave-free-throw-wilmington-delaware-11-11-2026/event/020064D18D2575AC,,html,False,The Main Hall
 Sellersville Theater,WXPN Welcomes Rachael Yamagata,,2026-11-11,20:00,19:30,,https://www.st94.com/events/rachael-yamagata/,https://www.etix.com/ticket/p/42537264/wxpn-welcomes-rachael-yamagata-sellersville-sellersville-theater-1894,$35 to $56.5,html,False,Sellersville Theater 1894
-SOUTH Jazz Club,SPUR OF THE MOMENT,presented by UNSCRIPTED JAZZ,2026-11-12,,,,https://www.southjazzkitchen.com/event/spur-of-the-moment-thursday-november-12-presented-by-unscripted-jazz/,,,html,True,
+SOUTH Jazz Club,SPUR OF THE MOMENT,presented by UNSCRIPTED JAZZ,2026-11-12,,,,https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/,,,html,True,
 Parx Casino,The Chris Stevens Duo,,2026-11-12,17:30,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Liberty Bell Gastropub
 Parx Casino,ALT 104.5 Friendsgiving,The All-American Rejects with Modern Alibi,2026-11-12,20:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Xcite Center
 Parx Casino,Rumba 106.1 presents 360 Latin Night!,"Latin Dance Lessons with Rogerson St. Jean ""Oneof Akind"" & musical performance by Luisito Rosario & Y Su Orchestra",2026-11-12,20:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,360
@@ -145,10 +142,11 @@ Sellersville Theater,Greg Sover and Brian Quinn Band,,2026-12-15,19:30,19:00,,ht
 Parx Casino,Sway Duo featuring Joanne Farrell,,2026-12-16,17:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Liberty Bell Gastropub
 Sellersville Theater,Sue Foley / GA-20 - Together For The Holidays,,2026-12-16,20:00,19:30,,https://www.st94.com/events/sue-foley-ga-20-together-for-the-holidays/,https://www.etix.com/ticket/p/48628030/sue-foley-ga20-together-for-the-holidays-sellersville-sellersville-theater-1894,$35 to $56.5,html,False,Sellersville Theater 1894
 Parx Casino,The Chris Stevens Duo,,2026-12-17,17:30,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Liberty Bell Gastropub
-Parx Casino,Joe Conklin Holiday Special,with The City Rhythm Orchestra,2026-12-17,20:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,360
 Parx Casino,Get The Led Out,,2026-12-17,20:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Xcite Center
+Parx Casino,Joe Conklin Holiday Special,with The City Rhythm Orchestra,2026-12-17,20:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,360
 Sellersville Theater,WXPN Welcomes Steven Page (formerly of Barenaked Ladies) - Steven's Greetings,,2026-12-17,20:00,19:30,,https://www.st94.com/events/steven-page-formerly-of-barenaked-ladies-stevens-greetings/,https://www.etix.com/ticket/p/96778441/wxpn-welcomes-steven-page-formerly-of-barenaked-ladiesstevens-greetings-sellersville-sellersville-theater-1894,$35 to $72,html,False,Sellersville Theater 1894
 The Queen,Ski Mask The Slump God,,2026-12-17,20:00,19:00,,https://thequeenwilmington.com/events/ski-mask-the-slump-god/,https://www.ticketmaster.com/ski-mask-the-slump-god-wilmington-delaware-12-17-2026/event/0200655D8B024130,,html,False,The Main Hall
+SOUTH Jazz Club,Carol Riddick A Holiday To Remember,,2026-12-18,,,,https://www.southjazzkitchen.com/event/carol-riddick-a-holiday-to-remember-dec-18-20-showtimes-vary-by-day/,,,html,True,
 Sellersville Theater,Wine Flights,,2026-12-18,17:00,,,https://www.st94.com/events/wine-flights-71/,https://www.etix.com/ticket/p/45481949/wine-flights-sellersville-the-washington-house,,html,False,The Washington House
 Parx Casino,Lady A,This Winter's Night Tour 2026,2026-12-18,20:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Xcite Center
 Sellersville Theater,An Evening with Emma Nissen,,2026-12-18,20:00,19:30,,https://www.st94.com/events/an-evening-with-emma-nissen/,https://www.etix.com/ticket/p/92608132/an-evening-with-emma-nissen-sellersville-sellersville-theater-1894,$35 to $66.5,html,False,Sellersville Theater 1894
@@ -159,6 +157,7 @@ Parx Casino,Friday Night Throwback!,Rustic Revival,2026-12-18,21:00,,,https://ww
 Parx Casino,Deen Anthony,,2026-12-18,21:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Xlounge
 Dawson Street Pub,Bitchfork w/ Kat Rivers and the Second Sight,,2026-12-19,,,,http://beta.dawsonstreetpub.com/index.php,,,html,True,
 Dawson Street Pub,Philly Blind Pig BBQ!,,2026-12-19,,,,http://beta.dawsonstreetpub.com/index.php,,,html,True,
+SOUTH Jazz Club,Carol Riddick A Holiday To Remember,,2026-12-19,,,,https://www.southjazzkitchen.com/event/carol-riddick-a-holiday-to-remember-dec-18-20-showtimes-vary-by-day/,,,html,True,
 The Queen,Santa Brunch,,2026-12-19,11:30,10:30,,https://thequeenwilmington.com/events/santa-brunch/,https://www.ticketmaster.com/santa-brunch-wilmington-delaware-12-19-2026/event/0200655E9A127D00,,html,False,The Main Hall
 Sellersville Theater,Beatlemania Now is Fab Forever! (3 PM),,2026-12-19,15:00,14:30,,https://www.st94.com/events/beatlemania-now-is-fab-forever-3-pm/,https://www.etix.com/ticket/p/63697024/beatlemania-now-is-fab-forever3-pm-sellersville-sellersville-theater-1894,$15 to $57,html,False,Sellersville Theater 1894
 The Queen,Legends of The Song Kids Christmas presented by Dana Sorey,,2026-12-19,19:30,18:00,,https://thequeenwilmington.com/events/legends-of-the-song-kids-christmas-presented-by-dana-sorey/,https://www.ticketmaster.com/legends-of-the-song-kids-christmas-wilmington-delaware-12-19-2026/event/0200655680134215,,html,False,The Main Hall
@@ -167,6 +166,7 @@ Sellersville Theater,Beatlemania Now is Fab Forever! (8 PM),,2026-12-19,20:00,19
 Parx Casino,Jolly Monroe,,2026-12-19,21:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,360
 Parx Casino,Brandon Alex,,2026-12-19,21:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Xlounge
 Dawson Street Pub,Philly Blind Pig BBQ!,,2026-12-20,,,,http://beta.dawsonstreetpub.com/index.php,,,html,True,
+SOUTH Jazz Club,Carol Riddick A Holiday To Remember,,2026-12-20,,,,https://www.southjazzkitchen.com/event/carol-riddick-a-holiday-to-remember-dec-18-20-showtimes-vary-by-day/,,,html,True,
 Sellersville Theater,Musiquita's Nutcracker Tap Dance Special,,2026-12-20,11:00,10:30,,https://www.st94.com/events/musiquitas-nutcracker-tap-dance-special/,https://www.etix.com/ticket/p/94349386/musiquitas-nutcracker-tap-dance-special-sellersville-sellersville-theater-1894,$15 to $18.5,html,False,Sellersville Theater 1894
 Dawson Street Pub,Slowey & The Boats,,2026-12-20,17:00,,,http://beta.dawsonstreetpub.com/index.php,,,html,False,
 Sellersville Theater,"Mary Fahl (formerly of October Project) - ""Wintersongs""",,2026-12-20,19:30,19:00,,https://www.st94.com/events/mary-fahl-formerly-of-october-project-wintersongs/,https://www.etix.com/ticket/p/60050082/mary-fahl-formerly-of-october-projectwintersongs-sellersville-sellersville-theater-1894,$39.5 to $76.5,html,False,Sellersville Theater 1894
