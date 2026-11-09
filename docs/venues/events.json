@@ -286,21 +286,6 @@
  },
  {
   "venue": "Parx Casino",
-  "title": "Friday Night Throwback!",
-  "subtitle": "Anger Management",
-  "date": "2026-11-13",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
   "title": "Teso",
   "subtitle": null,
   "date": "2026-11-13",
@@ -313,6 +298,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "Xlounge"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Friday Night Throwback!",
+  "subtitle": "Anger Management",
+  "date": "2026-11-13",
+  "show_time": "21:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
@@ -645,21 +645,6 @@
  },
  {
   "venue": "Parx Casino",
-  "title": "Jodeci",
-  "subtitle": "35th Anniversary Tour of Forever My Lady",
-  "date": "2026-11-19",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
-  "venue": "Parx Casino",
   "title": "360 Comedy Night",
   "subtitle": "Gabe Mahalik & Shane Daniels",
   "date": "2026-11-19",
@@ -672,6 +657,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "360"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Jodeci",
+  "subtitle": "35th Anniversary Tour of Forever My Lady",
+  "date": "2026-11-19",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xcite Center"
  },
  {
   "venue": "The Queen",
@@ -779,21 +779,6 @@
  },
  {
   "venue": "Parx Casino",
-  "title": "Teso",
-  "subtitle": null,
-  "date": "2026-11-20",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xlounge"
- },
- {
-  "venue": "Parx Casino",
   "title": "Friday Night Throwback!",
   "subtitle": "Don't Tell Mom",
   "date": "2026-11-20",
@@ -806,6 +791,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "360"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Teso",
+  "subtitle": null,
+  "date": "2026-11-20",
+  "show_time": "21:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xlounge"
  },
  {
   "venue": "Dawson Street Pub",
@@ -1932,21 +1932,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Runnin’ Late Holiday Show",
-  "subtitle": null,
-  "date": "2026-12-12",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/runnin-late-holiday-show/",
-  "ticket_url": "https://www.ticketmaster.com/runnin-late-holiday-show-wilmington-delaware-12-12-2026/event/02006530768A4963",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "Zoso The Ultimate Led Zeppelin Experience",
   "subtitle": null,
   "date": "2026-12-12",
@@ -1959,6 +1944,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Runnin’ Late Holiday Show",
+  "subtitle": null,
+  "date": "2026-12-12",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/runnin-late-holiday-show/",
+  "ticket_url": "https://www.ticketmaster.com/runnin-late-holiday-show-wilmington-delaware-12-12-2026/event/02006530768A4963",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Parx Casino",
@@ -3784,13 +3784,13 @@
  },
  {
   "venue": "Sellersville Theater",
-  "title": "Mariposas GalÃ¡cticas",
+  "title": "Mariposas Galácticas",
   "subtitle": null,
   "date": "2027-02-11",
   "show_time": "19:30",
   "doors_time": "19:00",
   "set_times": [],
-  "url": "https://www.st94.com/events/mariposas-galÃ¡cticas/",
+  "url": "https://www.st94.com/events/mariposas-galácticas/",
   "ticket_url": "https://www.etix.com/ticket/p/74007854/mariposas-gal%C3%A1cticas-sellersville-sellersville-theater-1894",
   "price": "$25 to $32",
   "source": "html",
@@ -3799,13 +3799,13 @@
  },
  {
   "venue": "Sellersville Theater",
-  "title": "LIVESTREAM: Mariposas GalÃ¡cticas",
+  "title": "LIVESTREAM: Mariposas Galácticas",
   "subtitle": null,
   "date": "2027-02-11",
   "show_time": "19:35",
   "doors_time": null,
   "set_times": [],
-  "url": "https://www.st94.com/events/livestream-mariposas-galÃ¡cticas/",
+  "url": "https://www.st94.com/events/livestream-mariposas-galácticas/",
   "ticket_url": "https://www.etix.com/ticket/p/32099183/livestreammariposas-gal%C3%A1cticas-sellersville-sellersville-theater-1894",
   "price": "$10 to $13.5",
   "source": "html",
@@ -4051,6 +4051,21 @@
   "room": "Sellersville Theater 1894"
  },
  {
+  "venue": "Sellersville Theater",
+  "title": "Matt Nathanson - To The Point Solo Tour 2027",
+  "subtitle": null,
+  "date": "2027-02-23",
+  "show_time": "20:00",
+  "doors_time": "19:30",
+  "set_times": [],
+  "url": "https://www.st94.com/events/matt-nathanson-to-the-point-solo-tour-2027/",
+  "ticket_url": "https://www.etix.com/ticket/p/87430407/matt-nathanson-to-the-point-solo-tour-2027-sellersville-sellersville-theater-1894",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
+ },
+ {
   "venue": "Parx Casino",
   "title": "Sway Duo featuring Joanne Farrell",
   "subtitle": null,
@@ -4066,6 +4081,21 @@
   "room": "Liberty Bell Gastropub"
  },
  {
+  "venue": "Sellersville Theater",
+  "title": "Matt Nathanson - To The Point Solo Tour 2027",
+  "subtitle": null,
+  "date": "2027-02-24",
+  "show_time": "20:00",
+  "doors_time": "19:30",
+  "set_times": [],
+  "url": "https://www.st94.com/events/matt-nathanson-to-the-point-solo-tour-2027-2/",
+  "ticket_url": "https://www.etix.com/ticket/p/51763243/matt-nathanson-to-the-point-solo-tour-2027-sellersville-sellersville-theater-1894",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
+ },
+ {
   "venue": "Parx Casino",
   "title": "The Chris Stevens Duo",
   "subtitle": null,
@@ -4079,6 +4109,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "Liberty Bell Gastropub"
+ },
+ {
+  "venue": "Sellersville Theater",
+  "title": "Matt Nathanson - To The Point Solo Tour 2027",
+  "subtitle": null,
+  "date": "2027-02-25",
+  "show_time": "20:00",
+  "doors_time": "19:30",
+  "set_times": [],
+  "url": "https://www.st94.com/events/matt-nathanson-to-the-point-solo-tour-2027-3/",
+  "ticket_url": "https://www.etix.com/ticket/p/55295273/matt-nathanson-to-the-point-solo-tour-2027-sellersville-sellersville-theater-1894",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
  },
  {
   "venue": "Parx Casino",

@@ -1947,5 +1947,26 @@
   "title": "Say Gay \u2013 A Queer Standup Comedy Night",
   "url": "https://phillygaycalendar.com/events/say-gay-a-queer-standup-comedy-night/",
   "venue": "Claude's Comedy Club"
+ },
+ "46040-2026-11-13": {
+  "address": "254, South 12th Street, Philadelphia, PA",
+  "all_day": false,
+  "cats": [
+   "Community",
+   "Karaoke",
+   "Sports",
+   "Trans"
+  ],
+  "date": "2026-11-13",
+  "desc": "Game on! Kicking Out Transphobia opens Transgender Awareness Week with an evening built around joy, connection, and unapologetic celebration. Presented in partnership with SipCity Transcend, this kickoff gathers trans and gender-nonconforming people, their friends, and their allies for a night\u2026",
+  "end": "2026-11-13T21:00:00",
+  "id": 46040,
+  "performers": "Icon Ebony Fierce",
+  "start": "2026-11-13T19:00:00",
+  "ticket": "https://www.instagram.com/p/DfCU5YCFgLo/?img_index=1",
+  "time": "2:00 PM",
+  "title": "Kicking Out Transphobia: Trans Joy Kickoff Karaoke",
+  "url": "https://phillygaycalendar.com/events/kicking-out-transphobia-trans-joy-kickoff-karaoke/",
+  "venue": "254"
  }
 }
