@@ -1703,12 +1703,6 @@
   "time": "17:00",
   "url": "https://www.parxcasino.com/bensalem/calendar"
  },
- "514822": {
-  "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.etix.com/ticket/p/74805995/?_gl=1*145zhgz*_ga*MTQ4ODMyODM0Ny4xNzg0ODUxMzE4*_ga_YQH4P4GGFF*czE3OTMwNjMxMTgkbzMkZzEkdDE3OTMwNjM5NTIkajE5JGwwJGgw"
- },
  "514828": {
   "checked": "2026-11-08",
   "source": "blocked-site",
@@ -2951,23 +2945,11 @@
   "time": "19:30",
   "url": "https://www.eventbrite.com/e/an-evening-with-dirty-doll-house-brad-hinton-tickets-2003831729645?aff=oddtdtcreator"
  },
- "516754": {
-  "checked": "2026-11-09",
-  "source": "evening-time-on-event-page",
-  "time": "19:30",
-  "url": "https://pennlivearts.org/event/BelaFleck"
- },
  "516759": {
   "checked": "2026-11-09",
   "source": "no-time-found",
   "time": null,
   "url": "https://pennlivearts.org/event/HotPeas"
- },
- "516761": {
-  "checked": "2026-11-09",
-  "source": "evening-time-on-event-page",
-  "time": "19:00",
-  "url": "https://pennlivearts.org/event/LouisCato"
  },
  "516765": {
   "checked": "2026-11-09",
@@ -3382,5 +3364,41 @@
   "source": "jsonld",
   "time": "19:30",
   "url": "https://tickets.citywinery.com/event/a-take-6-christmas-1gjk88?_gl=1*1c5z7mx*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMTYzOTQyNTY3Ni4xNzk0Mjg3MTQ2LjE3OTQyODkwNjI.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTQyODcxNDUkbzEzJGcxJHQxNzk0Mjg5MDYyJGo1NSRsMCRoODg1MTgyNTM2"
+ },
+ "516964": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/143850"
+ },
+ "516977": {
+  "checked": "2026-11-10",
+  "source": "venue-site:undergroundarts.org",
+  "time": "20:00",
+  "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-gang-of-four-213440"
+ },
+ "516979": {
+  "checked": "2026-11-10",
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "19:15",
+  "url": "https://www.tixr.com/groups/ardmoremusichall/events/marcy-playground-wheatus-213244"
+ },
+ "516981": {
+  "checked": "2026-11-10",
+  "source": "evening-time-near-date",
+  "time": "17:00",
+  "url": "https://www.delawareriverwaterfront.com/what-to-do/holiday-tree-lighting-powered-by-peco-2026"
+ },
+ "516985": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "20:00",
+  "url": "https://www.bowerbird.org/event/water-can-assume-any-form/"
+ },
+ "516993": {
+  "checked": "2026-11-10",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.etix.com/ticket/p/40460745/?_gl=1*5p3stm*_ga*MTczMzEyNzMzOC4xNzk0MzMyNDM4*_ga_YQH4P4GGFF*czE3OTQzMzI0MzckbzEkZzAkdDE3OTQzMzI0MzckajYwJGwwJGgw"
  }
 }

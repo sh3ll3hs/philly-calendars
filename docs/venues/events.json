@@ -1418,6 +1418,21 @@
   "room": "Xcite Center"
  },
  {
+  "venue": "Sellersville Theater",
+  "title": "Arena Flashback 1976-1983: The Music of Billy Squier, REO Speedwagon, Loverboy and Night Ranger",
+  "subtitle": null,
+  "date": "2026-12-04",
+  "show_time": "20:00",
+  "doors_time": "19:30",
+  "set_times": [],
+  "url": "https://www.st94.com/events/arena-flashback-1976-1983-the-music-of-billy-squier-reo-speedwagon-loverboy-and-night-ranger/",
+  "ticket_url": "https://www.etix.com/ticket/p/74882144/arena-flashback-19761983the-music-of-billy-squierreo-speedwagonloverboy-and-night-ranger-sellersville-sellersville-theater-1894",
+  "price": "$29.5 to $52",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
+ },
+ {
   "venue": "The Queen",
   "title": "A Flock of Seagulls",
   "subtitle": null,
@@ -1902,21 +1917,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Zoso The Ultimate Led Zeppelin Experience",
-  "subtitle": null,
-  "date": "2026-12-12",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/zoso-the-ultimate-led-zeppelin-experience/",
-  "ticket_url": "https://www.ticketmaster.com/zoso-the-ultimate-led-zeppelin-experience-wilmington-delaware-12-12-2026/event/0200651BB2BA1292",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Main Hall"
- },
- {
-  "venue": "The Queen",
   "title": "Runnin’ Late Holiday Show",
   "subtitle": null,
   "date": "2026-12-12",
@@ -1929,6 +1929,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Crown"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Zoso The Ultimate Led Zeppelin Experience",
+  "subtitle": null,
+  "date": "2026-12-12",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/zoso-the-ultimate-led-zeppelin-experience/",
+  "ticket_url": "https://www.ticketmaster.com/zoso-the-ultimate-led-zeppelin-experience-wilmington-delaware-12-12-2026/event/0200651BB2BA1292",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Main Hall"
  },
  {
   "venue": "Parx Casino",
@@ -2230,21 +2245,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Better Off Dead",
-  "subtitle": null,
-  "date": "2026-12-18",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/better-off-dead/",
-  "ticket_url": "https://www.ticketmaster.com/better-off-dead-wilmington-delaware-12-18-2026/event/0200655E8E9D5DF9",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "Echoes – The American Pink Floyd",
   "subtitle": null,
   "date": "2026-12-18",
@@ -2257,6 +2257,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Better Off Dead",
+  "subtitle": null,
+  "date": "2026-12-18",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/better-off-dead/",
+  "ticket_url": "https://www.ticketmaster.com/better-off-dead-wilmington-delaware-12-18-2026/event/0200655E8E9D5DF9",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Sellersville Theater",
@@ -3483,6 +3498,21 @@
   "room": "360"
  },
  {
+  "venue": "Parx Casino",
+  "title": "WXPN welcomes Grace Potter & The Trespassers",
+  "subtitle": "The Trespasser Tour",
+  "date": "2027-01-29",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xcite Center"
+ },
+ {
   "venue": "Sellersville Theater",
   "title": "The Badlees",
   "subtitle": null,
@@ -3706,6 +3736,36 @@
   "source": "json",
   "needs_manual": false,
   "room": "Xcite Center"
+ },
+ {
+  "venue": "Sellersville Theater",
+  "title": "The Gibson Brothers",
+  "subtitle": null,
+  "date": "2027-02-07",
+  "show_time": "19:30",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://www.st94.com/events/the-gibson-brothers/",
+  "ticket_url": "https://www.etix.com/ticket/p/73512139/the-gibson-brothers-sellersville-sellersville-theater-1894",
+  "price": "$29.5 to $52",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
+ },
+ {
+  "venue": "Sellersville Theater",
+  "title": "Mardi Gras Party with James Day & the Fish Fry",
+  "subtitle": null,
+  "date": "2027-02-09",
+  "show_time": "19:30",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://www.st94.com/events/mardi-gras-party-with-james-day-the-fish-fry-2/",
+  "ticket_url": "https://www.etix.com/ticket/p/30066464/mardi-gras-party-with-james-day-the-fish-fry-sellersville-sellersville-theater-1894",
+  "price": "$20 to $42",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
  },
  {
   "venue": "Parx Casino",
@@ -3962,6 +4022,21 @@
   "needs_manual": true
  },
  {
+  "venue": "Sellersville Theater",
+  "title": "Marc Broussard & Ted Broussard",
+  "subtitle": null,
+  "date": "2027-02-19",
+  "show_time": "20:00",
+  "doors_time": "19:30",
+  "set_times": [],
+  "url": "https://www.st94.com/events/marc-broussard-ted-broussard/",
+  "ticket_url": "https://www.etix.com/ticket/p/86700758/marc-broussard-ted-broussard-sellersville-sellersville-theater-1894",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
+ },
+ {
   "venue": "Dawson Street Pub",
   "title": "Kenn Kweder and the Men from WAWA",
   "subtitle": null,
@@ -4030,10 +4105,25 @@
   "set_times": [],
   "url": "https://www.st94.com/events/matt-nathanson-to-the-point-solo-tour-2027/",
   "ticket_url": "https://www.etix.com/ticket/p/87430407/matt-nathanson-to-the-point-solo-tour-2027-sellersville-sellersville-theater-1894",
-  "price": null,
+  "price": "$50 to $92",
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Lucinda Williams And Her Band",
+  "subtitle": null,
+  "date": "2027-02-23",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/lucinda-williams-and-her-band/",
+  "ticket_url": "https://www.ticketmaster.com/lucinda-williams-and-her-band-wilmington-delaware-02-23-2027/event/02006564872A3315",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Main Hall"
  },
  {
   "venue": "Parx Casino",
@@ -4060,7 +4150,7 @@
   "set_times": [],
   "url": "https://www.st94.com/events/matt-nathanson-to-the-point-solo-tour-2027-2/",
   "ticket_url": "https://www.etix.com/ticket/p/51763243/matt-nathanson-to-the-point-solo-tour-2027-sellersville-sellersville-theater-1894",
-  "price": null,
+  "price": "$50 to $92",
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
@@ -4090,7 +4180,7 @@
   "set_times": [],
   "url": "https://www.st94.com/events/matt-nathanson-to-the-point-solo-tour-2027-3/",
   "ticket_url": "https://www.etix.com/ticket/p/55295273/matt-nathanson-to-the-point-solo-tour-2027-sellersville-sellersville-theater-1894",
-  "price": null,
+  "price": "$50 to $92",
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
@@ -4255,6 +4345,21 @@
   "set_times": [],
   "url": "https://thequeenwilmington.com/events/dropkick-murphys/",
   "ticket_url": "https://www.ticketmaster.com/dropkick-murphys-wilmington-delaware-03-08-2027/event/02006537A2779C78",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
+  "title": "An Alleged Evening with Conor Oberst",
+  "subtitle": null,
+  "date": "2027-03-09",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/an-alleged-evening-with-conor-oberst/",
+  "ticket_url": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-wilmington-delaware-03-09-2027/event/020065639B7A416C",
   "price": null,
   "source": "html",
   "needs_manual": false,
@@ -4426,6 +4531,21 @@
   "room": "Sellersville Theater 1894"
  },
  {
+  "venue": "Parx Casino",
+  "title": "Atsuko Okatsuka",
+  "subtitle": "The Big Bowl Tour",
+  "date": "2027-03-26",
+  "show_time": "19:30",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xcite Center"
+ },
+ {
   "venue": "Sellersville Theater",
   "title": "The Land Of Ozz - The Ultimate Ozzy Osbourne Experience (9 PM)",
   "subtitle": null,
@@ -4439,6 +4559,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Todd Rundgren",
+  "subtitle": "Damned If I Do Tour",
+  "date": "2027-03-27",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xcite Center"
  },
  {
   "venue": "Sellersville Theater",
@@ -4570,6 +4705,21 @@
   "set_times": [],
   "url": "https://highmarkmann.org/events/2027-05-12/kings-leon",
   "ticket_url": "https://www.ticketmaster.com/event/02006562C8EA8A0F",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "TD Pavilion"
+ },
+ {
+  "venue": "Highmark Mann",
+  "title": "Two Friends",
+  "subtitle": null,
+  "date": "2027-06-04",
+  "show_time": "19:00",
+  "doors_time": "18:00",
+  "set_times": [],
+  "url": "https://highmarkmann.org/events/2027-06-04/two-friends",
+  "ticket_url": "https://www.ticketmaster.com/event/020065648A7736A2",
   "price": null,
   "source": "html",
   "needs_manual": false,
