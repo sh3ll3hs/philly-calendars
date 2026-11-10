@@ -1583,12 +1583,6 @@
   "time": "20:00",
   "url": "https://newhopewinery.com/event/dar-williams/"
  },
- "514758": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:00",
-  "url": "https://www.ticketweb.com/event/night-moves-nikki-lopez-philly-tickets/15029933"
- },
  "514760": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -1822,12 +1816,6 @@
   "source": "show",
   "time": "20:00",
   "url": "https://www.st94.com/events/mikey-junior-3/"
- },
- "515049": {
-  "checked": "2026-11-08",
-  "source": "show",
-  "time": "19:30",
-  "url": "https://silkcityphilly.com/events/pinto-sunshine-elephants-dancing-wardrobe-malfunction-delay-77-monday-november-9-2026-730-pm/"
  },
  "515051": {
   "checked": "2026-11-08",
@@ -2122,12 +2110,6 @@
   "source": "venue-site:themetphilly.com",
   "time": "20:00",
   "url": "https://www.ticketmaster.com/dalvin-la-melodia-philadelphia-pennsylvania-12-10-2026/event/02006548E78F2B12?_gl=1*xtmvmd*_ga*MzQwNDg2Mjg0LjE3ODU0Mjg1NTc.*_ga_C1T806G4DF*czE3OTA1NDgxNjckbzMkZzEkdDE3OTA1NDgxOTQkajMzJGwwJGgw"
- },
- "515570": {
-  "checked": "2026-11-08",
-  "source": "venue-site:The Queen",
-  "time": "19:30",
-  "url": "https://www.ticketmaster.com/the-maine-wilmington-delaware-11-09-2026/event/020064A5929898FA"
  },
  "515572": {
   "checked": "2026-11-08",
@@ -2987,12 +2969,6 @@
   "time": "19:00",
   "url": "https://pennlivearts.org/event/LouisCato"
  },
- "516763": {
-  "checked": "2026-11-09",
-  "source": "evening-time-on-event-page",
-  "time": "19:00",
-  "url": "https://pennlivearts.org/event/IsaiahJThompson"
- },
  "516765": {
   "checked": "2026-11-09",
   "source": "evening-time-on-event-page",
@@ -3166,5 +3142,245 @@
   "source": "no-time-found",
   "time": null,
   "url": "https://merionconcertband.org/concert-schedule/"
+ },
+ "516849": {
+  "checked": "2026-11-10",
+  "source": "venue-site:brooklynbowl.com",
+  "time": "20:00",
+  "url": "https://www.ticketmaster.com/hunxho-philadelphia-pennsylvania-12-06-2026/event/02006536F29D53F6?_gl=1*1wl9ocj*_ga*MTg1NDMyMTQzNC4xNzg0MDQwMTUx*_ga_C1T806G4DF*czE3OTM0ODAzODQkbzEkZzAkdDE3OTM0ODA3MTYkajE2JGwwJGgw"
+ },
+ "516851": {
+  "checked": "2026-11-10",
+  "source": "venue-site:brooklynbowl.com",
+  "time": "19:00",
+  "url": "https://www.ticketmaster.com/front-porch-revival-a-local-folk-philadelphia-pennsylvania-12-11-2026/event/0200653D0F2F9736?_gl=1*i15dhy*_ga*MTg1NDMyMTQzNC4xNzg0MDQwMTUx*_ga_C1T806G4DF*czE3OTM0ODAzODQkbzEkZzAkdDE3OTM0ODA3MTYkajE2JGwwJGgw"
+ },
+ "516853": {
+  "checked": "2026-11-10",
+  "source": "venue-site:brooklynbowl.com",
+  "time": "20:00",
+  "url": "https://www.ticketmaster.com/penelope-road-philadelphia-pennsylvania-02-09-2027/event/0200655912285853?_gl=1*10loafv*_ga*MTg1NDMyMTQzNC4xNzg0MDQwMTUx*_ga_C1T806G4DF*czE3OTM0ODAzODQkbzEkZzAkdDE3OTM0ODA3MTYkajE2JGwwJGgw"
+ },
+ "516855": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/145761"
+ },
+ "516857": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/143850"
+ },
+ "516859": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "22:30",
+  "url": "https://www.chrisjazzcafe.com/shows/391951"
+ },
+ "516861": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/143338"
+ },
+ "516863": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/141913"
+ },
+ "516865": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/145762"
+ },
+ "516867": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/143851"
+ },
+ "516869": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/143852"
+ },
+ "516871": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "22:30",
+  "url": "https://www.chrisjazzcafe.com/shows/391952"
+ },
+ "516873": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/143794"
+ },
+ "516875": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/143794"
+ },
+ "516877": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/145763"
+ },
+ "516879": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/144017"
+ },
+ "516881": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "22:30",
+  "url": "https://www.chrisjazzcafe.com/shows/391953"
+ },
+ "516883": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/143798"
+ },
+ "516885": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/143798"
+ },
+ "516887": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/145764"
+ },
+ "516889": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/144018"
+ },
+ "516891": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/144022"
+ },
+ "516893": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:00",
+  "url": "https://www.chrisjazzcafe.com/events/145630"
+ },
+ "516895": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/146016"
+ },
+ "516897": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/146091"
+ },
+ "516899": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/146419"
+ },
+ "516901": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/146420"
+ },
+ "516903": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/146420"
+ },
+ "516905": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/146957"
+ },
+ "516907": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/146957"
+ },
+ "516909": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://www.chrisjazzcafe.com/events/146959"
+ },
+ "516911": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://tickets.citywinery.com/event/mike-tramp-of-white-lion-acoustic-11omxp?_gl=1*9v49dw*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMTYzOTQyNTY3Ni4xNzk0Mjg3MTQ2LjE3OTQyODcyMjI.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTQyODcxNDUkbzEzJGcxJHQxNzk0Mjg3MjIyJGo2MCRsMCRoODg1MTgyNTM2"
+ },
+ "516913": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://tickets.citywinery.com/event/david-archuletas-warm-me-up-holiday-tour-2026-fylfxy?_gl=1*1tjs1g5*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMTYzOTQyNTY3Ni4xNzk0Mjg3MTQ2LjE3OTQyODcyMjI.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTQyODcxNDUkbzEzJGcxJHQxNzk0Mjg3NDc0JGozMSRsMCRoODg1MTgyNTM2"
+ },
+ "516915": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://tickets.citywinery.com/event/kate-voegele-then-now-tour-xkrhq1?_gl=1*xggcjp*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMTYzOTQyNTY3Ni4xNzk0Mjg3MTQ2LjE3OTQyODcyMjI.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTQyODcxNDUkbzEzJGcxJHQxNzk0Mjg3ODcwJGo2MCRsMCRoODg1MTgyNTM2"
+ },
+ "516917": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://tickets.citywinery.com/event/jon-mclaughlin-home-for-the-holidays-zodhoq?_gl=1*iv2uop*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMTYzOTQyNTY3Ni4xNzk0Mjg3MTQ2LjE3OTQyODcyMjI.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTQyODcxNDUkbzEzJGcxJHQxNzk0Mjg3OTgzJGozMCRsMCRoODg1MTgyNTM2"
+ },
+ "516919": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://tickets.citywinery.com/event/christopher-michael-stevens-birthday-show-76sqah?_gl=1*1utfjsd*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMTYzOTQyNTY3Ni4xNzk0Mjg3MTQ2LjE3OTQyODgwOTE.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTQyODcxNDUkbzEzJGcxJHQxNzk0Mjg4MDkzJGo1NyRsMCRoODg1MTgyNTM2"
+ },
+ "516921": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://tickets.citywinery.com/event/john-doyle-cathie-ryan-and-mick-mcauley-an-irish-701rwu?_gl=1*1i65ggj*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMTYzOTQyNTY3Ni4xNzk0Mjg3MTQ2LjE3OTQyODgyNDk.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTQyODcxNDUkbzEzJGcxJHQxNzk0Mjg4MjQ5JGo1OSRsMCRoODg1MTgyNTM2"
+ },
+ "516923": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://tickets.citywinery.com/event/everett-bradleys-holidelic-3x9c0d?_gl=1*7zw1ue*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMTYzOTQyNTY3Ni4xNzk0Mjg3MTQ2LjE3OTQyODg1ODE.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTQyODcxNDUkbzEzJGcxJHQxNzk0Mjg4NTgxJGo1OSRsMCRoODg1MTgyNTM2"
+ },
+ "516926": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://tickets.citywinery.com/event/mickey-guyton-friends-holiday-tour-h4amc0?_gl=1*x2iofz*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMTYzOTQyNTY3Ni4xNzk0Mjg3MTQ2LjE3OTQyODg4MTI.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTQyODcxNDUkbzEzJGcxJHQxNzk0Mjg4ODEyJGo1OCRsMCRoODg1MTgyNTM2"
+ },
+ "516928": {
+  "checked": "2026-11-10",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://tickets.citywinery.com/event/a-take-6-christmas-1gjk88?_gl=1*1c5z7mx*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMTYzOTQyNTY3Ni4xNzk0Mjg3MTQ2LjE3OTQyODkwNjI.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTQyODcxNDUkbzEzJGcxJHQxNzk0Mjg5MDYyJGo1NSRsMCRoODg1MTgyNTM2"
  }
 }

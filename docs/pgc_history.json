@@ -75,6 +75,25 @@
   "url": "https://phillygaycalendar.com/events/club-papi-chulo/",
   "venue": "Bar X"
  },
+ "32685-2026-11-17": {
+  "address": "255 S Camac St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Dance Party",
+   "People of Color"
+  ],
+  "date": "2026-11-17",
+  "desc": "Latin night at Bar X1st and 3rd Tuesday of the MonthAya Papi Chulo contest at midnight plus hot Latin go go dancers.",
+  "end": "2026-11-17T23:55:00",
+  "id": 32685,
+  "performers": "",
+  "start": "2026-11-17T20:00:00",
+  "ticket": "",
+  "time": "3:00 PM \u2013 6:55 PM",
+  "title": "Club Papi Chulo",
+  "url": "https://phillygaycalendar.com/events/club-papi-chulo/",
+  "venue": "Bar X"
+ },
  "38978-2026-11-11": {
   "address": "254, South 12th Street, Philadelphia, PA",
   "all_day": false,
@@ -1968,5 +1987,25 @@
   "title": "Kicking Out Transphobia: Trans Joy Kickoff Karaoke",
   "url": "https://phillygaycalendar.com/events/kicking-out-transphobia-trans-joy-kickoff-karaoke/",
   "venue": "254"
+ },
+ "46082-2026-11-14": {
+  "address": "1221 St James St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Celebrity",
+   "Drag",
+   "Fundraiser"
+  ],
+  "date": "2026-11-14",
+  "desc": "Philly's most glamorous night is back for its 16th year, and it is every bit as fabulous as you remember. The Philly Beauty Ball is an amateur drag contest, a celebration of queer joy, and a full-on party with a\u2026",
+  "end": "2026-11-14T23:00:00",
+  "id": 46082,
+  "performers": "Bev, Carl Michaels",
+  "start": "2026-11-14T19:00:00",
+  "ticket": "https://phillybeautyball.eventbrite.com",
+  "time": "2:00 PM \u2013 6:00 PM",
+  "title": "The 16th Annual Philly Beauty Ball",
+  "url": "https://phillygaycalendar.com/events/the-16th-annual-philly-beauty-ball/",
+  "venue": "Voyeur Nightclub"
  }
 }
