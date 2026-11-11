@@ -2159,5 +2159,61 @@
   "title": "Vanity\u2019s Affair",
   "url": "https://phillygaycalendar.com/events/vanitys-affair-4/",
   "venue": "Paradise"
+ },
+ "46128-2026-11-18": {
+  "address": "101 Asbury Avenue, Asbury Park, NJ, USA",
+  "all_day": false,
+  "cats": [
+   "Drag"
+  ],
+  "date": "2026-11-18",
+  "desc": "The competition is heating up, and the crown is within reach! Join us Wednesday, November 18th, at Paradise as Crystal Envy\u2019s Diamond Race \u2013 Season 2 enters the semifinals! Only 5 QUEENS REMAIN, but there can only be ONE WINNER!\u2026",
+  "end": "2026-11-18T23:00:00",
+  "id": 46128,
+  "performers": "Astala Vista, Crystal Envy, Stefani Steel, VinChelle",
+  "start": "2026-11-18T19:00:00",
+  "ticket": "https://www.paradisenj.com",
+  "time": "2:00 PM \u2013 6:00 PM",
+  "title": "Crystal Envy\u2019s Diamond Race",
+  "url": "https://phillygaycalendar.com/events/crystal-envys-diamond-race-5/",
+  "venue": "Paradise"
+ },
+ "46138-2026-11-13": {
+  "address": "923 N. Watts St. Philadelphia, PA 19123",
+  "all_day": false,
+  "cats": [
+   "Dance Party"
+  ],
+  "date": "2026-11-13",
+  "desc": "Dance harder. Rave darker. Get possessed.Tear You Apart is a dark electronic, hell rave, devil disco night at Warehouse on Watts, with sounds by Fame Lust. Join the congregation. 9 PM to 2 AM. 21+.Fame Lust is a longtime Philadelphia\u2026",
+  "end": "2026-11-14T02:00:00",
+  "id": 46138,
+  "performers": "",
+  "start": "2026-11-13T21:00:00",
+  "ticket": "https://www.tixr.com/groups/wowphilly/events/tear-you-apart-207777",
+  "time": "4:00 PM \u2013 9:00 PM",
+  "title": "Tear You Apart",
+  "url": "https://phillygaycalendar.com/events/tear-you-apart/",
+  "venue": "Warehouse on Watts"
+ },
+ "46140-2026-11-15": {
+  "address": "923 N. Watts St. Philadelphia, PA 19123",
+  "all_day": false,
+  "cats": [
+   "Lesbian",
+   "People of Color",
+   "Performance"
+  ],
+  "date": "2026-11-15",
+  "desc": "Hailing from Chattanooga, Tennessee, and now based in Atlanta, rapper and vocalist bbymutha is one of underground hip hop's most daring and admired talents. Her slow, ice-cool Chattanooga drawl runs through distorted, progressive production, earning her spots on Pitchfork's 10\u2026",
+  "end": "2026-11-15T22:00:00",
+  "id": 46140,
+  "performers": "Bbymutha",
+  "start": "2026-11-15T19:00:00",
+  "ticket": "https://www.tixr.com/groups/wowphilly/events/bbymutha-211999",
+  "time": "2:00 PM \u2013 5:00 PM",
+  "title": "Bbymutha",
+  "url": "https://phillygaycalendar.com/events/bbymutha/",
+  "venue": "Warehouse on Watts"
  }
 }

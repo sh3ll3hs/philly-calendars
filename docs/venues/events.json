@@ -630,14 +630,14 @@
  },
  {
   "venue": "The Queen",
-  "title": "Brad Goodall",
+  "title": "Brad Goodall – FREE SHOW",
   "subtitle": null,
   "date": "2026-11-19",
   "show_time": "20:00",
   "doors_time": "19:00",
   "set_times": [],
   "url": "https://thequeenwilmington.com/events/brad-goodall/",
-  "ticket_url": "https://www.ticketmaster.com/brad-goodall-wilmington-delaware-11-19-2026/event/020065307EFC5A7F",
+  "ticket_url": "https://www.ticketmaster.com/brad-goodall-free-show-wilmington-delaware-11-19-2026/event/020065307EFC5A7F",
   "price": null,
   "source": "html",
   "needs_manual": false,
@@ -2566,6 +2566,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Kyla Nicole Healey",
+  "subtitle": "Holiday Show",
+  "date": "2026-12-23",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
