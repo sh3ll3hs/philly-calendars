@@ -197,12 +197,6 @@
   "time": "18:00",
   "url": "http://tixr.com/groups/ardmoremusichall/events/huffamoose-hezekiah-jones-203149"
  },
- "511046": {
-  "checked": "2026-11-08",
-  "source": "venue-site:ardmoremusichall.com",
-  "time": "19:30",
-  "url": "https://www.tixr.com/groups/ardmoremusichall/events/daniel-lanois-trio-200773"
- },
  "511048": {
   "checked": "2026-11-08",
   "source": "blocked-site",
@@ -635,12 +629,6 @@
   "time": "19:30",
   "url": "https://events.humanitix.com/shovels-and-rope-bare-bones"
  },
- "513776": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:30",
-  "url": "https://tickets.citywinery.com/event/the-james-hunter-six-9765bx?_gl=1*1xffp0b*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMjA4MzQ4Mjg2OC4xNzkyNTA4NTU5LjE3OTI1MDg4NzY.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTI1MDg1NTkkbzEyJGcxJHQxNzkyNTA5MDQxJGo2MCRsMCRoMTkwMTk3NjUxOQ.."
- },
  "513778": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -905,12 +893,6 @@
   "time": "20:00",
   "url": "https://thecolonialtheatre.com/events/live-music/judy-collins-sweet-judy-blue-eyes-farewell-tour/"
  },
- "513977": {
-  "checked": "2026-11-08",
-  "source": "show",
-  "time": "20:00",
-  "url": "https://www.st94.com/events/the-dirty-dozen-brass-band/"
- },
  "513983": {
   "checked": "2026-11-08",
   "source": "show",
@@ -1151,24 +1133,6 @@
   "time": "20:00",
   "url": "https://www.st94.com/events/bruce-in-the-usa-the-worlds-1-tribute-to-bruce-springsteen-the-e-street-band-9/"
  },
- "514360": {
-  "checked": "2026-11-08",
-  "source": "venue-site:aeg:Union Transfer",
-  "time": "20:00",
-  "url": "https://www.axs.com/events/1496399/the-blasting-company-tickets?skin=uniontransfer&amp;_gl=1*t8yl1b*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
- },
- "514368": {
-  "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.axs.com/events/1583433/nineteen-minutes-later-tickets?skin=keswick&amp;_gl=1*1awiire*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
- },
- "514379": {
-  "checked": "2026-11-08",
-  "source": "venue-site:undergroundarts.org",
-  "time": "21:00",
-  "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-adult-a-place-to-bury-strangers-190596"
- },
  "514381": {
   "checked": "2026-11-08",
   "source": "venue-site:aeg:Union Transfer",
@@ -1283,12 +1247,6 @@
   "time": "19:30",
   "url": "https://harmoniehall.space/event/the-suitcase-junket/"
  },
- "514512": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "20:00",
-  "url": "https://johnnybrendas.com/event/the-tubs/johnny-brendas/philadelphia-pennsylvania/"
- },
  "514514": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -1324,12 +1282,6 @@
   "source": "jsonld",
   "time": "20:00",
   "url": "https://johnnybrendas.com/event/lucy-cooper-b-handy/johnny-brendas/philadelphia-pennsylvania/"
- },
- "514540": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:00",
-  "url": "https://kennettflash.org/event/garrett-boys/kennett-flash/kennett-square-pennsylvania/"
  },
  "514543": {
   "checked": "2026-11-08",
@@ -1450,12 +1402,6 @@
   "source": "jsonld",
   "time": "20:00",
   "url": "https://thelansdownetheater.com/event/kansas/lansdowne-theater/lansdowne-pennsylvania/"
- },
- "514693": {
-  "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.tixr.com/groups/milkboy/events/late-night-thoughts-203964"
  },
  "514695": {
   "checked": "2026-11-08",
@@ -1582,12 +1528,6 @@
   "source": "evening-time-near-date",
   "time": "20:00",
   "url": "https://newhopewinery.com/event/dar-williams/"
- },
- "514760": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:00",
-  "url": "https://www.ticketweb.com/event/chloe-kimes-nikki-lopez-philly-tickets/15037833"
  },
  "514764": {
   "checked": "2026-11-08",
@@ -2027,12 +1967,6 @@
   "time": "19:00",
   "url": "https://www.ticketmaster.com/reconnect-2026-the-starting-line-with-philadelphia-pennsylvania-12-19-2026/event/02006538D1AD613C?_gl=1*1g07unj*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzAkdDE3OTM0NzQ4MDMkajYwJGwwJGgw"
  },
- "515533": {
-  "checked": "2026-11-08",
-  "source": "venue-site:thefillmorephilly.com",
-  "time": "19:30",
-  "url": "https://www.ticketmaster.com/boston-manor-philadelphia-pennsylvania-11-10-2026/event/020064B6F63F8F48?_gl=1*1pzk9jl*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
- },
  "515536": {
   "checked": "2026-11-08",
   "source": "venue-site:thefillmorephilly.com",
@@ -2254,12 +2188,6 @@
   "source": "no-time-found",
   "time": null,
   "url": "https://www.timerestaurant.net/copy-of-music-events"
- },
- "515634": {
-  "checked": "2026-11-08",
-  "source": "venue-site:tlaphilly.com",
-  "time": "20:00",
-  "url": "https://www.ticketmaster.com/amble-philadelphia-pennsylvania-11-10-2026/event/0200649C2D05CF92?_gl=1*m3oulj*_ga*MTkyNjcyMDMxNi4xNzgyMjQxMjU3*_ga_C1T806G4DF*czE3OTA2OTg2MDckbzUkZzAkdDE3OTA2OTg2MTgkajQ5JGwwJGgw"
  },
  "515636": {
   "checked": "2026-11-08",

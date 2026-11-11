@@ -1,35 +1,5 @@
 [
  {
-  "venue": "Sellersville Theater",
-  "title": "Spirit Tasting Dinner: An Evening with St. George Spirits",
-  "subtitle": null,
-  "date": "2026-11-10",
-  "show_time": "17:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.st94.com/events/spirit-tasting-dinner-an-evening-with-st-george-spirits/",
-  "ticket_url": null,
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Washington House"
- },
- {
-  "venue": "Sellersville Theater",
-  "title": "The Dirty Dozen Brass Band",
-  "subtitle": null,
-  "date": "2026-11-10",
-  "show_time": "20:00",
-  "doors_time": "19:30",
-  "set_times": [],
-  "url": "https://www.st94.com/events/the-dirty-dozen-brass-band/",
-  "ticket_url": "https://www.etix.com/ticket/p/88290357/the-dirty-dozen-brass-band-sellersville-sellersville-theater-1894",
-  "price": "$39.5 to $72",
-  "source": "html",
-  "needs_manual": false,
-  "room": "Sellersville Theater 1894"
- },
- {
   "venue": "Parx Casino",
   "title": "Sway Duo featuring Joanne Farrell",
   "subtitle": null,
@@ -615,21 +585,6 @@
  },
  {
   "venue": "Parx Casino",
-  "title": "Jodeci",
-  "subtitle": "35th Anniversary Tour of Forever My Lady",
-  "date": "2026-11-19",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
-  "venue": "Parx Casino",
   "title": "360 Comedy Night",
   "subtitle": "Gabe Mahalik & Shane Daniels",
   "date": "2026-11-19",
@@ -642,6 +597,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "360"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Jodeci",
+  "subtitle": "35th Anniversary Tour of Forever My Lady",
+  "date": "2026-11-19",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xcite Center"
  },
  {
   "venue": "The Queen",
@@ -749,21 +719,6 @@
  },
  {
   "venue": "Parx Casino",
-  "title": "Teso",
-  "subtitle": null,
-  "date": "2026-11-20",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xlounge"
- },
- {
-  "venue": "Parx Casino",
   "title": "Friday Night Throwback!",
   "subtitle": "Don't Tell Mom",
   "date": "2026-11-20",
@@ -776,6 +731,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "360"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Teso",
+  "subtitle": null,
+  "date": "2026-11-20",
+  "show_time": "21:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xlounge"
  },
  {
   "venue": "Dawson Street Pub",
@@ -2245,21 +2215,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Echoes – The American Pink Floyd",
-  "subtitle": null,
-  "date": "2026-12-18",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/echoes/",
-  "ticket_url": "https://www.ticketmaster.com/echoes-the-american-pink-floyd-wilmington-delaware-12-18-2026/event/02006522BD186384",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Main Hall"
- },
- {
-  "venue": "The Queen",
   "title": "Better Off Dead",
   "subtitle": null,
   "date": "2026-12-18",
@@ -2272,6 +2227,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Crown"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Echoes – The American Pink Floyd",
+  "subtitle": null,
+  "date": "2026-12-18",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/echoes/",
+  "ticket_url": "https://www.ticketmaster.com/echoes-the-american-pink-floyd-wilmington-delaware-12-18-2026/event/02006522BD186384",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Main Hall"
  },
  {
   "venue": "Sellersville Theater",
