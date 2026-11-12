@@ -927,7 +927,7 @@
  {
   "venue": "The Queen",
   "title": "Funksgiving: Universal Funk Order",
-  "subtitle": null,
+  "subtitle": "with THE SERMON",
   "date": "2026-11-25",
   "show_time": "20:00",
   "doors_time": "19:00",
@@ -1988,6 +1988,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Paranormal Tour of The Queen",
+  "subtitle": null,
+  "date": "2026-12-15",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/paranormal-tour-of-the-queen/",
+  "ticket_url": "https://www.ticketmaster.com/paranormal-tour-of-the-queen-wilmington-delaware-12-15-2026/event/0200656BA2AFBCA5",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Parx Casino",
@@ -3991,6 +4006,21 @@
   "room": "Sellersville Theater 1894"
  },
  {
+  "venue": "The Queen",
+  "title": "2000s Rave",
+  "subtitle": null,
+  "date": "2027-02-20",
+  "show_time": "21:00",
+  "doors_time": "20:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/2000s-rave/",
+  "ticket_url": "https://www.ticketmaster.com/2000s-rave-wilmington-delaware-02-20-2027/event/0200656BE53168EE",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Main Hall"
+ },
+ {
   "venue": "Sellersville Theater",
   "title": "Altan",
   "subtitle": null,
@@ -4037,14 +4067,14 @@
  },
  {
   "venue": "The Queen",
-  "title": "Lucinda Williams And Her Band",
+  "title": "WXPN welcomes Lucinda Williams and her band",
   "subtitle": null,
   "date": "2027-02-23",
   "show_time": "20:00",
   "doors_time": "19:00",
   "set_times": [],
   "url": "https://thequeenwilmington.com/events/lucinda-williams-and-her-band/",
-  "ticket_url": "https://www.ticketmaster.com/lucinda-williams-and-her-band-wilmington-delaware-02-23-2027/event/02006564872A3315",
+  "ticket_url": "https://www.ticketmaster.com/wxpn-welcomes-lucinda-williams-and-her-wilmington-delaware-02-23-2027/event/02006564872A3315",
   "price": null,
   "source": "html",
   "needs_manual": false,

@@ -3352,5 +3352,77 @@
   "source": "jsonld",
   "time": "19:30",
   "url": "https://tickets.citywinery.com/event/mozaic-flow-aaries-w-special-guest-tuba-gooding--6oahv9?_gl=1*1qnnvme*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMTUzNjY4MjEwOS4xNzk0NDE1NDUwLjE3OTQ0MjAzNjg.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTQ0MTUzMzUkbzE0JGcxJHQxNzk0NDIwMzY4JGo1OCRsMCRoNzY1OTk1Njcy"
+ },
+ "517479": {
+  "checked": "2026-11-12",
+  "source": "venue-site:undergroundarts.org",
+  "time": "21:00",
+  "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-jess-williamson-209546"
+ },
+ "517481": {
+  "checked": "2026-11-12",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.ticketmaster.com/daniel-donatos-cosmic-country-harrisburg-pennsylvania-02-19-2027/event/0200655096406F56"
+ },
+ "517483": {
+  "checked": "2026-11-12",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.tixr.com/groups/rsp/events/hudson-freeman-this-tour-is-doomed-213428"
+ },
+ "517485": {
+  "checked": "2026-11-12",
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "15:15",
+  "url": "https://www.tixr.com/groups/ardmoremusichall/events/darlingside-early-show--214296"
+ },
+ "517488": {
+  "checked": "2026-11-12",
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "20:00",
+  "url": "https://www.tixr.com/groups/ardmoremusichall/events/darlingside-late-show--213276"
+ },
+ "517490": {
+  "checked": "2026-11-12",
+  "source": "jsonld",
+  "time": "10:00",
+  "url": "https://www.eventbrite.com/e/michael-arnones-34th-crawfish-fest-presented-by-amanda-gresham-ag360-tickets-1994904973477?aff=oddtdtcreator&amp;keep_tld=true"
+ },
+ "517492": {
+  "checked": "2026-11-12",
+  "source": "jsonld",
+  "time": "10:00",
+  "url": "https://www.eventbrite.com/e/michael-arnones-34th-crawfish-fest-presented-by-amanda-gresham-ag360-tickets-1994904973477?aff=oddtdtcreator&amp;keep_tld=true"
+ },
+ "517494": {
+  "checked": "2026-11-12",
+  "source": "jsonld",
+  "time": "10:00",
+  "url": "https://www.eventbrite.com/e/michael-arnones-34th-crawfish-fest-presented-by-amanda-gresham-ag360-tickets-1994904973477?aff=oddtdtcreator&amp;keep_tld=true"
+ },
+ "517496": {
+  "checked": "2026-11-12",
+  "source": "venue-site:aeg:Union Transfer (name match)",
+  "time": "20:00",
+  "url": "https://www.axs.com/sg/events/1693115/whitney-tickets"
+ },
+ "517498": {
+  "checked": "2026-11-12",
+  "source": "evening-time-near-date",
+  "time": "19:30",
+  "url": "https://tickets.appellcenter.org/10767/10768"
+ },
+ "517500": {
+  "checked": "2026-11-12",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.ticketmaster.com/event/0200655C97BE612C"
+ },
+ "517502": {
+  "checked": "2026-11-12",
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1695408/gang-of-youths-tickets"
  }
 }
