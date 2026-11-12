@@ -1,8 +1,4 @@
 venue,title,subtitle,date,show_time,doors_time,set_times,url,ticket_url,price,source,needs_manual,room
-Parx Casino,Sway Duo featuring Joanne Farrell,,2026-11-11,17:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Liberty Bell Gastropub
-Parx Casino,A Salute To Veterans,"Featuring former U.S. Navy Seal, Robert J. O'Neill in conversation with Michael Smerconish",2026-11-11,19:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Beer Garden
-The Queen,Microwave / Free Throw,,2026-11-11,19:00,18:00,,https://thequeenwilmington.com/events/microwave-free-throw/,https://www.ticketmaster.com/microwave-free-throw-wilmington-delaware-11-11-2026/event/020064D18D2575AC,,html,False,The Main Hall
-Sellersville Theater,WXPN Welcomes Rachael Yamagata,,2026-11-11,20:00,19:30,,https://www.st94.com/events/rachael-yamagata/,https://www.etix.com/ticket/p/42537264/wxpn-welcomes-rachael-yamagata-sellersville-sellersville-theater-1894,$35 to $56.5,html,False,Sellersville Theater 1894
 SOUTH Jazz Club,SPUR OF THE MOMENT,presented by UNSCRIPTED JAZZ,2026-11-12,,,,https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/,,,html,True,
 Parx Casino,The Chris Stevens Duo,,2026-11-12,17:30,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Liberty Bell Gastropub
 Parx Casino,ALT 104.5 Friendsgiving,The All-American Rejects with Modern Alibi,2026-11-12,20:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Xcite Center
@@ -47,8 +43,8 @@ Parx Casino,Mitchell Tenpenny,Speed of Light Tour,2026-11-20,20:00,,,https://www
 Sellersville Theater,Jim Messina,,2026-11-20,20:00,19:30,,https://www.st94.com/events/jim-messina-3/,https://www.etix.com/ticket/p/33726294/jim-messina-sellersville-sellersville-theater-1894,$55 to $112,html,False,Sellersville Theater 1894
 The Queen,Jagged Little Thrill-The Alanis Experience,,2026-11-20,20:00,19:00,,https://thequeenwilmington.com/events/jagged-little-thrill-the-alanis-experience/,https://www.ticketmaster.com/jagged-little-thrillthe-alanis-experience-wilmington-delaware-11-20-2026/event/020064FA68F12B51,,html,False,The Main Hall
 The Queen,Gimme Gimme Disco (18+),,2026-11-20,20:30,20:00,,https://thequeenwilmington.com/events/gimme-gimme-disco-18/,https://www.ticketmaster.com/gimme-gimme-disco-18-wilmington-delaware-11-20-2026/event/020065296B8D3698,,html,False,The Crown
-Parx Casino,Friday Night Throwback!,Don't Tell Mom,2026-11-20,21:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,360
 Parx Casino,Teso,,2026-11-20,21:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Xlounge
+Parx Casino,Friday Night Throwback!,Don't Tell Mom,2026-11-20,21:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,360
 Dawson Street Pub,All Things Must Pass,,2026-11-21,,,,http://beta.dawsonstreetpub.com/index.php,,,html,True,
 SOUTH Jazz Club,JEFF BRADSHAW,,2026-11-21,,,,https://www.southjazzkitchen.com/event/jeff-bradshaw-fri-sat-sun-nov-20-21-22-showtimes-vary-by-day-tickets-on-sale-soon/,,,html,True,
 Sellersville Theater,Comedian Bob Marley (5 PM),,2026-11-21,17:00,16:30,,https://www.st94.com/events/comedian-bob-marley-5-pm-3/,https://www.etix.com/ticket/p/57493000/comedian-bob-marley-5-pm-sellersville-sellersville-theater-1894,$39.5 to $66.5,html,False,Sellersville Theater 1894
@@ -294,7 +290,7 @@ Parx Casino,Sway Duo featuring Joanne Farrell,,2027-03-10,17:30,,,https://www.pa
 The Queen,Alaska Thunderf*ck: The Revolution Tour,,2027-03-13,20:00,19:00,,https://thequeenwilmington.com/events/alaska-thunderfck-the-revolution-tour/,https://www.ticketmaster.com/alaska-thunderfck-the-revolution-tour-wilmington-delaware-03-13-2027/event/02006528FA3B49F7,,html,False,The Main Hall
 The Queen,Damn The Torpedoes: Tom Petty Concert Experience,,2027-03-13,20:00,19:00,,https://thequeenwilmington.com/events/damn-the-torpedoes-tom-petty-concert-experience/,https://www.ticketmaster.com/damn-the-torpedoes-tom-petty-concert-wilmington-delaware-03-13-2027/event/0200656392A537DE,,html,False,The Crown
 Parx Casino,Sway Duo featuring Joanne Farrell,,2027-03-17,17:30,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Liberty Bell Gastropub
-The Queen,WXPN welcomes Suzanne Vega – Flying With Angels,,2027-03-19,19:30,,,https://thequeenwilmington.com/events/wxpn-welcomes-suzanne-vega-flying-with-angels/,https://www.ticketmaster.com/wxpn-welcomes-suzanne-vega-flying-with-wilmington-delaware-03-19-2027/event/020064D17ABE4FDD,,html,False,The Crown
+The Queen,WXPN Suzanne Vega – Flying With Angels,,2027-03-19,19:30,18:30,,https://thequeenwilmington.com/events/wxpn-welcomes-suzanne-vega-flying-with-angels/,https://www.ticketmaster.com/wxpn-suzanne-vega-flying-with-angels-wilmington-delaware-03-19-2027/event/020064D17ABE4FDD,,html,False,The Main Hall
 Parx Casino,Kathleen Madigan,Flying Cats Tour,2027-03-19,20:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Xcite Center
 Sellersville Theater,Lotus Land - American Rush Tribute,,2027-03-19,20:00,19:30,,https://www.st94.com/events/lotus-land-american-rush-tribute-3/,https://www.etix.com/ticket/p/41997695/lotus-land-american-rush-tribute-sellersville-sellersville-theater-1894,$49.5 to $92,html,False,Sellersville Theater 1894
 Parx Casino,Kathleen Madigan,Flying Cats Tour,2027-03-20,20:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Xcite Center

@@ -197,30 +197,6 @@
   "time": "18:00",
   "url": "http://tixr.com/groups/ardmoremusichall/events/huffamoose-hezekiah-jones-203149"
  },
- "511048": {
-  "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.ticketmaster.com/event/020064F4D5BA69E1"
- },
- "511050": {
-  "checked": "2026-11-08",
-  "source": "evening-time-near-date",
-  "time": "19:30",
-  "url": "https://www.bucknell.edu/life-bucknell/arts-performances/weis-center-performing-arts/2026-27-season-performances/wxpn-welcomes-maya-de-vitry"
- },
- "511053": {
-  "checked": "2026-11-08",
-  "source": "venue-site:118northwayne.com",
-  "time": "19:30",
-  "url": "https://www.tixr.com/groups/118north/events/michaela-anne-200053"
- },
- "511055": {
-  "checked": "2026-11-08",
-  "source": "show",
-  "time": "20:00",
-  "url": "https://www.st94.com/events/rachael-yamagata/"
- },
  "511078": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -431,12 +407,6 @@
   "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/tommy-conwell-the-young-rumblers-169960"
  },
- "513206": {
-  "checked": "2026-11-08",
-  "source": "venue-site:brooklynbowl.com (name match)",
-  "time": "20:00",
-  "url": "https://www.brooklynbowl.com/philadelphia/events/detail/mountain-grass-unit-appalachian-smoke-tour-vvg1fz_gkeabdi"
- },
  "513210": {
   "checked": "2026-11-08",
   "source": "venue-site:brooklynbowl.com (name match)",
@@ -460,12 +430,6 @@
   "source": "venue-site:brooklynbowl.com (name match)",
   "time": "19:30",
   "url": "https://www.brooklynbowl.com/philadelphia/events/detail/tiny-habits-vvg1fz_gkgbg1a"
- },
- "513282": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:30",
-  "url": "https://www.chrisjazzcafe.com/events/144010"
  },
  "513284": {
   "checked": "2026-11-08",
@@ -628,12 +592,6 @@
   "source": "jsonld",
   "time": "19:30",
   "url": "https://events.humanitix.com/shovels-and-rope-bare-bones"
- },
- "513778": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:30",
-  "url": "https://tickets.citywinery.com/event/brother-ali-bo6l4q?_gl=1*19llvnd*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMjA4MzQ4Mjg2OC4xNzkyNTA4NTU5LjE3OTI1MDg4NzY.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTI1MDg1NTkkbzEyJGcxJHQxNzkyNTA5MTkyJGo2MCRsMCRoMTkwMTk3NjUxOQ.."
  },
  "513782": {
   "checked": "2026-11-08",
@@ -833,12 +791,6 @@
   "time": "19:30",
   "url": "https://www.st94.com/events/wintergrass-ft-joe-cirotti-trio-and-wood-flower/"
  },
- "513945": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:30",
-  "url": "https://www.eventbrite.com/e/wxpn-philly-anthems-live-tickets-2003626371413?aff=ebdsoporgprofile"
- },
  "513947": {
   "checked": "2026-11-08",
   "source": "show",
@@ -970,12 +922,6 @@
   "source": "http:200",
   "time": null,
   "url": "http://www.dawsonstreetpub.com"
- },
- "514043": {
-  "checked": "2026-11-08",
-  "source": "venue-site:r5productions.com",
-  "time": "20:00",
-  "url": "https://www.etix.com/ticket/p/78838373/protomartyrwith-jrcg-philadelphia-the-first-unitarian-church?partner_id=100&amp;_gl=1*18bbl0h*_ga*MTEzMjg2NDI5NC4xNzg0MzAwODUw*_ga_6T50PMF8HM*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzEwMTckajM4JGwwJGgxMzIxMjcwMDg3*_ga_20QQYQHBVX*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzEwMTckajM4JGwwJGgxNDQ3OTM1OTIw"
  },
  "514045": {
   "checked": "2026-11-08",
@@ -1132,12 +1078,6 @@
   "source": "show",
   "time": "20:00",
   "url": "https://www.st94.com/events/bruce-in-the-usa-the-worlds-1-tribute-to-bruce-springsteen-the-e-street-band-9/"
- },
- "514381": {
-  "checked": "2026-11-08",
-  "source": "venue-site:aeg:Union Transfer",
-  "time": "19:30",
-  "url": "https://www.axs.com/events/1479534/chat-pile-tickets?skin=uniontransfer&amp;_gl=1*1m1zyp4*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
  },
  "514383": {
   "checked": "2026-11-08",
@@ -1402,12 +1342,6 @@
   "source": "jsonld",
   "time": "20:00",
   "url": "https://thelansdownetheater.com/event/kansas/lansdowne-theater/lansdowne-pennsylvania/"
- },
- "514695": {
-  "checked": "2026-11-08",
-  "source": "venue-site:milkboyphilly.com",
-  "time": "20:00",
-  "url": "https://www.tixr.com/groups/milkboy/events/crobot-dark-chapel-205516"
  },
  "514697": {
   "checked": "2026-11-08",
@@ -2039,12 +1973,6 @@
   "time": "20:00",
   "url": "https://www.ticketmaster.com/dalvin-la-melodia-philadelphia-pennsylvania-12-10-2026/event/02006548E78F2B12?_gl=1*xtmvmd*_ga*MzQwNDg2Mjg0LjE3ODU0Mjg1NTc.*_ga_C1T806G4DF*czE3OTA1NDgxNjckbzMkZzEkdDE3OTA1NDgxOTQkajMzJGwwJGgw"
  },
- "515572": {
-  "checked": "2026-11-08",
-  "source": "venue-site:The Queen",
-  "time": "19:00",
-  "url": "https://www.ticketmaster.com/microwave-free-throw-wilmington-delaware-11-11-2026/event/020064D18D2575AC"
- },
  "515574": {
   "checked": "2026-11-08",
   "source": "venue-site:The Queen",
@@ -2080,12 +2008,6 @@
   "source": "venue-site:The Queen",
   "time": "20:00",
   "url": "https://www.ticketmaster.com/elizabeth-cook-wilmington-delaware-12-03-2026/event/02006551AC5E6A35"
- },
- "515592": {
-  "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
-  "url": "https://www.timerestaurant.net/copy-of-music-events"
  },
  "515594": {
   "checked": "2026-11-08",
@@ -2189,12 +2111,6 @@
   "time": null,
   "url": "https://www.timerestaurant.net/copy-of-music-events"
  },
- "515636": {
-  "checked": "2026-11-08",
-  "source": "venue-site:tlaphilly.com",
-  "time": "20:00",
-  "url": "https://www.ticketmaster.com/honey-revenge-philadelphia-pennsylvania-11-11-2026/event/0200653503E42C16?_gl=1*jgaqjm*_ga*MTkyNjcyMDMxNi4xNzgyMjQxMjU3*_ga_C1T806G4DF*czE3OTA2OTg2MDckbzUkZzAkdDE3OTA2OTg2MTgkajQ5JGwwJGgw"
- },
  "515638": {
   "checked": "2026-11-08",
   "source": "venue-site:tlaphilly.com",
@@ -2230,12 +2146,6 @@
   "source": "venue-site:tlaphilly.com",
   "time": "20:00",
   "url": "https://www.ticketmaster.com/grayscale-philadelphia-pennsylvania-12-05-2026/event/0200652BC455697B?_gl=1*1hfmfbo*_ga*MTkyNjcyMDMxNi4xNzgyMjQxMjU3*_ga_C1T806G4DF*czE3OTA2OTg2MDckbzUkZzAkdDE3OTA2OTg2MTgkajQ5JGwwJGgw"
- },
- "515781": {
-  "checked": "2026-11-08",
-  "source": "venue-site:undergroundarts.org",
-  "time": "20:00",
-  "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-headache-190589"
  },
  "515788": {
   "checked": "2026-11-08",
@@ -2698,12 +2608,6 @@
   "source": "venue-site:118northwayne.com",
   "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/db-lambert-link-hansen-213653"
- },
- "516520": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:00",
-  "url": "https://dice.fm/partner/tickets/event/6dyx23-madre-cumbia-11th-nov-ruba-club-upstairs-philadelphia-tickets?dice_id=10762448&amp;dice_channel=web&amp;dice_tags=organic&amp;dice_campaign=4333+collective+inc&amp;dice_feature=mio_marketing&amp;_branch_match_id=1427047065559758097&amp;utm_source=web&amp;utm_campaign=4333+collective+inc&amp;utm_medium=mio_marketing&amp;_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1XcyMTdIM0g0TDVPMrGvK0pNSy0qysxLj08qyi8vTi2yDU5MSyzKBABzDHlLOwAAAA%3D%3D&amp;lng=en-US"
  },
  "516522": {
   "checked": "2026-11-08",
