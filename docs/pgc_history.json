@@ -1,4 +1,22 @@
 {
+ "29449-2026-11-19": {
+  "address": "255 S Camac St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Performance"
+  ],
+  "date": "2026-11-19",
+  "desc": "Thursday nights at Bar X turn up the heat, and it starts early. 9:00 PM: All American Boys Real Men of Philly Male Revue presents a warm-up you don\u2019t want to miss, featuring your fav jocks. Get there early, grab\u2026",
+  "end": "2026-11-19T23:55:00",
+  "id": 29449,
+  "performers": "",
+  "start": "2026-11-19T21:00:00",
+  "ticket": "",
+  "time": "4:00 PM \u2013 6:55 PM",
+  "title": "Men of Philly Male Revue",
+  "url": "https://phillygaycalendar.com/events/strip-thursdays-all-male-revue/",
+  "venue": "Bar X"
+ },
  "30290-2026-10-31": {
   "address": "1 Boathouse Row, Philadelphia, PA 19130",
   "all_day": false,
@@ -94,6 +112,25 @@
   "url": "https://phillygaycalendar.com/events/club-papi-chulo/",
   "venue": "Bar X"
  },
+ "37804-2026-11-15": {
+  "address": "243 S Camac St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Performance",
+   "Karaoke"
+  ],
+  "date": "2026-11-15",
+  "desc": "EVERY SUNDAYShowtunes Sunday at Tavern on CamacEvery Sunday from 8pm-1am!Come see my cultivated collection of videos from the best of Broadway, Tv, and Movies-ALL SHOWTUNES! SING OUT LOUISE!Free event!T.O.C.TAVERN ON CAMAC PRESENTSShowtunes SundayVIDEO DJING BY BRITTANY LYNN\u201cCURATED COLLECTION OF THE\u2026",
+  "end": "2026-11-15T23:55:00",
+  "id": 37804,
+  "performers": "",
+  "start": "2026-11-15T20:00:00",
+  "ticket": "",
+  "time": "3:00 PM \u2013 6:55 PM",
+  "title": "Showtunes Sunday",
+  "url": "https://phillygaycalendar.com/events/showtunes-sunday-at-tavern-on-camac/",
+  "venue": "Tavern on Camac"
+ },
  "38978-2026-11-11": {
   "address": "254, South 12th Street, Philadelphia, PA",
   "all_day": false,
@@ -111,6 +148,48 @@
   "time": "4:00 PM",
   "title": "Shapeshift",
   "url": "https://phillygaycalendar.com/events/shapeshift-at-254-hosted-by-lamia-2/",
+  "venue": "254"
+ },
+ "38980-2026-11-13": {
+  "address": "254, South 12th Street, Philadelphia, PA",
+  "all_day": false,
+  "cats": [
+   "Drag",
+   "Comedy",
+   "Karaoke",
+   "Trans"
+  ],
+  "date": "2026-11-13",
+  "desc": "Shine on the cabaret stage every Friday night at 254 for the gayest karaoke in downtown Philadelphia. Hostess Lamia leads a late-night session featuring a library of over 20,000 songs spanning every genre from R&B and heavy metal to musical\u2026",
+  "end": "2026-11-13T23:00:00",
+  "id": 38980,
+  "performers": "Lamia",
+  "start": "2026-11-13T21:00:00",
+  "ticket": "",
+  "time": "4:00 PM",
+  "title": "Friday Night Karaoke",
+  "url": "https://phillygaycalendar.com/events/friday-night-karaoke-at-254/",
+  "venue": "254"
+ },
+ "38980-2026-11-20": {
+  "address": "254, South 12th Street, Philadelphia, PA",
+  "all_day": false,
+  "cats": [
+   "Drag",
+   "Comedy",
+   "Karaoke",
+   "Trans"
+  ],
+  "date": "2026-11-20",
+  "desc": "Shine on the cabaret stage every Friday night at 254 for the gayest karaoke in downtown Philadelphia. Hostess Lamia leads a late-night session featuring a library of over 20,000 songs spanning every genre from R&B and heavy metal to musical\u2026",
+  "end": "2026-11-20T23:00:00",
+  "id": 38980,
+  "performers": "Lamia",
+  "start": "2026-11-20T21:00:00",
+  "ticket": "",
+  "time": "4:00 PM",
+  "title": "Friday Night Karaoke",
+  "url": "https://phillygaycalendar.com/events/friday-night-karaoke-at-254/",
   "venue": "254"
  },
  "41383-2026-11-04": {
@@ -173,6 +252,24 @@
   "title": "Stop Kiss by Diana Son",
   "url": "https://phillygaycalendar.com/events/stop-kiss-by-diana-son-2/",
   "venue": "Village Players of Hatboro"
+ },
+ "42646-2026-11-17": {
+  "address": "255 S Camac St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Dance Party"
+  ],
+  "date": "2026-11-17",
+  "desc": "Start Your September with a BANG!Get ready to turn up the heat at X Bar every Tuesday night! Whether you\u2019re looking to unwind after a long day or kick off your night right, Takin' It Back Tuesdays is the perfect\u2026",
+  "end": "2026-11-17T20:30:00",
+  "id": 42646,
+  "performers": "",
+  "start": "2026-11-17T18:00:00",
+  "ticket": "https://www.instagram.com/p/DcrKrDFsMcW/",
+  "time": "1:00 PM \u2013 3:30 PM",
+  "title": "Takin\u2019 It Back Tuesdays",
+  "url": "https://phillygaycalendar.com/events/takin-it-back-tuesdays/",
+  "venue": "Bar X"
  },
  "43257-2026-10-31": {
   "address": "",
@@ -1573,6 +1670,25 @@
   "url": "https://phillygaycalendar.com/events/boyz-of-philly/",
   "venue": "Stir Lounge"
  },
+ "45036-2026-11-15": {
+  "address": "1705 Chancellor Street, Philadelphia, PA 19103, USA",
+  "all_day": false,
+  "cats": [
+   "Dance Party",
+   "Happy Hour"
+  ],
+  "date": "2026-11-15",
+  "desc": "Philly's sexiest men are dancing at Stir in Rittenhouse on Sundays starting at 5pm for Happy Hour.",
+  "end": "2026-11-15T22:00:00",
+  "id": 45036,
+  "performers": "Blake Banx, Chase",
+  "start": "2026-11-15T17:00:00",
+  "ticket": "",
+  "time": "12:00 PM \u2013 5:00 PM",
+  "title": "Boyz of Philly",
+  "url": "https://phillygaycalendar.com/events/boyz-of-philly/",
+  "venue": "Stir Lounge"
+ },
  "45115-2026-11-06": {
   "address": "206 Quince Street, Philadelphia, PA, USA",
   "all_day": false,
@@ -2002,6 +2118,25 @@
   "url": "https://phillygaycalendar.com/events/drag-brunch-at-fabrika-2/",
   "venue": "Fabrika"
  },
+ "45997-2026-11-15": {
+  "address": "1108 Frankford Ave, Philadelphia, PA 19125, USA",
+  "all_day": false,
+  "cats": [
+   "Brunch",
+   "Drag"
+  ],
+  "date": "2026-11-15",
+  "desc": "Drag Brunch at Fabrika, every Sunday in Fishtown. Brunch starts at 12:00 PM and the show begins at 1:00 PM: iconic queens, rotating guest performers and RuPaul's Drag Race alumni on Fabrika's 360\u00b0 hydraulic stage, with a full brunch menu\u2026",
+  "end": "2026-11-15T15:45:00",
+  "id": 45997,
+  "performers": "",
+  "start": "2026-11-15T12:00:00",
+  "ticket": "https://fabrikaphilly.com/events/drag-brunch-sunday?utm_source=phillygaycalendar&utm_medium=calendar&utm_campaign=drag-brunch",
+  "time": "7:00 AM \u2013 10:45 AM",
+  "title": "Drag Brunch at Fabrika",
+  "url": "https://phillygaycalendar.com/events/drag-brunch-at-fabrika-2/",
+  "venue": "Fabrika"
+ },
  "45999-2026-11-13": {
   "address": "1108 Frankford Ave, Philadelphia, PA 19125, USA",
   "all_day": false,
@@ -2349,5 +2484,25 @@
   "title": "Bbymutha",
   "url": "https://phillygaycalendar.com/events/bbymutha/",
   "venue": "Warehouse on Watts"
+ },
+ "46171-2026-11-14": {
+  "address": "240 S. Broad St., Philadelphia, PA 19102",
+  "all_day": false,
+  "cats": [
+   "Celebrity",
+   "Comedy",
+   "Performance"
+  ],
+  "date": "2026-11-14",
+  "desc": "Join Anderson Cooper and Andy Cohen for an unscripted, uncensored and unforgettable night of conversation. The late night talk show host and the journalist, longtime friends, interview each other and take questions from the audience in this live, interactive look\u2026",
+  "end": "2026-11-14T22:00:00",
+  "id": 46171,
+  "performers": "Anderson Cooper, Andy Cohen",
+  "start": "2026-11-14T20:00:00",
+  "ticket": "https://www.ensembleartsphilly.org/tickets-and-events/ensemble-arts-philly-presents/ac2-an-intimate-evening-with-anderson-cooper-and-andy-cohen",
+  "time": "3:00 PM \u2013 5:00 PM",
+  "title": "AC2: An Intimate Evening With Anderson Cooper & Andy Cohen",
+  "url": "https://phillygaycalendar.com/events/ac2-an-intimate-evening-with-anderson-cooper-andy-cohen/",
+  "venue": "Academy of Music"
  }
 }

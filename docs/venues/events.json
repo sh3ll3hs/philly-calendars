@@ -930,6 +930,21 @@
   "room": "Sellersville Theater 1894"
  },
  {
+  "venue": "The Queen",
+  "title": "Community Chapstick",
+  "subtitle": null,
+  "date": "2026-11-27",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/community-chapstick/",
+  "ticket_url": "https://www.ticketmaster.com/community-chapstick-wilmington-delaware-11-27-2026/event/0200656CAFF4C2BA",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
+ },
+ {
   "venue": "Parx Casino",
   "title": "Back in the Day Dance Party",
   "subtitle": "DJ Bobby Sacco",
@@ -1458,6 +1473,21 @@
   "room": "Sellersville Theater 1894"
  },
  {
+  "venue": "The Queen",
+  "title": "LUKAS NELSON LIVE",
+  "subtitle": null,
+  "date": "2026-12-06",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/lukas-nelson-live/",
+  "ticket_url": "https://www.ticketmaster.com/lukas-nelson-live-wilmington-delaware-12-06-2026/event/0200656DA8F5B4FA",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Main Hall"
+ },
+ {
   "venue": "Sellersville Theater",
   "title": "Phil Vassar \"25 Years of Paradise\" (5 PM)",
   "subtitle": null,
@@ -1684,6 +1714,20 @@
   "room": "360"
  },
  {
+  "venue": "Dawson Street Pub",
+  "title": "Pachyderm, Denim Dennis, and The Parameters",
+  "subtitle": null,
+  "date": "2026-12-12",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "http://beta.dawsonstreetpub.com/index.php",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
+ },
+ {
   "venue": "SOUTH Jazz Club",
   "title": "Sounds of April & Randall: The Feeling of the Holidays",
   "subtitle": null,
@@ -1729,21 +1773,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Zoso The Ultimate Led Zeppelin Experience",
-  "subtitle": null,
-  "date": "2026-12-12",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/zoso-the-ultimate-led-zeppelin-experience/",
-  "ticket_url": "https://www.ticketmaster.com/zoso-the-ultimate-led-zeppelin-experience-wilmington-delaware-12-12-2026/event/0200651BB2BA1292",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Main Hall"
- },
- {
-  "venue": "The Queen",
   "title": "Runnin’ Late Holiday Show",
   "subtitle": null,
   "date": "2026-12-12",
@@ -1756,6 +1785,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Crown"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Zoso The Ultimate Led Zeppelin Experience",
+  "subtitle": null,
+  "date": "2026-12-12",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/zoso-the-ultimate-led-zeppelin-experience/",
+  "ticket_url": "https://www.ticketmaster.com/zoso-the-ultimate-led-zeppelin-experience-wilmington-delaware-12-12-2026/event/0200651BB2BA1292",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Main Hall"
  },
  {
   "venue": "Parx Casino",
@@ -2010,6 +2054,20 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "Dawson Street Pub",
+  "title": "Don Jones Band Christmas Show",
+  "subtitle": null,
+  "date": "2026-12-18",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "http://beta.dawsonstreetpub.com/index.php",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
  },
  {
   "venue": "SOUTH Jazz Club",
@@ -2472,6 +2530,20 @@
   "needs_manual": false
  },
  {
+  "venue": "Dawson Street Pub",
+  "title": "CLOSED - CHRISTMAS",
+  "subtitle": null,
+  "date": "2026-12-25",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "http://beta.dawsonstreetpub.com/index.php",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
+ },
+ {
   "venue": "Sellersville Theater",
   "title": "Raymond The Amish Comic - \"No More Landlords\" Tour",
   "subtitle": null,
@@ -2637,6 +2709,34 @@
   "room": "Sellersville Theater 1894"
  },
  {
+  "venue": "Dawson Street Pub",
+  "title": "CLOSED - NEW YEARS DAY",
+  "subtitle": null,
+  "date": "2027-01-01",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "http://beta.dawsonstreetpub.com/index.php",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
+ },
+ {
+  "venue": "Dawson Street Pub",
+  "title": "Reverend Chris and Les Garçons Crasseux",
+  "subtitle": null,
+  "date": "2027-01-02",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "http://beta.dawsonstreetpub.com/index.php",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
+ },
+ {
   "venue": "Sellersville Theater",
   "title": "The Gathering Gloom - The Cure Tribute",
   "subtitle": null,
@@ -2785,6 +2885,20 @@
   "source": "json",
   "needs_manual": false,
   "room": "360"
+ },
+ {
+  "venue": "Dawson Street Pub",
+  "title": "Soul and Blues",
+  "subtitle": null,
+  "date": "2027-01-09",
+  "show_time": "04:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "http://beta.dawsonstreetpub.com/index.php",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": false
  },
  {
   "venue": "Sellersville Theater",
@@ -2967,6 +3081,20 @@
   "room": "360"
  },
  {
+  "venue": "Dawson Street Pub",
+  "title": "Choke Artists",
+  "subtitle": null,
+  "date": "2027-01-16",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "http://beta.dawsonstreetpub.com/index.php",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
+ },
+ {
   "venue": "Parx Casino",
   "title": "Bee Gees Gold",
   "subtitle": null,
@@ -3115,6 +3243,20 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
+ },
+ {
+  "venue": "Dawson Street Pub",
+  "title": "James Kelly",
+  "subtitle": null,
+  "date": "2027-01-22",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "http://beta.dawsonstreetpub.com/index.php",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
  },
  {
   "venue": "Sellersville Theater",
@@ -3400,6 +3542,20 @@
   "source": "json",
   "needs_manual": false,
   "room": "360"
+ },
+ {
+  "venue": "Dawson Street Pub",
+  "title": "People On Other Planets",
+  "subtitle": null,
+  "date": "2027-01-30",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "http://beta.dawsonstreetpub.com/index.php",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
  },
  {
   "venue": "Parx Casino",
@@ -3890,7 +4046,7 @@
   "set_times": [],
   "url": "https://www.st94.com/events/marc-broussard-ted-broussard/",
   "ticket_url": "https://www.etix.com/ticket/p/86700758/marc-broussard-ted-broussard-sellersville-sellersville-theater-1894",
-  "price": null,
+  "price": "$39.5 to $66.5",
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
@@ -4256,21 +4412,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Alaska Thunderf*ck: The Revolution Tour",
-  "subtitle": null,
-  "date": "2027-03-13",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/alaska-thunderfck-the-revolution-tour/",
-  "ticket_url": "https://www.ticketmaster.com/alaska-thunderfck-the-revolution-tour-wilmington-delaware-03-13-2027/event/02006528FA3B49F7",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Main Hall"
- },
- {
-  "venue": "The Queen",
   "title": "Damn The Torpedoes: Tom Petty Concert Experience",
   "subtitle": null,
   "date": "2027-03-13",
@@ -4283,6 +4424,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Crown"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Alaska Thunderf*ck: The Revolution Tour",
+  "subtitle": null,
+  "date": "2027-03-13",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/alaska-thunderfck-the-revolution-tour/",
+  "ticket_url": "https://www.ticketmaster.com/alaska-thunderfck-the-revolution-tour-wilmington-delaware-03-13-2027/event/02006528FA3B49F7",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Main Hall"
  },
  {
   "venue": "Parx Casino",
@@ -4628,20 +4784,5 @@
   "source": "html",
   "needs_manual": false,
   "room": "TD Pavilion"
- },
- {
-  "venue": "The Queen",
-  "title": "Evan Fox / Mikeal Anthony Greto & the Flood",
-  "subtitle": null,
-  "date": "2027-11-12",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/evan-fox-mikeal-anthony-greto-the-flood/",
-  "ticket_url": "https://www.ticketmaster.com/evan-fox-mikeal-anthony-greto-the-wilmington-delaware-11-12-2026/event/0200650B9D31AD3F",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
  }
 ]

@@ -3304,5 +3304,11 @@
   "source": "venue-site:aeg:Union Transfer",
   "time": "20:00",
   "url": "https://www.axs.com/events/1695408/gang-of-youths-tickets"
+ },
+ "517604": {
+  "checked": "2026-11-13",
+  "source": "jsonld",
+  "time": "12:00",
+  "url": "https://www.eventbrite.com/e/wxpn-free-at-noon-with-2nd-grade-tickets-1995467788873?aff=oddtdtcreator"
  }
 }
