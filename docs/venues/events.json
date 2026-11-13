@@ -1,94 +1,5 @@
 [
  {
-  "venue": "SOUTH Jazz Club",
-  "title": "SPUR OF THE MOMENT",
-  "subtitle": "presented by UNSCRIPTED JAZZ",
-  "date": "2026-11-12",
-  "show_time": null,
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/",
-  "ticket_url": null,
-  "price": null,
-  "source": "html",
-  "needs_manual": true
- },
- {
-  "venue": "Parx Casino",
-  "title": "The Chris Stevens Duo",
-  "subtitle": null,
-  "date": "2026-11-12",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
-  "venue": "Parx Casino",
-  "title": "ALT 104.5 Friendsgiving",
-  "subtitle": "The All-American Rejects with Modern Alibi",
-  "date": "2026-11-12",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Rumba 106.1 presents 360 Latin Night!",
-  "subtitle": "Latin Dance Lessons with Rogerson St. Jean \"Oneof Akind\" & musical performance by Luisito Rosario & Y Su Orchestra",
-  "date": "2026-11-12",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Sellersville Theater",
-  "title": "Six Gun Sally with special guest Bo Bice",
-  "subtitle": null,
-  "date": "2026-11-12",
-  "show_time": "20:00",
-  "doors_time": "19:30",
-  "set_times": [],
-  "url": "https://www.st94.com/events/six-gun-sally-with-special-guest-bo-bice/",
-  "ticket_url": "https://www.etix.com/ticket/p/94018371/six-gun-sally-with-special-guest-bo-bice-sellersville-sellersville-theater-1894",
-  "price": "$29.5 to $56.5",
-  "source": "html",
-  "needs_manual": false,
-  "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "The Queen",
-  "title": "Evan Fox / Mikeal Anthony Greto & the Flood",
-  "subtitle": null,
-  "date": "2026-11-12",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/evan-fox-mikeal-anthony-greto-the-flood/",
-  "ticket_url": "https://www.ticketmaster.com/evan-fox-mikeal-anthony-greto-the-wilmington-delaware-11-12-2026/event/0200650B9D31AD3F",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
   "venue": "Dawson Street Pub",
   "title": "Seth Aaron & John Gilbride",
   "subtitle": null,
@@ -97,6 +8,20 @@
   "doors_time": null,
   "set_times": [],
   "url": "http://beta.dawsonstreetpub.com/index.php",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
+ },
+ {
+  "venue": "SOUTH Jazz Club",
+  "title": "ARPEGGIO JAZZ ENSEMBLE TRIBUTE TO GIL SCOTT-HERON",
+  "subtitle": null,
+  "date": "2026-11-13",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/",
   "ticket_url": null,
   "price": null,
   "source": "html",
@@ -116,23 +41,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "SOUTH Jazz Club",
-  "title": "ARPEGGIO JAZZ ENSEMBLE TRIBUTE TO GIL SCOTT-HERON",
-  "subtitle": null,
-  "date": "2026-11-13",
-  "show_time": "19:00",
-  "doors_time": null,
-  "set_times": [
-   "19:00",
-   "21:30"
-  ],
-  "url": "https://www.southjazzkitchen.com/event/arpeggio-jazz-ensemble-tribute-to-gil-scott-heron-fri-sat-sun-nov-13-14-15-showtimes-vary-by-day/",
-  "ticket_url": null,
-  "price": null,
-  "source": "html-detail",
-  "needs_manual": false
  },
  {
   "venue": "Parx Casino",
@@ -238,6 +146,20 @@
   "needs_manual": true
  },
  {
+  "venue": "SOUTH Jazz Club",
+  "title": "ARPEGGIO JAZZ ENSEMBLE TRIBUTE TO GIL SCOTT-HERON",
+  "subtitle": null,
+  "date": "2026-11-14",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
+ },
+ {
   "venue": "Parx Casino",
   "title": "betPARX UFC 334 Watch Party",
   "subtitle": "In partnership with CFFC",
@@ -251,23 +173,6 @@
   "source": "json",
   "needs_manual": false,
   "room": "Sportsbook"
- },
- {
-  "venue": "SOUTH Jazz Club",
-  "title": "ARPEGGIO JAZZ ENSEMBLE TRIBUTE TO GIL SCOTT-HERON",
-  "subtitle": null,
-  "date": "2026-11-14",
-  "show_time": "19:00",
-  "doors_time": null,
-  "set_times": [
-   "19:00",
-   "21:30"
-  ],
-  "url": "https://www.southjazzkitchen.com/event/arpeggio-jazz-ensemble-tribute-to-gil-scott-heron-fri-sat-sun-nov-13-14-15-showtimes-vary-by-day/",
-  "ticket_url": null,
-  "price": null,
-  "source": "html-detail",
-  "needs_manual": false
  },
  {
   "venue": "Sellersville Theater",
@@ -359,6 +264,20 @@
   "needs_manual": true
  },
  {
+  "venue": "SOUTH Jazz Club",
+  "title": "ARPEGGIO JAZZ ENSEMBLE TRIBUTE TO GIL SCOTT-HERON",
+  "subtitle": null,
+  "date": "2026-11-15",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
+ },
+ {
   "venue": "Sellersville Theater",
   "title": "John Cassidy - Comedy, Magic & Really Weird Things with Balloons",
   "subtitle": null,
@@ -385,23 +304,6 @@
   "ticket_url": null,
   "price": null,
   "source": "html",
-  "needs_manual": false
- },
- {
-  "venue": "SOUTH Jazz Club",
-  "title": "ARPEGGIO JAZZ ENSEMBLE TRIBUTE TO GIL SCOTT-HERON",
-  "subtitle": null,
-  "date": "2026-11-15",
-  "show_time": "18:00",
-  "doors_time": null,
-  "set_times": [
-   "18:00",
-   "20:30"
-  ],
-  "url": "https://www.southjazzkitchen.com/event/arpeggio-jazz-ensemble-tribute-to-gil-scott-heron-fri-sat-sun-nov-13-14-15-showtimes-vary-by-day/",
-  "ticket_url": null,
-  "price": null,
-  "source": "html-detail",
   "needs_manual": false
  },
  {
@@ -659,21 +561,6 @@
  },
  {
   "venue": "Parx Casino",
-  "title": "Teso",
-  "subtitle": null,
-  "date": "2026-11-20",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xlounge"
- },
- {
-  "venue": "Parx Casino",
   "title": "Friday Night Throwback!",
   "subtitle": "Don't Tell Mom",
   "date": "2026-11-20",
@@ -686,6 +573,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "360"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Teso",
+  "subtitle": null,
+  "date": "2026-11-20",
+  "show_time": "21:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xlounge"
  },
  {
   "venue": "Dawson Street Pub",
@@ -1827,21 +1729,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Runnin’ Late Holiday Show",
-  "subtitle": null,
-  "date": "2026-12-12",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/runnin-late-holiday-show/",
-  "ticket_url": "https://www.ticketmaster.com/runnin-late-holiday-show-wilmington-delaware-12-12-2026/event/02006530768A4963",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "Zoso The Ultimate Led Zeppelin Experience",
   "subtitle": null,
   "date": "2026-12-12",
@@ -1854,6 +1741,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Runnin’ Late Holiday Show",
+  "subtitle": null,
+  "date": "2026-12-12",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/runnin-late-holiday-show/",
+  "ticket_url": "https://www.ticketmaster.com/runnin-late-holiday-show-wilmington-delaware-12-12-2026/event/02006530768A4963",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Parx Casino",
@@ -2170,21 +2072,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Better Off Dead",
-  "subtitle": null,
-  "date": "2026-12-18",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/better-off-dead/",
-  "ticket_url": "https://www.ticketmaster.com/better-off-dead-wilmington-delaware-12-18-2026/event/0200655E8E9D5DF9",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "Echoes – The American Pink Floyd",
   "subtitle": null,
   "date": "2026-12-18",
@@ -2197,6 +2084,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Better Off Dead",
+  "subtitle": null,
+  "date": "2026-12-18",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/better-off-dead/",
+  "ticket_url": "https://www.ticketmaster.com/better-off-dead-wilmington-delaware-12-18-2026/event/0200655E8E9D5DF9",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Sellersville Theater",
@@ -2551,6 +2453,23 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Washington House"
+ },
+ {
+  "venue": "SOUTH Jazz Club",
+  "title": "Maya Belardo & V Shayne Frederick: Home for the Holidays",
+  "subtitle": null,
+  "date": "2026-12-24",
+  "show_time": "18:30",
+  "doors_time": null,
+  "set_times": [
+   "18:30",
+   "21:00"
+  ],
+  "url": "https://www.southjazzkitchen.com/event/maya-belardo-v-shayne-frederick-home-for-the-holidays-dec-24-630pm-900pm/",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": false
  },
  {
   "venue": "Sellersville Theater",
@@ -4709,5 +4628,20 @@
   "source": "html",
   "needs_manual": false,
   "room": "TD Pavilion"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Evan Fox / Mikeal Anthony Greto & the Flood",
+  "subtitle": null,
+  "date": "2027-11-12",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/evan-fox-mikeal-anthony-greto-the-flood/",
+  "ticket_url": "https://www.ticketmaster.com/evan-fox-mikeal-anthony-greto-the-wilmington-delaware-11-12-2026/event/0200650B9D31AD3F",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  }
 ]

@@ -353,12 +353,6 @@
   "time": "19:00",
   "url": "https://tix.axs.com/YOHNEQAAAADFrphMAgAAAAAz%2fv%2f%2f%2fwD%2f%2f%2f%2f%2fDlVuaW9uIFRyYW5zZmVyAP%2f%2f%2f%2f%2f%2f%2f%2f%2f%2f?skin=&amp;tags=&amp;cpch=&amp;cpdate=&amp;cprid=&amp;cpid=&amp;cpcn=&amp;cpdid=&amp;cpdn=&amp;cpsrc=&amp;intoff=&amp;cid=&amp;utm_source=&amp;utm_medium=&amp;utm_campaign=&amp;utm_term=&amp;utm_content=&amp;aff=&amp;clickref=&amp;promocode=&amp;originalReferringURL=https%3A%2F%2Fwww.axs.com%2Fevents%2F1632179%2Fmichael-shannon-jason-narducy-and-friends-play-rems-document-tickets%3F__cf_chl_tk%3DxKRfCHHN2plbWRPgSrzdCXPKym9tfCvjoVVAfi4mBH8-1791302907-1.0.1.1-vskb9HuIsx9uc4SBeaSXoTsVOqKviYIcfWgQcp6NAr4&amp;upgrade=&amp;mkt_campaign=&amp;irclickid=&amp;gclid=&amp;fbclid=&amp;_gl=&amp;axsEventId=1632179&amp;q=ee6ae898-474f-4873-8b82-90cb428fac83&amp;p=4809d019-9095-4c13-897c-a897319e58fb&amp;ts=1791302940&amp;c=axs&amp;e=29870524838574254&amp;rt=Safetynet&amp;h=5a7ace6e79fd79259a8e16ba2389d4a8"
  },
- "512162": {
-  "checked": "2026-11-08",
-  "source": "doors+1h",
-  "time": "20:00",
-  "url": "https://www.mcohjt.com/events/chloe-kimes"
- },
  "512218": {
   "checked": "2026-11-08",
   "source": "evening-time-near-date",
@@ -382,12 +376,6 @@
   "source": "jsonld",
   "time": "20:00",
   "url": "https://dice.fm/event/2wn2rm-wxpn-welcomes-loudon-wainwright-iii-8th-jan-arden-gild-hall-wilmington-tickets?pid=36d2aee9&amp;_branch_match_id=1427047065559758097&amp;utm_medium=partners_api&amp;_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1S9NMzGwMDIxTk2xSLEvyEyxNTZLMUpMTbVUqytKTUstKsrMS49PKsovL04tsg1OTEssygQABd6eckgAAAA%3D"
- },
- "512267": {
-  "checked": "2026-11-08",
-  "source": "venue-site:ardmoremusichall.com",
-  "time": "20:00",
-  "url": "https://www.tixr.com/groups/ardmoremusichall/events/joy-oladokun-191241"
  },
  "512269": {
   "checked": "2026-11-08",
@@ -430,12 +418,6 @@
   "source": "venue-site:brooklynbowl.com (name match)",
   "time": "19:30",
   "url": "https://www.brooklynbowl.com/philadelphia/events/detail/tiny-habits-vvg1fz_gkgbg1a"
- },
- "513284": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:30",
-  "url": "https://www.chrisjazzcafe.com/events/143853"
  },
  "513286": {
   "checked": "2026-11-08",
@@ -707,18 +689,6 @@
   "time": "20:00",
   "url": "https://www.st94.com/events/loudon-wainwright-iii-3/"
  },
- "513885": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "18:00",
-  "url": "https://www.handstamp.com/e/turning-jane-shark-earrings-mirriam-3zycs2hj"
- },
- "513888": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "18:30",
-  "url": "https://www.nostalgiafishtown.com/events/peter-stone-stone-cold-grace-jackson-pines"
- },
  "513900": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -797,23 +767,11 @@
   "time": "19:30",
   "url": "https://www.st94.com/events/a-band-called-honalee-a-folk-trio-celebrating-peter-paul-mary/"
  },
- "513950": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "18:00",
-  "url": "https://www.ticketweb.com/event/coral-moons-ecce-shnak-nikki-lopez-philly-tickets/14273414"
- },
  "513957": {
   "checked": "2026-11-08",
   "source": "venue-site:johnnybrendas.com",
   "time": "21:00",
   "url": "https://www.etix.com/ticket/p/47892768/tj-kong-and-the-atomic-bomb-philadelphia-johnny-brendas"
- },
- "513958": {
-  "checked": "2026-11-08",
-  "source": "show",
-  "time": "19:30",
-  "url": "https://thecolonialtheatre.com/events/guest-presentations/music-for-everyone-vanessa-collier/"
  },
  "513964": {
   "checked": "2026-11-08",
@@ -922,12 +880,6 @@
   "source": "http:200",
   "time": null,
   "url": "http://www.dawsonstreetpub.com"
- },
- "514045": {
-  "checked": "2026-11-08",
-  "source": "venue-site:r5productions.com",
-  "time": "20:00",
-  "url": "https://www.etix.com/ticket/p/39698264/sweeping-promiseswith-zillas-on-acidmesh-philadelphia-the-first-unitarian-church?partner_id=100&amp;_gl=1*1jatw3t*_ga*MTEzMjg2NDI5NC4xNzg0MzAwODUw*_ga_6T50PMF8HM*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzE2NzEkajYwJGwwJGgxMzIxMjcwMDg3*_ga_20QQYQHBVX*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzE2NzEkajYwJGwwJGgxNDQ3OTM1OTIw"
  },
  "514048": {
   "checked": "2026-11-08",
@@ -1078,24 +1030,6 @@
   "source": "show",
   "time": "20:00",
   "url": "https://www.st94.com/events/bruce-in-the-usa-the-worlds-1-tribute-to-bruce-springsteen-the-e-street-band-9/"
- },
- "514383": {
-  "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.axs.com/events/1470838/dweezil-zappa-tickets?skin=keswick&amp;_gl=1*1f4ixj1*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
- },
- "514385": {
-  "checked": "2026-11-08",
-  "source": "venue-site:aeg:Union Transfer",
-  "time": "20:00",
-  "url": "https://www.axs.com/events/1438480/slow-pulp-tickets?skin=uniontransfer&amp;_gl=1*f62ryp*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
- },
- "514387": {
-  "checked": "2026-11-08",
-  "source": "venue-site:undergroundarts.org",
-  "time": "20:00",
-  "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-the-wldlfe-194075"
  },
  "514389": {
   "checked": "2026-11-08",
@@ -1271,12 +1205,6 @@
   "time": null,
   "url": "https://www.ensembleartsphilly.org/tickets-and-events/philadelphia-orchestra/2026-27-season/yo-yo-ma-and-emanuel-ax"
  },
- "514588": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:00",
-  "url": "https://kungfunecktie.com/event/the-obgms-uniity-community-chapstick/kung-fu-necktie/philadelphia-pennsylvania/"
- },
  "514590": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -1342,12 +1270,6 @@
   "source": "jsonld",
   "time": "20:00",
   "url": "https://thelansdownetheater.com/event/kansas/lansdowne-theater/lansdowne-pennsylvania/"
- },
- "514697": {
-  "checked": "2026-11-08",
-  "source": "venue-site:milkboyphilly.com",
-  "time": "20:00",
-  "url": "https://www.tixr.com/groups/milkboy/events/kate-stephenson-lighthearted-200058"
  },
  "514699": {
   "checked": "2026-11-08",
@@ -1775,12 +1697,6 @@
   "time": "20:00",
   "url": "https://dice.fm/event/v3xr37-marta-snchez-17th-dec-solar-myth-philadelphia-tickets?pid=efdf5368&amp;_branch_match_id=1427047065559758097&amp;utm_medium=partners_api&amp;_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Q8zMDFJTjMxNjAwsbAvyEyxTU1LSTM1NrNQqytKTUstKsrMS49PKsovL04tsg1OTEssygQAzw0IbUgAAAA%3D"
  },
- "515462": {
-  "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
-  "url": "https://www.southjazzkitchen.com/event/spur-of-the-moment-thursday-november-12-presented-by-unscripted-jazz/"
- },
  "515464": {
   "checked": "2026-11-08",
   "source": "no-time-found",
@@ -1955,12 +1871,6 @@
   "time": "20:00",
   "url": "https://www.ticketmaster.com/jalen-ngonda-doctrine-of-love-tour-philadelphia-pennsylvania-12-05-2026/event/020064C20B963620?_gl=1*114x870*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
  },
- "515558": {
-  "checked": "2026-11-08",
-  "source": "venue-site:themetphilly.com",
-  "time": "21:00",
-  "url": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-philadelphia-pennsylvania-11-12-2026/event/02006522B5634466?_gl=1*qsc154*_ga*MzQwNDg2Mjg0LjE3ODU0Mjg1NTc.*_ga_C1T806G4DF*czE3OTA1NDgxNjckbzMkZzEkdDE3OTA1NDgxOTQkajMzJGwwJGgw"
- },
  "515560": {
   "checked": "2026-11-08",
   "source": "venue-site:themetphilly.com",
@@ -1972,12 +1882,6 @@
   "source": "venue-site:themetphilly.com",
   "time": "20:00",
   "url": "https://www.ticketmaster.com/dalvin-la-melodia-philadelphia-pennsylvania-12-10-2026/event/02006548E78F2B12?_gl=1*xtmvmd*_ga*MzQwNDg2Mjg0LjE3ODU0Mjg1NTc.*_ga_C1T806G4DF*czE3OTA1NDgxNjckbzMkZzEkdDE3OTA1NDgxOTQkajMzJGwwJGgw"
- },
- "515574": {
-  "checked": "2026-11-08",
-  "source": "venue-site:The Queen",
-  "time": "20:00",
-  "url": "https://www.ticketmaster.com/evan-fox-mikeal-anthony-greto-the-wilmington-delaware-11-12-2026/event/0200650B9D31AD3F"
  },
  "515576": {
   "checked": "2026-11-08",
@@ -2008,18 +1912,6 @@
   "source": "venue-site:The Queen",
   "time": "20:00",
   "url": "https://www.ticketmaster.com/elizabeth-cook-wilmington-delaware-12-03-2026/event/02006551AC5E6A35"
- },
- "515594": {
-  "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
-  "url": "https://www.timerestaurant.net/copy-of-music-events"
- },
- "515596": {
-  "checked": "2026-11-08",
-  "source": "no-time-found",
-  "time": null,
-  "url": "https://www.timerestaurant.net/copy-of-music-events"
  },
  "515598": {
   "checked": "2026-11-08",
@@ -2110,12 +2002,6 @@
   "source": "no-time-found",
   "time": null,
   "url": "https://www.timerestaurant.net/copy-of-music-events"
- },
- "515638": {
-  "checked": "2026-11-08",
-  "source": "venue-site:tlaphilly.com",
-  "time": "20:00",
-  "url": "https://www.ticketmaster.com/phillip-phillips-philadelphia-pennsylvania-11-12-2026/event/020064CF4A765989?_gl=1*1v1cpcx*_ga*MTkyNjcyMDMxNi4xNzgyMjQxMjU3*_ga_C1T806G4DF*czE3OTA2OTg2MDckbzUkZzAkdDE3OTA2OTg2MTgkajQ5JGwwJGgw"
  },
  "515640": {
   "checked": "2026-11-08",
@@ -2608,12 +2494,6 @@
   "source": "venue-site:118northwayne.com",
   "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/db-lambert-link-hansen-213653"
- },
- "516522": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:00",
-  "url": "https://dice.fm/partner/tickets/event/mxnd5v-all-get-out-motherfolk-and-saint-blonde-12th-nov-ortliebs-philadelphia-tickets?dice_id=10181122&amp;dice_channel=web&amp;dice_tags=organic&amp;dice_campaign=DICE&amp;dice_feature=mio_marketing&amp;_branch_match_id=1427047065559758097&amp;utm_source=web&amp;utm_campaign=DICE&amp;utm_medium=mio_marketing&amp;_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c8zSzFMSjY2NTBItrSvK0pNSy0qysxLj08qyi8vTi2yDU5MSyzKBAC2MNqFOwAAAA%3D%3D&amp;lng=en-US"
  },
  "516524": {
   "checked": "2026-11-08",

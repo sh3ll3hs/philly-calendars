@@ -1032,6 +1032,26 @@
   "url": "https://phillygaycalendar.com/events/5-fridays-at-franky-bradleys/",
   "venue": "Franky Bradley's"
  },
+ "44668-2026-11-20": {
+  "address": "1320 Chancellor St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Dance Party",
+   "Happy Hour",
+   "Performance"
+  ],
+  "date": "2026-11-20",
+  "desc": "The weekly $5 Friday night at Franky Bradley's.7 PM every Friday. Listed here through the end of December.",
+  "end": "2026-11-20T21:30:00",
+  "id": 44668,
+  "performers": "",
+  "start": "2026-11-20T19:00:00",
+  "ticket": "https://www.eventbrite.com/e/5-fridays-tickets-2004172880035?aff=erelpanelorg",
+  "time": "2:00 PM \u2013 4:30 PM",
+  "title": "$5 Fridays at Franky Bradley\u2019s",
+  "url": "https://phillygaycalendar.com/events/5-fridays-at-franky-bradleys/",
+  "venue": "Franky Bradley's"
+ },
  "44669-2026-10-28": {
   "address": "254, South 12th Street, Philadelphia, PA",
   "all_day": false,
@@ -1826,6 +1846,25 @@
   "url": "https://phillygaycalendar.com/events/queer-joy-cabaret/",
   "venue": "CLUB 624"
  },
+ "45307-2026-11-20": {
+  "address": "319 N 11th St, Philadelphia, PA 19107",
+  "all_day": false,
+  "cats": [
+   "Arts & Theater",
+   "Open Mic"
+  ],
+  "date": "2026-11-20",
+  "desc": "Thanksgiving isn\u2019t always picture-perfect, and that\u2019s where the best stories begin! Join Philly Queer Storytellers for Grateful AF. The night features stories about Thanksgivings past, the people who make life meaningful, and the things we\u2019re grateful for (even when life\u2026",
+  "end": "2026-11-20T21:00:00",
+  "id": 45307,
+  "performers": "",
+  "start": "2026-11-20T19:30:00",
+  "ticket": "https://www.ticketfairy.com/event/grateful-af-20nov2026",
+  "time": "2:30 PM \u2013 4:00 PM",
+  "title": "Grateful AF",
+  "url": "https://phillygaycalendar.com/events/grateful-af/",
+  "venue": "Velvet Whip"
+ },
  "45420-2026-11-04": {
   "address": "4014 Walnut Street, Philadelphia, PA",
   "all_day": false,
@@ -2197,6 +2236,45 @@
   "title": "Vanity\u2019s Affair",
   "url": "https://phillygaycalendar.com/events/vanitys-affair-4/",
   "venue": "Paradise"
+ },
+ "46101-2026-11-20": {
+  "address": "101 Asbury Avenue, Asbury Park, NJ, USA",
+  "all_day": false,
+  "cats": [
+   "Bears",
+   "Drag",
+   "Leather",
+   "Lesbian"
+  ],
+  "date": "2026-11-20",
+  "desc": "UNINHIBITED: A FETISH FASHION AFFAIR This is your invitation to embrace your individuality, celebrate the community, and experience a night that's uninhibited! The New Jersey Leather Family and Ms. New Jersey Leather 2026 invite you to an unforgettable evening celebrating\u2026",
+  "end": "2026-11-20T23:30:00",
+  "id": 46101,
+  "performers": "Lady Victoria Courtez",
+  "start": "2026-11-20T19:30:00",
+  "ticket": "https://www.paradisenj.com",
+  "time": "2:30 PM \u2013 6:30 PM",
+  "title": "Uninhibited: A Fetish Fashion Affair",
+  "url": "https://phillygaycalendar.com/events/uninhibited-a-fetish-fashion-affair/",
+  "venue": "Paradise"
+ },
+ "46122-2026-11-20": {
+  "address": "254, South 12th Street, Philadelphia, PA",
+  "all_day": false,
+  "cats": [
+   "Lesbian"
+  ],
+  "date": "2026-11-20",
+  "desc": "Sapphic? Single? This party is for you... ;) We're taking over 254 and filling it with sapphic singles! We'll have drink specials, icebreaker games, and tons of sapphic singles mingling IRL! Join the chaos and come flirt IRL!!!",
+  "end": "2026-11-20T22:00:00",
+  "id": 46122,
+  "performers": "",
+  "start": "2026-11-20T19:00:00",
+  "ticket": "https://posh.vip/f/f8bb5?t=phillygaycalendar",
+  "time": "2:00 PM \u2013 5:00 PM",
+  "title": "Sapphic Singles Party",
+  "url": "https://phillygaycalendar.com/events/sapphic-singles-party/",
+  "venue": "254"
  },
  "46128-2026-11-18": {
   "address": "101 Asbury Avenue, Asbury Park, NJ, USA",
