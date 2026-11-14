@@ -2665,5 +2665,99 @@
   "title": "Sip City Mixer: WLW+ Mid-30s and Up",
   "url": "https://phillygaycalendar.com/events/sip-city-mixer-wlw-mid-30s-and-up/",
   "venue": "Blind Barber"
+ },
+ "46209-2026-11-14": {
+  "address": "254, South 12th Street, Philadelphia, PA",
+  "all_day": false,
+  "cats": [
+   "Drag",
+   "Performance"
+  ],
+  "date": "2026-11-14",
+  "desc": "A night of drag, art and transformation hosted by Lamia, The Cursed Queen, Philadelphia Magazine\u2019s Best Drag Queen with a Twist. Expect a drag showcase with special guest performances, then karaoke after the show.No cover. 2nd floor.",
+  "end": "2026-11-15T02:00:00",
+  "id": 46209,
+  "performers": "Lamia",
+  "start": "2026-11-14T21:00:00",
+  "ticket": "",
+  "time": "4:00 PM \u2013 9:00 PM",
+  "title": "Shapeshift: The Art of Drag and Transformation",
+  "url": "https://phillygaycalendar.com/events/shapeshift-the-art-of-drag-and-transformation/",
+  "venue": "254"
+ },
+ "46211-2026-11-15": {
+  "address": "7716 Maple Ave, Merchantville, NJ 08109, USA",
+  "all_day": false,
+  "cats": [
+   "Brunch",
+   "Drag"
+  ],
+  "date": "2026-11-15",
+  "desc": "Join us for a Britney, Whitney and Madonna drag brunch at The Tortilla Press Cantina in Merchantville, NJ.",
+  "end": "2026-11-15T16:00:00",
+  "id": 46211,
+  "performers": "",
+  "start": "2026-11-15T11:00:00",
+  "ticket": "https://www.eventbrite.com/e/brunch-is-a-drag-at-tortilla-press-cantina-britney-whitney-madonna-tickets-1968715939371",
+  "time": "6:00 AM \u2013 11:00 AM",
+  "title": "Brunch is A Drag: Britney | Whitney | Madonna",
+  "url": "https://phillygaycalendar.com/events/brunch-is-a-drag-britney-whitney-madonna/",
+  "venue": "Tortilla Press Cantina"
+ },
+ "46213-2026-11-15": {
+  "address": "530 South St, Philadelphia, PA, USA",
+  "all_day": false,
+  "cats": [
+   "Community"
+  ],
+  "date": "2026-11-15",
+  "desc": "Queer Nite is back at Tattooed Mom. This is a free event open to anyone in the LGBTQ+ community. No matter how you identify, you are invited to drink, eat and meet new people. Nothing required, show up as yourself.\u2026",
+  "end": "2026-11-15T19:00:00",
+  "id": 46213,
+  "performers": "",
+  "start": "2026-11-15T17:00:00",
+  "ticket": "https://www.tattooedmomphilly.com/event/queer-nite-november-2026/",
+  "time": "12:00 PM \u2013 2:00 PM",
+  "title": "Queer Nite",
+  "url": "https://phillygaycalendar.com/events/queer-nite/",
+  "venue": "Tattooed Mom"
+ },
+ "46215-2026-11-19": {
+  "address": "1315 Spruce St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Community",
+   "Dinner",
+   "Trans"
+  ],
+  "date": "2026-11-19",
+  "desc": "Transgender Day of Remembrance is an annual community gathering to remember and celebrate friends and loved ones lost to violence, and to raise awareness of the continuing violence against members of our community.Each year\u2019s program begins with a reading of\u2026",
+  "end": "2026-11-19T20:00:00",
+  "id": 46215,
+  "performers": "",
+  "start": "2026-11-19T17:30:00",
+  "ticket": "https://www.waygay.org/calendar",
+  "time": "12:30 PM \u2013 3:00 PM",
+  "title": "Transgender Day of Remembrance Dinner",
+  "url": "https://phillygaycalendar.com/events/transgender-day-of-remembrance-dinner/",
+  "venue": "William Way LGBT Community Center"
+ },
+ "46236-2026-11-19": {
+  "address": "177 Markle St, Philadelphia, PA 19127",
+  "all_day": false,
+  "cats": [
+   "Drag"
+  ],
+  "date": "2026-11-19",
+  "desc": "Come out to 90s drag bingo at Brass Tap in Manayunk. You have a chance to win some fabulous prizes \u2764\ufe0f Balls drop @ 7",
+  "end": "2026-11-19T21:00:00",
+  "id": 46236,
+  "performers": "Pariah Sinclair",
+  "start": "2026-11-19T19:00:00",
+  "ticket": "https://www.eventbrite.com/e/90s-drag-bingo-tickets-2004402406555?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=wsa&aff=ebdsshwebmobile",
+  "time": "2:00 PM \u2013 4:00 PM",
+  "title": "90s Drag Bingo",
+  "url": "https://phillygaycalendar.com/events/90s-drag-bingo/",
+  "venue": "The Brass Tap"
  }
 }
