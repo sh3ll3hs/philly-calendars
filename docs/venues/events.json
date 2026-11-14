@@ -28,96 +28,6 @@
   "needs_manual": true
  },
  {
-  "venue": "Sellersville Theater",
-  "title": "Herman's Hermits starring Peter Noone (6 PM)",
-  "subtitle": null,
-  "date": "2026-11-13",
-  "show_time": "18:00",
-  "doors_time": "17:30",
-  "set_times": [],
-  "url": "https://www.st94.com/events/hermans-hermits-starring-peter-noone-6-pm/",
-  "ticket_url": "https://www.etix.com/ticket/p/59123067/hermans-hermits-starring-peter-noone-6-pm-sellersville-sellersville-theater-1894",
-  "price": "$65 to $102",
-  "source": "html",
-  "needs_manual": false,
-  "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "WMGK presents Grand Funk Railroad",
-  "subtitle": null,
-  "date": "2026-11-13",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
-  "venue": "The Queen",
-  "title": "Alicia Maxwell Project",
-  "subtitle": null,
-  "date": "2026-11-13",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/alicia-maxwell-project/",
-  "ticket_url": "https://www.ticketmaster.com/alicia-maxwell-project-wilmington-delaware-11-13-2026/event/02006529893663E8",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Friday Night Throwback!",
-  "subtitle": "Anger Management",
-  "date": "2026-11-13",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Teso",
-  "subtitle": null,
-  "date": "2026-11-13",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xlounge"
- },
- {
-  "venue": "Sellersville Theater",
-  "title": "Herman's Hermits starring Peter Noone (9 PM)",
-  "subtitle": null,
-  "date": "2026-11-13",
-  "show_time": "21:00",
-  "doors_time": "20:30",
-  "set_times": [],
-  "url": "https://www.st94.com/events/hermans-hermits-starring-peter-noone-9-pm/",
-  "ticket_url": "https://www.etix.com/ticket/p/89380478/hermans-hermits-starring-peter-noone-9-pm-sellersville-sellersville-theater-1894",
-  "price": "$65 to $102",
-  "source": "html",
-  "needs_manual": false,
-  "room": "Sellersville Theater 1894"
- },
- {
   "venue": "Dawson Street Pub",
   "title": "Philly Blind Pig BBQ!",
   "subtitle": null,
@@ -427,21 +337,6 @@
  },
  {
   "venue": "Parx Casino",
-  "title": "360 Comedy Night",
-  "subtitle": "Gabe Mahalik & Shane Daniels",
-  "date": "2026-11-19",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
   "title": "Jodeci",
   "subtitle": "35th Anniversary Tour of Forever My Lady",
   "date": "2026-11-19",
@@ -454,6 +349,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "Xcite Center"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "360 Comedy Night",
+  "subtitle": "Gabe Mahalik & Shane Daniels",
+  "date": "2026-11-19",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "360"
  },
  {
   "venue": "The Queen",
@@ -484,6 +394,20 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Crown"
+ },
+ {
+  "venue": "Dawson Street Pub",
+  "title": "Electric Sex Power",
+  "subtitle": null,
+  "date": "2026-11-20",
+  "show_time": null,
+  "doors_time": null,
+  "set_times": [],
+  "url": "http://beta.dawsonstreetpub.com/index.php",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": true
  },
  {
   "venue": "SOUTH Jazz Club",
@@ -561,21 +485,6 @@
  },
  {
   "venue": "Parx Casino",
-  "title": "Friday Night Throwback!",
-  "subtitle": "Don't Tell Mom",
-  "date": "2026-11-20",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
   "title": "Teso",
   "subtitle": null,
   "date": "2026-11-20",
@@ -588,6 +497,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "Xlounge"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Friday Night Throwback!",
+  "subtitle": "Don't Tell Mom",
+  "date": "2026-11-20",
+  "show_time": "21:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "360"
  },
  {
   "venue": "Dawson Street Pub",
@@ -2130,21 +2054,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Echoes – The American Pink Floyd",
-  "subtitle": null,
-  "date": "2026-12-18",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/echoes/",
-  "ticket_url": "https://www.ticketmaster.com/echoes-the-american-pink-floyd-wilmington-delaware-12-18-2026/event/02006522BD186384",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Main Hall"
- },
- {
-  "venue": "The Queen",
   "title": "Better Off Dead",
   "subtitle": null,
   "date": "2026-12-18",
@@ -2157,6 +2066,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Crown"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Echoes – The American Pink Floyd",
+  "subtitle": null,
+  "date": "2026-12-18",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/echoes/",
+  "ticket_url": "https://www.ticketmaster.com/echoes-the-american-pink-floyd-wilmington-delaware-12-18-2026/event/02006522BD186384",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Main Hall"
  },
  {
   "venue": "Sellersville Theater",
@@ -2528,20 +2452,6 @@
   "price": null,
   "source": "html",
   "needs_manual": false
- },
- {
-  "venue": "Dawson Street Pub",
-  "title": "CLOSED - CHRISTMAS",
-  "subtitle": null,
-  "date": "2026-12-25",
-  "show_time": null,
-  "doors_time": null,
-  "set_times": [],
-  "url": "http://beta.dawsonstreetpub.com/index.php",
-  "ticket_url": null,
-  "price": null,
-  "source": "html",
-  "needs_manual": true
  },
  {
   "venue": "Sellersville Theater",
@@ -4784,5 +4694,20 @@
   "source": "html",
   "needs_manual": false,
   "room": "TD Pavilion"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Alicia Maxwell Project",
+  "subtitle": null,
+  "date": "2027-11-13",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/alicia-maxwell-project/",
+  "ticket_url": "https://www.ticketmaster.com/alicia-maxwell-project-wilmington-delaware-11-13-2026/event/02006529893663E8",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  }
 ]
