@@ -1697,21 +1697,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Runnin’ Late Holiday Show",
-  "subtitle": null,
-  "date": "2026-12-12",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/runnin-late-holiday-show/",
-  "ticket_url": "https://www.ticketmaster.com/runnin-late-holiday-show-wilmington-delaware-12-12-2026/event/02006530768A4963",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "Zoso The Ultimate Led Zeppelin Experience",
   "subtitle": null,
   "date": "2026-12-12",
@@ -1724,6 +1709,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Runnin’ Late Holiday Show",
+  "subtitle": null,
+  "date": "2026-12-12",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/runnin-late-holiday-show/",
+  "ticket_url": "https://www.ticketmaster.com/runnin-late-holiday-show-wilmington-delaware-12-12-2026/event/02006530768A4963",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Parx Casino",
@@ -2054,21 +2054,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Better Off Dead",
-  "subtitle": null,
-  "date": "2026-12-18",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/better-off-dead/",
-  "ticket_url": "https://www.ticketmaster.com/better-off-dead-wilmington-delaware-12-18-2026/event/0200655E8E9D5DF9",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "Echoes – The American Pink Floyd",
   "subtitle": null,
   "date": "2026-12-18",
@@ -2081,6 +2066,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Better Off Dead",
+  "subtitle": null,
+  "date": "2026-12-18",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/better-off-dead/",
+  "ticket_url": "https://www.ticketmaster.com/better-off-dead-wilmington-delaware-12-18-2026/event/0200655E8E9D5DF9",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Sellersville Theater",
@@ -4322,21 +4322,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Damn The Torpedoes: Tom Petty Concert Experience",
-  "subtitle": null,
-  "date": "2027-03-13",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/damn-the-torpedoes-tom-petty-concert-experience/",
-  "ticket_url": "https://www.ticketmaster.com/damn-the-torpedoes-tom-petty-concert-wilmington-delaware-03-13-2027/event/0200656392A537DE",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "Alaska Thunderf*ck: The Revolution Tour",
   "subtitle": null,
   "date": "2027-03-13",
@@ -4349,6 +4334,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Damn The Torpedoes: Tom Petty Concert Experience",
+  "subtitle": null,
+  "date": "2027-03-13",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/damn-the-torpedoes-tom-petty-concert-experience/",
+  "ticket_url": "https://www.ticketmaster.com/damn-the-torpedoes-tom-petty-concert-wilmington-delaware-03-13-2027/event/0200656392A537DE",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Parx Casino",
@@ -4694,20 +4694,5 @@
   "source": "html",
   "needs_manual": false,
   "room": "TD Pavilion"
- },
- {
-  "venue": "The Queen",
-  "title": "Alicia Maxwell Project",
-  "subtitle": null,
-  "date": "2027-11-13",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/alicia-maxwell-project/",
-  "ticket_url": "https://www.ticketmaster.com/alicia-maxwell-project-wilmington-delaware-11-13-2026/event/02006529893663E8",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
  }
 ]
