@@ -1152,7 +1152,9 @@
   "method": "text",
   "url": "https://taconylab.org/events/",
   "instagram": "taconylab_art_center",
-  "venue": "Tacony LAB Community Arts Center"
+  "venue": "Tacony LAB Community Arts Center",
+  "off": true,
+  "needs": "replaced by its Eventbrite organizer page (eventbrite_thetaconylabcommunitya), which carries the same events with full times"
  },
  {
   "id": "themlocal",
@@ -1583,7 +1585,9 @@
   "method": "custom",
   "reader": "eventbrite",
   "url": "https://www.eventbrite.com/d/pa--philadelphia/free--events/",
-  "pages": 5
+  "pages": 5,
+  "off": true,
+  "needs": "Eventbrite answers GitHub's runner with 405 Not Allowed on its listing pages (Nov 2026); organizer pages below are used instead"
  },
  {
   "id": "eventbrite_honeytreeevileye",
@@ -1730,5 +1734,159 @@
   "reader": "philamuseum",
   "url": "https://www.philamuseum.org/sitemap-events.xml",
   "page": "https://www.philamuseum.org/events"
+ },
+ {
+  "id": "eventbrite_riverfrontnorthpartner",
+  "name": "Riverfront North Partnership",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/riverfront-north-partnership-16736377259"
+ },
+ {
+  "id": "eventbrite_collectivefutures",
+  "name": "Collective Futures",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/collective-futures-121629586686"
+ },
+ {
+  "id": "eventbrite_arthurrossgalleryunive",
+  "name": "Arthur Ross Gallery, University of Pennsylvania",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/arthur-ross-gallery-university-of-pennsylvania-18438467065"
+ },
+ {
+  "id": "eventbrite_survivorwatchpartiesph",
+  "name": "Survivor Watch Parties: Philadelphia",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/survivor-watch-parties-philadelphia-92720319523"
+ },
+ {
+  "id": "eventbrite_peoplescinemaclub",
+  "name": "People's Cinema Club",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/peoples-cinema-club-121566806278"
+ },
+ {
+  "id": "eventbrite_theandreamitchellcente",
+  "name": "The Andrea Mitchell Center for the Study of Democracy",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/the-andrea-mitchell-center-for-the-study-of-democracy-6367600359"
+ },
+ {
+  "id": "eventbrite_taconytogether",
+  "name": "Tacony Together",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/tacony-together-89215586933"
+ },
+ {
+  "id": "eventbrite_kingsessingheals",
+  "name": "Kingsessing Heals",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/kingsessing-heals-115634961001"
+ },
+ {
+  "id": "eventbrite_midnightthewicked",
+  "name": "Midnight & The Wicked",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/midnight-the-wicked-18040541952"
+ },
+ {
+  "id": "eventbrite_associationforpublicar",
+  "name": "Association for Public Art",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/association-for-public-art-184654597"
+ },
+ {
+  "id": "eventbrite_thetaconylabcommunitya",
+  "name": "The Tacony LAB Community Arts Center",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/the-tacony-lab-community-arts-center-17010830074"
+ },
+ {
+  "id": "eventbrite_getfreshdaily",
+  "name": "Get Fresh Daily",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/get-fresh-daily-15341899771"
+ },
+ {
+  "id": "eventbrite_chainashtacafewestphil",
+  "name": "Chai Nashta Cafe, West Philly",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/chai-nashta-cafe-west-philly-121323795024"
+ },
+ {
+  "id": "eventbrite_cobbscreekcommunityenv",
+  "name": "Cobbs Creek Community Environmental Center",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/cobbs-creek-community-environmental-center-116023753631"
+ },
+ {
+  "id": "eventbrite_naturalcreativity",
+  "name": "Natural Creativity",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/natural-creativity-73969234343"
+ },
+ {
+  "id": "eventbrite_dgriotphilly",
+  "name": "d'griot philly",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/dgriot-philly-70997033563"
+ },
+ {
+  "id": "eventbrite_theheadthehand",
+  "name": "The Head & The Hand",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/the-head-the-hand-23406618377"
+ },
+ {
+  "id": "eventbrite_inpursuitfilmfestival",
+  "name": "In Pursuit Film Festival",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/in-pursuit-film-festival-120878311315"
+ },
+ {
+  "id": "eventbrite_thewelcometable",
+  "name": "The Welcome Table",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/the-welcome-table-104673393411"
+ },
+ {
+  "id": "eventbrite_dvinitimarquitarobinso",
+  "name": "DVINITI Marquita Robinson Garcia",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/dviniti-marquita-robinson-garcia-74407057803"
+ },
+ {
+  "id": "eventbrite_nationalmechanicsbarre",
+  "name": "National Mechanics Bar & Restaurant",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/national-mechanics-bar-restaurant-487697149"
+ },
+ {
+  "id": "eventbrite_sincitycabaret",
+  "name": "Sin City Cabaret",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/sin-city-cabaret-64705529173"
  }
 ]

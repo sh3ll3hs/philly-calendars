@@ -17,7 +17,7 @@ A GitHub Actions workflow rebuilds the feeds every 6 hours and publishes them vi
 | Philly Family | `https://sh3ll3hs.github.io/philly-calendars/phillyfamily.ics` | `tribe_to_ics.py phillyfamily` — same method |
 | Bartram's Garden | `https://sh3ll3hs.github.io/philly-calendars/bartrams.ics` | `tribe_to_ics.py bartrams` — same method (the site's own `?ical=1` link triggers an "insecure connection" warning in Apple Calendar) |
 | Free Library of Philadelphia | `https://sh3ll3hs.github.io/philly-calendars/flp.ics` | `flp_to_ics.py` — the library's per-branch RSS feeds (the calendar site itself is behind a Cloudflare challenge); accumulates daily |
-| Everything else, combined | `https://sh3ll3hs.github.io/philly-calendars/combined.ics` | `combined_to_ics.py` — 140 sites listed in `combined_sources.json` (museums, parks, bars, galleries, theatres, neighborhood groups, Eventbrite's free Philadelphia listing), each read by the best method it offers; see "Combined feed" below |
+| Everything else, combined | `https://sh3ll3hs.github.io/philly-calendars/combined.ics` | `combined_to_ics.py` — 160 sites listed in `combined_sources.json` (museums, parks, bars, galleries, theatres, neighborhood groups, Eventbrite organizers), each read by the best method it offers; see "Combined feed" below |
 
 Checked and not worth converting: Northeast Times community calendar (prose, last updated Jan 2025),
 Sound Advice newsletter (last issue June 2025), Visit Philly (editorial, stale dates),
@@ -59,7 +59,7 @@ Events are de-duplicated across sources by title + start time, nightly runs fold
 
 To add a source: find the method with `python3 calfind.py --deep URL` and the table above, add an entry, run `python3 combined_to_ics.py --only <id> --force --out /tmp/t.ics --state /tmp/t.json`, and compare a few events with the site.
 
-Site-specific readers so far: Barnes Foundation, Bob & Barbara's, Center City Events, Cherry Street Pier, Curtis Institute, Delaware River Waterfront, Eventbrite (the public free-events listing for Philadelphia, 5 pages per run, plus single organizer pages), Evil Genius, Hive76, ICA, Mural Arts, Navy Yard, Independence National Historical Park, Parks on Tap, Philadelphia Museum of Art, The Rotunda, Schuylkill Banks, Science History Institute, SideQuest Theater (Crowdwork), The Rail Park.
+Site-specific readers so far: Barnes Foundation, Bob & Barbara's, Center City Events, Cherry Street Pier, Curtis Institute, Delaware River Waterfront, Eventbrite (one organizer page per recurring organizer; the general Philadelphia listing is switched off because Eventbrite refuses GitHub's runner on it), Evil Genius, Hive76, ICA, Mural Arts, Navy Yard, Independence National Historical Park, Parks on Tap, Philadelphia Museum of Art, The Rotunda, Schuylkill Banks, Science History Institute, SideQuest Theater (Crowdwork), The Rail Park.
 
 Rules every reader follows: check robots.txt before relying on a path; a 403/406 or bot challenge means the source is left out (Tixr, Temple, Penn Libraries, GivePulse's API); MATO and Instagram are never requested.
 
