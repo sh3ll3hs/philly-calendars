@@ -53,6 +53,9 @@ jobs:
       - name: Build Philly Family feed
         continue-on-error: true
         run: python3 tribe_to_ics.py phillyfamily --out docs/phillyfamily.ics
+      - name: Build Bartram's Garden feed
+        continue-on-error: true
+        run: python3 tribe_to_ics.py bartrams --out docs/bartrams.ics
       # Runs at most once a day (the script skips itself otherwise) to keep load off the library's server
       - name: Build Free Library feed
         continue-on-error: true

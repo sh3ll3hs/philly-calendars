@@ -15,6 +15,7 @@ A GitHub Actions workflow rebuilds the feeds every 6 hours and publishes them vi
 | Delaware County Arts Consortium | `https://sh3ll3hs.github.io/philly-calendars/delcoarts.ics` | `tribe_to_ics.py delcoarts` — same method |
 | County Lines Magazine (Delco, Chester County, Main Line) | `https://sh3ll3hs.github.io/philly-calendars/countylines.ics` | `tribe_to_ics.py countylines` — same method |
 | Philly Family | `https://sh3ll3hs.github.io/philly-calendars/phillyfamily.ics` | `tribe_to_ics.py phillyfamily` — same method |
+| Bartram's Garden | `https://sh3ll3hs.github.io/philly-calendars/bartrams.ics` | `tribe_to_ics.py bartrams` — same method (the site's own `?ical=1` link triggers an "insecure connection" warning in Apple Calendar) |
 | Free Library of Philadelphia | `https://sh3ll3hs.github.io/philly-calendars/flp.ics` | `flp_to_ics.py` — the library's per-branch RSS feeds (the calendar site itself is behind a Cloudflare challenge); accumulates daily |
 
 Checked and not worth converting: Northeast Times community calendar (prose, last updated Jan 2025),

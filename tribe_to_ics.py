@@ -11,6 +11,7 @@ Built-in sites:
     delcoarts     Delaware County Arts Consortium         -> delcoarts.ics
     countylines   County Lines Magazine (Delco/Chesco/Main Line) -> countylines.ics
     phillyfamily  Philly Family                           -> phillyfamily.ics
+    bartrams      Bartram's Garden                        -> bartrams.ics
 
 Usage:
     python3 tribe_to_ics.py delcoarts --out docs/delcoarts.ics
@@ -51,6 +52,7 @@ SITES = {
     "delcoarts": ("https://www.delcoarts.org", "Delco Arts Events"),
     "countylines": ("https://countylinesmagazine.com", "County Lines Magazine Events"),
     "phillyfamily": ("https://phillyfamily.com", "Philly Family Events"),
+    "bartrams": ("https://www.bartramsgarden.org", "Bartram's Garden Events"),
 }
 UA = "Mozilla/5.0 (tribe_to_ics; personal calendar subscription)"
 DEFAULT_HOURS = 2

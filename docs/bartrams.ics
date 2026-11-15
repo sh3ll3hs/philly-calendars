@@ -1,0 +1,439 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tribe_to_ics//Bartram's Garden Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bartram's Garden Events
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e28d702cff225d94be0f2daa20c2d0623bc14ca4@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261104T100000
+DTEND;TZID=America/New_York:20261104T113000
+SUMMARY:Little Explorers: Colorful Leaves
+LOCATION:Bartram’s Garden Courtyard\, Coach House and Barn\, 5400 Lindber
+ gh Blvd.\, Philadelphia\, PA 19143
+DESCRIPTION:Join us during one of the prettiest times of year and make some
+  colorful art!\n\nABOUT LITTLE EXPLORERS:\n\nEvery first Wednesday of the 
+ month\, March through November\, 10-11:30am. Join us for exploration\, a g
+ arden walk\, and stories! Please feel free to bring a snack.\n\nDesigned f
+ or toddlers and preschoolers\, ages 2-4. One adult chaperone is required f
+ or every two children.\n\nFor more information\, email Leslie Gale\, lgale
+ @bartramsgarden.org.\n\nListing: https://www.bartramsgarden.org/event/2026
+ colorfulleaves/
+URL:https://www.bartramsgarden.org/event/2026colorfulleaves/
+CATEGORIES:---Birding,---Little Explorers,Classes & Workshops,Eligible for 
+ SW/ACCESS Discount,Family Activities,Series
+END:VEVENT
+BEGIN:VEVENT
+UID:79909aa0949c8a8e76b4c5aab80cd9a46a991d55@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261104T163000
+DTEND;TZID=America/New_York:20261104T180000
+SUMMARY:SWWAG Workshop: Putting the Farm to Bed to Prepare Your Winter Gard
+ en
+LOCATION:Sankofa Community Farm at Bartram’s Garden\, 5400 Lindbergh Blvd
+ \, Philadelphia\, PA 19143
+DESCRIPTION:It is almost time to put your garden to bed. Come learn the bes
+ t ways to get your garden ready for a restful winter sleep\, including cov
+ er crops\, overwintering greens\, and more. Led by Ty Holmberg.\n\nListing
+ : https://www.bartramsgarden.org/event/swwag26wintergarden/
+URL:https://www.bartramsgarden.org/event/swwag26wintergarden/
+CATEGORIES:Classes & Workshops,Family Activities,Free Community Events,Gard
+ ening,Sankofa Community Farm,Series
+END:VEVENT
+BEGIN:VEVENT
+UID:4cec0d59970c66b7d3cfd0a6d4cede5bc2a4dd3b@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261105T143000
+DTEND;TZID=America/New_York:20261105T163000
+SUMMARY:Sankofa Farm Stand at the Welcome Center
+LOCATION:Bartram’s Garden\, 5400 Lindbergh Blvd.\, Philadelphia\, PA 1914
+ 3
+DESCRIPTION:Come purchase fresh\, chemical-free\, local produce straight fr
+ om Sankofa Community Farm every Thursday at the Bartram’s Garden Welcome
+  Center now through November!\n\nEBT\, cash\, WIC Farmer’s Market vouche
+ rs\, and Senior vouchers are all accepted methods of payment (standard ret
+ ail WIC vouchers are not accepted).\n\nYou can also shop at the Farm Stand
+ …\n\nat the Black Farmer’s Market (5200 Pine St) every second and four
+ th Saturday\, 11am–2pm\, starting May 30\n\nat Clark Park Farmer’s Mar
+ ket (4300 Baltimore…\n\nListing: https://www.bartramsgarden.org/event/cl
+ arkparkfarmstand2026-2-2-2/2026-11-05/
+URL:https://www.bartramsgarden.org/event/clarkparkfarmstand2026-2-2-2/2026-
+ 11-05/
+CATEGORIES:Sankofa Community Farm,Seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:a3b077a7a74afd25aab7b94d5618c497a629a28f@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261106T170000
+DTEND;TZID=America/New_York:20261106T183000
+SUMMARY:CANCELED SWWAG Workshop: Where Next Season Begins: Soil\, Orchard &
+  Land Care
+LOCATION:One Art Community Center\, 431-39 N. 52nd\, St. Philadelphia\, PA 
+ 19131
+DESCRIPTION:Update on 11/6: due to the weather\, this event has been cancel
+ ed.\n\nPlease note: this workshop takes place at One Art Community Center 
+ (5150 Warren St. Philadelphia\, PA).\n\nJoin us as we learn how to care fo
+ r the land through its season of rest. Together we’ll explore end-of-sea
+ son soil restoration\, compost building\, cover cropping\, orchard and per
+ ennial care\, leaf mulching\, crop clean-up\, and preparing gardens for wi
+ nter. We’ll also discuss how to observe your land\, identify areas that 
+ need…\n\nListing: https://www.bartramsgarden.org/event/swwagnextseason26
+ /
+URL:https://www.bartramsgarden.org/event/swwagnextseason26/
+CATEGORIES:Classes & Workshops,Free Community Events,Gardening,Sankofa Comm
+ unity Farm,Series
+END:VEVENT
+BEGIN:VEVENT
+UID:63881c95adf5c2722de25beaa5ed8bb3306fe9a2@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261107T093000
+DTEND;TZID=America/New_York:20261107T120000
+SUMMARY:Horticulture Volunteer Day
+LOCATION:Bartram’s Garden\, 5400 Lindbergh Blvd.\, Philadelphia\, PA 1914
+ 3
+DESCRIPTION:Volunteers will support seasonal plantings\, weeding\, and inva
+ sive species removal. Please plan to meet at the Welcome Center promptly a
+ t 9:30 AM. Staff will separate groups and provide instructions and safety 
+ protocols for the day. Out of respect and safety for our staff and others\
+ , please arrive on time.\n\nPLEASE NOTE: Capacity is limited\, and we rely
+  on everyone who signs up to show up. Please reserve a spot only if you ca
+ n attend. All participants must be pre-registered using link below. Each
+ …\n\nListing: https://www.bartramsgarden.org/event/horticulture-voluntee
+ r-novmber-7/
+URL:https://www.bartramsgarden.org/event/horticulture-volunteer-novmber-7/
+CATEGORIES:Volunteer
+END:VEVENT
+BEGIN:VEVENT
+UID:e683f2dcc626b720a131e29719a082e832bde266@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261107T110000
+DTEND;TZID=America/New_York:20261107T140000
+SUMMARY:Sankofa Farm Stand at the Black Farmer’s Market
+LOCATION:Freedom Greens & Gardens\, 5200 Pine Street\, Philadelphia
+DESCRIPTION:Come purchase fresh\, chemical-free\, local produce straight fr
+ om Sankofa Community Farm every second and fourth Saturday at the Black Fa
+ rmers’ Market (Freedom Greens and Garden\, 5200 Pine St.) now through No
+ vember!\n\nEBT\, cash\, WIC Farmer’s Market vouchers\, and Senior vouche
+ rs are all accepted methods of payment (standard retail WIC vouchers are n
+ ot accepted).\n\nYou can also shop at the Farm Stand…\n\nat Clark Park F
+ armer’s Market (4300 Baltimore Ave) every first and third Saturday\, 9am
+ –1:30pm\,…\n\nListing: https://www.bartramsgarden.org/event/clarkparkf
+ armstand2026-2-3/2026-11-07/
+URL:https://www.bartramsgarden.org/event/clarkparkfarmstand2026-2-3/2026-11
+ -07/
+CATEGORIES:Sankofa Community Farm,Seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:7ab6205d011511fea9571886cb58a09b95058f9e@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261108T140000
+DTEND;TZID=America/New_York:20261108T160000
+SUMMARY:Open Mic & Gallery
+LOCATION:Bartram’s Garden Barn
+DESCRIPTION:Join us for this open mic with Ollin Yoliztli Calmecac. While y
+ ou’re here\, be sure to check out the Meeting of the Condor and the Eagl
+ e Indigenous art exhibition. Open gallery hours are from 12–4pm.\n\nList
+ ing: https://www.bartramsgarden.org/event/open-mic/
+URL:https://www.bartramsgarden.org/event/open-mic/
+CATEGORIES:Arts & Performance,Free Community Events
+END:VEVENT
+BEGIN:VEVENT
+UID:1632939ca39927ba57682c6fd62d020ca8748f95@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261112T143000
+DTEND;TZID=America/New_York:20261112T163000
+SUMMARY:Sankofa Farm Stand at the Welcome Center
+LOCATION:Bartram’s Garden\, 5400 Lindbergh Blvd.\, Philadelphia\, PA 1914
+ 3
+DESCRIPTION:Come purchase fresh\, chemical-free\, local produce straight fr
+ om Sankofa Community Farm every Thursday at the Bartram’s Garden Welcome
+  Center now through November!\n\nEBT\, cash\, WIC Farmer’s Market vouche
+ rs\, and Senior vouchers are all accepted methods of payment (standard ret
+ ail WIC vouchers are not accepted).\n\nYou can also shop at the Farm Stand
+ …\n\nat the Black Farmer’s Market (5200 Pine St) every second and four
+ th Saturday\, 11am–2pm\, starting May 30\n\nat Clark Park Farmer’s Mar
+ ket (4300 Baltimore…\n\nListing: https://www.bartramsgarden.org/event/cl
+ arkparkfarmstand2026-2-2-2/2026-11-12/
+URL:https://www.bartramsgarden.org/event/clarkparkfarmstand2026-2-2-2/2026-
+ 11-12/
+CATEGORIES:Sankofa Community Farm,Seasonal
+END:VEVENT
+BEGIN:VEVENT
+UID:aedea75c4b05a5181a687a7c998c14ef6a3e3ed6@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261114T093000
+DTEND;TZID=America/New_York:20261114T153000
+SUMMARY:Schuylkill Crossing Community Celebration Volunteering
+DESCRIPTION:Join us for the Schuylkill Crossing Community Celebration to he
+ lp all participants and visitors feel safe and comfortable during the even
+ t.\n\nMultiple shifts available:\n\n9:30am–12:30pm\n\n12:30–3:30pm\n\n
+ Children and youth may volunteer alongside an accompanying adult.\n\nListi
+ ng: https://www.bartramsgarden.org/event/schuylkill-crossing-volunteering/
+URL:https://www.bartramsgarden.org/event/schuylkill-crossing-volunteering/
+CATEGORIES:Free Community Events,Support Bartram's Garden,Volunteer
+END:VEVENT
+BEGIN:VEVENT
+UID:0b350584a417eade16064163bd53125c67cd689f@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261114T100000
+DTEND;TZID=America/New_York:20261114T123000
+SUMMARY:Sankofa Community Farm Volunteer Day
+LOCATION:Sankofa Community Farm at Bartram’s Garden\, 5400 Lindbergh Blvd
+ \, Philadelphia\, PA 19143
+DESCRIPTION:Volunteers will work alongside Farm staff to support seasonal p
+ lantings\, harvesting\, weeding\, invasive species removal\, and orchard s
+ upport. Please plan to meet at the Sankofa Community Farm at 9:30 AM\, whe
+ re you’ll be provided with instructions and safety protocols for the da
+ y. Out of respect and safety for our staff and others\, please arrive on t
+ ime.\n\nPLEASE NOTE: Capacity is limited\, and we rely on everyone who sig
+ ns up to show up. Please reserve a spot only if you can attend. All…\n\n
+ Listing: https://www.bartramsgarden.org/event/sankofa-community-farm-volun
+ teer-november-14/
+URL:https://www.bartramsgarden.org/event/sankofa-community-farm-volunteer-n
+ ovember-14/
+CATEGORIES:Volunteer
+END:VEVENT
+BEGIN:VEVENT
+UID:32bc93a1a2ddbb4123c452cc15ea3e2263279a50@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261114T100000
+DTEND;TZID=America/New_York:20261114T110000
+SUMMARY:Guided Swing Bridge Walk with WeWalkPHL
+DESCRIPTION:Take a stroll on the new Schuylkill Crossings swing bridge with
+  WeWalkPHL! This guided round-trip walk will follow the Bartram’s Mile s
+ ection of the Schuylkill River Trail from Bartram’s Garden across the ne
+ w bridge.\n\nThe walk is approximately 1.6 miles and will last roughly one
+  hour in duration\, though participants are welcome to move at their own p
+ ace. Walk will take place entirely on the trail\, including some sections 
+ of moderate incline.\n\nWalk will depart from the Bartram’s Garden Meado
+ w.…\n\nListing: https://www.bartramsgarden.org/event/swing-bridge-openin
+ g-weekend-guided-bridge-walk-with-wewalkphl/
+URL:https://www.bartramsgarden.org/event/swing-bridge-opening-weekend-guide
+ d-bridge-walk-with-wewalkphl/
+CATEGORIES:---On the Trail,Free Community Events
+END:VEVENT
+BEGIN:VEVENT
+UID:1f9c754bbe33fe0d6cce2595dbfab96168547b04@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261114T100000
+DTEND;TZID=America/New_York:20261114T140000
+SUMMARY:Schuylkill Crossing Community Celebration
+DESCRIPTION:Join Bartram’s Garden\, SRDC\, the Bicycle Coalition of Great
+ er Philadelphia\, WeWalk PHL\, and the East Coast Greenway Alliance for a 
+ day of celebratory opportunities to explore the Schuylkill Crossing swing 
+ bridge!\n\nEnjoy music and refreshments throughout the day\, and check out
+  free guided walks and bike rides along the Bartram’s Mile section of th
+ e Schuylkill River Trail. Keep going across the bridge to Grays Ferry Cres
+ cent and beyond\, or return to the Garden to check out an art exhibition o
+ r…\n\nListing: https://www.bartramsgarden.org/event/schuylkill-crossing-
+ community-celebration/
+URL:https://www.bartramsgarden.org/event/schuylkill-crossing-community-cele
+ bration/
+CATEGORIES:---On the Trail,Free Community Events
+END:VEVENT
+BEGIN:VEVENT
+UID:e12ec759145229c4a792395657536dab02f632f7@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261114T110000
+DTEND;TZID=America/New_York:20261114T120000
+SUMMARY:Swing Bridge Opening Weekend: Guided Bridge Ride with Bicycle Coali
+ tion
+DESCRIPTION:Take a spin on the new Schuylkill Crossings swing bridge with t
+ he Bicycle Coalition of Greater Philadelphia! This guided round-trip bike 
+ ride will follow the Bartram’s Mile section of the Schuylkill River Trai
+ l from Bartram’s Garden across the new bridge.\n\nBring your own bike or
+  borrow one while supplies last (both adult and youth bikes available).\n\
+ nThe ride is approximately 1.6 miles and will last roughly one hour in dur
+ ation\, though participants are welcome to move at their own pace. Ride…
+ \n\nListing: https://www.bartramsgarden.org/event/swing-bridge-opening-wee
+ kend-guided-bridge-ride-with-bicycle-coalition/2026-11-14/1/
+URL:https://www.bartramsgarden.org/event/swing-bridge-opening-weekend-guide
+ d-bridge-ride-with-bicycle-coalition/2026-11-14/1/
+CATEGORIES:---Biking,---On the Trail,Free Community Events,Special Tour
+END:VEVENT
+BEGIN:VEVENT
+UID:9d9f6cefb9fa29d962146f202529b7b62f2357c4@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261114T120000
+DTEND;TZID=America/New_York:20261114T130000
+SUMMARY:Swing Bridge Opening Weekend: Guided Bridge Ride with Bicycle Coali
+ tion
+DESCRIPTION:Take a spin on the new Schuylkill Crossings swing bridge with t
+ he Bicycle Coalition of Greater Philadelphia! This guided round-trip bike 
+ ride will follow the Bartram’s Mile section of the Schuylkill River Trai
+ l from Bartram’s Garden across the new bridge.\n\nBring your own bike or
+  borrow one while supplies last (both adult and youth bikes available).\n\
+ nThe ride is approximately 1.6 miles and will last roughly one hour in dur
+ ation\, though participants are welcome to move at their own pace. Ride…
+ \n\nListing: https://www.bartramsgarden.org/event/swing-bridge-opening-wee
+ kend-guided-bridge-ride-with-bicycle-coalition/2026-11-14/2/
+URL:https://www.bartramsgarden.org/event/swing-bridge-opening-weekend-guide
+ d-bridge-ride-with-bicycle-coalition/2026-11-14/2/
+CATEGORIES:---Biking,---On the Trail,Free Community Events,Special Tour
+END:VEVENT
+BEGIN:VEVENT
+UID:130d435761c30237104fd08fe3125d568270978f@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261114T120000
+DTEND;TZID=America/New_York:20261114T123000
+SUMMARY:Indigenous Dance & Drumming Performance
+LOCATION:Upper Meadow
+DESCRIPTION:A cross-cultural collaboration at the Schuylkill Swing Bridge C
+ rossing celebration between multiple Indigenous partners living in Philade
+ lphia will celebrate the bridging of the two sides of the Schuylkill with 
+ dance\, drumming\, and a blessing.\n\nListing: https://www.bartramsgarden.
+ org/event/indigenous-dance-drumming-performance/
+URL:https://www.bartramsgarden.org/event/indigenous-dance-drumming-performa
+ nce/
+CATEGORIES:---On the Trail,Arts & Performance
+END:VEVENT
+BEGIN:VEVENT
+UID:0baa2169e128d604931e331320190671dd0b602d@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261114T130000
+DTEND;TZID=America/New_York:20261114T160000
+SUMMARY:Showing of ‘Nuevo Mundo’
+LOCATION:Bartram’s Garden Barn
+DESCRIPTION:Join us for this screening of the film Nuevo Mundo (1978\, unr
+ ated\, duration: 1 hour\, 35 minutes)\, which tells the story of a priest 
+ in 16th-century Mexico who converts the local population to Christianity b
+ y making a statue of the Virgin Mary in the image of local indigenous wome
+ n. This screening will be followed by an open discussion. While you’re h
+ ere\, be sure to check out the Meeting of the Condor and the Eagle Indigen
+ ous art exhibition. Open gallery hours are from 12–4pm.\n\nListing: http
+ s://www.bartramsgarden.org/event/showing-of-nuevo-mundo/
+URL:https://www.bartramsgarden.org/event/showing-of-nuevo-mundo/
+CATEGORIES:Arts & Performance,Free Community Events
+END:VEVENT
+BEGIN:VEVENT
+UID:0a24394c00e8f9e2dff9824c28c76af6bbe63454@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261114T130000
+DTEND;TZID=America/New_York:20261114T140000
+SUMMARY:Swing Bridge Opening Weekend: Guided Bridge Ride with Bicycle Coali
+ tion
+DESCRIPTION:Take a spin on the new Schuylkill Crossings swing bridge with t
+ he Bicycle Coalition of Greater Philadelphia! This guided round-trip bike 
+ ride will follow the Bartram’s Mile section of the Schuylkill River Trai
+ l from Bartram’s Garden across the new bridge.\n\nBring your own bike or
+  borrow one while supplies last (both adult and youth bikes available).\n\
+ nThe ride is approximately 1.6 miles and will last roughly one hour in dur
+ ation\, though participants are welcome to move at their own pace. Ride…
+ \n\nListing: https://www.bartramsgarden.org/event/swing-bridge-opening-wee
+ kend-guided-bridge-ride-with-bicycle-coalition/2026-11-14/3/
+URL:https://www.bartramsgarden.org/event/swing-bridge-opening-weekend-guide
+ d-bridge-ride-with-bicycle-coalition/2026-11-14/3/
+CATEGORIES:---Biking,---On the Trail,Free Community Events,Special Tour
+END:VEVENT
+BEGIN:VEVENT
+UID:664f49729eed13de91a0b4df4c1a0b72a6fb0228@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261114T133000
+DTEND;TZID=America/New_York:20261114T150000
+SUMMARY:Flow at Bartram’s Garden: Community Yoga in the Garden
+LOCATION:Coach House\, 5400 Lindbergh Blvd\, Philadelphia\, PA 19143
+DESCRIPTION:Flow at Bartram’s Garden is a community-centered outdoor yoga
+  series hosted by Healing the Hood Together (formerly Hood Healers PHL)\, 
+ designed to create space for rest\, movement\, and reconnection with natur
+ e. Each class invites participants of all levels to slow down\, breathe de
+ eply\, and experience the healing power of movement in one of Philly’s m
+ ost beautiful green spaces. This series centers accessibility\, community 
+ care\, and wellness for the people — welcoming beginners\, families\, an
+ d…\n\nListing: https://www.bartramsgarden.org/event/hthtflownov26/
+URL:https://www.bartramsgarden.org/event/hthtflownov26/
+CATEGORIES:---Yoga & Meditation,Arts & Performance,Classes & Workshops,Fami
+ ly Activities,Free Community Events,Series
+END:VEVENT
+BEGIN:VEVENT
+UID:1a307a4389033facc13c4466b75d93366ba94123@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261118T100000
+DTEND;TZID=America/New_York:20261118T113000
+SUMMARY:Little Explorers: What’s Buzzing and Blooming?
+LOCATION:Bartram’s Garden Courtyard\, Coach House and Barn\, 5400 Lindber
+ gh Blvd.\, Philadelphia\, PA 19143
+DESCRIPTION:Who knows what we’ll find in the Garden?  Come with us to ex
+ plore!\n\nABOUT LITTLE EXPLORERS:\n\nEvery first and third Wednesday of th
+ e month\, March through November\, 10-11:30am. Join us for exploration\, a
+  garden walk\, and stories! Please feel free to bring a snack.\n\nDesigned
+  for toddlers and preschoolers\, ages 2-4. One adult chaperone is required
+  for every two children.\n\nFor more information\, email Leslie Gale\, lga
+ le@bartramsgarden.org.\n\nListing: https://www.bartramsgarden.org/event/20
+ 26little-explorers-buzz-11/
+URL:https://www.bartramsgarden.org/event/2026little-explorers-buzz-11/
+CATEGORIES:---Birding,---Little Explorers,Classes & Workshops,Eligible for 
+ SW/ACCESS Discount,Family Activities,Series
+END:VEVENT
+BEGIN:VEVENT
+UID:058bc7dc88b0eae1d6923ec8d76626c7c444cb09@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261121T093000
+DTEND;TZID=America/New_York:20261121T120000
+SUMMARY:Horticulture Volunteer Day
+LOCATION:Bartram’s Garden\, 5400 Lindbergh Blvd.\, Philadelphia\, PA 1914
+ 3
+DESCRIPTION:Volunteers will support seasonal plantings\, weeding\, and inva
+ sive species removal. Please plan to meet at the Welcome Center promptly a
+ t 9:30 AM. Staff will separate groups and provide instructions and safety 
+ protocols for the day. Out of respect and safety for our staff and others\
+ , please arrive on time.\n\nPLEASE NOTE: Capacity is limited\, and we rely
+  on everyone who signs up to show up. Please reserve a spot only if you ca
+ n attend. All participants must be pre-registered using link below. Each
+ …\n\nListing: https://www.bartramsgarden.org/event/horticulture-voluntee
+ r-november-21/
+URL:https://www.bartramsgarden.org/event/horticulture-volunteer-november-21
+ /
+CATEGORIES:Volunteer
+END:VEVENT
+BEGIN:VEVENT
+UID:e1e5ffdcab847cf02c08ed4c58edd91ca157c71d@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261121T120000
+DTEND;TZID=America/New_York:20261121T160000
+SUMMARY:Closing Reception
+LOCATION:Bartram’s Garden Barn
+DESCRIPTION:Join us and Ollin Yoliztli Calmecac  for the closing reception
+  of the Meeting of the Condor and the Eagle Indigenous art exhibition.\n\n
+ Listing: https://www.bartramsgarden.org/event/closingreceptionmotce/
+URL:https://www.bartramsgarden.org/event/closingreceptionmotce/
+CATEGORIES:Arts & Performance,Free Community Events
+END:VEVENT
+BEGIN:VEVENT
+UID:b9da67f788b674bdb1026934801b779f64b66417@bartramsgarden.org
+DTSTAMP:20261115T154405Z
+DTSTART;TZID=America/New_York:20261205T110000
+DTEND;TZID=America/New_York:20261205T150000
+SUMMARY:Handmade Holidays
+DESCRIPTION:Join us in the Garden for our annual celebration of winter\, lo
+ cal artists and makers\, and community! This free public event is for the 
+ whole family\, rain or shine.\n\nEnjoy DIY wreath-making\, crafts\, archer
+ y\, a black walnut crack\, family portraits\, open hours at the Historic B
+ artram House\, and of course\, our vendor market—perfect for holiday sho
+ pping!\n\nHave you preordered your Signature Botanical Wreath yet? Pick-up
+  will happen between 11am–3pm at the event.\n\nListing: https://www.bart
+ ramsgarden.org/event/handmade-holidays2026/
+URL:https://www.bartramsgarden.org/event/handmade-holidays2026/
+CATEGORIES:Family Activities,Free Community Events,Seasonal
+END:VEVENT
+END:VCALENDAR
