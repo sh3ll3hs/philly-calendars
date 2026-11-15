@@ -2193,6 +2193,193 @@
 ],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/art-kids-classes-3-4": {
+"events": [
+{
+"all_day": false,
+"desc": "Activities",
+"end": "2026-11-14T12:00:00",
+"key": "https://www.philamuseum.org/events/art-kids-classes-3-4|2026-11-14T15:30:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Classroom 2), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-14T10:30:00",
+"title": "Art Kids Classes: Ages 3-4",
+"url": "https://www.philamuseum.org/events/art-kids-classes-3-4?start=2026-11-14T15:30:00.000Z&end=2026-11-14T17:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-02T19:15:53Z",
+"occ": [
+[
+"2026-11-14T10:30:00",
+"2026-11-14T12:00:00"
+],
+[
+"2026-11-14T13:00:00",
+"2026-11-14T14:30:00"
+],
+[
+"2026-12-05T10:30:00",
+"2026-12-05T12:00:00"
+],
+[
+"2026-12-05T13:00:00",
+"2026-12-05T14:30:00"
+],
+[
+"2026-12-12T10:30:00",
+"2026-12-12T12:00:00"
+],
+[
+"2026-12-12T13:00:00",
+"2026-12-12T14:30:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/art-kids-classes-5-6": {
+"events": [
+{
+"all_day": false,
+"desc": "Activities",
+"end": "2026-11-14T12:00:00",
+"key": "https://www.philamuseum.org/events/art-kids-classes-5-6|2026-11-14T15:30:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Classroom 1), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-14T10:30:00",
+"title": "Art Kids Classes: Ages 5-6",
+"url": "https://www.philamuseum.org/events/art-kids-classes-5-6?start=2026-11-14T15:30:00.000Z&end=2026-11-14T17:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-02T19:15:33Z",
+"occ": [
+[
+"2026-11-14T10:30:00",
+"2026-11-14T12:00:00"
+],
+[
+"2026-11-14T13:00:00",
+"2026-11-14T14:30:00"
+],
+[
+"2026-12-05T10:30:00",
+"2026-12-05T12:00:00"
+],
+[
+"2026-12-05T13:00:00",
+"2026-12-05T14:30:00"
+],
+[
+"2026-12-12T10:30:00",
+"2026-12-12T12:00:00"
+],
+[
+"2026-12-12T13:00:00",
+"2026-12-12T14:30:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/art-kids-classes-7-8": {
+"events": [
+{
+"all_day": false,
+"desc": "Activities",
+"end": "2026-11-14T12:00:00",
+"key": "https://www.philamuseum.org/events/art-kids-classes-7-8|2026-11-14T15:30:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Classroom 3), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-14T10:30:00",
+"title": "Art Kids Classes: Ages 7-8",
+"url": "https://www.philamuseum.org/events/art-kids-classes-7-8?start=2026-11-14T15:30:00.000Z&end=2026-11-14T17:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-02T19:17:02Z",
+"occ": [
+[
+"2026-11-14T10:30:00",
+"2026-11-14T12:00:00"
+],
+[
+"2026-11-14T13:00:00",
+"2026-11-14T14:30:00"
+],
+[
+"2026-12-05T10:30:00",
+"2026-12-05T12:00:00"
+],
+[
+"2026-12-05T13:00:00",
+"2026-12-05T14:30:00"
+],
+[
+"2026-12-12T10:30:00",
+"2026-12-12T12:00:00"
+],
+[
+"2026-12-12T13:00:00",
+"2026-12-12T14:30:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/art-kids-classes-9-10": {
+"events": [
+{
+"all_day": false,
+"desc": "Activities",
+"end": "2026-11-14T12:00:00",
+"key": "https://www.philamuseum.org/events/art-kids-classes-9-10|2026-11-14T15:30:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Classroom 4), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-14T10:30:00",
+"title": "Art Kids Classes: Ages 9-10",
+"url": "https://www.philamuseum.org/events/art-kids-classes-9-10?start=2026-11-14T15:30:00.000Z&end=2026-11-14T17:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-02T19:19:48Z",
+"occ": [
+[
+"2026-11-14T10:30:00",
+"2026-11-14T12:00:00"
+],
+[
+"2026-11-14T13:00:00",
+"2026-11-14T14:30:00"
+],
+[
+"2026-12-05T10:30:00",
+"2026-12-05T12:00:00"
+],
+[
+"2026-12-05T13:00:00",
+"2026-12-05T14:30:00"
+],
+[
+"2026-12-12T10:30:00",
+"2026-12-12T12:00:00"
+],
+[
+"2026-12-12T13:00:00",
+"2026-12-12T14:30:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/artists-on-art-joy-harjo": {
+"events": [],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-06T17:50:56Z",
+"occ": [],
+"read": "2026-11-15"
+},
 "https://www.philamuseum.org/events/author-talk-katy-hessel": {
 "events": [],
 "fetched": "2026-11-15",
@@ -2612,6 +2799,127 @@
 ],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/friday-nights": {
+"events": [
+{
+"all_day": false,
+"desc": "Social\n\nWe're collaborating with three of Philadelphia's finest DJs to enliven our Friday Nights programming.",
+"end": "2026-11-20T20:30:00",
+"key": "https://www.philamuseum.org/events/friday-nights|2026-11-20T22:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Great Stair Hall), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-20T17:00:00",
+"title": "Friday Nights",
+"url": "https://www.philamuseum.org/events/friday-nights?start=2026-11-20T22:00:00.000Z&end=2026-11-21T01:30:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-12T16:57:09Z",
+"occ": [
+[
+"2026-11-20T17:00:00",
+"2026-11-20T20:30:00"
+],
+[
+"2026-11-27T17:00:00",
+"2026-11-27T20:30:00"
+],
+[
+"2026-12-18T17:00:00",
+"2026-12-18T20:30:00"
+],
+[
+"2027-01-01T17:00:00",
+"2027-01-01T20:30:00"
+],
+[
+"2027-01-15T17:00:00",
+"2027-01-15T20:30:00"
+],
+[
+"2027-01-22T17:00:00",
+"2027-01-22T20:30:00"
+],
+[
+"2027-01-29T17:00:00",
+"2027-01-29T20:30:00"
+],
+[
+"2027-02-05T17:00:00",
+"2027-02-05T20:30:00"
+],
+[
+"2027-02-19T17:00:00",
+"2027-02-19T20:30:00"
+],
+[
+"2027-02-26T17:00:00",
+"2027-02-26T20:30:00"
+],
+[
+"2027-03-05T17:00:00",
+"2027-03-05T20:30:00"
+],
+[
+"2027-03-19T17:00:00",
+"2027-03-19T20:30:00"
+],
+[
+"2027-04-02T17:00:00",
+"2027-04-02T20:30:00"
+],
+[
+"2027-04-16T17:00:00",
+"2027-04-16T20:30:00"
+],
+[
+"2027-04-23T17:00:00",
+"2027-04-23T20:30:00"
+],
+[
+"2027-04-30T17:00:00",
+"2027-04-30T20:30:00"
+],
+[
+"2027-05-07T17:00:00",
+"2027-05-07T20:30:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/friday-nights-halloween-eve": {
+"events": [],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-09T19:07:58Z",
+"occ": [],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/gallery-talk-legendary-futures": {
+"events": [
+{
+"all_day": false,
+"desc": "Talks",
+"end": "2026-11-20T18:45:00",
+"key": "https://www.philamuseum.org/events/gallery-talk-legendary-futures|2026-11-20T23:30:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Great Stair Hall), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-20T18:30:00",
+"title": "Gallery Talk: Legendary Futures in Asian Art",
+"url": "https://www.philamuseum.org/events/gallery-talk-legendary-futures?start=2026-11-20T23:30:00.000Z&end=2026-11-20T23:45:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-13T14:39:24Z",
+"occ": [
+[
+"2026-11-20T18:30:00",
+"2026-11-20T18:45:00"
+]
+],
+"read": "2026-11-15"
+},
 "https://www.philamuseum.org/events/highlights-museum-tour": {
 "events": [
 {
@@ -2929,6 +3237,13 @@
 ],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/hirschhorn-behrend-lecture-duchamp": {
+"events": [],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-06T14:28:11Z",
+"occ": [],
+"read": "2026-11-15"
+},
 "https://www.philamuseum.org/events/impressionism-and-beyond": {
 "events": [
 {
@@ -3090,6 +3405,13 @@
 ],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/light-way-family-festival": {
+"events": [],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-13T19:02:20Z",
+"occ": [],
+"read": "2026-11-15"
+},
 "https://www.philamuseum.org/events/members-hour-marcel-duchamp": {
 "events": [
 {
@@ -3209,6 +3531,83 @@
 "fetched": "2026-11-15",
 "lastmod": "2026-10-28T17:36:28Z",
 "occ": [],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/nation-artists-members-closer-look": {
+"events": [
+{
+"all_day": false,
+"desc": "Tours\n\nDelve deeper into a members' only experience by exploring a curated theme from \"A Nation of Artists\" with one of our Guides.",
+"end": "2026-11-14T12:30:00",
+"key": "https://www.philamuseum.org/events/nation-artists-members-closer-look|2026-11-14T16:30:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Great Stair Hall), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-14T11:30:00",
+"title": "A Nation of Artists: Members\u2019 Closer Look",
+"url": "https://www.philamuseum.org/events/nation-artists-members-closer-look?start=2026-11-14T16:30:00.000Z&end=2026-11-14T17:30:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-05T19:07:29Z",
+"occ": [
+[
+"2026-11-14T11:30:00",
+"2026-11-14T12:30:00"
+],
+[
+"2026-11-16T11:30:00",
+"2026-11-16T12:30:00"
+],
+[
+"2026-11-21T11:30:00",
+"2026-11-21T12:30:00"
+],
+[
+"2026-11-23T11:30:00",
+"2026-11-23T12:30:00"
+],
+[
+"2026-11-28T11:30:00",
+"2026-11-28T12:30:00"
+],
+[
+"2026-11-30T11:30:00",
+"2026-11-30T12:30:00"
+],
+[
+"2026-12-05T11:30:00",
+"2026-12-05T12:30:00"
+],
+[
+"2026-12-07T11:30:00",
+"2026-12-07T12:30:00"
+],
+[
+"2026-12-12T11:30:00",
+"2026-12-12T12:30:00"
+],
+[
+"2026-12-14T11:30:00",
+"2026-12-14T12:30:00"
+],
+[
+"2026-12-19T11:30:00",
+"2026-12-19T12:30:00"
+],
+[
+"2026-12-21T11:30:00",
+"2026-12-21T12:30:00"
+],
+[
+"2026-12-26T11:30:00",
+"2026-12-26T12:30:00"
+],
+[
+"2026-12-28T11:30:00",
+"2026-12-28T12:30:00"
+]
+],
 "read": "2026-11-15"
 },
 "https://www.philamuseum.org/events/nation-of-artists-tour": {
@@ -3567,6 +3966,31 @@
 ],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/yule-performance-trio-mediaeval": {
+"events": [
+{
+"all_day": false,
+"desc": "Social",
+"end": "2026-12-04T20:30:00",
+"key": "https://www.philamuseum.org/events/yule-performance-trio-mediaeval|2026-12-04T22:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Great Stair Hall), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-12-04T17:00:00",
+"title": "Friday Nights: Yule Performance by Trio Mediaeval",
+"url": "https://www.philamuseum.org/events/yule-performance-trio-mediaeval?start=2026-12-04T22:00:00.000Z&end=2026-12-05T01:30:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-20T13:46:32Z",
+"occ": [
+[
+"2026-12-04T17:00:00",
+"2026-12-04T20:30:00"
+]
+],
+"read": "2026-11-15"
+},
 "https://www.schuylkillbanks.org/events/community-events/artist-walk-and-talk-fairmount-water-works-history-schuylkill": {
 "events": [
 {
@@ -3668,7 +4092,7 @@
 "fetched": "2026-11-15"
 }
 },
-"last_run": "",
+"last_run": "2026-11-15T22:37:24.090657+00:00",
 "sources": {
 "2ndstfestival": {
 "checked": "2026-11-15",
@@ -3860,12 +4284,122 @@
 "error": "error: HTTPError: 405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/pa--philadelphia/free--events/",
 "events": 0
 },
+"eventbrite_arthurrossgalleryunive": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"eventbrite_associationforpublicar": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"eventbrite_chainashtacafewestphil": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"eventbrite_cobbscreekcommunityenv": {
+"checked": "2026-11-15",
+"error": "",
+"events": 3
+},
+"eventbrite_collectivefutures": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"eventbrite_dgriotphilly": {
+"checked": "2026-11-15",
+"error": "",
+"events": 6
+},
+"eventbrite_dvinitimarquitarobinso": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"eventbrite_getfreshdaily": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
 "eventbrite_honeytreeevileye": {
 "checked": "2026-11-15",
 "error": "",
 "events": 11
 },
+"eventbrite_inpursuitfilmfestival": {
+"checked": "2026-11-15",
+"error": "",
+"events": 4
+},
+"eventbrite_kingsessingheals": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"eventbrite_midnightthewicked": {
+"checked": "2026-11-15",
+"error": "",
+"events": 4
+},
 "eventbrite_monstervegan": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"eventbrite_nationalmechanicsbarre": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"eventbrite_naturalcreativity": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"eventbrite_peoplescinemaclub": {
+"checked": "2026-11-15",
+"error": "",
+"events": 3
+},
+"eventbrite_riverfrontnorthpartner": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"eventbrite_sincitycabaret": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"eventbrite_survivorwatchpartiesph": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"eventbrite_taconytogether": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"eventbrite_theandreamitchellcente": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"eventbrite_theheadthehand": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"eventbrite_thetaconylabcommunitya": {
+"checked": "2026-11-15",
+"error": "",
+"events": 12
+},
+"eventbrite_thewelcometable": {
 "checked": "2026-11-15",
 "error": "",
 "events": 1
@@ -4143,7 +4677,7 @@
 "philamuseum": {
 "checked": "2026-11-15",
 "error": "",
-"events": 278
+"events": 329
 },
 "philly700": {
 "checked": "2026-11-15",
@@ -4163,7 +4697,7 @@
 "phillyjazzscene": {
 "checked": "2026-11-15",
 "error": "",
-"events": 241
+"events": 237
 },
 "phillyorchards": {
 "checked": "2026-11-15",
