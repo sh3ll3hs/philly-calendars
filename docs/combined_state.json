@@ -112,6 +112,10 @@
 "events": [],
 "fetched": "2026-11-15"
 },
+"https://statesidelive.com/Events-and-Entertainment/Events/New-Years-Eve-Live-Philly": {
+"events": [],
+"fetched": "2026-11-15"
+},
 "https://statesidelive.com/Events-and-Entertainment/Events/PBR-Monthly-Mayhem-Bucks-and-Does": {
 "events": [
 {
@@ -2189,6 +2193,306 @@
 ],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/author-talk-katy-hessel": {
+"events": [],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-20T20:46:19Z",
+"occ": [],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/duchamp-special-exhibition-tour": {
+"events": [
+{
+"all_day": false,
+"desc": "Tours\n\nThis special tour requires a paid registration and space is limited.",
+"end": "2026-11-12T13:00:00",
+"key": "https://www.philamuseum.org/events/duchamp-special-exhibition-tour|2026-11-12T17:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Great Stair Hall), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-12T12:00:00",
+"title": "Exhibition Tour: Marcel Duchamp",
+"url": "https://www.philamuseum.org/events/duchamp-special-exhibition-tour?start=2026-11-12T17:00:00.000Z&end=2026-11-12T18:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-28T14:00:51Z",
+"occ": [
+[
+"2026-11-12T12:00:00",
+"2026-11-12T13:00:00"
+],
+[
+"2026-11-13T12:00:00",
+"2026-11-13T13:00:00"
+],
+[
+"2026-11-14T12:00:00",
+"2026-11-14T13:00:00"
+],
+[
+"2026-11-15T12:00:00",
+"2026-11-15T13:00:00"
+],
+[
+"2026-11-16T12:00:00",
+"2026-11-16T13:00:00"
+],
+[
+"2026-11-19T12:00:00",
+"2026-11-19T13:00:00"
+],
+[
+"2026-11-20T12:00:00",
+"2026-11-20T13:00:00"
+],
+[
+"2026-11-21T12:00:00",
+"2026-11-21T13:00:00"
+],
+[
+"2026-11-22T12:00:00",
+"2026-11-22T13:00:00"
+],
+[
+"2026-11-23T12:00:00",
+"2026-11-23T13:00:00"
+],
+[
+"2026-11-27T12:00:00",
+"2026-11-27T13:00:00"
+],
+[
+"2026-11-28T12:00:00",
+"2026-11-28T13:00:00"
+],
+[
+"2026-11-29T12:00:00",
+"2026-11-29T13:00:00"
+],
+[
+"2026-11-30T12:00:00",
+"2026-11-30T13:00:00"
+],
+[
+"2026-12-03T12:00:00",
+"2026-12-03T13:00:00"
+],
+[
+"2026-12-04T12:00:00",
+"2026-12-04T13:00:00"
+],
+[
+"2026-12-05T12:00:00",
+"2026-12-05T13:00:00"
+],
+[
+"2026-12-06T12:00:00",
+"2026-12-06T13:00:00"
+],
+[
+"2026-12-07T12:00:00",
+"2026-12-07T13:00:00"
+],
+[
+"2026-12-10T12:00:00",
+"2026-12-10T13:00:00"
+],
+[
+"2026-12-11T12:00:00",
+"2026-12-11T13:00:00"
+],
+[
+"2026-12-12T12:00:00",
+"2026-12-12T13:00:00"
+],
+[
+"2026-12-13T12:00:00",
+"2026-12-13T13:00:00"
+],
+[
+"2026-12-14T12:00:00",
+"2026-12-14T13:00:00"
+],
+[
+"2026-12-17T12:00:00",
+"2026-12-17T13:00:00"
+],
+[
+"2026-12-18T12:00:00",
+"2026-12-18T13:00:00"
+],
+[
+"2026-12-19T12:00:00",
+"2026-12-19T13:00:00"
+],
+[
+"2026-12-20T12:00:00",
+"2026-12-20T13:00:00"
+],
+[
+"2026-12-21T12:00:00",
+"2026-12-21T13:00:00"
+],
+[
+"2026-12-24T12:00:00",
+"2026-12-24T13:00:00"
+],
+[
+"2026-12-26T12:00:00",
+"2026-12-26T13:00:00"
+],
+[
+"2026-12-27T12:00:00",
+"2026-12-27T13:00:00"
+],
+[
+"2026-12-28T12:00:00",
+"2026-12-28T13:00:00"
+],
+[
+"2026-12-31T12:00:00",
+"2026-12-31T13:00:00"
+],
+[
+"2027-01-01T12:00:00",
+"2027-01-01T13:00:00"
+],
+[
+"2027-01-02T12:00:00",
+"2027-01-02T13:00:00"
+],
+[
+"2027-01-03T12:00:00",
+"2027-01-03T13:00:00"
+],
+[
+"2027-01-04T12:00:00",
+"2027-01-04T13:00:00"
+],
+[
+"2027-01-07T12:00:00",
+"2027-01-07T13:00:00"
+],
+[
+"2027-01-08T12:00:00",
+"2027-01-08T13:00:00"
+],
+[
+"2027-01-09T12:00:00",
+"2027-01-09T13:00:00"
+],
+[
+"2027-01-10T12:00:00",
+"2027-01-10T13:00:00"
+],
+[
+"2027-01-11T12:00:00",
+"2027-01-11T13:00:00"
+],
+[
+"2027-01-14T12:00:00",
+"2027-01-14T13:00:00"
+],
+[
+"2027-01-15T12:00:00",
+"2027-01-15T13:00:00"
+],
+[
+"2027-01-16T12:00:00",
+"2027-01-16T13:00:00"
+],
+[
+"2027-01-17T12:00:00",
+"2027-01-17T13:00:00"
+],
+[
+"2027-01-18T12:00:00",
+"2027-01-18T13:00:00"
+],
+[
+"2026-11-14T13:30:00",
+"2026-11-14T14:30:00"
+],
+[
+"2026-11-15T13:30:00",
+"2026-11-15T14:30:00"
+],
+[
+"2026-11-21T13:30:00",
+"2026-11-21T14:30:00"
+],
+[
+"2026-11-22T13:30:00",
+"2026-11-22T14:30:00"
+],
+[
+"2026-11-28T13:30:00",
+"2026-11-28T14:30:00"
+],
+[
+"2026-11-29T13:30:00",
+"2026-11-29T14:30:00"
+],
+[
+"2026-12-05T13:30:00",
+"2026-12-05T14:30:00"
+],
+[
+"2026-12-06T13:30:00",
+"2026-12-06T14:30:00"
+],
+[
+"2026-12-12T13:30:00",
+"2026-12-12T14:30:00"
+],
+[
+"2026-12-13T13:30:00",
+"2026-12-13T14:30:00"
+],
+[
+"2026-12-19T13:30:00",
+"2026-12-19T14:30:00"
+],
+[
+"2026-12-20T13:30:00",
+"2026-12-20T14:30:00"
+],
+[
+"2026-12-26T13:30:00",
+"2026-12-26T14:30:00"
+],
+[
+"2026-12-27T13:30:00",
+"2026-12-27T14:30:00"
+],
+[
+"2027-01-02T13:30:00",
+"2027-01-02T14:30:00"
+],
+[
+"2027-01-03T13:30:00",
+"2027-01-03T14:30:00"
+],
+[
+"2027-01-09T13:30:00",
+"2027-01-09T14:30:00"
+],
+[
+"2027-01-10T13:30:00",
+"2027-01-10T14:30:00"
+],
+[
+"2027-01-16T13:30:00",
+"2027-01-16T14:30:00"
+],
+[
+"2027-01-17T13:30:00",
+"2027-01-17T14:30:00"
+]
+],
+"read": "2026-11-15"
+},
 "https://www.philamuseum.org/events/exhibition-tour-rodins-hands": {
 "events": [
 {
@@ -2279,6 +2583,31 @@
 [
 "2026-12-11T17:00:00",
 "2026-12-11T20:30:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/friday-night-pepperpot-edition": {
+"events": [
+{
+"all_day": false,
+"desc": "Social",
+"end": "2026-11-13T20:45:00",
+"key": "https://www.philamuseum.org/events/friday-night-pepperpot-edition|2026-11-13T22:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Multiple locations), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-13T17:00:00",
+"title": "Friday Nights: Pepperpot",
+"url": "https://www.philamuseum.org/events/friday-night-pepperpot-edition?start=2026-11-13T22:00:00.000Z&end=2026-11-14T01:45:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-26T17:31:40Z",
+"occ": [
+[
+"2026-11-13T17:00:00",
+"2026-11-13T20:45:00"
 ]
 ],
 "read": "2026-11-15"
@@ -2761,6 +3090,127 @@
 ],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/members-hour-marcel-duchamp": {
+"events": [
+{
+"all_day": false,
+"desc": "Social",
+"end": "2026-11-13T11:00:00",
+"key": "https://www.philamuseum.org/events/members-hour-marcel-duchamp|2026-11-13T15:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Dorrance Galleries), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-13T10:00:00",
+"title": "Members' Hour: Marcel Duchamp",
+"url": "https://www.philamuseum.org/events/members-hour-marcel-duchamp?start=2026-11-13T15:00:00.000Z&end=2026-11-13T16:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-28T20:22:36Z",
+"occ": [
+[
+"2026-11-13T10:00:00",
+"2026-11-13T11:00:00"
+],
+[
+"2026-11-20T10:00:00",
+"2026-11-20T11:00:00"
+],
+[
+"2026-11-27T10:00:00",
+"2026-11-27T11:00:00"
+],
+[
+"2026-12-04T10:00:00",
+"2026-12-04T11:00:00"
+],
+[
+"2026-12-11T10:00:00",
+"2026-12-11T11:00:00"
+],
+[
+"2026-12-18T10:00:00",
+"2026-12-18T11:00:00"
+],
+[
+"2027-01-01T10:00:00",
+"2027-01-01T11:00:00"
+],
+[
+"2027-01-08T10:00:00",
+"2027-01-08T11:00:00"
+],
+[
+"2027-01-15T10:00:00",
+"2027-01-15T11:00:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/museum-mindfulness-home-bright": {
+"events": [
+{
+"all_day": false,
+"desc": "Talks",
+"end": "2027-01-20T20:00:00",
+"key": "https://www.philamuseum.org/events/museum-mindfulness-home-bright|2027-01-21T00:00:00.000Z",
+"loc": "Off Site, Virtual",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2027-01-20T19:00:00",
+"title": "Museum Mindfulness at Home: Bright",
+"url": "https://www.philamuseum.org/events/museum-mindfulness-home-bright?start=2027-01-21T00:00:00.000Z&end=2027-01-21T01:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-20T15:24:32Z",
+"occ": [
+[
+"2027-01-20T19:00:00",
+"2027-01-20T20:00:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/museum-mindfulness-home-watercolor-wonders": {
+"events": [],
+"fetched": "2026-11-15",
+"lastmod": "2026-11-03T22:22:02Z",
+"occ": [],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/museum-mindfulness-moving-mythology": {
+"events": [
+{
+"all_day": false,
+"desc": "Talks",
+"end": "2026-12-12T12:00:00",
+"key": "https://www.philamuseum.org/events/museum-mindfulness-moving-mythology|2026-12-12T16:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Eli Kirk Price Room), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-12-12T11:00:00",
+"title": "Museum Mindfulness: Moving Mythology",
+"url": "https://www.philamuseum.org/events/museum-mindfulness-moving-mythology?start=2026-12-12T16:00:00.000Z&end=2026-12-12T17:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-20T17:22:16Z",
+"occ": [
+[
+"2026-12-12T11:00:00",
+"2026-12-12T12:00:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/museum-mindfulness-nature-walk": {
+"events": [],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-28T17:36:28Z",
+"occ": [],
+"read": "2026-11-15"
+},
 "https://www.philamuseum.org/events/nation-of-artists-tour": {
 "events": [
 {
@@ -2922,11 +3372,84 @@
 ],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/philly-sensory-theatre-quack": {
+"events": [],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-27T16:40:33Z",
+"occ": [],
+"read": "2026-11-15"
+},
 "https://www.philamuseum.org/events/preview-party-craft-show": {
 "events": [],
 "fetched": "2026-11-15",
 "lastmod": "2026-11-04T13:52:18Z",
 "occ": [],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/seeding-joy-workshop": {
+"events": [
+{
+"all_day": false,
+"desc": "Activities\n\nJoin our series of interactive workshops for all ages.",
+"end": "2026-12-26T13:00:00",
+"key": "https://www.philamuseum.org/events/seeding-joy-workshop|2026-12-26T16:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Learning & Engagement Center), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-12-26T11:00:00",
+"title": "Workshop Series: Seeding Joy",
+"url": "https://www.philamuseum.org/events/seeding-joy-workshop?start=2026-12-26T16:00:00.000Z&end=2026-12-26T18:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-28T13:26:40Z",
+"occ": [
+[
+"2026-12-26T11:00:00",
+"2026-12-26T13:00:00"
+],
+[
+"2027-01-30T11:00:00",
+"2027-01-30T13:00:00"
+],
+[
+"2027-02-27T11:00:00",
+"2027-02-27T13:00:00"
+],
+[
+"2027-03-27T11:00:00",
+"2027-03-27T13:00:00"
+],
+[
+"2027-04-24T11:00:00",
+"2027-04-24T13:00:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/sensory-friendly-mornings": {
+"events": [
+{
+"all_day": false,
+"desc": "Activities",
+"end": "2026-12-06T10:00:00",
+"key": "https://www.philamuseum.org/events/sensory-friendly-mornings|2026-12-06T14:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Eli Kirk Price Room), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-12-06T09:00:00",
+"title": "Sensory Friendly Mornings",
+"url": "https://www.philamuseum.org/events/sensory-friendly-mornings?start=2026-12-06T14:00:00.000Z&end=2026-12-06T15:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-10-27T16:37:31Z",
+"occ": [
+[
+"2026-12-06T09:00:00",
+"2026-12-06T10:00:00"
+]
+],
 "read": "2026-11-15"
 },
 "https://www.philamuseum.org/events/sketching-in-the-galleries": {
@@ -2990,6 +3513,31 @@
 [
 "2026-12-26T10:30:00",
 "2026-12-26T12:00:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/the-bride-remade": {
+"events": [
+{
+"all_day": false,
+"desc": "Activities",
+"end": "2026-12-05T13:00:00",
+"key": "https://www.philamuseum.org/events/the-bride-remade|2026-12-05T16:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Learning & Engagement Center), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-12-05T11:00:00",
+"title": "The Bride Remade",
+"url": "https://www.philamuseum.org/events/the-bride-remade?start=2026-12-05T16:00:00.000Z&end=2026-12-05T18:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-11-02T05:33:01Z",
+"occ": [
+[
+"2026-12-05T11:00:00",
+"2026-12-05T13:00:00"
 ]
 ],
 "read": "2026-11-15"
@@ -3120,7 +3668,7 @@
 "fetched": "2026-11-15"
 }
 },
-"last_run": "",
+"last_run": "2026-11-15T22:28:06.794308+00:00",
 "sources": {
 "2ndstfestival": {
 "checked": "2026-11-15",
@@ -3309,8 +3857,8 @@
 },
 "eventbrite": {
 "checked": "2026-11-15",
-"error": "",
-"events": 83
+"error": "error: HTTPError: 405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/pa--philadelphia/free--events/",
+"events": 0
 },
 "eventbrite_honeytreeevileye": {
 "checked": "2026-11-15",
@@ -3595,7 +4143,7 @@
 "philamuseum": {
 "checked": "2026-11-15",
 "error": "",
-"events": 193
+"events": 278
 },
 "philly700": {
 "checked": "2026-11-15",
