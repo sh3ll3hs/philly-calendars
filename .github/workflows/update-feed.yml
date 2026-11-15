@@ -63,7 +63,8 @@ jobs:
       - name: Build City of Philadelphia feed
         continue-on-error: true
         run: python3 phila_to_ics.py --out docs/phila.ics --list docs/phila_calendars.json
-      # Many small venues and groups in one feed; the script skips itself unless 11 h have passed
+      # Everything without a feed of its own. Rebuilds on every morning run (5-10 AM Eastern) and otherwise
+      # at most once every 11 h; the script skips itself the rest of the time.
       - name: Build combined small-sources feed
         continue-on-error: true
         run: python3 combined_to_ics.py --out docs/combined.ics --state docs/combined_state.json

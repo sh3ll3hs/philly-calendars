@@ -123,5 +123,14 @@ class Merge(unittest.TestCase):
         self.assertTrue(all(len(l.encode()) <= 75 for l in out.split("\r\n")))    # folded lines
 
 
+class Schedule(unittest.TestCase):
+    def test_morning_run_always_rebuilds(self):
+        self.assertTrue(C.should_skip(age_hours=6.0, local_hour=13, min_hours=11))     # 1 PM run, 6 h after the morning one
+        self.assertFalse(C.should_skip(age_hours=12.1, local_hour=19, min_hours=11))   # evening run, half a day later
+        self.assertFalse(C.should_skip(age_hours=6.0, local_hour=7, min_hours=11))     # 7 AM run rebuilds even 6 h after a 1 AM one
+        self.assertFalse(C.should_skip(age_hours=10.7, local_hour=8, min_hours=11))    # late evening run must not cancel the morning
+        self.assertTrue(C.should_skip(age_hours=0.5, local_hour=7, min_hours=11))      # but not twice in the same morning
+
+
 if __name__ == "__main__":
     unittest.main()

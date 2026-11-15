@@ -28,7 +28,8 @@ Rules it follows (same as the other feeds here):
     an html source with no structured data on its event pages produces nothing.
   * Polite: one listing request per source per run, 1.5 s between requests to a
     domain (common/http.py), event pages cached in the state file for a week, and
-    the whole run happens at most once every --min-hours (default 11).
+    the whole run happens at most once every --min-hours (default 11), except that
+    the morning run (5-10 AM Eastern) always rebuilds.
   * A site that answers 403/406 is reported and skipped, never worked around.
   * One broken source never stops the others; its events return when it answers again.
 
@@ -593,6 +594,15 @@ def build_ics(events, calname="Philly combined events"):
     return "\r\n".join(fold(l) for l in out) + "\r\n"
 
 
+def should_skip(age_hours, local_hour, min_hours, morning=(5, 10)):
+    """Skip a run that comes too soon after the last one, except that the first run
+    of the morning (Eastern time) always rebuilds, so the feed is fresh every day
+    however the earlier runs fell."""
+    if morning[0] <= local_hour < morning[1] and age_hours >= 3:
+        return False
+    return age_hours < min_hours
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--sources", default=os.path.join(HERE, "combined_sources.json"))
@@ -600,7 +610,8 @@ def main(argv=None):
     ap.add_argument("--state", default="combined_state.json")
     ap.add_argument("--past-days", type=int, default=3)
     ap.add_argument("--days-ahead", type=int, default=120)
-    ap.add_argument("--min-hours", type=float, default=11, help="skip the run if the last one was more recent")
+    ap.add_argument("--min-hours", type=float, default=11,
+                    help="skip the run if the last one was more recent (the morning run, 5-10 AM Eastern, always rebuilds)")
     ap.add_argument("--only", default="", help="comma-separated source ids")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--list", action="store_true")
@@ -620,7 +631,7 @@ def main(argv=None):
     now = dt.datetime.now(dt.timezone.utc)
     if state["last_run"] and not (a.force or only):
         age = (now - dt.datetime.fromisoformat(state["last_run"])).total_seconds() / 3600
-        if age < a.min_hours and os.path.exists(a.out):
+        if should_skip(age, now.astimezone(NY).hour, a.min_hours) and os.path.exists(a.out):
             print(f"combined: last run {age:.1f} h ago (< {a.min_hours:g} h); skipping")
             return 0
 
