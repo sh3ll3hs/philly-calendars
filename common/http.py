@@ -44,12 +44,15 @@ _SESSION = session()
 
 
 def _wait(url):
+    """Reserve the next slot for this domain, then sleep outside the lock so a
+    wait on one domain never holds up requests to another."""
     host = urllib.parse.urlsplit(url).netloc
     with _lock:
-        gap = time.monotonic() - _last_hit.get(host, 0)
-        if gap < DELAY:
-            time.sleep(DELAY - gap)
-        _last_hit[host] = time.monotonic()
+        now = time.monotonic()
+        slot = max(now, _last_hit.get(host, 0) + DELAY)
+        _last_hit[host] = slot
+    if slot > now:
+        time.sleep(slot - now)
 
 
 def get(url, **kw):

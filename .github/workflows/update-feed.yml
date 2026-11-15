@@ -63,6 +63,10 @@ jobs:
       - name: Build City of Philadelphia feed
         continue-on-error: true
         run: python3 phila_to_ics.py --out docs/phila.ics --list docs/phila_calendars.json
+      # Many small venues and groups in one feed; the script skips itself unless 11 h have passed
+      - name: Build combined small-sources feed
+        continue-on-error: true
+        run: python3 combined_to_ics.py --out docs/combined.ics --state docs/combined_state.json
       - name: Commit if changed
         run: |
           git config user.name  "feed-bot"

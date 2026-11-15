@@ -1,0 +1,1388 @@
+[
+ {
+  "id": "fdrpark",
+  "name": "Friends of FDR Park",
+  "method": "ics",
+  "url": "https://calendar.google.com/calendar/ical/c4ig3rfbcn6vcklpcuh5t8res4%40group.calendar.google.com/public/basic.ics",
+  "instagram": "mercadolatino.fdr",
+  "venue": "FDR Park"
+ },
+ {
+  "id": "fo_fdrpark",
+  "name": "Friends of FDR Park",
+  "method": "html",
+  "url": "https://www.fdrparkphilly.org/events",
+  "instagram": "fo_fdrpark",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "plantandpeople",
+  "name": "PLANT & PEOPLE",
+  "method": "html",
+  "url": "https://plantandpeople.com/pages/workshops",
+  "instagram": "plantandpeople",
+  "venue": "Plant and People",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "frankiessummerclub",
+  "name": "Frankie’s Summer Club",
+  "method": "squarespace",
+  "url": "https://www.frankiessummerclub.com/calendar",
+  "instagram": "frankiessummerclub",
+  "venue": "Frankie's Summer Club"
+ },
+ {
+  "id": "friendsofcolumbussq",
+  "name": "Friends of Columbus Square",
+  "method": "ics",
+  "url": "https://calendar.google.com/calendar/ical/thefriendsofcolumbussquare%40gmail.com/public/basic.ics",
+  "instagram": "friendsofcolumbussq",
+  "venue": "Columbus Square Park"
+ },
+ {
+  "id": "48recordbar",
+  "name": "48 Record Bar",
+  "method": "jsonld",
+  "url": "https://dice.fm/venue/48-record-bar-2yxm",
+  "instagram": "48recordbar",
+  "venue": "48 Record Bar"
+ },
+ {
+  "id": "evilgeniusbeer",
+  "name": "Evil Genius",
+  "method": "html",
+  "url": "https://evilgeniusbeer.com/calendar/",
+  "instagram": "evilgeniusbeer",
+  "venue": "Evil Genius Beer Company",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "reel_nomadic",
+  "name": "Reel Nomadic",
+  "method": "html",
+  "url": "https://www.reelnomadic.com/calendar",
+  "instagram": "reel_nomadic",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "valslesbianbar",
+  "name": "Val’s Lesbian Bar",
+  "method": "html",
+  "url": "https://valslesbianbar.com/calendar.html",
+  "instagram": "valslesbianbar",
+  "venue": "Val's Lesbian Bar",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "yap.philly",
+  "name": "YAP",
+  "method": "html",
+  "url": "https://yapphilly.com/#the-calendar",
+  "instagram": "yap.philly",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "3rdstreetgallery",
+  "name": "3rd Street Gallery",
+  "method": "html",
+  "url": "https://www.3rdstreetgallery.com/current-exhibition",
+  "instagram": "3rdstreetgallery",
+  "venue": "3rd Street Gallery",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "milkboy",
+  "name": "MilkBoy",
+  "method": "jsonld",
+  "url": "https://milkboyphilly.com/",
+  "instagram": "milkboysouthstreet",
+  "venue": "MilkBoy South Street"
+ },
+ {
+  "id": "myneighborhoodproject",
+  "name": "Norris Square Neighborhood Project",
+  "method": "html",
+  "url": "https://myneighborhoodproject.org/events",
+  "instagram": "myneighborhoodproject",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "northbowlphilly",
+  "name": "North Bowl",
+  "method": "html",
+  "url": "https://www.northbowlphilly.com/calendar/",
+  "instagram": "northbowlphilly",
+  "venue": "North Bowl",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "jetwinebar",
+  "name": "Jet Wine Bar",
+  "method": "squarespace",
+  "url": "https://www.jetwinebar.com/events",
+  "instagram": "jetwinebar",
+  "venue": "Jet Wine Bar"
+ },
+ {
+  "id": "inliquidart",
+  "name": "InLiquid",
+  "method": "text",
+  "url": "https://www.inliquid.org/calendar",
+  "instagram": "inliquidart",
+  "venue": "InLiquid Gallery"
+ },
+ {
+  "id": "patatgiovannisroom",
+  "name": "PhillyAIDSThrift@GiovannisRoom",
+  "method": "html",
+  "url": "https://queerbooks.com/upcoming-events/",
+  "instagram": "patatgiovannisroom",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "southstreetphilly",
+  "name": "South Street District",
+  "method": "jsonld",
+  "url": "https://southstreet.com/sshd-events/",
+  "instagram": "southstreetphilly"
+ },
+ {
+  "id": "wissahickonoldekensington",
+  "name": "Wissahickon Brewing Company — Olde Kensington",
+  "method": "html",
+  "url": "https://www.wissahickonbrew.com/kensington-brewery/",
+  "instagram": "wissahickonoldekensington",
+  "venue": "Wissahickon Brewing Company - Olde Kensington",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "actii_philly",
+  "name": "Act II Philly",
+  "method": "squarespace",
+  "url": "https://www.actiiphilly.org/calendar",
+  "instagram": "actii_philly"
+ },
+ {
+  "id": "albustanseeds",
+  "name": "Al-Bustan Seeds of Culture",
+  "method": "squarespace",
+  "url": "https://www.albustanseeds.org/events",
+  "instagram": "albustanseeds",
+  "venue": "Al-Bustan Seeds of Culture"
+ },
+ {
+  "id": "archenemyarts",
+  "name": "ARCH ENEMY ARTS",
+  "method": "html",
+  "url": "https://www.archenemyarts.com/anniversaryshows",
+  "instagram": "archenemyarts",
+  "venue": "Arch Enemy Arts",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "atticbrewing",
+  "name": "Attic Brewing Company",
+  "method": "wix",
+  "url": "https://www.atticbrewing.com/events",
+  "instagram": "atticbrewing",
+  "venue": "Attic Brewing Company"
+ },
+ {
+  "id": "cinespeak",
+  "name": "cinéSPEAK",
+  "method": "html",
+  "url": "https://cinespeak.org/cinema/",
+  "instagram": "cinespeak",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "ebennettart",
+  "name": "Ebony Bennett",
+  "method": "squarespace",
+  "url": "https://www.ebennettart.com/events-2-1",
+  "instagram": "ebennettart"
+ },
+ {
+  "id": "latchkeyrecords",
+  "name": "Latchkey",
+  "method": "html",
+  "url": "https://latchkeyrecords.com/pages/latchkey-events",
+  "instagram": "latchkeyrecords",
+  "venue": "Latchkey Records",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "misterjohnsmusic",
+  "name": "Mister John's Music",
+  "method": "html",
+  "url": "https://misterjohnsmusic.com/events-phl/",
+  "instagram": "misterjohnsmusic",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "nationalmechanicsphilly",
+  "name": "National Mechanics",
+  "method": "html",
+  "url": "https://www.nationalmechanics.com/happenings",
+  "instagram": "nationalmechanicsphilly",
+  "venue": "National Mechanics",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "penandpencilphilly",
+  "name": "The Pen and Pencil Club",
+  "method": "html",
+  "url": "https://www.penandpencil.org/content.aspx?page_id=4001&club_id=877257&action=cira&vm=Future",
+  "instagram": "penandpencilphilly",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "pistolasdelsur",
+  "name": "Pistolas Del Sur",
+  "method": "wix",
+  "url": "https://www.pistolaslife.com/events",
+  "instagram": "pistolasdelsur",
+  "venue": "Pistolas Del Sur"
+ },
+ {
+  "id": "soundloungepercy",
+  "name": "Sound Lounge @ Percy",
+  "method": "html",
+  "url": "https://www.soundloungepercy.com/calendar",
+  "instagram": "soundloungepercy",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "strangelovesphilly",
+  "name": "Strangelove's",
+  "method": "html",
+  "url": "https://www.strangelovesbeerbar.com/events",
+  "instagram": "strangelovesphilly",
+  "venue": "Strangelove's",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "theloganhotel",
+  "name": "The Logan Hotel",
+  "method": "text",
+  "url": "https://www.theloganhotel.com/our-hotel/happenings",
+  "instagram": "theloganhotel",
+  "venue": "The Logan Hotel"
+ },
+ {
+  "id": "thewoodenshoebooks",
+  "name": "Wooden Shoe Books",
+  "method": "html",
+  "url": "https://woodenshoebooks.org/index.php/events/",
+  "instagram": "thewoodenshoebooks",
+  "venue": "Wooden Shoe Books",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "tattooedmom",
+  "name": "Tattooed Mom",
+  "method": "tribe",
+  "url": "https://www.tattooedmomphilly.com/wp-json/tribe/events/v1/events",
+  "instagram": "tmoms",
+  "venue": "Tattooed Mom"
+ },
+ {
+  "id": "wooder_ice",
+  "name": "Wooder Ice",
+  "method": "jsonld",
+  "url": "https://wooderice.com/events/",
+  "instagram": "wooder_ice"
+ },
+ {
+  "id": "4bidden4ruit",
+  "name": "Forbidden Fruit",
+  "method": "html",
+  "url": "https://www.4bidden4ruit.com/upcomingevents",
+  "instagram": "4bidden4ruit",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "brandywine.workshop",
+  "name": "Brandywine Workshop and Archives",
+  "method": "html",
+  "url": "https://brandywineworkshop.org/calendar/",
+  "instagram": "brandywine.workshop",
+  "venue": "Brandywine Workshop and Archives",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "brasstapphilly",
+  "name": "The Brass Tap",
+  "method": "html",
+  "url": "https://www.brasstapbeerbar.com/Philadelphia/events",
+  "instagram": "brasstapphilly",
+  "venue": "The Brass Tap",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "buildingbok",
+  "name": "Bok",
+  "method": "ics",
+  "url": "https://tockify.com/api/feeds/ics/buildingbok",
+  "instagram": "buildingbok",
+  "also": [
+   "bokmovieclub"
+  ]
+ },
+ {
+  "id": "chicksphilly",
+  "name": "Chick's Philly",
+  "method": "spothopper",
+  "url": "https://www.spothopperapp.com/api/spots/84638/events",
+  "instagram": "chicksphilly",
+  "page": "https://chicksphilly.com/philadelphia-south-philly-chick-s-events",
+  "venue": "Chick's Philly"
+ },
+ {
+  "id": "citywineryphil",
+  "name": "citywineryphil",
+  "method": "html",
+  "url": "https://citywinery.com/philadelphia/events",
+  "instagram": "citywineryphil",
+  "venue": "City Winery Philadelphia (in The Loft)",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "jazzphiladelphia",
+  "name": "Jazz Philadelphia",
+  "method": "tribe",
+  "url": "https://jazzphiladelphia.org/wp-json/tribe/events/v1/events",
+  "instagram": "coltrane100philly"
+ },
+ {
+  "id": "danceforsoup",
+  "name": "soup",
+  "method": "html",
+  "url": "https://danceforsoup.com/events",
+  "instagram": "danceforsoup",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "discoverypathways",
+  "name": "Discovery Pathways",
+  "method": "tribe",
+  "url": "https://discoverypathways.org/wp-json/tribe/events/v1/events",
+  "instagram": "discoverypathways"
+ },
+ {
+  "id": "eastfallsglassworks",
+  "name": "East Falls Glassworks",
+  "method": "html",
+  "url": "https://www.eastfallsglass.com/calendar",
+  "instagram": "eastfallsglassworks",
+  "venue": "East Falls Glassworks",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "eastpassyunk",
+  "name": "East Passyunk Avenue BID",
+  "method": "squarespace",
+  "url": "https://www.visiteastpassyunk.com/events",
+  "instagram": "eastpassyunk",
+  "venue": "East Passyunk Avenue"
+ },
+ {
+  "id": "esperanza_us",
+  "name": "Esperanza",
+  "method": "tribe",
+  "url": "https://www.esperanza.us/wp-json/tribe/events/v1/events",
+  "instagram": "esperanza_us"
+ },
+ {
+  "id": "inpursuitofhistory",
+  "name": "In Pursuit: Philadelphia and the Making of America",
+  "method": "wix",
+  "url": "https://www.inpursuit.tv/attend-a-screening",
+  "instagram": "inpursuitofhistory"
+ },
+ {
+  "id": "nlna",
+  "name": "Northern Liberties Neighbors Association",
+  "method": "squarespace",
+  "url": "https://www.nlna.org/calendar",
+  "instagram": "libertylandsphilla",
+  "venue": "Liberty Lands"
+ },
+ {
+  "id": "moviejawn",
+  "name": "MovieJawn",
+  "method": "html",
+  "url": "https://www.moviejawn.com/events",
+  "instagram": "moviejawn"
+ },
+ {
+  "id": "museumforartinwood",
+  "name": "Museum for Art in Wood",
+  "method": "tribe",
+  "url": "https://museumforartinwood.org/wp-json/tribe/events/v1/events",
+  "instagram": "museumforartinwood",
+  "venue": "Museum for Art in Wood"
+ },
+ {
+  "id": "muttermuseum",
+  "name": "www.muttermuseum.org",
+  "method": "html",
+  "url": "https://muttermuseum.org/events/",
+  "instagram": "muttermuseum",
+  "venue": "Mütter Museum",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "navyyardphila",
+  "name": "Navy Yard",
+  "method": "html",
+  "url": "https://navyyard.org/events",
+  "instagram": "navyyardphila",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "northernlibertiesfarmersmarket",
+  "name": "Northern Liberties Farmers Market",
+  "method": "html",
+  "url": "https://marketspread.com/market/30766/northern-liberties-farmers-market/",
+  "instagram": "northernlibertiesfarmersmarket",
+  "venue": "Northern Liberties",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "pageburnersbookstore",
+  "name": "Page Burners Bookstore",
+  "method": "text",
+  "url": "https://pageburnersbookstore.com/pages/upcoming-events",
+  "instagram": "pageburnersbookstore",
+  "venue": "Page Burners"
+ },
+ {
+  "id": "pennmuseum",
+  "name": "Penn Museum",
+  "method": "text",
+  "url": "https://www.penn.museum/calendar",
+  "instagram": "pennmuseum",
+  "venue": "Penn Museum"
+ },
+ {
+  "id": "phillysocialists",
+  "name": "Philly Socialists",
+  "method": "html",
+  "url": "https://www.phillysocialists.org/events",
+  "instagram": "phillysocialists",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "pleasetouchmuseum",
+  "name": "Please Touch Museum",
+  "method": "tribe",
+  "url": "https://www.pleasetouchmuseum.org/wp-json/tribe/events/v1/events",
+  "instagram": "pleasetouchmuseum",
+  "venue": "Please Touch Museum"
+ },
+ {
+  "id": "reporecords",
+  "name": "Repo Records",
+  "method": "squarespace",
+  "url": "https://www.reporecords.com/upcoming-events",
+  "instagram": "reporecords",
+  "venue": "Repo Records"
+ },
+ {
+  "id": "riotnerdphilly",
+  "name": "Riot Nerd",
+  "method": "html",
+  "url": "https://www.riotnerdphilly.com/event-details/video-bingo-holiday-edition",
+  "instagram": "riotnerdphilly"
+ },
+ {
+  "id": "space1026",
+  "name": "Space 1026",
+  "method": "html",
+  "url": "https://space1026.com/events/",
+  "instagram": "space1026",
+  "venue": "Space 1026",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "sundaysatbrewerytowngarden",
+  "name": "Sundays @ Brewerytown Garden",
+  "method": "html",
+  "url": "https://www.brewerytowngarden.com/sundays.html",
+  "instagram": "sundaysatbrewerytowngarden",
+  "venue": "Brewerytown Garden",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "tavernoncamac",
+  "name": "Tavern On Camac",
+  "method": "html",
+  "url": "https://www.tavernoncamac.com/schedule",
+  "instagram": "tavernoncamac",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "theclaystudiophl",
+  "name": "The Clay Studio",
+  "method": "html",
+  "url": "https://www.theclaystudio.org/events/public-events",
+  "instagram": "theclaystudiophl",
+  "venue": "The Clay Studio",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "theprintcenter",
+  "name": "The Print Center",
+  "method": "tribe",
+  "url": "https://printcenter.org/wp-json/tribe/events/v1/events",
+  "instagram": "theprintcenter",
+  "venue": "The Print Center"
+ },
+ {
+  "id": "therailpark",
+  "name": "The Rail Park",
+  "method": "html",
+  "url": "https://www.therailpark.org/news-and-events/",
+  "instagram": "therailpark",
+  "venue": "The Rail Park",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "voxpopuligallery",
+  "name": "Vox Populi",
+  "method": "squarespace",
+  "url": "https://www.voxpopuligallery.org/events",
+  "instagram": "voxpopuligallery",
+  "venue": "Vox Populi Gallery"
+ },
+ {
+  "id": "weirdooodfest",
+  "name": "WEIRDO",
+  "method": "html",
+  "url": "https://weirdo.pizza/weirdo-2026",
+  "instagram": "weirdooodfest",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "2ndstfestival",
+  "name": "2nd St Festival",
+  "method": "squarespace",
+  "url": "https://www.2ndstfestival.org/music/stageschedule",
+  "instagram": "2ndstfestival"
+ },
+ {
+  "id": "artreachphilly",
+  "name": "Art-Reach",
+  "method": "html",
+  "url": "https://www.art-reach.org/programs/",
+  "instagram": "artreachphilly",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "artsleaguephl",
+  "name": "The Arts League",
+  "method": "html",
+  "url": "https://www.theartsleague.org/events-and-updates",
+  "instagram": "artsleaguephl",
+  "venue": "The Arts League",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "atmyhou.se",
+  "name": "Let Me Know Club at Cartesian Brewing",
+  "method": "ics",
+  "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-s0hIkjIqVvTXRBG",
+  "instagram": "atmyhou.se",
+  "venue": "At My House Shop",
+  "also": [
+   "cartesianbrewing"
+  ]
+ },
+ {
+  "id": "awburyarboretum",
+  "name": "Awbury Arboretum",
+  "method": "tribe",
+  "url": "https://awbury.org/wp-json/tribe/events/v1/events",
+  "instagram": "awburyarboretum"
+ },
+ {
+  "id": "barly_philly",
+  "name": "Bar-Ly Restaurant and Bar",
+  "method": "html",
+  "url": "https://www.bar-ly.com/happenings",
+  "instagram": "barly_philly",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "barnesfoundation",
+  "name": "The Barnes",
+  "method": "html",
+  "url": "https://www.barnesfoundation.org/whats-on",
+  "instagram": "barnesfoundation",
+  "venue": "Barnes Foundation",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "beautyiscultureevents",
+  "name": "Beauty Is Culture",
+  "method": "wix",
+  "url": "https://www.nattycontrera.com/event-list",
+  "instagram": "beautyiscultureevents"
+ },
+ {
+  "id": "bok_bar",
+  "name": "Bok Bar",
+  "method": "squarespace",
+  "url": "https://www.bok-bar.com/happenings",
+  "instagram": "bok_bar"
+ },
+ {
+  "id": "bourbonandbranch",
+  "name": "Bourbon & Branch",
+  "method": "jsonld",
+  "url": "https://bourbonandbranchphilly.com/events/",
+  "instagram": "bourbonandbranch",
+  "venue": "Bourbon & Branch"
+ },
+ {
+  "id": "brauhausschmitz",
+  "name": "Brauhaus Schmitz",
+  "method": "html",
+  "url": "https://brauhausschmitz.com/whats-on/",
+  "instagram": "brauhausschmitz",
+  "venue": "Brauhaus Schmitz",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "broadstreet_lovepark",
+  "name": "Broad Street Brewing",
+  "method": "tribe",
+  "url": "https://broadstreetbrewing.com/wp-json/tribe/events/v1/events",
+  "instagram": "broadstreet_lovepark",
+  "venue": "Broad Street Beer Garden"
+ },
+ {
+  "id": "cantinaphilly",
+  "name": "Cantina Los Caballitos",
+  "method": "html",
+  "url": "http://www.cantinaloscaballitos.com/events",
+  "instagram": "cantinaphilly",
+  "venue": "Cantina Los Caballitos",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "centennialparksidecdc",
+  "name": "Centennial Parkside CDC",
+  "method": "html",
+  "url": "https://centennialparkside.org/news-events/",
+  "instagram": "centennialparksidecdc",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "centercitydistrict",
+  "name": "Center City District",
+  "method": "tribe",
+  "url": "https://centercityphila.org/wp-json/tribe/events/v1/events",
+  "instagram": "centercitydistrict"
+ },
+ {
+  "id": "charandstavecoffee",
+  "name": "Char & Stave",
+  "method": "html",
+  "url": "https://www.charandstave.com/#events-section",
+  "instagram": "charandstavecoffee",
+  "venue": "Char and Stave 8441 Germantown Ave",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "chestnuthill_pa",
+  "name": "Chestnut Hill Business District",
+  "method": "tribe",
+  "url": "https://chestnuthillpa.com/wp-json/tribe/events/v1/events",
+  "instagram": "chestnuthill_pa",
+  "venue": "Chestnut Hill"
+ },
+ {
+  "id": "chinatownpcdc",
+  "name": "Philadelphia Chinatown Development Corporation",
+  "method": "tribe",
+  "url": "https://chinatown-pcdc.org/wp-json/tribe/events/v1/events",
+  "instagram": "chinatownpcdc"
+ },
+ {
+  "id": "cindybassphilly",
+  "name": "Councilmember Cindy Bass",
+  "method": "html",
+  "url": "https://phlcouncil.com/District8Events/",
+  "instagram": "cindybassphilly",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "cityofelderlylove",
+  "name": "Senior Pet Rescue",
+  "method": "html",
+  "url": "https://www.cityofelderlylove.org/events",
+  "instagram": "cityofelderlylove",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "dahlak_paradise",
+  "name": "Dahlak Paradise",
+  "method": "ics",
+  "url": "https://calendar.google.com/calendar/ical/osq83vk3btl2161qigmqhgin64%40group.calendar.google.com/public/basic.ics",
+  "instagram": "dahlak_paradise",
+  "venue": "Dahlak Paradise"
+ },
+ {
+  "id": "davinciartalliance",
+  "name": "Da Vinci Art Alliance",
+  "method": "html",
+  "url": "https://davinciartalliance.org/events",
+  "instagram": "davinciartalliance",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "dinawindartfoundation",
+  "name": "Dina Wind Art Foundation",
+  "method": "html",
+  "url": "https://dinawindfoundation.art/exhibitions/",
+  "instagram": "dinawindartfoundation",
+  "venue": "Dina Wind Art Foundation",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "easternstate",
+  "name": "Eastern State Penitentiary",
+  "method": "html",
+  "url": "https://easternstate.org/events",
+  "instagram": "easternstate",
+  "venue": "Eastern State Penitentiary Historic Site",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "elfrethsalley",
+  "name": "Elfreth's Alley Museum",
+  "method": "squarespace",
+  "url": "https://www.elfrethsalley.org/events",
+  "instagram": "elfrethsalley",
+  "venue": "Elfreth's Alley"
+ },
+ {
+  "id": "ellieandbirdphl",
+  "name": "Ellie + Bird Coffee Bar",
+  "method": "html",
+  "url": "https://www.ellieandbird.com/events",
+  "instagram": "ellieandbirdphl",
+  "venue": "Ellie & Bird Coffee Bar",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "fairmountcivicassociation",
+  "name": "Fairmount Civic Association",
+  "method": "html",
+  "url": "https://fairmountcivicassociation.org/category/community-event/",
+  "instagram": "fairmountcivicassociation",
+  "venue": "Fairmount",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "fergiespub",
+  "name": "Fergie's Pub 1214 Sansom Street Philadelphia",
+  "method": "html",
+  "url": "https://fergies.com/events",
+  "instagram": "fergiespub",
+  "venue": "Fergie's Pub",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "freelibraryfdn",
+  "name": "Free Library of Philadelphia Foundation",
+  "method": "text",
+  "url": "https://freelibraryfoundation.org/events/",
+  "instagram": "freelibraryfdn"
+ },
+ {
+  "id": "friendsofharrowgate",
+  "name": "Friends of Harrowgate Park",
+  "method": "tribe",
+  "url": "https://harrowgatepark.com/wp-json/tribe/events/v1/events",
+  "instagram": "friendsofharrowgate",
+  "venue": "Harrowgate Park"
+ },
+ {
+  "id": "futuredaysbeer",
+  "name": "Future Days Beer Co",
+  "method": "html",
+  "url": "https://www.futuredaysbeer.com/events",
+  "instagram": "futuredaysbeer",
+  "venue": "Future Days Beer Company",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "gadphilly",
+  "name": "Germantown Arts District",
+  "method": "html",
+  "url": "https://www.gadphilly.org/fourth-fridays",
+  "instagram": "gadphilly",
+  "venue": "Germantown Avenue",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "gatherfoodhallphilly",
+  "name": "Gather Food Hall & Bulletin Bar",
+  "method": "spothopper",
+  "url": "https://www.spothopperapp.com/api/spots/793518/events",
+  "instagram": "gatherfoodhallphilly",
+  "page": "https://gatherfoodhall.com/events",
+  "venue": "Gather Food Hall & Bulletin Bar"
+ },
+ {
+  "id": "heydayphilly",
+  "name": "Heyday Vintage",
+  "method": "html",
+  "url": "https://shopsnail.com/pages/events",
+  "instagram": "heydayphilly",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "jetsetpilatesnorthernliberties",
+  "name": "JETSET Pilates Northern Liberties",
+  "method": "html",
+  "url": "https://jetsetpilates.com/pa/northern-liberties/schedule",
+  "instagram": "jetsetpilatesnorthernliberties",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "khyberpasspub",
+  "name": "Khyber Pass Pub",
+  "method": "squarespace",
+  "url": "https://www.khyberpasspub.com/events",
+  "instagram": "khyberpasspub",
+  "venue": "Khyber Pass Pub"
+ },
+ {
+  "id": "lavenderpanzies",
+  "name": "Lavender Panzies",
+  "method": "ics",
+  "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-UZFTe5FzdcBKcMX",
+  "instagram": "lavenderpanzies"
+ },
+ {
+  "id": "leewayfound",
+  "name": "Leeway Foundation",
+  "method": "ics",
+  "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-NN45upwTo5GgjQc",
+  "instagram": "leewayfound"
+ },
+ {
+  "id": "lovecitymanayunk",
+  "name": "Love City Brewing",
+  "method": "ics",
+  "url": "https://calendar.google.com/calendar/ical/q9hdi6dk7d0nvoah4pvgprjki8%40group.calendar.google.com/public/basic.ics",
+  "instagram": "lovecitymanayunk",
+  "venue": "Love City Manayunk"
+ },
+ {
+  "id": "loveparkphilly",
+  "name": "LOVE Park",
+  "method": "html",
+  "url": "https://www.phila.gov/the-latest/all-events/?category=Love%20Park%20events",
+  "instagram": "loveparkphilly",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "manayunkbrewingco",
+  "name": "Manayunk Brewing Company",
+  "method": "spothopper",
+  "url": "https://www.spothopperapp.com/api/spots/9783/events",
+  "instagram": "manayunkbrewingco",
+  "page": "https://www.manayunkbrewery.com/philadelphia-manayunk-brewery-and-restaurant-events",
+  "venue": "Manayunk Brewing Company"
+ },
+ {
+  "id": "manayunkdotcom",
+  "name": "Manayunk.com",
+  "method": "text",
+  "url": "https://manayunk.com/happenings/",
+  "instagram": "manayunkdotcom",
+  "venue": "Manayunk Crossing"
+ },
+ {
+  "id": "mcgillinsoldealehouse",
+  "name": "mcgillinsoldealehouse",
+  "method": "html",
+  "url": "https://mcgillins.com/daily-specials-events/",
+  "instagram": "mcgillinsoldealehouse",
+  "venue": "McGillin's Olde Ale House",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "muralcitycellars",
+  "name": "Mural City Cellars",
+  "method": "html",
+  "url": "https://www.muralcitycellars.com/events",
+  "instagram": "muralcitycellars",
+  "venue": "Mural City Wine Garden",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "myphillypark",
+  "name": "Fairmount Park Conservancy",
+  "method": "text",
+  "url": "https://myphillypark.org/events/calendar/",
+  "instagram": "myphillypark"
+ },
+ {
+  "id": "myphotolounge",
+  "name": "PhotoLounge",
+  "method": "html",
+  "url": "https://www.myphotolounge.com/pages/community",
+  "instagram": "myphotolounge",
+  "venue": "Photo Lounge",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "nextfab_phl",
+  "name": "NextFab",
+  "method": "tribe",
+  "url": "https://nextfab.com/wp-json/tribe/events/v1/events",
+  "instagram": "nextfab_phl"
+ },
+ {
+  "id": "notsolatin",
+  "name": "Notsolatin",
+  "method": "html",
+  "url": "https://www.notsolatin.org/event-list",
+  "instagram": "notsolatin",
+  "venue": "Notsolatin",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "oldcitykava",
+  "name": "Old City Kava Co.",
+  "method": "html",
+  "url": "https://www.oldcitykava.com/events",
+  "instagram": "oldcitykava",
+  "venue": "Old City Kava Company",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "olneyculturelab",
+  "name": "Olney Culture Lab",
+  "method": "tribe",
+  "url": "https://olneyculturelab.org/wp-json/tribe/events/v1/events",
+  "instagram": "olneyculturelab"
+ },
+ {
+  "id": "paflaxproject",
+  "name": "PA Flax Project",
+  "method": "squarespace",
+  "url": "https://www.paflaxproject.com/events-1",
+  "instagram": "paflaxproject"
+ },
+ {
+  "id": "philaathenaeum",
+  "name": "The Athenæum of Philadelphia",
+  "method": "text",
+  "url": "https://philaathenaeum.org/programs-events/",
+  "instagram": "philaathenaeum",
+  "venue": "The Athenaeum of Philadelphia"
+ },
+ {
+  "id": "philaholidays",
+  "name": "Made in Philadelphia Markets",
+  "method": "jsonld",
+  "url": "https://www.madeinphila.com/",
+  "instagram": "philaholidays"
+ },
+ {
+  "id": "philamoca",
+  "name": "PhilaMOCA: Events",
+  "method": "html",
+  "url": "https://www.philamoca.org/",
+  "instagram": "philamoca",
+  "venue": "PhilaMOCA",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "phillygoatproject",
+  "name": "Philly Goat Project",
+  "method": "wix",
+  "url": "https://www.phillygoatproject.org/event-list",
+  "instagram": "phillygoatproject"
+ },
+ {
+  "id": "phillyistheculture",
+  "name": "Philly Is The Culture",
+  "method": "ics",
+  "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-6ssD5BWTVAEoyIf",
+  "instagram": "phillyistheculture"
+ },
+ {
+  "id": "phillyrollerderby",
+  "name": "Philly Roller Derby",
+  "method": "tribe",
+  "url": "https://phillyrollerderby.com/wp-json/tribe/events/v1/events",
+  "instagram": "phillyrollerderby"
+ },
+ {
+  "id": "phillyslowgirlrunclub",
+  "name": "Philly Slow Girl Run Club",
+  "method": "html",
+  "url": "https://www.joinphilly.com/clubs/philly-slow-girl-run-club",
+  "instagram": "phillyslowgirlrunclub",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "pkwycouncilphl",
+  "name": "Parkway Council",
+  "method": "html",
+  "url": "https://www.parkwaycouncil.org/things-to-do",
+  "instagram": "pkwycouncilphl",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "pplwalk",
+  "name": "PPL Walk",
+  "method": "ics",
+  "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-uyQoeoJk1HagfQv",
+  "instagram": "pplwalk",
+  "venue": "American Grammar"
+ },
+ {
+  "id": "queenrookcafe",
+  "name": "Queen & Rook Game Cafe",
+  "method": "spothopper",
+  "url": "https://www.spothopperapp.com/api/spots/176187/events",
+  "instagram": "queenrookcafe",
+  "page": "https://www.queenandrookcafe.com/events/",
+  "venue": "Queen & Rook Game Cafe"
+ },
+ {
+  "id": "qvnaorg",
+  "name": "Queen Village Neighbors Association",
+  "method": "squarespace",
+  "url": "https://www.qvna.org/events",
+  "instagram": "qvnaorg"
+ },
+ {
+  "id": "riverfrontnorth",
+  "name": "Riverfront North Partnership",
+  "method": "text",
+  "url": "https://riverfrontnorth.org/visit/events/",
+  "instagram": "riverfrontnorth"
+ },
+ {
+  "id": "sacredviceberks",
+  "name": "Sacred Vice Brewing - Berks taproom",
+  "method": "html",
+  "url": "https://sacredvice.com/about-us/events/",
+  "instagram": "sacredviceberks",
+  "venue": "Sacred Vice",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "saintlazarusbar",
+  "name": "Saint Lazarus Bar",
+  "method": "spothopper",
+  "url": "https://www.spothopperapp.com/api/spots/561924/events",
+  "instagram": "saintlazarusbar",
+  "page": "https://saintlazarusbar.com/events?source=header&spot_id=561924&destination=events&promotion=custom_promotion",
+  "venue": "Saint Lazarus Bar"
+ },
+ {
+  "id": "sandyeldredbass",
+  "name": "Sandy Eldred",
+  "method": "html",
+  "url": "https://www.phillyjazzscene.com/jazz-calendar-monthly",
+  "instagram": "sandyeldredbass",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "seamarket_fdrpark",
+  "name": "Southeast Asian Market in FDR Park",
+  "method": "html",
+  "url": "https://www.fdrseamarket.com/happenings",
+  "instagram": "seamarket_fdrpark",
+  "venue": "Southeast Asian Market at FDR Park",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "shopaiyah",
+  "name": "Aiyah",
+  "method": "html",
+  "url": "https://shopaiyah.com/pages/events",
+  "instagram": "shopaiyah",
+  "venue": "Aiyah",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "sorynez",
+  "name": "Sor Ynéz",
+  "method": "squarespace",
+  "url": "https://www.sorynez.com/whats-new",
+  "instagram": "sorynez",
+  "venue": "Sor Ynez"
+ },
+ {
+  "id": "southbowlphilly",
+  "name": "Bowling Alley with Bar, Restaurant & Batting Cages in South",
+  "method": "html",
+  "url": "https://www.southbowlphilly.com/Calendar/",
+  "instagram": "southbowlphilly",
+  "venue": "South Bowl",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "statesideliveofficial",
+  "name": "Stateside Live!",
+  "method": "html",
+  "url": "https://statesidelive.com/events-and-entertainment/events",
+  "instagram": "statesideliveofficial",
+  "venue": "Stateside Live!"
+ },
+ {
+  "id": "stump_bellavista",
+  "name": "stump_bellavista",
+  "method": "html",
+  "url": "https://www.stumpphilly.com/eventcalendars",
+  "instagram": "stump_bellavista",
+  "venue": "STUMP Bella Vista",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "taconylab_art_center",
+  "name": "Tacony LAB Community Arts Center",
+  "method": "text",
+  "url": "https://taconylab.org/events/",
+  "instagram": "taconylab_art_center",
+  "venue": "Tacony LAB Community Arts Center"
+ },
+ {
+  "id": "themlocal",
+  "name": "Them Local",
+  "method": "html",
+  "url": "https://www.themlocal.com/events",
+  "instagram": "themlocal",
+  "venue": "Them Local at forin café",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "thepinkgymphilly",
+  "name": "The Pink Gym",
+  "method": "html",
+  "url": "https://www.thepinkgymphilly.com/schedule",
+  "instagram": "thepinkgymphilly",
+  "venue": "The Pink Gym",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "thestellwell",
+  "name": "Stellwell",
+  "method": "html",
+  "url": "https://stellwell.com/events",
+  "instagram": "thestellwell",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "threequeensyoga",
+  "name": "THREE QUEENS YOGA",
+  "method": "html",
+  "url": "https://www.threequeensyoga.com/workshops",
+  "instagram": "threequeensyoga",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "tiltinstitute",
+  "name": "TILT",
+  "method": "html",
+  "url": "https://tiltinstitute.org/category/events/",
+  "instagram": "tiltinstitute",
+  "venue": "TILT Institute",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "timerestaurant",
+  "name": "Time Restaurant (via The Heart of Jazz)",
+  "method": "tribe",
+  "url": "https://theheartofjazz.org/wp-json/tribe/events/v1/events",
+  "instagram": "timerestaurant",
+  "params": {
+   "venue": "466"
+  },
+  "venue": "Time Restaurant"
+ },
+ {
+  "id": "triplebottombrewing",
+  "name": "Triple Bottom Brewing",
+  "method": "squarespace",
+  "url": "https://triplebottombrewing.com/events",
+  "instagram": "triplebottombrewing",
+  "venue": "Triple Bottom Brewing Co."
+ },
+ {
+  "id": "universitycity",
+  "name": "University City District",
+  "method": "tribe",
+  "url": "https://www.universitycity.org/wp-json/tribe/events/v1/events",
+  "instagram": "universitycity"
+ },
+ {
+  "id": "upennlib",
+  "name": "Penn Libraries",
+  "method": "html",
+  "url": "https://www.library.upenn.edu/events/upcoming",
+  "instagram": "upennlib",
+  "off": true,
+  "needs": "site refuses automated requests (403)"
+ },
+ {
+  "id": "velvetwhipphilly",
+  "name": "Velvet Whip",
+  "method": "squarespace",
+  "url": "https://velvetwhipphilly.com/events",
+  "instagram": "velvetwhipphilly",
+  "venue": "Velvet Whip Arts & Social Club"
+ },
+ {
+  "id": "waygayarchives",
+  "name": "William Way LGBT Community Center",
+  "method": "ics",
+  "url": "https://calendar.google.com/calendar/ical/waygay.org_06v4tlpct3mun0i4aoatmd4kak%40group.calendar.google.com/public/basic.ics",
+  "instagram": "waygayarchives"
+ },
+ {
+  "id": "weaverswayfarms",
+  "name": "Weavers Way Co-op",
+  "method": "jsonld",
+  "url": "https://weaversway.coop/co-op/calendar/",
+  "instagram": "weaverswayfarms",
+  "venue": "Weavers Way Farms",
+  "tz": "utc_wall",
+  "note": "The site's structured data runs 5 h early (offset applied twice); checked against two event pages, Nov 2026."
+ },
+ {
+  "id": "westphillytoollibrary",
+  "name": "West Philly Tool Library",
+  "method": "jsonld",
+  "url": "https://www.westphillytools.org/classes",
+  "instagram": "westphillytoollibrary",
+  "venue": "West Philly Tool Library"
+ },
+ {
+  "id": "wexlergallery",
+  "name": "Wexler Gallery",
+  "method": "html",
+  "url": "https://www.wexlergallery.com/exhibitions-main",
+  "instagram": "wexlergallery",
+  "venue": "Wexler Gallery",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "woodfordmansion",
+  "name": "Woodford Mansion",
+  "method": "squarespace",
+  "url": "https://www.woodfordmansion.org/calendar",
+  "instagram": "woodfordmansion",
+  "venue": "Woodford Mansion"
+ },
+ {
+  "id": "woodmeremuseum",
+  "name": "Woodmere: Philadelphia Art, Nature & Culture",
+  "method": "html",
+  "url": "https://woodmeremuseum.org/calendar",
+  "instagram": "woodmeremuseum",
+  "venue": "Woodmere Museum - Maguire Hall",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "youngfriendsofwyck",
+  "name": "Young Friends of Wyck",
+  "method": "html",
+  "url": "https://wyck.org/programs-events/",
+  "instagram": "youngfriendsofwyck",
+  "venue": "Wyck Historic House & Garden",
+  "off": true,
+  "needs": "its own scraper: no feed or structured event data on the page"
+ }
+]

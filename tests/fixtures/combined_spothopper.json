@@ -1,0 +1,5 @@
+{"events": [
+ {"id": "101", "name": "Sunday Football Specials", "text": "Watch all the games.", "event_date": "2026-11-22T00:00:00.000+00:00", "start_time": "13:00", "duration_minutes": "420", "all_day": "False", "show_on_website": "True", "is_template": "False"},
+ {"id": "102", "name": "Holiday Party", "text": "", "event_date": "2026-12-12T00:00:00.000+00:00", "start_time": "None", "duration_minutes": "0", "all_day": "False", "show_on_website": "True", "is_template": "False"},
+ {"id": "103", "name": "Hidden template", "event_date": "2026-11-23T00:00:00.000+00:00", "start_time": "19:00", "show_on_website": "False", "is_template": "True"}],
+ "linked": {}, "meta": {}}

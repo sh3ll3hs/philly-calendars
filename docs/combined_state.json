@@ -1,0 +1,531 @@
+{
+"detail": {
+"https://statesidelive.com/Events-and-Entertainment/Events/Expecto-Bar-Crawl": {
+"events": [],
+"fetched": "2026-11-15"
+},
+"https://statesidelive.com/Events-and-Entertainment/Events/New-Years-Eve-Live-Philly": {
+"events": [],
+"fetched": "2026-11-15"
+},
+"https://statesidelive.com/Events-and-Entertainment/Events/PBR-Monthly-Mayhem-Bucks-and-Does": {
+"events": [
+{
+"all_day": false,
+"desc": "Monthly Mayhem is BACK at PBR Philadelphia! This month's theme is Bucks & Does, so grab your crew and get ready for a night of country music, dancing, and nonstop fun. Enjoy drink specials, free parking, and all the good times that come with a night at PBR. You won't want to miss this one! Drink responsibly. Must be 21+ to enter. Free entry!",
+"end": null,
+"key": "https://statesidelive.com/events-and-entertainment/events/pbr-monthly-mayhem-bucks-and-does|2026-11-20T19:00:00.000-05:00",
+"loc": "PBR Philly, 1100 Pattison Ave, Philadelphia, PA 19148",
+"source": "Stateside Live!",
+"src": "statesideliveofficial",
+"start": "2026-11-20T19:00:00",
+"title": "PBR Monthly Mayhem: Bucks and Does",
+"url": "https://statesidelive.com/events-and-entertainment/events/pbr-monthly-mayhem-bucks-and-does"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://statesidelive.com/Events-and-Entertainment/Events/Philadelphia-Union-Playoff-Activation": {
+"events": [
+{
+"all_day": false,
+"desc": "The Philadelphia Union Playoffs Mobile Studio pop-up is coming to Stateside Live! on Sunday, November 15! Join us for player and Phang appearances, giveaways for the first 100 guests, photo activations, and more! Stateside Live! has updated their security and bag policy. Find more information here.",
+"end": "2026-11-15T18:30:00",
+"key": "https://statesidelive.com/events-and-entertainment/events/philadelphia-union-playoff-activation|2026-11-15T15:30:00.000-05:00",
+"loc": "Live! Arena, 1100 Pattison Ave, Philadelphia, PA 19148",
+"source": "Stateside Live!",
+"src": "statesideliveofficial",
+"start": "2026-11-15T15:30:00",
+"title": "Philadelphia Union Playoff Activation",
+"url": "https://statesidelive.com/events-and-entertainment/events/philadelphia-union-playoff-activation"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://statesidelive.com/events-and-entertainment/events/birds-away-games": {
+"events": [],
+"fetched": "2026-11-15"
+},
+"https://statesidelive.com/events-and-entertainment/events/camp-out-for-hunger": {
+"events": [],
+"fetched": "2026-11-15"
+},
+"https://statesidelive.com/events-and-entertainment/events/camp-out-for-hunger-concert-by-rift": {
+"events": [],
+"fetched": "2026-11-15"
+},
+"https://statesidelive.com/events-and-entertainment/events/new-years-eve-live-philly": {
+"events": [],
+"fetched": "2026-11-15"
+},
+"https://statesidelive.com/events-and-entertainment/events/philadelphia-vs-houston": {
+"events": [],
+"fetched": "2026-11-15"
+},
+"https://statesidelive.com/events-and-entertainment/events/philadelphia-vs-indianapolis": {
+"events": [],
+"fetched": "2026-11-15"
+},
+"https://statesidelive.com/events-and-entertainment/events/philadelphia-vs-pittsburgh": {
+"events": [],
+"fetched": "2026-11-15"
+},
+"https://statesidelive.com/events-and-entertainment/events/philadelphia-vs-seattle": {
+"events": [],
+"fetched": "2026-11-15"
+},
+"https://statesidelive.com/events-and-entertainment/events/top-of-the-morning": {
+"events": [],
+"fetched": "2026-11-15"
+},
+"https://www.moviejawn.com/events/2026/11/20/laura": {
+"events": [
+{
+"all_day": false,
+"desc": "",
+"end": "2026-11-20T16:00:00",
+"key": "https://www.moviejawn.com/events/2026/11/20/laura|2026-11-20T13:30:00-0500",
+"loc": "Philadelphia Parkway Central Library, 1901 Vine Street Philadelphia, PA 19103 USA",
+"source": "Moviejawn",
+"src": "moviejawn",
+"start": "2026-11-20T13:30:00",
+"title": "LAURA (1944) at Parkway Central Library \u2014 Moviejawn",
+"url": "https://www.moviejawn.com/events/2026/11/20/laura"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.moviejawn.com/events/2026/11/21/scream": {
+"events": [
+{
+"all_day": false,
+"desc": "",
+"end": "2026-11-21T23:15:00",
+"key": "https://www.moviejawn.com/events/2026/11/21/scream|2026-11-21T20:15:00-0500",
+"loc": "Oaks Center Cinema, 180 Mill Road Oaks, PA 19456 USA",
+"source": "Moviejawn",
+"src": "moviejawn",
+"start": "2026-11-21T20:15:00",
+"title": "SCREAM in 16mm at Oaks Center Cinema \u2014 Moviejawn",
+"url": "https://www.moviejawn.com/events/2026/11/21/scream"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.moviejawn.com/events/2026/13/11/noir-city": {
+"events": [
+{
+"all_day": false,
+"desc": "",
+"end": "2026-11-15T22:00:00",
+"key": "https://www.moviejawn.com/events/2026/13/11/noir-city|2026-11-13T18:30:00-0500",
+"loc": "Ambler Theater, 108 E. Butler Avenue Ambler, PA 19002 USA",
+"source": "Moviejawn",
+"src": "moviejawn",
+"start": "2026-11-13T18:30:00",
+"title": "Noir City Philadelphia 2026 at Ambler Theater \u2014 Moviejawn",
+"url": "https://www.moviejawn.com/events/2026/13/11/noir-city"
+}
+],
+"fetched": "2026-11-15"
+}
+},
+"last_run": "2026-11-15T17:49:45.223540+00:00",
+"sources": {
+"2ndstfestival": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"48recordbar": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"actii_philly": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"albustanseeds": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"atmyhou.se": {
+"checked": "2026-11-15",
+"error": "",
+"events": 9
+},
+"atticbrewing": {
+"checked": "2026-11-15",
+"error": "",
+"events": 18
+},
+"awburyarboretum": {
+"checked": "2026-11-15",
+"error": "",
+"events": 23
+},
+"beautyiscultureevents": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"bok_bar": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"bourbonandbranch": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"broadstreet_lovepark": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"buildingbok": {
+"checked": "2026-11-15",
+"error": "",
+"events": 72
+},
+"centercitydistrict": {
+"checked": "2026-11-15",
+"error": "",
+"events": 156
+},
+"chestnuthill_pa": {
+"checked": "2026-11-15",
+"error": "",
+"events": 32
+},
+"chicksphilly": {
+"checked": "2026-11-15",
+"error": "",
+"events": 8
+},
+"chinatownpcdc": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"dahlak_paradise": {
+"checked": "2026-11-15",
+"error": "",
+"events": 78
+},
+"discoverypathways": {
+"checked": "2026-11-15",
+"error": "",
+"events": 17
+},
+"eastpassyunk": {
+"checked": "2026-11-15",
+"error": "",
+"events": 4
+},
+"ebennettart": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"elfrethsalley": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"esperanza_us": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"fdrpark": {
+"checked": "2026-11-15",
+"error": "",
+"events": 15
+},
+"frankiessummerclub": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"freelibraryfdn": {
+"checked": "2026-11-15",
+"error": "",
+"events": 6
+},
+"friendsofcolumbussq": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"friendsofharrowgate": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"gatherfoodhallphilly": {
+"checked": "2026-11-15",
+"error": "",
+"events": 3
+},
+"inliquidart": {
+"checked": "2026-11-15",
+"error": "",
+"events": 4
+},
+"inpursuitofhistory": {
+"checked": "2026-11-15",
+"error": "",
+"events": 5
+},
+"jazzphiladelphia": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"jetwinebar": {
+"checked": "2026-11-15",
+"error": "",
+"events": 6
+},
+"khyberpasspub": {
+"checked": "2026-11-15",
+"error": "",
+"events": 5
+},
+"lavenderpanzies": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"leewayfound": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"lovecitymanayunk": {
+"checked": "2026-11-15",
+"error": "",
+"events": 31
+},
+"manayunkbrewingco": {
+"checked": "2026-11-15",
+"error": "",
+"events": 13
+},
+"manayunkdotcom": {
+"checked": "2026-11-15",
+"error": "",
+"events": 3
+},
+"milkboy": {
+"checked": "2026-11-15",
+"error": "",
+"events": 43
+},
+"moviejawn": {
+"checked": "2026-11-15",
+"error": "",
+"events": 3
+},
+"museumforartinwood": {
+"checked": "2026-11-15",
+"error": "",
+"events": 6
+},
+"myphillypark": {
+"checked": "2026-11-15",
+"error": "",
+"events": 7
+},
+"nextfab_phl": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"nlna": {
+"checked": "2026-11-15",
+"error": "",
+"events": 8
+},
+"olneyculturelab": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"paflaxproject": {
+"checked": "2026-11-15",
+"error": "",
+"events": 3
+},
+"pageburnersbookstore": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"pennmuseum": {
+"checked": "2026-11-15",
+"error": "",
+"events": 14
+},
+"philaathenaeum": {
+"checked": "2026-11-15",
+"error": "",
+"events": 35
+},
+"philaholidays": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"phillygoatproject": {
+"checked": "2026-11-15",
+"error": "",
+"events": 5
+},
+"phillyistheculture": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"phillyrollerderby": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"pistolasdelsur": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"pleasetouchmuseum": {
+"checked": "2026-11-15",
+"error": "",
+"events": 300
+},
+"pplwalk": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"queenrookcafe": {
+"checked": "2026-11-15",
+"error": "",
+"events": 10
+},
+"qvnaorg": {
+"checked": "2026-11-15",
+"error": "",
+"events": 15
+},
+"reporecords": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"riotnerdphilly": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"riverfrontnorth": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"saintlazarusbar": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"sorynez": {
+"checked": "2026-11-15",
+"error": "",
+"events": 8
+},
+"southstreetphilly": {
+"checked": "2026-11-15",
+"error": "",
+"events": 5
+},
+"statesideliveofficial": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"taconylab_art_center": {
+"checked": "2026-11-15",
+"error": "",
+"events": 10
+},
+"tattooedmom": {
+"checked": "2026-11-15",
+"error": "",
+"events": 31
+},
+"theloganhotel": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"theprintcenter": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"timerestaurant": {
+"checked": "2026-11-15",
+"error": "",
+"events": 12
+},
+"triplebottombrewing": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"universitycity": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
+},
+"velvetwhipphilly": {
+"checked": "2026-11-15",
+"error": "",
+"events": 21
+},
+"voxpopuligallery": {
+"checked": "2026-11-15",
+"error": "",
+"events": 7
+},
+"waygayarchives": {
+"checked": "2026-11-15",
+"error": "",
+"events": 41
+},
+"weaverswayfarms": {
+"checked": "2026-11-15",
+"error": "",
+"events": 11
+},
+"westphillytoollibrary": {
+"checked": "2026-11-15",
+"error": "",
+"events": 24
+},
+"wooder_ice": {
+"checked": "2026-11-15",
+"error": "",
+"events": 5
+},
+"woodfordmansion": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+}
+}
+}
