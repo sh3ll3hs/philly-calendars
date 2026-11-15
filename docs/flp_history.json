@@ -130,6 +130,16 @@
    "title": "Philadelphia: For the People",
    "url": "https://libwww.freelibrary.org/calendar/event/169077"
   },
+  "169078|2027-01-02": {
+   "branch": "Parkway Central Library",
+   "category": 4,
+   "desc": "Learn more the exhibition\n 250 years ago, the Declaration of Independence affirmed that a government exists to serve the people. Although that affirmation has not been enforced with equal measure, Philadelphians have fought to create a City of Brotherly Love. The city's collective beauty is apparent in its parks and public art, while infrastructure such as telephone lines and public transit are reminders of how Philadelphia has evolved to serve its people. As we reflect upon the city's\u2026",
+   "id": "169078",
+   "start": "2027-01-02T17:00:00",
+   "timed": true,
+   "title": "Philadelphia: For the People",
+   "url": "https://libwww.freelibrary.org/calendar/event/169078"
+  },
   "169098|2026-11-17": {
    "branch": "Parkway Central Library",
    "category": 5,
@@ -1020,6 +1030,16 @@
    "title": "ESL II: English as a Second Language Class",
    "url": "https://libwww.freelibrary.org/calendar/event/176298"
   },
+  "177350|2026-11-18": {
+   "branch": "Parkway Central Library",
+   "category": 3,
+   "desc": "Join us for a philosophy reading and discussion group facilitated by FLP librarian Jessica Brown. Every other Wednesday we will dive into text excerpts, essays, lectures in the field of philosophy- reading together and discussing along the way. For this series, August-December 2026, we will look at topics in the Philosophy of Imagination. \n For this session we will be looking at Gaston Bachelard's phenomenology of the imagination.",
+   "id": "177350",
+   "start": "2026-11-18T17:45:00",
+   "timed": true,
+   "title": "Thought Club: An Incomplete Survey of the Imagination",
+   "url": "https://libwww.freelibrary.org/calendar/event/177350"
+  },
   "177358|2026-11-30": {
    "branch": "Wynnefield Library",
    "category": null,
@@ -1069,6 +1089,16 @@
    "timed": true,
    "title": "Financial Planning for Life!",
    "url": "https://libwww.freelibrary.org/calendar/event/177416"
+  },
+  "177446|2026-11-24": {
+   "branch": "Parkway Central Library",
+   "category": 10,
+   "desc": "In this hour-long session you'll learn the 10 most important things about the grant-seeking process, what motivates funders, and create a winning research strategy. Includes a Grant Select and Candid database demonstration. (Does not cover government grants.) \n Remote option available: Please e-mail nonprofitfreelibrary.org for a Zoom link.",
+   "id": "177446",
+   "start": "2026-11-24T17:30:00",
+   "timed": true,
+   "title": "Intro to Nonprofit Grant Seeking with GrantSelect and Candid Databases",
+   "url": "https://libwww.freelibrary.org/calendar/event/177446"
   },
   "177487|2026-11-14": {
    "branch": "Northeast Regional Library",
@@ -1852,7 +1882,7 @@
   },
   "181297|2027-02-09": {
    "branch": "Eastwick Library",
-   "category": 3,
+   "category": null,
    "desc": "Each month, our book club has a theme where you can read any book that fits that theme (or whatever you'd like). We come together to share what we're reading, and why we chose our book. There's no pressure to read a specific book; we encourage any type of reading! Our main goal is to keep as many community members motivated to read, even if we lead busy lives!",
    "id": "181297",
    "start": "2027-02-09T14:00:00",
@@ -2802,7 +2832,7 @@
   },
   "182160|2026-11-17": {
    "branch": "Parkway Central Library",
-   "category": 10,
+   "category": null,
    "desc": "How do you read a book? Everyone reads in their own way. Everyone engages with books differently. Regardless of our personal reading habits, nearly every time we interact with a book, we leave a trace behind. If we can learn to read these traces, we can begin to retell the stories of those who read it before us. And we can give each book its very own story to tell.\n Meet at 10:00am in the Dietrich Gallery in the Rare Book Department on the Third Floor of Parkway Central Library for this free\u2026",
    "id": "182160",
    "start": "2026-11-17T10:00:00",
@@ -3252,7 +3282,7 @@
   },
   "182424|2026-11-19": {
    "branch": "Philadelphia City Institute",
-   "category": 10,
+   "category": null,
    "desc": "Come join us in the meeting room for crafts and activities with an emphasis on nature and sustainability. This program meets in the downstairs meeting room on Thursdays from September 10 to December 17 at 3:30 p.m.",
    "id": "182424",
    "start": "2026-11-19T15:30:00",
@@ -4422,7 +4452,7 @@
   },
   "182963|2026-11-19": {
    "branch": "Walnut Street West Library",
-   "category": 3,
+   "category": null,
    "desc": "12-1 pm\n Build your confidence in speaking English while meeting other adults in a casual learning environment. No registration is required. This group is for intermediate/advanced English speakers and is led by Free Library volunteer Judy.\n Questions? Email adultlearningfreelibrary.org or call 215-686-8664.",
    "id": "182963",
    "start": "2026-11-19T12:00:00",
@@ -5192,7 +5222,7 @@
   },
   "183531|2026-11-19": {
    "branch": "Walnut Street West Library",
-   "category": 5,
+   "category": null,
    "desc": "\u6765\u4e2d\u6587\u6545\u4e8b\u6642\u9593\u628a! \u5927\u5bb6\u5168\u7528\u4e2d\u6587\u4f1a\u770b\u4e66\u5531\u5427\uff01\n Join us for Chinese Storytime! All are welcome to come read, sing, and learn at our storytime entirely in Chinese.",
    "id": "183531",
    "start": "2026-11-19T10:30:00",
@@ -5269,6 +5299,16 @@
    "timed": true,
    "title": "Anime After School (Grades 612)",
    "url": "https://libwww.freelibrary.org/calendar/event/183576"
+  },
+  "183577|2026-11-24": {
+   "branch": "Walnut Street West Library",
+   "category": 3,
+   "desc": "Join us after school for anime, conversation, and fun! Each month we'll feature a different anime series to binge and discuss, from popular favorites to series you may have missed.\n\nHelp choose what we watch next by voting on our monthly series! Come discover something new and meet other fans! No registration is required. \n This Month: Haikyu!!",
+   "id": "183577",
+   "start": "2026-11-24T15:15:00",
+   "timed": true,
+   "title": "Anime After School (Grades 612)",
+   "url": "https://libwww.freelibrary.org/calendar/event/183577"
   },
   "183593|2026-11-09": {
    "branch": "Oak Lane Library",
@@ -5402,7 +5442,7 @@
   },
   "183642|2026-12-11": {
    "branch": "Lawncrest Library",
-   "category": 1,
+   "category": null,
    "desc": "Looking to grow your artistic skills in a supportive environment? Our Art Club offers the perfect space to practice, share techniques, and spark new ideas alongside fellow creatives.\n Teens welcome! Open to all skill levels, from beginners to experienced artists.",
    "id": "183642",
    "start": "2026-12-11T11:00:00",
@@ -6752,7 +6792,7 @@
   },
   "184148|2026-11-16": {
    "branch": "Parkway Central Library",
-   "category": 2,
+   "category": null,
    "desc": "Parkway Central Library, Room 108\n In Crime and No Punishment: Wealth, Power, and Violence in America, Marie Gottschalk analyzes how the concentration of economic, political, and military power in the United States has siphoned off vital resources, preying on the most vulnerable communities and normalizing violence and death. The United States continues to incarcerate more of its people than nearly every other country even as it decriminalizes or turns a blind eye to elite-level corporate\u2026",
    "id": "184148",
    "start": "2026-11-16T18:00:00",
@@ -7390,6 +7430,16 @@
    "title": "Computer Skills for Beginners - Closed Session",
    "url": "https://libwww.freelibrary.org/calendar/event/184382"
   },
+  "184408|2026-11-21": {
+   "branch": "Joseph E. Coleman Northwest Regional Library",
+   "category": 10,
+   "desc": "Join Larry Farmbry, Certified Financial Planner, for a two-hour program designed to inform adult and senior participants on the many facets of financial planning. You will learn about budgeting, investing, wills and estate planning, Medicare, savings plans, and more. This program is for educational purposes only and will not provide legal, tax, or specific investment advice. Light refreshments will be served.\n 10:00 a.m. - 12:00 p.m.",
+   "id": "184408",
+   "start": "2026-11-21T10:00:00",
+   "timed": true,
+   "title": "Financial Planning for Life!",
+   "url": "https://libwww.freelibrary.org/calendar/event/184408"
+  },
   "184409|2026-11-13": {
    "branch": "Wyoming Library",
    "category": null,
@@ -7622,7 +7672,7 @@
   },
   "184445|2026-11-19": {
    "branch": "Joseph E. Coleman Northwest Regional Library",
-   "category": 10,
+   "category": null,
    "desc": "Join us for a stretch and reset with midday chair yoga!\n Instructor Megan Do Nascimento is known for her inclusive teaching style. She has taught at area libraries, schools, rehab and fitness centers in the area.\n Meets from 12:00 - 1:00 p.m. on November 12 19; December 3 10. Come as often as you like.",
    "id": "184445",
    "start": "2026-11-19T12:00:00",
@@ -7809,6 +7859,16 @@
    "timed": true,
    "title": "PA CareerLink Job Search Assistance",
    "url": "https://libwww.freelibrary.org/calendar/event/184479"
+  },
+  "184481|2026-11-18": {
+   "branch": "Northeast Regional Library",
+   "category": null,
+   "desc": "Meet with a Community Workforce Connector from 12:00 p.m. to 4:30 p.m. for one-on-one job search assistance.\n Get individualized support with resume development, career counseling, and professional development workshops.\n Call 1-833-750-5627 to learn more!\n PA CareerLinkreg; Philadelphia is an Equal Opportunity Employer/Program. Auxiliary aids and services are available upon request to individuals with disabilities.",
+   "id": "184481",
+   "start": "2026-11-18T12:00:00",
+   "timed": true,
+   "title": "PA CareerLink Job Search Assistance",
+   "url": "https://libwww.freelibrary.org/calendar/event/184481"
   },
   "184483|2026-11-19": {
    "branch": "Wyoming Library",
@@ -8490,6 +8550,16 @@
    "title": "Teen Hangout",
    "url": "https://libwww.freelibrary.org/calendar/event/184645"
   },
+  "184646|2026-11-20": {
+   "branch": "Haddington Library",
+   "category": null,
+   "desc": "Wrap up your school week with us at the Haddington Library! Whether you need time to finish homework, enjoy a game of chess, complete a puzzle, or share ideas with other, this is a great opportunity to learn, relax, or socialize.",
+   "id": "184646",
+   "start": "2026-11-20T16:00:00",
+   "timed": true,
+   "title": "Teen Hangout",
+   "url": "https://libwww.freelibrary.org/calendar/event/184646"
+  },
   "184647|2026-11-20": {
    "branch": "Haddington Library",
    "category": null,
@@ -8642,7 +8712,7 @@
   },
   "184670|2026-11-20": {
    "branch": "Joseph E. Coleman Northwest Regional Library",
-   "category": 1,
+   "category": null,
    "desc": "Collage your family story!\n Drop in for an afternoon of fun, visual storytelling. Put your memories on the page with scissors, glue, photos, and imagery. Collage and scrapbook materials provided, and you are welcome to bring your own photos!\n Coleman Library patrons have been making art in community with Let's Art! for over a year now. If you are new to creative activities, we welcome you to join us. If you are a working artist, come on by and bring something you're working on. As part of our\u2026",
    "id": "184670",
    "start": "2026-11-20T15:00:00",
@@ -8912,7 +8982,7 @@
   },
   "184720|2026-11-23": {
    "branch": "Walnut Street West Library",
-   "category": 8,
+   "category": 3,
    "desc": "Staring at a blank page or looking to boost your word count? Join a supportive circle of fellow NaNoWriMo writers for motivation, accountability, and inspiration as we tackle our novels together! We'll gather for focused writing sprints, creative prompts, and constructive feedback. This is a positive, pressure-free, and non-judgmental community open to writers of all genres and skill levels. \n Also join us every Saturday in November for our NaNoWriMo Author Masterclasses!",
    "id": "184720",
    "start": "2026-11-23T17:00:00",
@@ -9119,6 +9189,16 @@
    "timed": true,
    "title": "Anime and Manga Society",
    "url": "https://libwww.freelibrary.org/calendar/event/184753"
+  },
+  "184754|2026-12-03": {
+   "branch": "Parkway Central Library",
+   "category": 2,
+   "desc": "Join us for an intimate visual journey through the photography of Will Downing. In his latest book, \"Still Sounds,\" Downing captures artists and musicians in their most authentic moments-on stage and beyond. Featuring a striking blend of black-and-white and color photography, each image offers a rare glimpse into the spirit, presence, and artistry of his contemporaries. Presented in a beautifully crafted 10x10 edition, this is a book to experience-and to collect. Will Downing will be in\u2026",
+   "id": "184754",
+   "start": "2026-12-03T18:30:00",
+   "timed": true,
+   "title": "Still Sounds: An Evening Conversation with Will Downing",
+   "url": "https://libwww.freelibrary.org/calendar/event/184754"
   },
   "184760|2026-11-18": {
    "branch": "Fishtown Community Library",
@@ -9452,7 +9532,7 @@
   },
   "184810|2026-11-23": {
    "branch": "Fishtown Community Library",
-   "category": 8,
+   "category": null,
    "desc": "Love crosswords, Wordle, Sudoku, and other puzzle games?\n Join the library and professional games editor Raymond Simon as we group-solve our way through some puzzles. Puzzles will be provided or feel free to bring your own.\n\nFree and open to adults of all skill levels, this event will be held on the library's 3rd floor, accessible by stairs or elevator.",
    "id": "184810",
    "start": "2026-11-23T17:30:00",
@@ -9692,7 +9772,7 @@
   },
   "184848|2026-11-16": {
    "branch": "Parkway Central Library",
-   "category": 3,
+   "category": null,
    "desc": "The Literature department invites you to join us in the Skyline Room (on the 4th floor) for an evening of poetry with Shawn Jones and Dimitri Reyes.",
    "id": "184848",
    "start": "2026-11-16T18:00:00",
@@ -9832,7 +9912,7 @@
   },
   "184874|2026-11-23": {
    "branch": "Lovett Memorial Library",
-   "category": 10,
+   "category": null,
    "desc": "Join us for a weekly yoga class where we will offer gentle movement, quiet meditation and guided breath work. This class will be adapted to our different abilities and disabilities, especially as we age. For all ages and backgrounds. Led by Josh Mitteldorf, who has been teaching yoga in the neighborhood since 1982.\n Dress comfortably and bring yoga mats or props if you have them. Just breathe!\n Meets most Mondays from 5:00 - 6:30 p.m.",
    "id": "184874",
    "start": "2026-11-23T17:00:00",
@@ -10112,7 +10192,7 @@
   },
   "184922|2026-12-03": {
    "branch": "Nicetown-Tioga Library",
-   "category": 10,
+   "category": null,
    "desc": "Do you like to play chess? Do you want to learn how to play, or how to play better?\n Come for a friendly game of chess. All level players are welcome and some instruction will be provided. This club is best for school-age players.\n Meets most Thursdays.",
    "id": "184922",
    "start": "2026-12-03T15:30:00",
@@ -11501,5 +11581,5 @@
    "url": "https://libwww.freelibrary.org/calendar/event/185182"
   }
  },
- "last_run": "2026-11-14T18:26:45.164447+00:00"
+ "last_run": "2026-11-15T18:06:11.837201+00:00"
 }
