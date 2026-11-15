@@ -25,310 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:6c3aa31522bf42ac259a797473ad483af36073be@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T090000
-DTEND;TZID=America/New_York:20261031T160000
-SUMMARY:Weekend Workshop | Mixed Media Collage Workshop with Anthony Ciambe
- lla
-LOCATION:Pennsylvania Academy of the Fine Arts\, 118-128 North Broad Street
- \, Philadelphia
-DESCRIPTION:Mixed media art and collage offer a myriad of possibilities to 
- combine papers\, photographs\, and 3D elements to make a statement\, conve
- y something personal\, or create something textural\, colorful\, and beaut
- iful. Develop rich and complex imagery finding inspiration from memory\, l
- iterature\, films\, and other sources\, while working in a variety of trad
- itional and non-traditional materials. Sessions will discuss the character
- istics of adhesives\, paper and fabric cut-outs\, wood\, and plastics. Stu
- dents…\n\nhttps://gridphilly.com/event/weekend-workshop-mixed-media-coll
- age-workshop-with-anthony-ciambella/2026-10-31/
-URL:https://gridphilly.com/event/weekend-workshop-mixed-media-collage-works
- hop-with-anthony-ciambella/2026-10-31/
-END:VEVENT
-BEGIN:VEVENT
-UID:d48a42acd91c0573c11f9af651fffe3c822ecfd8@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T090000
-DTEND;TZID=America/New_York:20261031T120000
-SUMMARY:Halloween Planting at Hermitage Mansion
-LOCATION:Hermitage Mansion\, 700 Hermit’s Lane\, Philadelphia\, PA\, 1912
- 8
-DESCRIPTION:Meeting at Hermitage Mansion (700 Hermit Lane)\n\nParking: If y
- ou’re driving\, plan to park on Barnes Street and walk over\, as Hermit 
- Lane has been known to experience car break-ins. Reminder to never leave v
- aluables behind in your car. If taking transit\, the 32\, 9\, 65\, and 27 
- buses all have stops within a 15-minute walking distance of our location. 
- See map for details.\n\nBathrooms: None\n\nWould you like to be part of k
- eeping Wissahickon Valley Park beautiful and sustainable? Then celebrate
- …\n\nhttps://gridphilly.com/event/halloween-planting-at-hermitage-mansio
- n-2/
-URL:https://gridphilly.com/event/halloween-planting-at-hermitage-mansion-2/
-CATEGORIES:Event
-END:VEVENT
-BEGIN:VEVENT
-UID:3627db30ab8eba46ee7d00a3e2d6127b2852dc60@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T093000
-DTEND;TZID=America/New_York:20261031T120000
-SUMMARY:Horticulture Volunteer Day
-LOCATION:Bartram’s Garden\, 5400 Lindbergh Blvd.\, Philadelphia
-DESCRIPTION:Volunteers will support seasonal plantings\, weeding\, and inva
- sive species removal. Please plan to meet at the Welcome Center promptly a
- t 9:30 AM. Staff will separate groups and provide instructions and safety 
- protocols for the day. Out of respect and safety for our staff and others\
- , please arrive on time.\n\nPLEASE NOTE: Capacity is limited\, and we rely
-  on everyone who signs up to show up. Please reserve a spot only if you ca
- n attend. All participants must be pre-registered using link below. Each
- …\n\nhttps://gridphilly.com/event/horticulture-volunteer-day-34/
-URL:https://gridphilly.com/event/horticulture-volunteer-day-34/
-CATEGORIES:Volunteer
-END:VEVENT
-BEGIN:VEVENT
-UID:63c05412a653f960b58ae94e5fad0f06f4865eae@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T100000
-DTEND;TZID=America/New_York:20261031T110000
-SUMMARY:Herbalism Workshop Series at FDR Park
-LOCATION:FDR Park Welcome Center\, 1500 Pattison Avenue &\, S Broad St\,\, 
- Philadelphia
-DESCRIPTION:We’ve made a few updates to the dates for our free Herbalism 
- 101 workshop series with Majesty! Join us as we explore wild herbs and pla
- nts and learn about their medicinal and nutritional properties. Come learn
- \, explore\, and connect with the plants growing around us!\n\nMeet: Guard
-  House / Main Office\nTime: 10:00 AM\n\nWorkshop Dates:\nSeptember 19\nOct
- ober 3\, 10\, 17\, 24\, 31\n\nThese free classes were made possible with s
- upport from the DCNR.\n\nhttps://gridphilly.com/event/herbalism-workshop-s
- eries-at-fdr-park/2026-10-31/
-URL:https://gridphilly.com/event/herbalism-workshop-series-at-fdr-park/2026
- -10-31/
-END:VEVENT
-BEGIN:VEVENT
-UID:b8717d166f7afb81c24d463c4eadf175d1556a25@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T100000
-DTEND;TZID=America/New_York:20261031T123000
-SUMMARY:Discover the Wissahickon: Spooky Wissahickon Walk
-LOCATION:Historic Rittenhouse Town\, 6035-6049 Wissahickon Ave\, Philadelph
- ia\, PA\, 19144\, United States
-DESCRIPTION:Meeting at Historic RittenhouseTown (view location on Google m
- aps)\n\nOur Discover the Wissahickon hike series is presented by Newrez.\
- n\nJoin Trail Ambassadors Laura Bryan\, Sabrina Arias\, Afsana Oreen\, Sey
- a Fadullon\, and Bailey Graf on a hike past some of the spookiest places i
- n Wissahickon Valley Park\, including the Kelpius Cave and Lover’s Leap.
-  This moderately difficult hike has some steep elevation changes.\n\nCheck
-  out a preview of our hike on Komoot below! \n\nParking and Transit: If yo
- u’re…\n\nhttps://gridphilly.com/event/discover-the-wissahickon-spooky-
- wissahickon-walk/
-URL:https://gridphilly.com/event/discover-the-wissahickon-spooky-wissahicko
- n-walk/
-CATEGORIES:Event
-END:VEVENT
-BEGIN:VEVENT
-UID:c7b1cade88db205536bd1447d770bc3c703449da@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T100000
-DTEND;TZID=America/New_York:20261031T170000
-SUMMARY:Walking the Schuylkill – John Brady Photography (daily through Ja
- n 8)
-LOCATION:Fairmount Water Works Interpretive Center\, 640 Waterworks Drive\,
-  Philadelphia
-DESCRIPTION:William Penn placed the city where it is because of the Schuylk
- ill River\, guaranteeing the city and the river a prominent place in Ameri
- can history. Over time\, the Schuylkill has served the city and its indust
- ry\, first with a canal system and later with railroads and highways in th
- e river’s flood plain. Factories and mills were built along its full len
- gth. Industry radically changed the river. Along with bringing farm produc
- ts and coal to the city. The Schuylkill River provided drinking water.…\
- n\nhttps://gridphilly.com/event/walking-the-schuylkill-john-brady-photogra
- phy/2026-10-31/
-URL:https://gridphilly.com/event/walking-the-schuylkill-john-brady-photogra
- phy/2026-10-31/
-CATEGORIES:---Fishing,---On the Trail,Art,Art Exhibitions,Public Events
-END:VEVENT
-BEGIN:VEVENT
-UID:802ee68aae4df2afc33a2aee7d17607f699e3a7d@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T100000
-DTEND;TZID=America/New_York:20261031T113000
-SUMMARY:Community Creek Maintenance Day at Jenkintown
-LOCATION:Wanamaker Road\, 562 Wanamaker Rd\, Jenkintown
-DESCRIPTION:Location: Meet at the green space along Wanamaker Road (562 Wan
- amaker Rd\, Jenkintown\, PA 19046).\n\nEvent Details: Join us as we learn 
- about how we can better care for and maintain the creek corridor as it flo
- ws through this green space. We will be having a discussion followed by a 
- brief workday. We will be focusing on the removal of phragmites and knotwe
- ed within the creek course. All tools and supplies will be provided\, incl
- uding work gloves (though you’re welcome to bring your own). Please…\n
- \nhttps://gridphilly.com/event/community-creek-maintenance-day-at-jenkinto
- wn-2/
-URL:https://gridphilly.com/event/community-creek-maintenance-day-at-jenkint
- own-2/
-CATEGORIES:Clean-ups,Featured,Volunteer Opportunities
-END:VEVENT
-BEGIN:VEVENT
-UID:c5b3edd249f8044334df59394d922a9a9d87b9f4@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T100000
-DTEND;TZID=America/New_York:20261031T140000
-SUMMARY:Community Paddle Boating at FDR Park
-LOCATION:FDR Park Boathouse\, South Broad Street\, Philadelphia
-DESCRIPTION:See FDR Park from a new perspective with a paddle on the lake!\
- n\nDATE\nSaturday\, October 31\n\nTIME\n10:00 am – 2:00 pm\n\nLOCATION\n
- FDR Park Boathouse\n\nFDR Park\n\nPhiladelphia PA 19145\n\nJoin Fairmount 
- Park Conservancy and Independence Seaport Museumfor free paddle boating at
-  FDR Park on select dates in the spring\, summer\, and fall!\n\nPaddle boa
- ts are an easy and safe way for families and people of all ages to explore
-  Edgewood Lake\, just behind the FDR Park Boathouse. As you pedal around\,
-  use the…\n\nhttps://gridphilly.com/event/community-paddle-boating-at-fd
- r-park-5/
-URL:https://gridphilly.com/event/community-paddle-boating-at-fdr-park-5/
-END:VEVENT
-BEGIN:VEVENT
-UID:dae06e6d86d4a69999aba83af025b188914fbb36@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T100000
-DTEND;TZID=America/New_York:20261031T170000
-SUMMARY:Al Gury: Painting and Purpose (daily through Nov 23)
-LOCATION:Pennsylvania Academy of the Fine Arts\, 118-128 North Broad Street
- \, Philadelphia
-DESCRIPTION:Celebrating the Legacy of Albert “Al” Gury (October 23rd\, 
- 1951 – June 25th\, 2026)\n\nPAFA is honored to present Al Gury: Painting
-  and Purpose\, an exhibition celebrating the legacy of the beloved painter
- \, educator\, author\, advocate\, and friend.\n\nFor more than 38 years\, 
- Al shaped the life of PAFA with extraordinary dedication\, generosity\, an
- d care. A PAFA alumnus and Cresson Traveling Scholarship recipient\, he re
- turned to the Academy as a teacher and became one of its most enduring voi
- ces in…\n\nhttps://gridphilly.com/event/al-gury-painting-and-purpose/202
- 6-10-31/
-URL:https://gridphilly.com/event/al-gury-painting-and-purpose/2026-10-31/
-CATEGORIES:Art Exhibitions,History
-END:VEVENT
-BEGIN:VEVENT
-UID:50dc49e04375b5f133c9838a9685b3f2c6a1cdbe@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T103000
-DTEND;TZID=America/New_York:20261031T123000
-SUMMARY:Gardening for Ecological Resilience Tour
-LOCATION:Mt Cuba\, 3120 Barley Mill Rd\, Hockessin
-DESCRIPTION:Harvesting seeds is one of the most cost-efficient and rewardin
- g ways to expand your garden. In this hands-on workshop\, you will master 
- the best techniques for collecting\, cleaning\, and storing seeds produced
-  by native trees\, shrubs\, and perennials. \n\nGuided by an Expert Conse
- rvator: The session begins with an led by Lindsey Laban\, Mt. Cuba Cente
- r’s Conservation Propagator. Lindsey spends her days propagating plants 
- for Mt. Cuba’s gardens\, natural lands\, and elite conservation partners
- .…\n\nhttps://gridphilly.com/event/gardening-for-ecological-resilience-t
- our-20/
-URL:https://gridphilly.com/event/gardening-for-ecological-resilience-tour-2
- 0/
-END:VEVENT
-BEGIN:VEVENT
-UID:f77191ac80105abf0d4edec0962bd0446c47f453@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T120000
-DTEND;TZID=America/New_York:20261031T170000
-SUMMARY:Mural Arts Fest
-LOCATION:JFK Plaza (Love Park)\, 1501 John F Kennedy Boulevard\, Philadelph
- ia
-DESCRIPTION:Love Park Halloween Takeover!\n\nMural Arts Fest takes over Lov
- e Park this Halloween!\n\nOn Saturday\, October 31\, from 12–5 PM\, Mura
- l Arts Philadelphia brings the city together for an afternoon packed with 
- art\, music\, creativity\, and Halloween fun. Come ready to make\, move\, 
- play\, and celebrate with live performances\, interactive art experiences\
- , local artists\, community partners\, and plenty of surprises along the w
- ay at our annual festival.\n\nDecorate your own mask\, create and trade af
- firmations\,…\n\nhttps://gridphilly.com/event/mural-arts-fest/
-URL:https://gridphilly.com/event/mural-arts-fest/
-END:VEVENT
-BEGIN:VEVENT
-UID:dde09c22148dd67f60b8942700b4b89497332e1d@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T130000
-DTEND;TZID=America/New_York:20261031T143000
-SUMMARY:Backyard Seed Saving
-LOCATION:The Athenaeum of Philadelphia\, 219 S 6th Street\, Philadelphia
-DESCRIPTION:Join Truelove Seeds founder Owen Taylor for a hands-on workshop
-  exploring the art and science of seed saving. Participants will learn whi
- ch plants are best suited for seed harvesting and discover techniques for 
- collecting\, cleaning\, packaging\, overwintering\, and preserving seeds f
- or future growing seasons. Through demonstrations using a variety of plant
- s\, Owen will share practical tips and best practices drawn from years of 
- experience stewarding culturally significant and heirloom seeds.…\n\nhtt
- ps://gridphilly.com/event/backyard-seed-saving/
-URL:https://gridphilly.com/event/backyard-seed-saving/
-END:VEVENT
-BEGIN:VEVENT
-UID:008d9a38ffcaac84912ee54f2d170b9648367fe7@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T130000
-DTEND;TZID=America/New_York:20261031T140000
-SUMMARY:Art in the Commons 2026 Public Art Tours
-LOCATION:Camden FireWorks\, 1813 Broadway\, Camden
-DESCRIPTION:Join us for a tour around Waterfront South to showcase the 8 pu
- blic art works newly installed in the neighborhood.\n\nJoin us for a guide
- d walking tour of Waterfront South and discover eight newly installed publ
- ic art pieces throughout the neighborhood!\n\nTogether\, we’ll explore t
- he artwork\, learn more about the creative energy that is shaping Waterfro
- nt South\, and experience how public art can bring color\, connection and 
- new perspectives to the spaces we share and frequent. Whether you’re a
- …\n\nhttps://gridphilly.com/event/art-in-the-commons-2026-public-art-tou
- rs/
-URL:https://gridphilly.com/event/art-in-the-commons-2026-public-art-tours/
-END:VEVENT
-BEGIN:VEVENT
-UID:86b561819d8e691499239b92e809df669de75e34@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T130000
-DTEND;TZID=America/New_York:20261031T160000
-SUMMARY:Succession Planting
-LOCATION:Mt Cuba\, 3120 Barley Mill Rd\, Hockessin
-DESCRIPTION:Even in small garden spaces\, you can boost diversity and seaso
- nal interest through succession planting. Succession planting is the pract
- ice of designing a garden so that as one plant finishes its peak growth or
-  bloom cycle\, another is ready to step into the spotlight. By thoughtfull
- y timing and layering your plants\, you ensure continuous color\, texture\
- , and ecological benefits throughout the year rather than a single\, fleet
- ing burst of spring blooms. Designed for gardeners of all levels\, this…
- \n\nhttps://gridphilly.com/event/succession-planting/
-URL:https://gridphilly.com/event/succession-planting/
-END:VEVENT
-BEGIN:VEVENT
-UID:3b757e7ef99b3b2a47612f0c64227e2024325e70@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T140000
-DTEND;TZID=America/New_York:20261031T163000
-SUMMARY:Meantime on Market Halloween Block Party
-DESCRIPTION:Join Circular Philadelphia at our pop-up space\, Circular Commo
- ns\, at Meantime on Market (900 block of Market St.) for a Halloween Block
-  Party on Saturday\, October 31st from 2 to 4:30 p.m.\n\nWe’re joining o
- ur friends and neighbors at Meantime on Market in celebrating the new addi
- tions to the block — that’s Circular Commons\, Members’ Work and Cor
- ner Jawn!\n\nThere will be candy and treats (but no tricks!)\, a drop-in a
- ctivity at the engagement hub\, and other fun programming to be announced.
-   If you…\n\nhttps://gridphilly.com/event/meantime-on-market-halloween-
- block-party/
-URL:https://gridphilly.com/event/meantime-on-market-halloween-block-party/
-END:VEVENT
-BEGIN:VEVENT
-UID:b9d59320ed726797edcea0a861c79c90c8e4581d@gridphilly.com
-DTSTAMP:20261114T223500Z
-DTSTART;TZID=America/New_York:20261031T140000
-DTEND;TZID=America/New_York:20261031T153000
-SUMMARY:Insect Walk Series with Insectopia: Insects in Autumn
-LOCATION:Pennypack on the Delaware\, Pennypack on the Delaware Park\, 7801 
- State Road\, Philadelphia
-DESCRIPTION:An afternoon of fun and discovery led by Hannah Michelle of Ins
- ectopia\n\nJoin us for an Autumn insect walk at Pennypack on the Delaware!
-  Learn what insects do to prepare for winter\, and search for ones hiding 
- in places you might not expect them.\n\nThe walk will be guided by Hannah 
- Michelle from Insectopia.\n\nCan’t wait to see you there!\n\nhttps://gri
- dphilly.com/event/insect-walk-series-with-insectopia-insects-in-autumn/
-URL:https://gridphilly.com/event/insect-walk-series-with-insectopia-insects
- -in-autumn/
-END:VEVENT
-BEGIN:VEVENT
 UID:8e8c8398e5eb1cedde89d89fffed10daa63d1b7c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261101T070000
 DTEND;TZID=America/New_York:20261101T090000
 SUMMARY:Move with Me
@@ -344,7 +42,7 @@ CATEGORIES:Running Group,Tacony Creek Park Events
 END:VEVENT
 BEGIN:VEVENT
 UID:812778d758b2900aee4d5fceeef1abdd5f2f1cf8@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261101T090000
 DTEND;TZID=America/New_York:20261101T160000
 SUMMARY:Weekend Workshop | Mixed Media Collage Workshop with Anthony Ciambe
@@ -365,7 +63,7 @@ URL:https://gridphilly.com/event/weekend-workshop-mixed-media-collage-works
 END:VEVENT
 BEGIN:VEVENT
 UID:7a1d260c2b1c968ac3c358cb5fe1ebb894589876@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261101T103000
 DTEND;TZID=America/New_York:20261101T113000
 SUMMARY:The History of Mt. Cuba Center Tour
@@ -383,7 +81,7 @@ URL:https://gridphilly.com/event/the-history-of-mt-cuba-center-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:a42f3d143b35ea39291afe75bd7d3df20ab1b073@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261101T110000
 DTEND;TZID=America/New_York:20261101T120000
 SUMMARY:Pet-Friendly Plants
@@ -396,7 +94,7 @@ URL:https://gridphilly.com/event/pet-friendly-plants/
 END:VEVENT
 BEGIN:VEVENT
 UID:f6a9d26cdef9511d73da62627156ee339574aeea@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261101T110000
 DTEND;TZID=America/New_York:20261101T130000
 SUMMARY:Self Care Sundays
@@ -414,7 +112,7 @@ URL:https://gridphilly.com/event/self-care-sundays-48/
 END:VEVENT
 BEGIN:VEVENT
 UID:f99ce35ac2fc32bbf393d517d86778e4ce77cca8@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261101T120000
 DTEND;TZID=America/New_York:20261101T160000
 SUMMARY:Build a Porch Scarecrow at Craft Hall
@@ -432,7 +130,7 @@ URL:https://gridphilly.com/event/build-a-porch-scarecrow-at-craft-hall/
 END:VEVENT
 BEGIN:VEVENT
 UID:28a99832344e90477b285b54f26ef88959434619@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261102T070000
 DTEND;TZID=America/New_York:20261102T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -450,8 +148,28 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2026-11-0
  2/
 END:VEVENT
 BEGIN:VEVENT
+UID:a89ba1b1f59794cef6ea10dec45fe1c3f2a4eb94@gridphilly.com
+DTSTAMP:20261115T064703Z
+DTSTART;TZID=America/New_York:20261102T100000
+DTEND;TZID=America/New_York:20261102T170000
+SUMMARY:Al Gury: Painting and Purpose (daily through Nov 23)
+LOCATION:Pennsylvania Academy of the Fine Arts\, 118-128 North Broad Street
+ \, Philadelphia
+DESCRIPTION:Celebrating the Legacy of Albert “Al” Gury (October 23rd\, 
+ 1951 – June 25th\, 2026)\n\nPAFA is honored to present Al Gury: Painting
+  and Purpose\, an exhibition celebrating the legacy of the beloved painter
+ \, educator\, author\, advocate\, and friend.\n\nFor more than 38 years\, 
+ Al shaped the life of PAFA with extraordinary dedication\, generosity\, an
+ d care. A PAFA alumnus and Cresson Traveling Scholarship recipient\, he re
+ turned to the Academy as a teacher and became one of its most enduring voi
+ ces in…\n\nhttps://gridphilly.com/event/al-gury-painting-and-purpose/202
+ 6-11-02/
+URL:https://gridphilly.com/event/al-gury-painting-and-purpose/2026-11-02/
+CATEGORIES:Art Exhibitions,History
+END:VEVENT
+BEGIN:VEVENT
 UID:02cc4b106cdb7a8ae2d384311d6cf0903e1fc49e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261102T130000
 DTEND;TZID=America/New_York:20261102T143000
 SUMMARY:7-Week Monday Class For Students With Disabilities
@@ -468,7 +186,7 @@ URL:https://gridphilly.com/event/7-week-monday-class-for-students-with-disa
 END:VEVENT
 BEGIN:VEVENT
 UID:eec4c27406fc164951e0a06715d9080750daa83f@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261102T173000
 DTEND;TZID=America/New_York:20261102T190000
 SUMMARY:Little Nature Playgrounds Project @ November Cobbs Creek Neighbors 
@@ -489,7 +207,7 @@ URL:https://gridphilly.com/event/little-nature-playgrounds-project-november
 END:VEVENT
 BEGIN:VEVENT
 UID:0f41386873c5ef086d2510a42e4c20e289d31cb4@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261102T180000
 DTEND;TZID=America/New_York:20261102T191500
 SUMMARY:Mindful Yoga (11/2–11/16)
@@ -505,7 +223,7 @@ URL:https://gridphilly.com/event/mindful-yoga-11-2-11-16/
 END:VEVENT
 BEGIN:VEVENT
 UID:a1e382dc9e2a1d7cc22254c45ef6307c79bc0f60@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261102T180000
 DTEND;TZID=America/New_York:20261102T200000
 SUMMARY:Fall Beginning Embroidery with Michelle Gibbs (through Nov 9)
@@ -525,7 +243,7 @@ URL:https://gridphilly.com/event/fall-beginning-embroidery-with-michelle-gi
 END:VEVENT
 BEGIN:VEVENT
 UID:11abd6850c8a8ff1aebf7087a603d25ca7e23642@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261102T183000
 DTEND;TZID=America/New_York:20261102T193000
 SUMMARY:Meditation Mondays
@@ -543,7 +261,7 @@ URL:https://gridphilly.com/event/meditation-mondays-9/
 END:VEVENT
 BEGIN:VEVENT
 UID:3c9defa9fc850de058dc51de108392b7e0117f68@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261102T190000
 DTEND;TZID=America/New_York:20261102T220000
 SUMMARY:Makers Monday
@@ -560,7 +278,7 @@ URL:https://gridphilly.com/event/makers-monday-40/
 END:VEVENT
 BEGIN:VEVENT
 UID:c0f1a0ce979ebeba87f44f0756c4d73dd0660bbe@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261103T070000
 DTEND;TZID=America/New_York:20261103T130000
 SUMMARY:[ibBIG] Election Day COFFEE & CONVO Meetup @ Coffee Cream & Dream!!
@@ -579,7 +297,7 @@ URL:https://gridphilly.com/event/ibbig-election-day-coffee-convo-meetup-cof
 END:VEVENT
 BEGIN:VEVENT
 UID:fd7fdb37d12c0d2aca86d3e52971c973992508c9@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261103T080000
 DTEND;TZID=America/New_York:20261103T150000
 SUMMARY:Day-Off Camp
@@ -598,7 +316,7 @@ CATEGORIES:Children,Day Off Camp
 END:VEVENT
 BEGIN:VEVENT
 UID:76cce2198f9bcf44f8b4dd97f8c8b3b868d0e895@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261103T080000
 DTEND;TZID=America/New_York:20261103T133000
 SUMMARY:[ibBIG] Election Day BREAKFAST & CONVO Meetup @ River Falls Boutiqu
@@ -618,7 +336,7 @@ URL:https://gridphilly.com/event/ibbig-election-day-breakfast-convo-meetup-
 END:VEVENT
 BEGIN:VEVENT
 UID:2ebb35a0ec11573aea0ae1f84c0ae97ffe12d932@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261103T083000
 DTEND;TZID=America/New_York:20261103T153000
 SUMMARY:Election Day – School Day Off Camp
@@ -633,7 +351,7 @@ URL:https://gridphilly.com/event/election-day-school-day-off-camp/
 END:VEVENT
 BEGIN:VEVENT
 UID:322268249bf673e6407468e1d09e302d421fb82c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261103T083000
 DTEND;TZID=America/New_York:20261103T113000
 SUMMARY:Volunteer – Fall Gardening
@@ -652,7 +370,7 @@ CATEGORIES:Volunteer
 END:VEVENT
 BEGIN:VEVENT
 UID:c145a5979d74e9fc3b119f95f31caeb170483e9a@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261103T093000
 DTEND;TZID=America/New_York:20261103T110000
 SUMMARY:Sprouts
@@ -671,7 +389,7 @@ CATEGORIES:Children,Family-friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:7c1209ea5d0c68f951f5258a24ce0079004ebbcc@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261103T110000
 DTEND;TZID=America/New_York:20261103T120000
 SUMMARY:Forest Friends Story Hour
@@ -686,7 +404,7 @@ URL:https://gridphilly.com/event/forest-friends-story-hour-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ea1f3853a80dbebb9dafda5d2f208baca370f85b@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261103T180000
 DTEND;TZID=America/New_York:20261103T193000
 SUMMARY:Reclaim & Reignite (6 or 8pm)
@@ -705,7 +423,7 @@ CATEGORIES:Community Events,Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:7f213d426569a99d09d6eafb4f635eaacdcb5650@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261103T180000
 DTEND;TZID=America/New_York:20261103T200000
 SUMMARY:Open Studio
@@ -723,7 +441,7 @@ URL:https://gridphilly.com/event/open-studio/
 END:VEVENT
 BEGIN:VEVENT
 UID:dede5975bf6a3852109e3b7783ab885d7d8ca978@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261103T200000
 DTEND;TZID=America/New_York:20261103T213000
 SUMMARY:Reclaim & Reignite (6 or 8pm)
@@ -742,7 +460,7 @@ CATEGORIES:Community Events,Wellness
 END:VEVENT
 BEGIN:VEVENT
 UID:52c814616aad55c9dd5b90ac3b96de4ed252a1c7@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261104T060000
 DTEND;TZID=America/New_York:20261104T080000
 SUMMARY:Move with Me
@@ -758,7 +476,7 @@ CATEGORIES:Running Group,Tacony Creek Park Events
 END:VEVENT
 BEGIN:VEVENT
 UID:912ced0c46a262c1f2e7217d557cca5b56066108@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261104T080000
 DTEND;TZID=America/New_York:20261104T170000
 SUMMARY:Chilly Philly Mini Golf in Franklin Square
@@ -777,8 +495,30 @@ URL:https://gridphilly.com/event/chilly-philly-mini-golf-in-franklin-square
 CATEGORIES:Community Activity,Family Activities
 END:VEVENT
 BEGIN:VEVENT
+UID:1a3674f366b3a1f6bd76b5b76bf8cb18da8ebe56@gridphilly.com
+DTSTAMP:20261115T064703Z
+DTSTART;TZID=America/New_York:20261104T100000
+DTEND;TZID=America/New_York:20261104T170000
+SUMMARY:Walking the Schuylkill – John Brady Photography (daily through Ja
+ n 8)
+LOCATION:Fairmount Water Works Interpretive Center\, 640 Waterworks Drive\,
+  Philadelphia
+DESCRIPTION:William Penn placed the city where it is because of the Schuylk
+ ill River\, guaranteeing the city and the river a prominent place in Ameri
+ can history. Over time\, the Schuylkill has served the city and its indust
+ ry\, first with a canal system and later with railroads and highways in th
+ e river’s flood plain. Factories and mills were built along its full len
+ gth. Industry radically changed the river. Along with bringing farm produc
+ ts and coal to the city. The Schuylkill River provided drinking water.…\
+ n\nhttps://gridphilly.com/event/walking-the-schuylkill-john-brady-photogra
+ phy/2026-11-04/
+URL:https://gridphilly.com/event/walking-the-schuylkill-john-brady-photogra
+ phy/2026-11-04/
+CATEGORIES:---Fishing,---On the Trail,Art,Art Exhibitions,Public Events
+END:VEVENT
+BEGIN:VEVENT
 UID:6fed003c6c3d6a8f46522bf002bddf15bbd06f67@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261104T100000
 DTEND;TZID=America/New_York:20261104T113000
 SUMMARY:Little Explorers: Colorful Leaves
@@ -798,7 +538,7 @@ CATEGORIES:Birding,Classes &amp\; Workshops,Eligible for SW/ACCESS Discount
 END:VEVENT
 BEGIN:VEVENT
 UID:de8cd582a7e5be97930ab33593acd356cf63a0f8@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261104T130000
 DTEND;TZID=America/New_York:20261104T140000
 SUMMARY:Fall Wednesday Walkabouts
@@ -814,7 +554,7 @@ URL:https://gridphilly.com/event/fall-wednesday-walkabouts-16/
 END:VEVENT
 BEGIN:VEVENT
 UID:e3574b8c9bcfbe3887684e0447a6aa15b88d719e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261104T163000
 DTEND;TZID=America/New_York:20261104T180000
 SUMMARY:SWWAG Workshop: Putting the Farm to Bed to Prepare Your Winter Gard
@@ -833,7 +573,7 @@ CATEGORIES:Classes &amp\; Workshops,Family Activities,Free Community Events
 END:VEVENT
 BEGIN:VEVENT
 UID:33c23e0a6211b65732e1e17b2e3c1c4b830c7a47@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261104T180000
 DTEND;TZID=America/New_York:20261104T220000
 SUMMARY:Button-Down Upcycling with Studio Dingen
@@ -852,7 +592,7 @@ URL:https://gridphilly.com/event/button-down-upcycling-with-studio-dingen-2
 END:VEVENT
 BEGIN:VEVENT
 UID:809eea1f8f211417f2b36cfdb1c15a6bbc721c94@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261105T090000
 DTEND;TZID=America/New_York:20261105T120000
 SUMMARY:Thursday Volunteer Service Day
@@ -869,7 +609,7 @@ CATEGORIES:Event
 END:VEVENT
 BEGIN:VEVENT
 UID:bc39851233390dce3a73f35c4dee01bd03d0ee3c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261105T093000
 DTEND;TZID=America/New_York:20261105T110000
 SUMMARY:Sprouts
@@ -888,7 +628,7 @@ CATEGORIES:Children,Family-friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:74c954691891885e923537e3e16f246a7c76300a@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261105T100000
 DTEND;TZID=America/New_York:20261105T120000
 SUMMARY:Orchard Tenders
@@ -905,7 +645,7 @@ URL:https://gridphilly.com/event/orchard-tenders-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:9e0811d3b193e276169d67ea3fb693fd2eff2148@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261105T120000
 DTEND;TZID=America/New_York:20261105T130000
 SUMMARY:George Washington Talk with Jill Vaum Rothschild
@@ -926,7 +666,7 @@ CATEGORIES:Art Exhibitions
 END:VEVENT
 BEGIN:VEVENT
 UID:ee419ae5fc7cee5b97b0e72c92419f094f2af894@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261105T120000
 DTEND;TZID=America/New_York:20261105T130000
 SUMMARY:Should Companies Write Their Own Climate Rules?
@@ -946,7 +686,7 @@ URL:https://gridphilly.com/event/should-companies-write-their-own-climate-r
 END:VEVENT
 BEGIN:VEVENT
 UID:62a3f576cc2476dda306b483c87a4d729531755e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261105T120000
 DTEND;TZID=America/New_York:20261105T130000
 SUMMARY:Thursday Noon Bird Walks
@@ -959,7 +699,7 @@ URL:https://gridphilly.com/event/thursday-noon-bird-walks-16/
 END:VEVENT
 BEGIN:VEVENT
 UID:640dc98f5b20ed149a4505287696daac5c52d11e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261105T143000
 DTEND;TZID=America/New_York:20261105T163000
 SUMMARY:Sankofa Farm Stand at the Welcome Center
@@ -979,7 +719,7 @@ CATEGORIES:Sankofa Community Farm,Seasonal
 END:VEVENT
 BEGIN:VEVENT
 UID:13da5473490b93f96d3b05e328c1af3e13984351@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261105T150000
 DTEND;TZID=America/New_York:20261105T170000
 SUMMARY:Relax & Paint For NATURE & ANIMAL Lovers
@@ -992,7 +732,7 @@ URL:https://gridphilly.com/event/relax-paint-for-nature-animal-lovers-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:e2b763bc3198e687a990e4d28ff95ea2f74759b2@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261105T163000
 DTEND;TZID=America/New_York:20261105T193000
 SUMMARY:Public Meeting: All Person Trail Community Open House
@@ -1013,7 +753,7 @@ CATEGORIES:Event
 END:VEVENT
 BEGIN:VEVENT
 UID:a8dcdc4ab06b4250582f2431925c84c22a1f8d48@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261105T170000
 DTEND;TZID=America/New_York:20261105T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -1031,7 +771,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:5315aa6ea21a59189b5e88cc7d2f984f48b892bb@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261105T170000
 DTEND;TZID=America/New_York:20261105T190000
 SUMMARY:Eco-Social Realism
@@ -1049,7 +789,7 @@ URL:https://gridphilly.com/event/eco-social-realism/
 END:VEVENT
 BEGIN:VEVENT
 UID:03fc67b119d805842be145ab75f502a26c5cc4b1@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261105T180000
 DTEND;TZID=America/New_York:20261105T190000
 SUMMARY:Conversation with Gerald Cyrus and Gioncarlo Valentine
@@ -1070,7 +810,7 @@ CATEGORIES:Art,Education/Lecture,Event,Events,Free,Gallery,Hybrid Event,In
 END:VEVENT
 BEGIN:VEVENT
 UID:84ca1ce3910fce63ef182267ce4c98696f487641@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261105T193000
 DTEND;TZID=America/New_York:20261105T230000
 SUMMARY:Cocina Puerto Rico: A Family Recipe Dinner
@@ -1087,10 +827,10 @@ URL:https://gridphilly.com/event/cocina-puerto-rico-a-family-recipe-dinner/
 END:VEVENT
 BEGIN:VEVENT
 UID:e625048236121c45a6c0cb424e356612d5a0628d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Eco Social Realism (daily through Nov 13)
+SUMMARY:Eco Social Realism (daily through Nov 15)
 LOCATION:Rowan University Museum of Contemporary Art\, 301 High Street West
  \, Glassboro
 DESCRIPTION:Eco-Social Realism Exhibitions are presented Across Five Philad
@@ -1107,7 +847,7 @@ CATEGORIES:Activism,Art Exhibitions,Climate Change,Environmental Art,Free,G
 END:VEVENT
 BEGIN:VEVENT
 UID:119dbdfe2deac2cc98d12abad93f53d62bb37963@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261106T120000
 DTEND;TZID=America/New_York:20261106T170000
 SUMMARY:One Art Volunteer Day
@@ -1119,7 +859,7 @@ URL:https://gridphilly.com/event/one-art-volunteer-day-6/
 END:VEVENT
 BEGIN:VEVENT
 UID:9a14705fd8d847a8b3a9883578c081eaa9eed624@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261106T130000
 DTEND;TZID=America/New_York:20261106T143000
 SUMMARY:“Aging With Style: the Saga of Our Lives” Mural Dedication
@@ -1138,7 +878,7 @@ URL:https://gridphilly.com/event/aging-with-style-the-saga-of-our-lives-mur
 END:VEVENT
 BEGIN:VEVENT
 UID:03a46b6e8252ee758ba26443962062f2e07a2e0a@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261106T130000
 DTEND;TZID=America/New_York:20261106T160000
 SUMMARY:Workshop: Collagraphs with Tetra Pak
@@ -1158,7 +898,7 @@ CATEGORIES:Arts &amp\; Culture,Classes and Workshops
 END:VEVENT
 BEGIN:VEVENT
 UID:c9862c29da5e6ced78de2cf6a66b57e64a14aeab@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261106T130000
 DTEND;TZID=America/New_York:20261106T160000
 SUMMARY:Volunteer – Protect Our Backyard Birds
@@ -1176,7 +916,7 @@ CATEGORIES:Volunteer
 END:VEVENT
 BEGIN:VEVENT
 UID:c28d0ea3997e1d0340fb8d8e52ea43c3133356dd@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261106T133000
 DTEND;TZID=America/New_York:20261106T163000
 SUMMARY:Autumn Mindful Hike
@@ -1194,7 +934,7 @@ URL:https://gridphilly.com/event/autumn-mindful-hike/
 END:VEVENT
 BEGIN:VEVENT
 UID:6b17645c33c1d2f25ed7a7851617deed77b70a53@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261106T170000
 DTEND;TZID=America/New_York:20261106T183000
 SUMMARY:SWWAG Workshop: Where Next Season Begins: Soil\, Orchard & Land Car
@@ -1217,7 +957,7 @@ CATEGORIES:Classes &amp\; Workshops,Free Community Events,Gardening,Sankofa
 END:VEVENT
 BEGIN:VEVENT
 UID:c58e7ec71d5fd722c2786a786c9f2956cdcc8aea@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261106T170000
 DTEND;TZID=America/New_York:20261106T210000
 SUMMARY:“In Diaspora… First Fridays Exhibit Opening
@@ -1236,7 +976,7 @@ URL:https://gridphilly.com/event/in-diaspora-first-fridays-exhibit-opening/
 END:VEVENT
 BEGIN:VEVENT
 UID:2a7b30008b1a44a5a8cf5d49ba4e9a36f0554055@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261106T170000
 DTEND;TZID=America/New_York:20261106T190000
 SUMMARY:First Friday Embroidery and Fabric Collage
@@ -1255,7 +995,7 @@ URL:https://gridphilly.com/event/first-friday-embroidery-and-fabric-collage
 END:VEVENT
 BEGIN:VEVENT
 UID:83a5274a97fa291a186f6ccde9557c348d02a363@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261106T180000
 DTEND;TZID=America/New_York:20261106T200000
 SUMMARY:You’ll Be Okay: A Bad Daughter’s Guide to Survival
@@ -1276,7 +1016,7 @@ CATEGORIES:Art Exhibitions
 END:VEVENT
 BEGIN:VEVENT
 UID:ef08b2d94b5eb40fc779997bb5f390ab807022be@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261106T180000
 DTEND;TZID=America/New_York:20261106T190000
 SUMMARY:Architecture Tour
@@ -1294,7 +1034,7 @@ CATEGORIES:History
 END:VEVENT
 BEGIN:VEVENT
 UID:99f0737e671777b6924c5270276c65609e3f0678@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261106T180000
 DTEND;TZID=America/New_York:20261106T200000
 SUMMARY:Fitler Presents: Seeding Change | An Indie Film Series
@@ -1313,7 +1053,7 @@ URL:https://gridphilly.com/event/fitler-presents-seeding-change-an-indie-fi
 END:VEVENT
 BEGIN:VEVENT
 UID:786fa36a407ffd3ba46a8c0c05c7fb1eb30a5fdb@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261106T180000
 DTEND;TZID=America/New_York:20261106T210000
 SUMMARY:Philly Homegrown First Fridays
@@ -1330,7 +1070,7 @@ URL:https://gridphilly.com/event/philly-homegrown-first-fridays-14/
 END:VEVENT
 BEGIN:VEVENT
 UID:7de51d3c07bb6c62b52f3b3ace5573bcd5d33490@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T073000
 DTEND;TZID=America/New_York:20261107T180000
 SUMMARY:LO Philly | Trail Bike Ride @ Lehigh Gorge
@@ -1349,7 +1089,7 @@ URL:https://gridphilly.com/event/lo-philly-trail-bike-ride-lehigh-gorge/
 END:VEVENT
 BEGIN:VEVENT
 UID:6d4f67efe2f43615d01418e90c927bd34c0f4482@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T083000
 DTEND;TZID=America/New_York:20261107T183000
 SUMMARY:FreeWalkers Marathon Walk — Philadelphia\, Fairmount Park
@@ -1368,7 +1108,7 @@ URL:https://gridphilly.com/event/freewalkers-marathon-walk-philadelphia-fai
 END:VEVENT
 BEGIN:VEVENT
 UID:6ca18a9c775a1caa70c591c97560ecec4a9a3d86@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T170000
 SUMMARY:2026 She Shines Conference
@@ -1387,7 +1127,7 @@ CATEGORIES:Education/Lecture,Food,health and wellness,Workshops
 END:VEVENT
 BEGIN:VEVENT
 UID:7e8fa81700ecfa831a51085ed1de22a17ab83fe8@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T090000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Carpenter’s Woods Volunteer Service Day
@@ -1406,7 +1146,7 @@ URL:https://gridphilly.com/event/carpenters-woods-volunteer-service-day-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:74d98ec7c7df460e3bbb5f695622ade4756f97c3@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T093000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Horticulture Volunteer Day
@@ -1424,7 +1164,7 @@ CATEGORIES:Volunteer
 END:VEVENT
 BEGIN:VEVENT
 UID:a438b2822fcfdcdabf49f93c0e361a059918bbbc@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T140000
 SUMMARY:Get Fresh Daily’s Black Farmers Market
@@ -1436,7 +1176,7 @@ URL:https://gridphilly.com/event/get-fresh-dailys-black-farmers-market-24/
 END:VEVENT
 BEGIN:VEVENT
 UID:e459706109866461106e1a3d65c04337a14c58f2@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Clinic Cleaners
@@ -1455,7 +1195,7 @@ CATEGORIES:Free,Volunteer
 END:VEVENT
 BEGIN:VEVENT
 UID:23cbfd26f285f7d0d805e3cf461057145e267c59@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T130000
 SUMMARY:Climate Change Educators Workshop
@@ -1474,7 +1214,7 @@ CATEGORIES:Lifelong Learning
 END:VEVENT
 BEGIN:VEVENT
 UID:7db6bd1306fdc672bd7189d32806c4f337720d07@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T130000
 SUMMARY:Exploring the Yellow Trail: Into the Woods
@@ -1493,7 +1233,7 @@ URL:https://gridphilly.com/event/exploring-the-yellow-trail-into-the-woods/
 END:VEVENT
 BEGIN:VEVENT
 UID:2dd7e21b77faed91652684bad10158114b77812d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T100000
 DTEND;TZID=America/New_York:20261107T110000
 SUMMARY:Community Water Testing
@@ -1508,7 +1248,7 @@ URL:https://gridphilly.com/event/community-water-testing-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:4440e5a9bee54815469aa252026f7e864c8941b5@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T103000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Wild Philly
@@ -1527,7 +1267,7 @@ CATEGORIES:Classes &amp\; Workshops,Land Stewardship,Lenape History,Native
 END:VEVENT
 BEGIN:VEVENT
 UID:c48e21139ee8f9c8e38511acde6246f450cef969@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T110000
 DTEND;TZID=America/New_York:20261107T140000
 SUMMARY:Block Printing Workshop
@@ -1542,7 +1282,7 @@ URL:https://gridphilly.com/event/block-printing-workshop/
 END:VEVENT
 BEGIN:VEVENT
 UID:9c9c70f0763abaaec365f001fd19610ab0047fa5@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T110000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Live Animals of Pennsylvania Presentation
@@ -1560,7 +1300,7 @@ URL:https://gridphilly.com/event/live-animals-of-pennsylvania-presentation/
 END:VEVENT
 BEGIN:VEVENT
 UID:05c0ce77960a1598cb573c053868032da09e51a0@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T110000
 DTEND;TZID=America/New_York:20261107T150000
 SUMMARY:Wissahickon Environmental Center’s Fall Festival
@@ -1578,7 +1318,7 @@ URL:https://gridphilly.com/event/wissahickon-environmental-centers-fall-fes
 END:VEVENT
 BEGIN:VEVENT
 UID:c6c3e449f69d9d7a419b5b0b7febe9745d052a96@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T110000
 DTEND;TZID=America/New_York:20261107T120000
 SUMMARY:Down & Dirty: Soil Seminar
@@ -1590,7 +1330,7 @@ URL:https://gridphilly.com/event/down-dirty-soil-seminar-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:bfbc3402c0355b8df8f6fa2dcd982ff7c16175cd@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T110000
 DTEND;TZID=America/New_York:20261107T123000
 SUMMARY:Black Farmers Market Workshop Series
@@ -1608,7 +1348,7 @@ URL:https://gridphilly.com/event/black-farmers-market-workshop-series-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ae4250820aef578a96eebdd77f5c655326778c95@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T110000
 DTEND;TZID=America/New_York:20261107T130000
 SUMMARY:Feathers & Friends: Sketching Nature with Toni
@@ -1628,7 +1368,7 @@ URL:https://gridphilly.com/event/feathers-friends-sketching-nature-with-ton
 END:VEVENT
 BEGIN:VEVENT
 UID:f311533a1163df358f9e524f162ab5f5cedbdd63@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T120000
 DTEND;TZID=America/New_York:20261107T160000
 SUMMARY:Environmental Science Merit Badge
@@ -1647,7 +1387,7 @@ CATEGORIES:Education,Scouts
 END:VEVENT
 BEGIN:VEVENT
 UID:cace3899c127d0576a314e509abce4f78cd9be88@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T120000
 DTEND;TZID=America/New_York:20261107T170000
 SUMMARY:Market of the Macabre
@@ -1665,7 +1405,7 @@ URL:https://gridphilly.com/event/market-of-the-macabre/
 END:VEVENT
 BEGIN:VEVENT
 UID:071ffe91f582e47195e8a71a1508838fa7de42d6@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T120000
 DTEND;TZID=America/New_York:20261107T160000
 SUMMARY:EXTREME WEATHER PREPARDENESS DAY-CLIMATE RESILENCE
@@ -1677,7 +1417,7 @@ URL:https://gridphilly.com/event/extreme-weather-prepardeness-day-climate-r
 END:VEVENT
 BEGIN:VEVENT
 UID:066fce3e5a200c6db2a1ce6b65f570c1e30f2e36@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T120000
 DTEND;TZID=America/New_York:20261107T160000
 SUMMARY:November First Saturday Open House: MONSTER MASH!
@@ -1697,7 +1437,7 @@ URL:https://gridphilly.com/event/november-first-saturday-open-house-monster
 END:VEVENT
 BEGIN:VEVENT
 UID:0d6c3055b6f2bb81eacf40e7d135c971ea6818f8@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T120000
 DTEND;TZID=America/New_York:20261107T140000
 SUMMARY:‘Takes a Village Storyhour
@@ -1714,7 +1454,7 @@ URL:https://gridphilly.com/event/takes-a-village-storyhour/
 END:VEVENT
 BEGIN:VEVENT
 UID:77940a4526656a0719796ae1a1511ae4f927ef18@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T130000
 DTEND;TZID=America/New_York:20261107T153000
 SUMMARY:Forest Bathing
@@ -1731,7 +1471,7 @@ URL:https://gridphilly.com/event/forest-bathing-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:51eafc0023fc584e21c8adb7cb0f43d034454dd8@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T130000
 DTEND;TZID=America/New_York:20261107T150000
 SUMMARY:Stories We Carry Community Storytelling with the Lansdowne Library
@@ -1750,7 +1490,7 @@ URL:https://gridphilly.com/event/stories-we-carry-community-storytelling-wi
 END:VEVENT
 BEGIN:VEVENT
 UID:912716f33d8a26067f096332fa6e1eaf8f25f8b2@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T130000
 DTEND;TZID=America/New_York:20261107T143000
 SUMMARY:Tree Walk with Shay Pilot
@@ -1765,7 +1505,7 @@ URL:https://gridphilly.com/event/tree-walk-with-shay-pilot/
 END:VEVENT
 BEGIN:VEVENT
 UID:ff34ff521abdec5b78c8770453c7531cda8566b4@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T133000
 DTEND;TZID=America/New_York:20261107T140000
 SUMMARY:Discover the Art and Tradition of Taiwanese Tea Tasting-  Novembe
@@ -1787,7 +1527,7 @@ CATEGORIES:Accessible Event,Arts &amp\; Culture,arts &amp\; entertainment,C
 END:VEVENT
 BEGIN:VEVENT
 UID:e2ada3b4736643061b782c1f02db116d70885359@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T143000
 DTEND;TZID=America/New_York:20261107T163000
 SUMMARY:Journeywork Fall Community Gathering
@@ -1806,7 +1546,7 @@ CATEGORIES:Community Events,Gardening
 END:VEVENT
 BEGIN:VEVENT
 UID:f862b98ff8adbfd1ee3526833319bfeecc5a77e9@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T150000
 DTEND;TZID=America/New_York:20261107T170000
 SUMMARY:Rumba with Timbalona
@@ -1825,7 +1565,7 @@ CATEGORIES:Arts &amp\; Culture,Arts &amp\; Performance,Community Events,Foo
 END:VEVENT
 BEGIN:VEVENT
 UID:4ed6b97492d15fa11cdfb6b955533de831d63a20@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T163000
 DTEND;TZID=America/New_York:20261107T183000
 SUMMARY:Tavern Night 2026
@@ -1842,7 +1582,7 @@ CATEGORIES:Food &amp\; Drink,History
 END:VEVENT
 BEGIN:VEVENT
 UID:ce70809778ebe88549d9aa1c00b455f5dd1537ce@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T190000
 DTEND;TZID=America/New_York:20261107T230000
 SUMMARY:Open Studio Party
@@ -1861,7 +1601,7 @@ CATEGORIES:Art,Art Exhibitions,Arts &amp\; Culture,Environmental Art,Galler
 END:VEVENT
 BEGIN:VEVENT
 UID:62664f6d7513a30a5a8a4095e1025edc59216506@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261107T193000
 DTEND;TZID=America/New_York:20261107T213000
 SUMMARY:Tavern Night 2026
@@ -1878,7 +1618,7 @@ CATEGORIES:Food &amp\; Drink,History
 END:VEVENT
 BEGIN:VEVENT
 UID:bca197cf85a63b61985b660dcf5a914dae520dd7@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T070000
 DTEND;TZID=America/New_York:20261108T090000
 SUMMARY:Move with Me
@@ -1894,7 +1634,7 @@ CATEGORIES:Running Group,Tacony Creek Park Events
 END:VEVENT
 BEGIN:VEVENT
 UID:111d67002aedcdc1579e96abdac82e079712c9ff@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T090000
 DTEND;TZID=America/New_York:20261108T120000
 SUMMARY:Discover the Wissahickon: Valley Green Hike
@@ -1915,7 +1655,7 @@ CATEGORIES:Event
 END:VEVENT
 BEGIN:VEVENT
 UID:67f2181ffc0d24ca26219fd2f43f8a3a234dfcea@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T093000
 DTEND;TZID=America/New_York:20261108T120000
 SUMMARY:Restoration Walks at Newlin Grist Mill
@@ -1933,7 +1673,7 @@ CATEGORIES:Hike,Nature Walk
 END:VEVENT
 BEGIN:VEVENT
 UID:e04d93ad5d2a1ba06afdec038a9004ec893b0961@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T093000
 DTEND;TZID=America/New_York:20261108T170000
 SUMMARY:Hellerick’s Annual Redhead Celebration Day
@@ -1951,7 +1691,7 @@ CATEGORIES:Family-friendly,Festival,Outdoor Event
 END:VEVENT
 BEGIN:VEVENT
 UID:e42fabc6f38b62770c35e73e44a5c6b596b00733@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T100000
 DTEND;TZID=America/New_York:20261108T120000
 SUMMARY:Fall Foliage of Laurel Hill West
@@ -1969,7 +1709,7 @@ URL:https://gridphilly.com/event/fall-foliage-of-laurel-hill-west-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:56957f026c05a0407cdae6549fc80af891411394@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T103000
 DTEND;TZID=America/New_York:20261108T113000
 SUMMARY:Health & Well-Being Tour
@@ -1986,7 +1726,7 @@ URL:https://gridphilly.com/event/health-well-being-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:5d6010e45a44465ef0d78f73a22718a51b8832a0@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T110000
 DTEND;TZID=America/New_York:20261108T120000
 SUMMARY:DIY Bee Hotel
@@ -2003,7 +1743,7 @@ URL:https://gridphilly.com/event/diy-bee-hotel/
 END:VEVENT
 BEGIN:VEVENT
 UID:09c6d1ec5a28e7f68ae1a82f32b1af018dbb9457@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T110000
 DTEND;TZID=America/New_York:20261108T120000
 SUMMARY:Hands on History: Daily Life in  the New Nation
@@ -2023,7 +1763,7 @@ URL:https://gridphilly.com/event/hands-on-history-daily-life-in-the-new-nat
 END:VEVENT
 BEGIN:VEVENT
 UID:cde21da03508fa5c35ec7765d57d52b201a8c509@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T130000
 DTEND;TZID=America/New_York:20261108T150000
 SUMMARY:Family Art Day
@@ -2041,7 +1781,7 @@ URL:https://gridphilly.com/event/family-art-day-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:3beba81257993c93e244fefd7fa8841b4d18ac8b@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T130000
 DTEND;TZID=America/New_York:20261108T160000
 SUMMARY:Foray at Fort Washington State Park
@@ -2059,7 +1799,7 @@ URL:https://gridphilly.com/event/foray-at-fort-washington-state-park/
 END:VEVENT
 BEGIN:VEVENT
 UID:65b8031a7ff4696864e749a5506734168c072e0f@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T130000
 DTEND;TZID=America/New_York:20261108T150000
 SUMMARY:Sis Walks & Talks
@@ -2076,7 +1816,7 @@ URL:https://gridphilly.com/event/sis-walks-talks-17/
 END:VEVENT
 BEGIN:VEVENT
 UID:e44e8793b1d47372a0c6a2ce98c2efa3aa45ef8f@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T130000
 DTEND;TZID=America/New_York:20261108T153000
 SUMMARY:She Gather Me: Black Women’s Herbal Care Circle
@@ -2096,7 +1836,7 @@ URL:https://gridphilly.com/event/she-gather-me-black-womens-herbal-care-cir
 END:VEVENT
 BEGIN:VEVENT
 UID:629ef0274c30f666652db4eb02ba11936d07ce24@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T140000
 DTEND;TZID=America/New_York:20261108T160000
 SUMMARY:Open Mic & Gallery
@@ -2110,7 +1850,7 @@ CATEGORIES:Arts &amp\; Performance,Free Community Events
 END:VEVENT
 BEGIN:VEVENT
 UID:e15aa8b9cab3d7f27e0640413b66bc85894cfd53@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T140000
 DTEND;TZID=America/New_York:20261108T160000
 SUMMARY:Stitch and Bitch
@@ -2128,7 +1868,7 @@ URL:https://gridphilly.com/event/stitch-and-bitch-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:061c673c336f8c1a6b8113bb5b98a3e8423d12d7@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T143000
 DTEND;TZID=America/New_York:20261108T153000
 SUMMARY:Views of the Forest Through the Lens of Music Concert
@@ -2144,7 +1884,7 @@ URL:https://gridphilly.com/event/views-of-the-forest-through-the-lens-of-mu
 END:VEVENT
 BEGIN:VEVENT
 UID:09ab5aa294b1ad577ad8d264008ba22cbe01a709@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261108T190000
 DTEND;TZID=America/New_York:20261108T200000
 SUMMARY:New Red Order Presents: Crimes Against Reality
@@ -2163,7 +1903,7 @@ URL:https://gridphilly.com/event/new-red-order-presents-crimes-against-real
 END:VEVENT
 BEGIN:VEVENT
 UID:8d659946c006adadf6dee549d72734071fc1fe55@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261109T070000
 DTEND;TZID=America/New_York:20261109T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -2182,7 +1922,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2026-11-0
 END:VEVENT
 BEGIN:VEVENT
 UID:9262876c96d3775f035d31e1939413f0f244bd2e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261109T130000
 DTEND;TZID=America/New_York:20261109T143000
 SUMMARY:7-Week Monday Class For Students With Disabilities
@@ -2199,7 +1939,7 @@ URL:https://gridphilly.com/event/7-week-monday-class-for-students-with-disa
 END:VEVENT
 BEGIN:VEVENT
 UID:3bac696df38583a09756b1b92575c504237ef519@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261109T173000
 DTEND;TZID=America/New_York:20261109T193000
 SUMMARY:Citizen Movie Screening-In Pursuit\, Episode 9\, Liberation
@@ -2218,7 +1958,7 @@ URL:https://gridphilly.com/event/citizen-movie-screening-in-pursuit-episode
 END:VEVENT
 BEGIN:VEVENT
 UID:8f39f9acbbcef32b06e9a8ad0c71cec296773e21@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261109T183000
 DTEND;TZID=America/New_York:20261109T193000
 SUMMARY:Outdoors Online: All About Bears
@@ -2236,7 +1976,7 @@ CATEGORIES:explore the natural world,general,virtual events
 END:VEVENT
 BEGIN:VEVENT
 UID:88188f9bc1d1aea7fec8caa847a44c60a6d4ec8d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261110T083000
 DTEND;TZID=America/New_York:20261110T113000
 SUMMARY:Volunteer – Fall Gardening
@@ -2255,7 +1995,7 @@ CATEGORIES:Volunteer
 END:VEVENT
 BEGIN:VEVENT
 UID:b2ed37b1940190cbcc6c65eba133416b8e2161fd@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261110T090000
 DTEND;TZID=America/New_York:20261110T133000
 SUMMARY:Navigating Financial Resources for Urban Growers – PASA Workshop
@@ -2275,7 +2015,7 @@ URL:https://gridphilly.com/event/navigating-financial-resources-for-urban-g
 END:VEVENT
 BEGIN:VEVENT
 UID:219b97923798fbe306d4312a853657213c36d860@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261110T090000
 DTEND;TZID=America/New_York:20261110T120000
 SUMMARY:Volunteer – Protect Our Backyard Birds
@@ -2293,7 +2033,7 @@ CATEGORIES:Volunteer
 END:VEVENT
 BEGIN:VEVENT
 UID:1e9537f0cddbae0441c437e0cc64a1af7b416194@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261110T093000
 DTEND;TZID=America/New_York:20261110T110000
 SUMMARY:Sprouts
@@ -2312,7 +2052,7 @@ CATEGORIES:Children,Family-friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:00857e7f8885b7ab146c9cb67781beaaad89248b@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261110T100000
 DTEND;TZID=America/New_York:20261110T120000
 SUMMARY:Volunteer Event: Invasive Vine Removal
@@ -2329,7 +2069,7 @@ URL:https://gridphilly.com/event/volunteer-event-invasive-vine-removal/
 END:VEVENT
 BEGIN:VEVENT
 UID:c51c779abda4ecc06b9687bf8c1cf540c0bcc432@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261110T173000
 DTEND;TZID=America/New_York:20261110T203000
 SUMMARY:Dinner and Film Screening “Ascension”
@@ -2347,7 +2087,7 @@ URL:https://gridphilly.com/event/dinner-and-film-screening-ascension/
 END:VEVENT
 BEGIN:VEVENT
 UID:ad7f36f42abd0d181ac1817528f524448cad174a@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261110T180000
 DTEND;TZID=America/New_York:20261110T190000
 SUMMARY:Sacred Grounds Delaware River Watershed Info Session
@@ -2366,7 +2106,7 @@ URL:https://gridphilly.com/event/sacred-grounds-delaware-river-watershed-in
 END:VEVENT
 BEGIN:VEVENT
 UID:b25aca8bc30b613087f307a05207b2bc9b35f084@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261110T180000
 DTEND;TZID=America/New_York:20261110T210000
 SUMMARY:Sewing Ornaments & Earrings
@@ -2383,7 +2123,7 @@ URL:https://gridphilly.com/event/sewing-ornaments-earrings/
 END:VEVENT
 BEGIN:VEVENT
 UID:26e64149be244f44fa64942af2228e63f44f9b15@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261110T180000
 DTEND;TZID=America/New_York:20261110T200000
 SUMMARY:YPE Philly x Green Drinks Happy Hour | November Edition
@@ -2402,7 +2142,7 @@ URL:https://gridphilly.com/event/ype-philly-x-green-drinks-happy-hour-novem
 END:VEVENT
 BEGIN:VEVENT
 UID:5fab4d1d41de0628f1d24a4ea542fbbc44ba35bb@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261110T193000
 DTEND;TZID=America/New_York:20261110T203000
 SUMMARY:Historical Society of Franford November Meeting and Lecture
@@ -2422,7 +2162,7 @@ CATEGORIES:History,Lecture
 END:VEVENT
 BEGIN:VEVENT
 UID:e374cec130fd5be67c14fed955f26192f7d4663d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261111T060000
 DTEND;TZID=America/New_York:20261111T080000
 SUMMARY:Move with Me
@@ -2438,7 +2178,7 @@ CATEGORIES:Running Group,Tacony Creek Park Events
 END:VEVENT
 BEGIN:VEVENT
 UID:dea1807b69bfde37c0fa2eb1f343a32e179c9e8c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261111T080000
 DTEND;TZID=America/New_York:20261111T150000
 SUMMARY:Day-Off Camp
@@ -2457,7 +2197,7 @@ CATEGORIES:Children,Day Off Camp
 END:VEVENT
 BEGIN:VEVENT
 UID:748ea0074862814814eeb94025ff6312d18075b7@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261111T100000
 DTEND;TZID=America/New_York:20261111T123000
 SUMMARY:250th Historic Veteran’s Day Hike to Mom Rinker’s Rock
@@ -2477,7 +2217,7 @@ URL:https://gridphilly.com/event/250th-historic-veterans-day-hike-to-mom-ri
 END:VEVENT
 BEGIN:VEVENT
 UID:bd2823f0fac7fb2003365cd21f9a2923a9a3b3f8@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261111T130000
 DTEND;TZID=America/New_York:20261111T140000
 SUMMARY:Fall Wednesday Walkabouts
@@ -2493,7 +2233,7 @@ URL:https://gridphilly.com/event/fall-wednesday-walkabouts-17/
 END:VEVENT
 BEGIN:VEVENT
 UID:5c80080f2531f45a1f297e7b77d09095bc537417@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261111T133000
 DTEND;TZID=America/New_York:20261111T163000
 SUMMARY:Autumn Ramble in Wissahickon Valley Park
@@ -2512,7 +2252,7 @@ URL:https://gridphilly.com/event/autumn-ramble-in-wissahickon-valley-park/
 END:VEVENT
 BEGIN:VEVENT
 UID:aea3cb4feadafe8e8d28b732375ce464ab987691@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261111T173000
 DTEND;TZID=America/New_York:20261111T213000
 SUMMARY:13th Annual RAIR Trash Bash
@@ -2529,7 +2269,7 @@ URL:https://gridphilly.com/event/13th-annual-rair-trash-bash/
 END:VEVENT
 BEGIN:VEVENT
 UID:5665185c33a68f7c858c08c31011b34ba9755c8d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261111T180000
 DTEND;TZID=America/New_York:20261111T193000
 SUMMARY:Valley Talk – Wildlife in the City: Exploring Philadelphia’s Ur
@@ -2553,7 +2293,7 @@ URL:https://gridphilly.com/event/valley-talk-wildlife-in-the-city-exploring
 END:VEVENT
 BEGIN:VEVENT
 UID:36ce46ac87ae24734c19f19a67226d4488471806@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261111T180000
 DTEND;TZID=America/New_York:20261111T190000
 SUMMARY:2027 State Advocacy Virtual Organizing Meeting
@@ -2572,7 +2312,7 @@ URL:https://gridphilly.com/event/2027-state-advocacy-virtual-organizing-mee
 END:VEVENT
 BEGIN:VEVENT
 UID:302f7c8d13787a35392bacbec6fe8193ef0b3dfd@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261111T180000
 DTEND;TZID=America/New_York:20261111T220000
 SUMMARY:Button-Down Upcycling with Studio Dingen
@@ -2591,7 +2331,7 @@ URL:https://gridphilly.com/event/button-down-upcycling-with-studio-dingen-3
 END:VEVENT
 BEGIN:VEVENT
 UID:01eb04e06457c8a68df940b8d875346e69990db5@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261111T183000
 DTEND;TZID=America/New_York:20261111T200000
 SUMMARY:Senegalese Drumming Course w/ local griot Sangue
@@ -2610,7 +2350,7 @@ URL:https://gridphilly.com/event/senegalese-drumming-course-w-local-griot-s
 END:VEVENT
 BEGIN:VEVENT
 UID:1abf9c0211cb11b0532bf716b454f5e6f72b5184@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T083000
 DTEND;TZID=America/New_York:20261112T113000
 SUMMARY:Volunteer – Fall Gardening
@@ -2629,7 +2369,7 @@ CATEGORIES:Volunteer
 END:VEVENT
 BEGIN:VEVENT
 UID:4eefeac097aeaf93b40460f350da5d71c3ebb879@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T084500
 DTEND;TZID=America/New_York:20261112T103000
 SUMMARY:2nd Thursdays – Lancaster Avenue Corridor Connections (In Person)
@@ -2648,7 +2388,7 @@ URL:https://gridphilly.com/event/2nd-thursdays-lancaster-avenue-corridor-co
 END:VEVENT
 BEGIN:VEVENT
 UID:396f26480d855d94a7f6a073b1c075ad7edddae2@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T090000
 DTEND;TZID=America/New_York:20261112T120000
 SUMMARY:Thursday Volunteer Service Day
@@ -2665,7 +2405,7 @@ CATEGORIES:Event
 END:VEVENT
 BEGIN:VEVENT
 UID:53db3985a9a9dda5b1ba52b76c4e5ea2c15878f8@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T093000
 DTEND;TZID=America/New_York:20261112T110000
 SUMMARY:Sprouts
@@ -2684,7 +2424,7 @@ CATEGORIES:Children,Family-friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:fd15933d8e3089a0d6f44efe4384df89e7feb7a9@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T123000
 DTEND;TZID=America/New_York:20261112T133000
 SUMMARY:Renter’s Rights
@@ -2698,7 +2438,7 @@ URL:https://gridphilly.com/event/renters-rights/
 END:VEVENT
 BEGIN:VEVENT
 UID:ea3ecaa1a22c2f914a8052774f9f620fe0c9a54c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T130000
 DTEND;TZID=America/New_York:20261112T160000
 SUMMARY:Volunteer – Protect Our Backyard Birds
@@ -2716,7 +2456,7 @@ CATEGORIES:Volunteer
 END:VEVENT
 BEGIN:VEVENT
 UID:622c9bd837c62097a66d9477a715580b96f08350@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T170000
 DTEND;TZID=America/New_York:20261112T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -2734,7 +2474,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:190e65b76c437883c4a4b14659f853250af0a09e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T170000
 DTEND;TZID=America/New_York:20261112T200000
 SUMMARY:2nd Thursday gallery night!
@@ -2752,7 +2492,7 @@ URL:https://gridphilly.com/event/2nd-thursday-gallery-night-8/
 END:VEVENT
 BEGIN:VEVENT
 UID:efe25397647d267c08137c0b9e3d17b10f0b1edc@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T173000
 DTEND;TZID=America/New_York:20261112T193000
 SUMMARY:Sip & Shop with Purpose | A Happy Hour for The Community Grocer
@@ -2771,7 +2511,7 @@ URL:https://gridphilly.com/event/sip-shop-with-purpose-a-happy-hour-for-the
 END:VEVENT
 BEGIN:VEVENT
 UID:85603c5b5a620a1ee65be17a5cf7ee1ed282e6c3@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T210000
 SUMMARY:Buy\, Bye: 100 Artworks at $100
@@ -2789,7 +2529,7 @@ CATEGORIES:Art Exhibitions
 END:VEVENT
 BEGIN:VEVENT
 UID:d7e7db7f4ae7942f8d30d4b6c7b03bf687003248@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T193000
 SUMMARY:Canopy Calling: Tree Equity from the Roots Up
@@ -2808,7 +2548,7 @@ URL:https://gridphilly.com/event/canopy-calling-tree-equity-from-the-roots-
 END:VEVENT
 BEGIN:VEVENT
 UID:f72957284af981782dd3026c157090c6316a3e85@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T190000
 SUMMARY:Microscopic Worlds Hands-On STEM Workshop
@@ -2826,7 +2566,7 @@ URL:https://gridphilly.com/event/microscopic-worlds-hands-on-stem-workshop/
 END:VEVENT
 BEGIN:VEVENT
 UID:23567fb6b109a22025722d180678f04dcaaae60f@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T210000
 SUMMARY:Reimagining Belmont: A Fundraiser and Preview Event for the Mansion
@@ -2845,7 +2585,7 @@ URL:https://gridphilly.com/event/reimagining-belmont-a-fundraiser-and-previ
 END:VEVENT
 BEGIN:VEVENT
 UID:b8d13c325cd6b8df4ec2b49161f73765cc53dfce@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T180000
 DTEND;TZID=America/New_York:20261112T190000
 SUMMARY:Fall Produce Recipes With a Twist with Seema!
@@ -2863,7 +2603,7 @@ URL:https://gridphilly.com/event/fall-produce-recipes-with-a-twist-with-see
 END:VEVENT
 BEGIN:VEVENT
 UID:26d9778b5237f396760e3442656639cfe21bdf84@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T183000
 DTEND;TZID=America/New_York:20261112T203000
 SUMMARY:Stitch and Bitch at Natural Creativity
@@ -2881,7 +2621,7 @@ URL:https://gridphilly.com/event/stitch-and-bitch-at-natural-creativity-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:5c88108907c8bbb95b53dd83dd6458f723c7182e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T183000
 DTEND;TZID=America/New_York:20261112T203000
 SUMMARY:Sip & Shop Event at The Grange Estate Vintage Shop
@@ -2901,7 +2641,7 @@ CATEGORIES:Adults,History
 END:VEVENT
 BEGIN:VEVENT
 UID:98f3d499ec2a9ebd6e53f98a18f0db88019e03f6@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261112T190000
 DTEND;TZID=America/New_York:20261112T200000
 SUMMARY:Hyperlocal Tribal Cultures in the Heartland
@@ -2921,7 +2661,7 @@ URL:https://gridphilly.com/event/hyperlocal-tribal-cultures-in-the-heartlan
 END:VEVENT
 BEGIN:VEVENT
 UID:9ff9c32fba31b3ec66a4d84908d54d8bc7344544@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Made in Philadelphia Holiday Market
@@ -2942,7 +2682,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:0e9ab6c66a154801ad6ff665d8d3921eed0eabe9@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Love Your Park Fall Weekend (through Nov 15)
@@ -2959,7 +2699,7 @@ CATEGORIES:Clean-ups,Free,Volunteer,Volunteer Opportunities,Volunteering
 END:VEVENT
 BEGIN:VEVENT
 UID:a7c3a78eb0fbdcc2b46f54b23124e3eb01cf7c81@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261113T083000
 DTEND;TZID=America/New_York:20261113T183000
 SUMMARY:Love Your Park Fall Weekend 2026: Volunteer Projects in 100+ Philad
@@ -2980,7 +2720,7 @@ CATEGORIES:Community Activity,Community Events,Community Service,Concert,Ev
 END:VEVENT
 BEGIN:VEVENT
 UID:3d1b72cb7069295ed7135be06518e9eb6aea895c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261113T090000
 DTEND;TZID=America/New_York:20261113T120000
 SUMMARY:Volunteer – Protect Our Backyard Birds
@@ -2998,7 +2738,7 @@ CATEGORIES:Volunteer
 END:VEVENT
 BEGIN:VEVENT
 UID:3d8dee0e70e5169ec6228512a86d1490bba4f04e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261113T090000
 DTEND;TZID=America/New_York:20261113T120000
 SUMMARY:Love Your Park! – Volunteer Friday
@@ -3016,7 +2756,7 @@ URL:https://gridphilly.com/event/love-your-park-volunteer-friday/
 END:VEVENT
 BEGIN:VEVENT
 UID:cf97dd8cda2453bd4f1f177d9a8a1f7c5347e340@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261113T140000
 DTEND;TZID=America/New_York:20261113T160000
 SUMMARY:Schuylkill Crossing Bridge Opening Day & Ribbon Cutting
@@ -3034,7 +2774,7 @@ URL:https://gridphilly.com/event/schuylkill-crossing-opening-day-ribbon-cut
 END:VEVENT
 BEGIN:VEVENT
 UID:f216f996ac69a05d9f4408ff886ac97aac06227f@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261113T173000
 DTEND;TZID=America/New_York:20261113T203000
 SUMMARY:A Sip of Science @ the Wagner Free Institute of Science
@@ -3056,7 +2796,7 @@ CATEGORIES:Celebrations &amp\; Networking,explore the natural world,Hands-O
 END:VEVENT
 BEGIN:VEVENT
 UID:9835acce0f711fcd1db61298f632f33e6936c515@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261113T173000
 DTEND;TZID=America/New_York:20261113T183000
 SUMMARY:Nocturnal Wildlife Walks
@@ -3071,7 +2811,7 @@ URL:https://gridphilly.com/event/nocturnal-wildlife-walks-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:a8af9fb01ca1f08d3144ed9461deddeb16196ec1@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261113T180000
 DTEND;TZID=America/New_York:20261113T190000
 SUMMARY:Architecture Tour
@@ -3089,7 +2829,7 @@ CATEGORIES:History
 END:VEVENT
 BEGIN:VEVENT
 UID:a9a52f7e8770a9feda2250a0dc3264c6eb059ad0@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261113T180000
 DTEND;TZID=America/New_York:20261113T200000
 SUMMARY:Art & Connect: Inspired by Nature Opening Reception
@@ -3110,7 +2850,7 @@ CATEGORIES:Art
 END:VEVENT
 BEGIN:VEVENT
 UID:bb1f7be50dd3f8798c151ae49aca1607431db107@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261113T180000
 DTEND;TZID=America/New_York:20261113T200000
 SUMMARY:Art & Connect: Inspired by Nature Opening Reception
@@ -3131,7 +2871,7 @@ CATEGORIES:arts &amp\; entertainment,general,NextGen
 END:VEVENT
 BEGIN:VEVENT
 UID:e7e3aec870e538d9f998ff6421f9d9f26f6663b7@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261113T180000
 DTEND;TZID=America/New_York:20261113T200000
 SUMMARY:Palestinian Film Screening: Port of Memory (ميناء الذاكر
@@ -3152,7 +2892,7 @@ URL:https://gridphilly.com/event/palestinian-film-screening-port-of-memory-
 END:VEVENT
 BEGIN:VEVENT
 UID:2c5fb7c8a2da0840da1a7c9e5d2efb6a7be9952e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Love Your Park Volunteer Service Day
@@ -3171,7 +2911,7 @@ URL:https://gridphilly.com/event/love-your-park-volunteer-service-day-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:db3842adfff0d3d7126cb351678b3247f377185e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T110000
 SUMMARY:Love Your Park! – Volunteer Saturday
@@ -3188,7 +2928,7 @@ URL:https://gridphilly.com/event/love-your-park-volunteer-saturday/
 END:VEVENT
 BEGIN:VEVENT
 UID:ce4f77fe0720e8b08e22c59761010bf9cd13e955@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:LO Philly | Esperanza Tree Tenders Fall Planting
@@ -3207,7 +2947,7 @@ URL:https://gridphilly.com/event/lo-philly-esperanza-tree-tenders-fall-plan
 END:VEVENT
 BEGIN:VEVENT
 UID:f33ddbef776e38265c3973e76bfd00ba588590e1@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T090000
 DTEND;TZID=America/New_York:20261114T110000
 SUMMARY:Second Saturday Guided Hike Series: Birdwatching at FDR Park
@@ -3228,7 +2968,7 @@ CATEGORIES:Bird Walks,Birding
 END:VEVENT
 BEGIN:VEVENT
 UID:381846d052572facb27a15d036c772f548bd50fd@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T093000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Sankofa Community Farm Volunteer Day
@@ -3247,7 +2987,7 @@ CATEGORIES:Volunteer
 END:VEVENT
 BEGIN:VEVENT
 UID:3092f5762cc3be372b36b05bd792b2e6b2c611b6@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T093000
 DTEND;TZID=America/New_York:20261114T153000
 SUMMARY:Schuylkill Crossing Community Celebration Volunteering
@@ -3263,7 +3003,7 @@ CATEGORIES:Free Community Events,Support Bartram's Garden,Volunteer
 END:VEVENT
 BEGIN:VEVENT
 UID:acd1894efd4ba390a325bff7cd8f9c6a52da80fd@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Love Your Park Fall Cleanup
@@ -3282,7 +3022,7 @@ CATEGORIES:Clean-ups,CreekyCLEAN,Tacony Creek Park Keepers Meeting,Voluntee
 END:VEVENT
 BEGIN:VEVENT
 UID:0d874fb3db1794d663d2e96781fd9972b7672bda@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Love Your Park Fall Volunteer Day
@@ -3302,7 +3042,7 @@ CATEGORIES:Clean-ups,CreekyCLEAN,Tacony Creek Park Keepers Meeting,Voluntee
 END:VEVENT
 BEGIN:VEVENT
 UID:60e4fa246608c49c46d29602bcdcc7c149f0f72f@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T140000
 SUMMARY:Schuylkill Crossing Community Celebration
@@ -3320,7 +3060,7 @@ URL:https://gridphilly.com/event/schuylkill-crossing-community-celebration/
 END:VEVENT
 BEGIN:VEVENT
 UID:ecda92926f5a07074a5b5ff3c524664afa65cd5a@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T100000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:VU PHL & Thomas Center
@@ -3338,7 +3078,7 @@ URL:https://gridphilly.com/event/vu-phl-thomas-center/
 END:VEVENT
 BEGIN:VEVENT
 UID:b8caa9ae6b89c76e46a4c2f78814da4e78542911@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T110000
 DTEND;TZID=America/New_York:20261114T140000
 SUMMARY:Save + Sort Volunteer Day
@@ -3355,7 +3095,7 @@ URL:https://gridphilly.com/event/save-sort-volunteer-day/
 END:VEVENT
 BEGIN:VEVENT
 UID:10a4eb1f86110c24841ef08afb88029bc4881ca5@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T110000
 DTEND;TZID=America/New_York:20261114T120000
 SUMMARY:Urban Wildlife Safety with PA Game Commission and ACCT Philly
@@ -3375,7 +3115,7 @@ URL:https://gridphilly.com/event/urban-wildlife-safety-with-pa-game-commiss
 END:VEVENT
 BEGIN:VEVENT
 UID:8f216bc07408c4f9b9c3fcd1a6466f93439e38be@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T110000
 DTEND;TZID=America/New_York:20261114T140000
 SUMMARY:Mind Your Body Day at The Franklin Institute
@@ -3393,7 +3133,7 @@ CATEGORIES:Children,Classes &amp\; Workshops,Classes and Workshops,Educatio
 END:VEVENT
 BEGIN:VEVENT
 UID:cb95750703641a7d3c14004955e6c23c2d6b885b@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T120000
 DTEND;TZID=America/New_York:20261114T140000
 SUMMARY:Natural Dye Workshop
@@ -3412,7 +3152,7 @@ CATEGORIES:Lifelong Learning
 END:VEVENT
 BEGIN:VEVENT
 UID:2729a8624a05cb4b637f62082b644ff97bbd25de@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T120000
 DTEND;TZID=America/New_York:20261114T140000
 SUMMARY:Crew Leader and Trail Ambassador Recruitment Party
@@ -3432,7 +3172,7 @@ URL:https://gridphilly.com/event/crew-leader-and-trail-ambassador-recruitme
 END:VEVENT
 BEGIN:VEVENT
 UID:d51f813a80c207b188e9c95c8fa1e48c9a6ce3bd@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T120000
 DTEND;TZID=America/New_York:20261114T180000
 SUMMARY:Fabric Swap- NOVEMBER
@@ -3449,7 +3189,7 @@ URL:https://gridphilly.com/event/fabric-swap-november/
 END:VEVENT
 BEGIN:VEVENT
 UID:4e8103d01bd0631088fceeed865a3b9f77a88621@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T130000
 DTEND;TZID=America/New_York:20261114T150000
 SUMMARY:Wildlife Tracking Walk
@@ -3469,7 +3209,7 @@ CATEGORIES:Clean-ups,CreekyCLEAN,Tacony Creek Park Keepers Meeting,Voluntee
 END:VEVENT
 BEGIN:VEVENT
 UID:ee8f14c2927049efde1165dfb74c57261bea9dc5@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T130000
 DTEND;TZID=America/New_York:20261114T150000
 SUMMARY:Meditative Making: BYOB (Bring Your Own Branch)
@@ -3488,7 +3228,7 @@ URL:https://gridphilly.com/event/meditative-making-byob-bring-your-own-bran
 END:VEVENT
 BEGIN:VEVENT
 UID:ce0926c831ad346e38e6f4bee8f4edf33950170d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T143000
 DTEND;TZID=America/New_York:20261114T173000
 SUMMARY:Sailor Hat Workshop
@@ -3504,7 +3244,7 @@ URL:https://gridphilly.com/event/sailor-hat-workshop/
 END:VEVENT
 BEGIN:VEVENT
 UID:8bdb6703a4db465ab44ad73cdc7979314c47979c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T151500
 DTEND;TZID=America/New_York:20261114T170000
 SUMMARY:LO Philly | Meditative Walk with Krista Nelson_NEW DATE
@@ -3523,7 +3263,7 @@ URL:https://gridphilly.com/event/lo-philly-meditative-walk-with-krista-nels
 END:VEVENT
 BEGIN:VEVENT
 UID:f288f47fd2b2178137e760f77cef16c7b1f842c7@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261114T180000
 DTEND;TZID=America/New_York:20261114T193000
 SUMMARY:Herbal Syrups: A Kitchen Apothecary Workshop
@@ -3542,7 +3282,7 @@ URL:https://gridphilly.com/event/herbal-syrups-a-kitchen-apothecary-worksho
 END:VEVENT
 BEGIN:VEVENT
 UID:0294645f99854e832f8da922f26dd3e23239476a@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261115T070000
 DTEND;TZID=America/New_York:20261115T090000
 SUMMARY:Move with Me
@@ -3558,7 +3298,7 @@ CATEGORIES:Running Group,Tacony Creek Park Events
 END:VEVENT
 BEGIN:VEVENT
 UID:764d9023df866af845624ef1e4523cc21ddb3c35@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T120000
 SUMMARY:Love Your Park Volunteer Day with the Friends of Whitaker Gateway
@@ -3581,7 +3321,7 @@ CATEGORIES:Clean-ups,CreekyCLEAN,Tacony Creek Park Keepers Meeting,Voluntee
 END:VEVENT
 BEGIN:VEVENT
 UID:a1bd6259c99a0759348cc5c8e9c369bb6ffc4b44@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T120000
 SUMMARY:Guided Bird Walk
@@ -3598,7 +3338,7 @@ URL:https://gridphilly.com/event/guided-bird-walk-12/
 END:VEVENT
 BEGIN:VEVENT
 UID:f4df3ad71657aa6a96764a1c850187471a5f4a17@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261115T100000
 DTEND;TZID=America/New_York:20261115T130000
 SUMMARY:Trolley Trail Hike
@@ -3616,7 +3356,7 @@ URL:https://gridphilly.com/event/trolley-trail-hike-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:1f5e2e1e25ae4e7ef4d3b33ee19270c230b88365@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261115T110000
 DTEND;TZID=America/New_York:20261115T120000
 SUMMARY:Flax Processing & Natural Dyeing Demonstration
@@ -3635,7 +3375,7 @@ URL:https://gridphilly.com/event/flax-processing-natural-dyeing-demonstrati
 END:VEVENT
 BEGIN:VEVENT
 UID:dc86eb7fde963111186bf2d5233925031e0a346b@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261115T110000
 DTEND;TZID=America/New_York:20261115T130000
 SUMMARY:Borski Park Mural Dedication
@@ -3649,7 +3389,7 @@ URL:https://gridphilly.com/event/borski-park-mural-dedication/
 END:VEVENT
 BEGIN:VEVENT
 UID:7f6a1ed89b9b75c5283b1905e0f9c3b2e341439c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261115T120000
 DTEND;TZID=America/New_York:20261115T130000
 SUMMARY:Flax Processing & Natural Dyeing Demonstration
@@ -3668,7 +3408,7 @@ URL:https://gridphilly.com/event/flax-processing-natural-dyeing-demonstrati
 END:VEVENT
 BEGIN:VEVENT
 UID:343f2e644320f73aa54d041901ea5572af1b8a48@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261115T130000
 DTEND;TZID=America/New_York:20261115T160000
 SUMMARY:The Wissahickon—A Cultural Inspiration
@@ -3686,7 +3426,7 @@ URL:https://gridphilly.com/event/the-wissahickon-a-cultural-inspiration/
 END:VEVENT
 BEGIN:VEVENT
 UID:925ba10fdf740276ec7fe67e4d5df84fc561f9f2@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261115T130000
 DTEND;TZID=America/New_York:20261115T140000
 SUMMARY:Champion Trees Tour at Tyler Arboretum
@@ -3705,7 +3445,7 @@ URL:https://gridphilly.com/event/champion-trees-tour-at-tyler-arboretum/
 END:VEVENT
 BEGIN:VEVENT
 UID:09051448f49d1fdce981d60ae73061115f48c17f@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261115T150000
 DTEND;TZID=America/New_York:20261115T170000
 SUMMARY:Chatting about Canopy: A Tree Gathering for NWPA
@@ -3725,7 +3465,7 @@ URL:https://gridphilly.com/event/chatting-about-canopy-a-tree-gathering-for
 END:VEVENT
 BEGIN:VEVENT
 UID:3086e8dea4675c8d504ef2a36745b9726bc03b9f@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261115T170000
 DTEND;TZID=America/New_York:20261115T183000
 SUMMARY:Gut and Glow: The Holiday Gut Check
@@ -3743,7 +3483,7 @@ URL:https://gridphilly.com/event/gut-and-glow-the-holiday-gut-check/
 END:VEVENT
 BEGIN:VEVENT
 UID:5d3b7718c766f8ad1e24c524deb8b02306e9dfa4@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Made in Philadelphia Holiday Market
@@ -3764,7 +3504,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:dd081cc973806679345887bec549bf0e4f2a13a8@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261116T070000
 DTEND;TZID=America/New_York:20261116T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -3783,7 +3523,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2026-11-1
 END:VEVENT
 BEGIN:VEVENT
 UID:6582cf748784a2fb388fc7d3869c41228d7f7846@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261116T080000
 DTEND;TZID=America/New_York:20261116T150000
 SUMMARY:Day-Off Camp
@@ -3802,7 +3542,7 @@ CATEGORIES:Children,Day Off Camp
 END:VEVENT
 BEGIN:VEVENT
 UID:813bbf5e8624bc72deea770d8248aca5d5bc6b99@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261116T130000
 DTEND;TZID=America/New_York:20261116T143000
 SUMMARY:7-Week Monday Class For Students With Disabilities
@@ -3819,7 +3559,7 @@ URL:https://gridphilly.com/event/7-week-monday-class-for-students-with-disa
 END:VEVENT
 BEGIN:VEVENT
 UID:7ad99f07985c051f6a2459efa88299b0ef245180@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261117T093000
 DTEND;TZID=America/New_York:20261117T110000
 SUMMARY:Sprouts
@@ -3838,7 +3578,7 @@ CATEGORIES:Children,Family-friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:302bc57ecde3e0a32eb7b139f962880555f245d2@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261117T180000
 DTEND;TZID=America/New_York:20261117T193000
 SUMMARY:Beech Leaf Disease: What You Need to Know
@@ -3856,7 +3596,7 @@ CATEGORIES:Arts &amp\; Performance,Education,Education/Lecture,Environmenta
 END:VEVENT
 BEGIN:VEVENT
 UID:d8bdf55415792116c1fa49fc90fe9a418b22193e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261118T060000
 DTEND;TZID=America/New_York:20261118T080000
 SUMMARY:Move with Me
@@ -3872,7 +3612,7 @@ CATEGORIES:Running Group,Tacony Creek Park Events
 END:VEVENT
 BEGIN:VEVENT
 UID:a87031799a95157ae048803f03b4f50441a1a890@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261118T100000
 DTEND;TZID=America/New_York:20261118T113000
 SUMMARY:Little Explorers: What’s Buzzing and Blooming?
@@ -3893,7 +3633,7 @@ CATEGORIES:Birding,Classes &amp\; Workshops,Eligible for SW/ACCESS Discount
 END:VEVENT
 BEGIN:VEVENT
 UID:81b0be549671639ac79a610937b65ad7ba8d4833@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261118T180000
 DTEND;TZID=America/New_York:20261118T203000
 SUMMARY:Profs & Pints Philadelphia: The Life of Urban Ecosystems
@@ -3913,7 +3653,7 @@ CATEGORIES:Education/Lecture
 END:VEVENT
 BEGIN:VEVENT
 UID:a9ad2092395a9f025e26caea2d73fc1e26fc214a@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261118T183000
 DTEND;TZID=America/New_York:20261118T203000
 SUMMARY:Keep It In Circulation: A Community Mending Workshop
@@ -3933,7 +3673,7 @@ CATEGORIES:Education,Textiles,Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:449f2314734dc10d4260dd52097e1654989dfde2@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261118T190000
 DTEND;TZID=America/New_York:20261118T210000
 SUMMARY:INTENSIVE SCREENWRITING WORKSHOP
@@ -3949,7 +3689,7 @@ CATEGORIES:Classes &amp\; Workshops,Clean-ups,Film,Food &amp\; Drink
 END:VEVENT
 BEGIN:VEVENT
 UID:b48f9bb6e0c9d3c379d0bbbc1c52e12a1397c5c1@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Made in Philadelphia Holiday Market
@@ -3970,7 +3710,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:76757892642b2941a5074a26bfde69850095d472@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261119T090000
 DTEND;TZID=America/New_York:20261119T120000
 SUMMARY:Thursday Volunteer Service Day
@@ -3988,7 +3728,7 @@ CATEGORIES:Event
 END:VEVENT
 BEGIN:VEVENT
 UID:eca1964425152f9788e4757c8ae44d6f1fecb845@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261119T093000
 DTEND;TZID=America/New_York:20261119T110000
 SUMMARY:Sprouts
@@ -4007,7 +3747,7 @@ CATEGORIES:Children,Family-friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:47e0272322131bd9bb6fe5521d998bffa6fbcb37@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261119T170000
 DTEND;TZID=America/New_York:20261119T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -4025,10 +3765,10 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:5554d73858cb3ac083c7ed1c5f36705f0ca6485d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261119T170000
 DTEND;TZID=America/New_York:20261119T210000
-SUMMARY:LumiNature presented by PNC Bank (daily through Sep 24)
+SUMMARY:LumiNature presented by PNC Bank (daily through Sep 25)
 LOCATION:Philadelphia Zoo\, 3400 West Girard Avenue\, Philadelphia
 DESCRIPTION:LumiNature returns to Philadelphia Zoo this holiday season with
   an all-new interactive holiday adventure\, inviting guests to journey thr
@@ -4045,7 +3785,7 @@ CATEGORIES:Arts &amp\; Culture,Children,Events
 END:VEVENT
 BEGIN:VEVENT
 UID:3bf32f580b9fa691ca5b3e64e847d1a77cf701d4@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261119T170000
 DTEND;TZID=America/New_York:20261119T190000
 SUMMARY:Assemblage Art Workshop with Lia Huntington
@@ -4065,7 +3805,7 @@ CATEGORIES:Education,Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:87cef01b859d02e2f8fb26c7110e72aea146c19f@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261119T173000
 DTEND;TZID=America/New_York:20261119T190000
 SUMMARY:Manayunk Tree Lighting
@@ -4084,7 +3824,7 @@ CATEGORIES:Community Activity,Community Events,Family Activities,family and
 END:VEVENT
 BEGIN:VEVENT
 UID:7cd609dcb3f140e9e6c6d606b2e7d19adda9064d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261119T180000
 DTEND;TZID=America/New_York:20261119T200000
 SUMMARY:Dance Party! TTF Watershed Milestones Award Ceremony
@@ -4105,7 +3845,7 @@ CATEGORIES:Celebrations &amp\; Networking,Featured
 END:VEVENT
 BEGIN:VEVENT
 UID:7a7cdb397edd3d12321953e48339352dfa44e8b2@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261119T180000
 DTEND;TZID=America/New_York:20261119T200000
 SUMMARY:Holidays In Franklin Square Opening Night
@@ -4124,7 +3864,7 @@ CATEGORIES:Arts &amp\; Performance,Community Events
 END:VEVENT
 BEGIN:VEVENT
 UID:01d393d959321322c185f58dfd418b98bb5c0fae@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261119T180000
 DTEND;TZID=America/New_York:20261119T210000
 SUMMARY:Taste of Fairmount
@@ -4143,7 +3883,7 @@ CATEGORIES:Food &amp\; Drink
 END:VEVENT
 BEGIN:VEVENT
 UID:32f161fa1d8c1030a6eb0faa8bcacf7896dab0de@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261120T090000
 DTEND;TZID=America/New_York:20261120T120000
 SUMMARY:The Wissahickon in November (Gerry’s Hike)
@@ -4162,7 +3902,7 @@ URL:https://gridphilly.com/event/the-wissahickon-in-november-gerrys-hike/
 END:VEVENT
 BEGIN:VEVENT
 UID:e57d88fbfa99d5fde1fb3c6f499c02b611d97ec3@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261120T170000
 DTEND;TZID=America/New_York:20261120T210000
 SUMMARY:Daylight After Dark: Artists and Writers on Climate Change
@@ -4183,7 +3923,7 @@ CATEGORIES:Art,Arts &amp\; Culture,Celebrations &amp\; Networking,Environme
 END:VEVENT
 BEGIN:VEVENT
 UID:84900f2dcb1c18d57d6f48c843d80a61ba8e8f43@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261120T170000
 DTEND;TZID=America/New_York:20261120T190000
 SUMMARY:Philly Waldorf Holiday Fair
@@ -4202,7 +3942,7 @@ CATEGORIES:Family,Family Activities,Family Fun,Free Community Events,Neighb
 END:VEVENT
 BEGIN:VEVENT
 UID:e7da8fae2befda4431929630c2009d416fdb69a5@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261120T190000
 DTEND;TZID=America/New_York:20261120T210000
 SUMMARY:No Billionaires Burlesque (through Dec 20)
@@ -4221,7 +3961,7 @@ CATEGORIES:21+,Accessible Event,Activism,Adults,arts &amp\; entertainment,E
 END:VEVENT
 BEGIN:VEVENT
 UID:613b3a2728bc1ef1c31df692177db76df770b419@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261120T193000
 DTEND;TZID=America/New_York:20261120T210000
 SUMMARY:“You Are Mine” Musical Production
@@ -4240,7 +3980,7 @@ CATEGORIES:Arts &amp\; Performance
 END:VEVENT
 BEGIN:VEVENT
 UID:1b07e170842a3227dfae6e67da11c80707cba768@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T160000
 SUMMARY:Unionville Art Gala
@@ -4257,7 +3997,7 @@ CATEGORIES:Art Exhibitions
 END:VEVENT
 BEGIN:VEVENT
 UID:0cccf9acae99c3240a1db0d43a602fbf6eeb33d7@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T120000
 SUMMARY:Restoration Workday
@@ -4276,7 +4016,7 @@ CATEGORIES:Free,Volunteer
 END:VEVENT
 BEGIN:VEVENT
 UID:9255ec7936bb04d2dcf1f1a4d672229573008287@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T150000
 SUMMARY:Galbraith & Paul: Sample Sale
@@ -4294,7 +4034,7 @@ CATEGORIES:Event,Local Textiles,Textiles
 END:VEVENT
 BEGIN:VEVENT
 UID:2fb2a0b3e093f62a3ef9bbf828d266382a801358@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261121T110000
 DTEND;TZID=America/New_York:20261121T170000
 SUMMARY:Miracle on American Street Holiday Gift Market
@@ -4313,7 +4053,7 @@ URL:https://gridphilly.com/event/miracle-on-american-street-holiday-gift-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:6e0dc66db2271aac11d8f94602ce9ad15f84f8e5@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261121T120000
 DTEND;TZID=America/New_York:20261121T200000
 SUMMARY:Preview Weekend at Christmas Village in Philadelphia (November 21st
@@ -4336,7 +4076,7 @@ CATEGORIES:Event,Family Activities,family and kid friendly,Family-friendly,
 END:VEVENT
 BEGIN:VEVENT
 UID:7b7fee0912369c02a4b95812af80dddaac83d743@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261121T130000
 DTEND;TZID=America/New_York:20261121T143000
 SUMMARY:Germantown Residents for Economic Alternatives Together Housing Jus
@@ -4357,7 +4097,7 @@ URL:https://gridphilly.com/event/germantown-residents-for-economic-alternat
 END:VEVENT
 BEGIN:VEVENT
 UID:7a51cb09c5d9443caeb97e03e836efa0311a98a3@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261121T130000
 DTEND;TZID=America/New_York:20261121T160000
 SUMMARY:Service Oriented Singles
@@ -4376,7 +4116,7 @@ CATEGORIES:21+,Volunteer
 END:VEVENT
 BEGIN:VEVENT
 UID:3def335abe69ce6d98b8801def294bb71dca876d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261121T133000
 DTEND;TZID=America/New_York:20261121T170000
 SUMMARY:Philly Drama Series “End of the Line” Screening
@@ -4396,7 +4136,7 @@ CATEGORIES:Featured,Film,Movie Night
 END:VEVENT
 BEGIN:VEVENT
 UID:56910e5ad3ba0c0d4c7591286bf3ec9e07b063af@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261121T160000
 DTEND;TZID=America/New_York:20261121T190000
 SUMMARY:VEG HISTORY Hop Off Hop On FOOD TOUR
@@ -4414,7 +4154,7 @@ URL:https://gridphilly.com/event/veg-history-hop-off-hop-on-food-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:3a944c955eeab0c3f20a607d2073af491776479a@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261121T190000
 DTEND;TZID=America/New_York:20261121T210000
 SUMMARY:Ecuadorian Dances
@@ -4432,7 +4172,7 @@ CATEGORIES:Arts &amp\; Culture
 END:VEVENT
 BEGIN:VEVENT
 UID:57a921edb61a519d79f7d4449069d5a97ba85725@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Made in Philadelphia Holiday Market
@@ -4453,7 +4193,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:017ab80a09983c8de6dd64523b39a90e4ccdf852@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261122T070000
 DTEND;TZID=America/New_York:20261122T090000
 SUMMARY:Move with Me
@@ -4469,7 +4209,7 @@ CATEGORIES:Running Group,Tacony Creek Park Events
 END:VEVENT
 BEGIN:VEVENT
 UID:49e2dc66a82fe94c43e6c3b5631b65a3eee96039@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261122T090000
 DTEND;TZID=America/New_York:20261122T113000
 SUMMARY:Hike the Wissahickon Trail Classic Loop
@@ -4487,7 +4227,7 @@ URL:https://gridphilly.com/event/hike-the-wissahickon-trail-classic-loop/
 END:VEVENT
 BEGIN:VEVENT
 UID:e43bab16de8894ec0e53aca9596292227444e9b2@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261122T130000
 DTEND;TZID=America/New_York:20261122T160000
 SUMMARY:Foray at French Creek State Park
@@ -4505,7 +4245,7 @@ URL:https://gridphilly.com/event/foray-at-french-creek-state-park/
 END:VEVENT
 BEGIN:VEVENT
 UID:9cdc79b9df2f7fe7f67fe3509badc79357cc6159@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261122T150000
 DTEND;TZID=America/New_York:20261122T170000
 SUMMARY:Silent Hike in the Wissahickon
@@ -4523,7 +4263,7 @@ URL:https://gridphilly.com/event/silent-hike-in-the-wissahickon-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:41d55cef2723362bfbe6238762f082bf461a41e7@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261122T150000
 DTEND;TZID=America/New_York:20261122T170000
 SUMMARY:Philadelphia Youth Orchestra Opening Concert
@@ -4542,7 +4282,7 @@ URL:https://gridphilly.com/event/philadelphia-youth-orchestra-opening-conce
 END:VEVENT
 BEGIN:VEVENT
 UID:30f5a9102cf613bf1207d4c86f690dbb9b2a8a95@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261123T070000
 DTEND;TZID=America/New_York:20261123T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -4561,7 +4301,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2026-11-2
 END:VEVENT
 BEGIN:VEVENT
 UID:7473ba777789952f77820a2d0367bf229453534e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261123T130000
 DTEND;TZID=America/New_York:20261123T143000
 SUMMARY:7-Week Monday Class For Students With Disabilities
@@ -4578,7 +4318,7 @@ URL:https://gridphilly.com/event/7-week-monday-class-for-students-with-disa
 END:VEVENT
 BEGIN:VEVENT
 UID:b0ad3dc70d31e3beffc87208c1d695b76210d4e3@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261124T093000
 DTEND;TZID=America/New_York:20261124T110000
 SUMMARY:Sprouts
@@ -4597,7 +4337,7 @@ CATEGORIES:Children,Family-friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:9219680fbb072f501815cb30bf7fe95d732e66f5@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261124T190000
 DTEND;TZID=America/New_York:20261124T203000
 SUMMARY:Full Moon Hike: Beaver Moon
@@ -4613,7 +4353,7 @@ CATEGORIES:Hike
 END:VEVENT
 BEGIN:VEVENT
 UID:2dd18136c490c2d6d0baca54aaf122197bb999af@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Made in Philadelphia Holiday Market
@@ -4634,7 +4374,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:bd10181e78b1f3fd571d3c267cf35288c0911da1@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261125T060000
 DTEND;TZID=America/New_York:20261125T080000
 SUMMARY:Move with Me
@@ -4650,7 +4390,7 @@ CATEGORIES:Running Group,Tacony Creek Park Events
 END:VEVENT
 BEGIN:VEVENT
 UID:9b418391b410829e7d532056710da37fbd6a432c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261126T090000
 DTEND;TZID=America/New_York:20261126T120000
 SUMMARY:Thanksgiving in the Wissahickon
@@ -4668,7 +4408,7 @@ URL:https://gridphilly.com/event/thanksgiving-in-the-wissahickon/
 END:VEVENT
 BEGIN:VEVENT
 UID:04e1b819f0cdccfa905f02e05a140f3c847dfe97@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261126T170000
 DTEND;TZID=America/New_York:20261126T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -4686,7 +4426,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:811bab169eebd08c80173a1837b967ae203b31e6@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261127T130000
 DTEND;TZID=America/New_York:20261127T153000
 SUMMARY:Community Connection Gratitude Hike and Drum Circle with Hike+Heal
@@ -4706,7 +4446,7 @@ URL:https://gridphilly.com/event/community-connection-gratitude-hike-and-dr
 END:VEVENT
 BEGIN:VEVENT
 UID:d272ab5cd15d55ceeeaa4eac295904267ec178b9@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:Made in Philadelphia Holiday Market
@@ -4727,7 +4467,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:478c033e3d5262ac12bf8c138f968d2766a24dd3@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261128T120000
 DTEND;TZID=America/New_York:20261128T170000
 SUMMARY:Small Business Saturday Circular Makers Market + Buy Once Weekend
@@ -4746,7 +4486,7 @@ URL:https://gridphilly.com/event/small-business-saturday-circular-makers-ma
 END:VEVENT
 BEGIN:VEVENT
 UID:da6fb0115ca40cc94346ab3cf2d3098d899aeb27@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261128T130000
 DTEND;TZID=America/New_York:20261128T180000
 SUMMARY:Winterfest at The Grange Estate
@@ -4764,7 +4504,7 @@ CATEGORIES:Festival
 END:VEVENT
 BEGIN:VEVENT
 UID:bb99ffb498655730903f775b4d37caef1a7930ec@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261129T070000
 DTEND;TZID=America/New_York:20261129T090000
 SUMMARY:Move with Me
@@ -4780,7 +4520,7 @@ CATEGORIES:Running Group,Tacony Creek Park Events
 END:VEVENT
 BEGIN:VEVENT
 UID:ce1922611b8b8fc49c0e0cd5cd75b79febd05e60@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261130T070000
 DTEND;TZID=America/New_York:20261130T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -4799,7 +4539,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2026-11-3
 END:VEVENT
 BEGIN:VEVENT
 UID:4ba1cfc4d3062dcd7551d0eecc4bf0f88b42837e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261130T130000
 DTEND;TZID=America/New_York:20261130T143000
 SUMMARY:7-Week Monday Class For Students With Disabilities
@@ -4816,7 +4556,7 @@ URL:https://gridphilly.com/event/7-week-monday-class-for-students-with-disa
 END:VEVENT
 BEGIN:VEVENT
 UID:01530b20ee7373913080527010e22f27127becf3@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Made in Philadelphia Holiday Market
@@ -4837,7 +4577,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:3c6fb09ab69f05da03a6d7fa190a5c96e2220cac@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261201T093000
 DTEND;TZID=America/New_York:20261201T110000
 SUMMARY:Sprouts
@@ -4856,7 +4596,7 @@ CATEGORIES:Children,Family-friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:49c5a022eb15ff4096f699174da025882c8092b8@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261202T120000
 DTEND;TZID=America/New_York:20261202T150000
 SUMMARY:Love Abide with You\, The Birthplace Quilts
@@ -4875,7 +4615,7 @@ CATEGORIES:Art,Classes &amp\; Workshops,Education
 END:VEVENT
 BEGIN:VEVENT
 UID:40517dcd48c0b3f42bd1122e2a32fe7e5054b17b@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261202T180000
 DTEND;TZID=America/New_York:20261202T200000
 SUMMARY:Upcycled Holidays Gift Wrap and Card Printing Workshop
@@ -4895,7 +4635,7 @@ CATEGORIES:Education,Workshop
 END:VEVENT
 BEGIN:VEVENT
 UID:c7e0e20974922f6491a4beea02660f01b6ce945c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261203T093000
 DTEND;TZID=America/New_York:20261203T110000
 SUMMARY:Sprouts
@@ -4914,7 +4654,7 @@ CATEGORIES:Children,Family-friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:1c2879a166d44a6f2cad5093e7d918feaacb4426@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261203T150000
 DTEND;TZID=America/New_York:20261203T170000
 SUMMARY:Relax & Paint For NATURE & ANIMAL Lovers
@@ -4927,7 +4667,7 @@ URL:https://gridphilly.com/event/relax-paint-for-nature-animal-lovers-8/
 END:VEVENT
 BEGIN:VEVENT
 UID:1c5d133d3bc7efeefc2887b13b652de5d48d30ce@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261203T170000
 DTEND;TZID=America/New_York:20261203T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -4945,7 +4685,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:e0ee687d3a08d45b1a2efa7c255a09c30371fdbc@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Made in Philadelphia Holiday Market
@@ -4966,7 +4706,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:3cf2338f56edbd35b17a631ee80206763c2efd6d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261204T173000
 DTEND;TZID=America/New_York:20261204T203000
 SUMMARY:The 31st Annual Print Sale
@@ -4985,7 +4725,7 @@ CATEGORIES:Art,Art Exhibitions
 END:VEVENT
 BEGIN:VEVENT
 UID:0b37f42cf5988b84e3b9be3d96da0996df02fdb8@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261205T093000
 DTEND;TZID=America/New_York:20261205T113000
 SUMMARY:Hike with Philadelphia Wildlife Tracking Club
@@ -5004,7 +4744,7 @@ URL:https://gridphilly.com/event/hike-with-philadelphia-wildlife-tracking-c
 END:VEVENT
 BEGIN:VEVENT
 UID:0de8a8163f33943e72d8e7aaa47dd497f5a5271a@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261205T100000
 DTEND;TZID=America/New_York:20261205T160000
 SUMMARY:Lucia & Christmas Market
@@ -5024,7 +4764,7 @@ CATEGORIES:Arts &amp\; Culture,Children,Family Activities,Family-friendly,F
 END:VEVENT
 BEGIN:VEVENT
 UID:00d04f3d19d0edaa71cdaca81351af723fe579c7@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261206T100000
 DTEND;TZID=America/New_York:20261206T160000
 SUMMARY:Lucia & Christmas Market
@@ -5044,7 +4784,7 @@ CATEGORIES:Arts &amp\; Culture,Children,Family Activities,Family-friendly,F
 END:VEVENT
 BEGIN:VEVENT
 UID:16d84a1ed0a97069537f7d5faf439aec994f661c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261206T120000
 DTEND;TZID=America/New_York:20261206T170000
 SUMMARY:19th Annual Sal y Dulce Latin American Festival
@@ -5063,7 +4803,7 @@ URL:https://gridphilly.com/event/19th-annual-sal-y-dulce-latin-american-fes
 END:VEVENT
 BEGIN:VEVENT
 UID:4e3c9adce73176b31d4523a8ca0b98af29b7f4a7@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5084,7 +4824,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:20431b2d0fecb22078f5522f3eab00e2e48e9d48@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261207T070000
 DTEND;TZID=America/New_York:20261207T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -5103,7 +4843,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2026-12-0
 END:VEVENT
 BEGIN:VEVENT
 UID:3e217c5c7059e8070d59aadd09c5f4f48298fe3e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261207T130000
 DTEND;TZID=America/New_York:20261207T143000
 SUMMARY:7-Week Monday Class For Students With Disabilities
@@ -5120,7 +4860,7 @@ URL:https://gridphilly.com/event/7-week-monday-class-for-students-with-disa
 END:VEVENT
 BEGIN:VEVENT
 UID:45c3c1a5b4c1e9dc6158534f36681ab76cad2e79@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261208T093000
 DTEND;TZID=America/New_York:20261208T110000
 SUMMARY:Sprouts
@@ -5139,7 +4879,7 @@ CATEGORIES:Children,Family-friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:221a5cde70a50f216397104a8ec2aa1739f1a77a@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5160,7 +4900,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:0a08c56b2e4e6b742ef3a107025d1763e444e661@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261210T093000
 DTEND;TZID=America/New_York:20261210T110000
 SUMMARY:Sprouts
@@ -5179,7 +4919,7 @@ CATEGORIES:Children,Family-friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:7424918d244d6cb4fb8eb07e30fea4744ef85a4c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261210T170000
 DTEND;TZID=America/New_York:20261210T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -5197,7 +4937,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:07897b13bc3a61339ba89c586921f76943e8f66e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5218,7 +4958,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:e9d59d01c00fa606545473fc852f1e31e91930a3@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261213T130000
 DTEND;TZID=America/New_York:20261213T150000
 SUMMARY:Family Art Day
@@ -5237,7 +4977,7 @@ CATEGORIES:Classes &amp\; Workshops
 END:VEVENT
 BEGIN:VEVENT
 UID:807807978c7519cb68bf5e7b93b796af188c9297@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261213T130000
 DTEND;TZID=America/New_York:20261213T173000
 SUMMARY:A Mt. Cuba Center Solstice Celebration
@@ -5256,7 +4996,7 @@ CATEGORIES:Arts &amp\; Performance
 END:VEVENT
 BEGIN:VEVENT
 UID:3bed16e39c79dd6ec288369c3456f8e8fe0d75de@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261214T070000
 DTEND;TZID=America/New_York:20261214T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -5275,7 +5015,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2026-12-1
 END:VEVENT
 BEGIN:VEVENT
 UID:e55b18acca4dec3fb2969eed6408d7cbcff19073@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261214T130000
 DTEND;TZID=America/New_York:20261214T143000
 SUMMARY:7-Week Monday Class For Students With Disabilities
@@ -5292,7 +5032,7 @@ URL:https://gridphilly.com/event/7-week-monday-class-for-students-with-disa
 END:VEVENT
 BEGIN:VEVENT
 UID:9228836ca8c66ad031750c6c8e6401661584de6d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261215T093000
 DTEND;TZID=America/New_York:20261215T110000
 SUMMARY:Sprouts
@@ -5311,7 +5051,7 @@ CATEGORIES:Children,Family-friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:d6ec0e8b260b05ad45d220382395d204cb7a6045@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5332,7 +5072,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:c7f89ad5ebb2bebf8465066225d202abb8746b28@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261216T190000
 DTEND;TZID=America/New_York:20261216T210000
 SUMMARY:INTENSIVE SCREENWRITING WORKSHOP
@@ -5348,7 +5088,7 @@ CATEGORIES:Classes &amp\; Workshops,Clean-ups,Film,Food &amp\; Drink
 END:VEVENT
 BEGIN:VEVENT
 UID:29f1a236440a29a4d0ee1dbd12a9ddaadbb2823c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261217T093000
 DTEND;TZID=America/New_York:20261217T110000
 SUMMARY:Sprouts
@@ -5367,7 +5107,7 @@ CATEGORIES:Children,Family-friendly
 END:VEVENT
 BEGIN:VEVENT
 UID:e477a557af731ee68f7a5723bfd54514d38b9d75@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261217T170000
 DTEND;TZID=America/New_York:20261217T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -5385,7 +5125,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:e081b68774cee6f78276c49e29278197c62038b5@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5406,7 +5146,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:667d543492b46995f3c8fcf6583d0a3b98b699ef@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261221T070000
 DTEND;TZID=America/New_York:20261221T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -5425,7 +5165,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2026-12-2
 END:VEVENT
 BEGIN:VEVENT
 UID:acabc68ca59b5d66df6aa38212c0a899c7057a4d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5446,7 +5186,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:2b405a8817fd6e45a65a9ce6c09bad2dbf33b6d5@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261223T120000
 DTEND;TZID=America/New_York:20261223T170000
 SUMMARY:Blend Your Own Adventure: Holiday Edition
@@ -5465,7 +5205,7 @@ CATEGORIES:Classes &amp\; Workshops
 END:VEVENT
 BEGIN:VEVENT
 UID:ecfd4d8b8fb6d8fc3adf92b3e0845cde2927a968@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261224T170000
 DTEND;TZID=America/New_York:20261224T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -5483,7 +5223,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:911753a366a9497c3f7cae0edd7c4cdbefd7b36f@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5504,7 +5244,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:59ba226c68bce990f3932c99ab1aeabf54c6fc2b@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5525,7 +5265,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:ba4882e26ecbd4cae84424ed8bcf7d1db3a8147c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261228T070000
 DTEND;TZID=America/New_York:20261228T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -5544,7 +5284,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2026-12-2
 END:VEVENT
 BEGIN:VEVENT
 UID:d898588535dcfbe4ed3d505eb07c6868993f2e8e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5565,7 +5305,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:499f83e26dd9d3c15f8f978ac472a3772c302a1b@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261231T100000
 DTEND;TZID=America/New_York:20261231T200000
 SUMMARY:New Year’s Eve\, Steeped.
@@ -5584,7 +5324,7 @@ CATEGORIES:Food &amp\; Drink
 END:VEVENT
 BEGIN:VEVENT
 UID:28c72baafd90eb6c88cd48d57759e5e372d45125@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20261231T170000
 DTEND;TZID=America/New_York:20261231T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -5602,7 +5342,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:1ba10ba19ce32fcc4c3445b43f66f868aea44caf@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5623,7 +5363,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:8c46a7d0cf9c5869c0a6e86d5d06c613f82ae3d0@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270104T070000
 DTEND;TZID=America/New_York:20270104T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -5642,7 +5382,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2027-01-0
 END:VEVENT
 BEGIN:VEVENT
 UID:3f22021e5bc1427e992c946b70af587bd714c6ea@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270104T080000
 DTEND;TZID=America/New_York:20270104T150000
 SUMMARY:Day-Off Camp
@@ -5661,7 +5401,7 @@ CATEGORIES:Children,Day Off Camp
 END:VEVENT
 BEGIN:VEVENT
 UID:4ea773b441e9d02fb873ac53cdbb4db6de8205d4@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5682,7 +5422,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:b20e2666e932ae55990161f361acdd0def5114cf@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270107T170000
 DTEND;TZID=America/New_York:20270107T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -5700,7 +5440,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:a10c76360671bd2ddfc5e64cde4f2f2b87d7d612@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5721,7 +5461,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:65e0a738e5a4349c0282a43c92727f7b62713b12@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270111T070000
 DTEND;TZID=America/New_York:20270111T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -5740,7 +5480,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2027-01-1
 END:VEVENT
 BEGIN:VEVENT
 UID:6c27649488e9b0eecb957926f0f7e5e9cc50ee02@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5761,7 +5501,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:948d634f689b16c11bed6043c84bd3ecf1d8d881@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270113T190000
 DTEND;TZID=America/New_York:20270113T210000
 SUMMARY:INTENSIVE SCREENWRITING WORKSHOP
@@ -5777,7 +5517,7 @@ CATEGORIES:Classes &amp\; Workshops,Clean-ups,Film,Food &amp\; Drink
 END:VEVENT
 BEGIN:VEVENT
 UID:6288987d02e43c791e5554722d115ec02913d6ad@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270114T170000
 DTEND;TZID=America/New_York:20270114T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -5795,7 +5535,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:e06c1b6505ee72cf0b683a6deab27c020c7f7dbc@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5816,7 +5556,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:0d0d510e6d3136986b84b4ca446b2563da82fd87@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270115T080000
 DTEND;TZID=America/New_York:20270115T150000
 SUMMARY:Day-Off Camp
@@ -5835,7 +5575,7 @@ CATEGORIES:Children,Day Off Camp
 END:VEVENT
 BEGIN:VEVENT
 UID:67c009b78d96488c4a51c4c7fcf5f87373f5152c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5856,7 +5596,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:ccab54d9af048ae3d8b6a918c3b6d28584be31f2@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270118T070000
 DTEND;TZID=America/New_York:20270118T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -5875,7 +5615,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2027-01-1
 END:VEVENT
 BEGIN:VEVENT
 UID:7cee9f6c75e1cfdf42d52ccd6a102a4647991db9@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270118T080000
 DTEND;TZID=America/New_York:20270118T150000
 SUMMARY:Day-Off Camp
@@ -5894,7 +5634,7 @@ CATEGORIES:Children,Day Off Camp
 END:VEVENT
 BEGIN:VEVENT
 UID:f7bf8b5d0652d2780795563f38123191c6768d90@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5915,7 +5655,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:101cf325f11cd520ce24f136d5e57ee3818826f6@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270121T170000
 DTEND;TZID=America/New_York:20270121T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -5933,7 +5673,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:796d97db4fe0ace680a96a9dd450b0f0f79b887d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5954,7 +5694,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:16bf2a0c11f50306b0d64f620750759ab8c9c710@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270125T070000
 DTEND;TZID=America/New_York:20270125T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -5973,7 +5713,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2027-01-2
 END:VEVENT
 BEGIN:VEVENT
 UID:d261179d272531d391ea55f6139dff55f29d8e6e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 SUMMARY:Made in Philadelphia Holiday Market
@@ -5994,7 +5734,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:35d492db1e612b2a71d0fa34c389fe5221c4c3b3@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270128T170000
 DTEND;TZID=America/New_York:20270128T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -6012,7 +5752,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:f3fa72933ccc689569dac9c98dd592c22c4e1165@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270129T080000
 DTEND;TZID=America/New_York:20270129T150000
 SUMMARY:Day-Off Camp
@@ -6031,7 +5771,7 @@ CATEGORIES:Children,Day Off Camp
 END:VEVENT
 BEGIN:VEVENT
 UID:97752cccda79b21ee50e1922d4ac1cf3466dcfed@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6052,7 +5792,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:aeccd0ab66a476fa08eee4f9183905d6179ae68c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270201T070000
 DTEND;TZID=America/New_York:20270201T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -6071,7 +5811,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2027-02-0
 END:VEVENT
 BEGIN:VEVENT
 UID:21a5d42eb56863db3f0de10405231911ef066483@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6092,7 +5832,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:6c58bc047daaf1fe49858e6bf6dd366a6af93f9d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270204T170000
 DTEND;TZID=America/New_York:20270204T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -6110,7 +5850,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:b62591cf80cabe794cdec03284c069a9b1c87955@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6131,7 +5871,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:774276f603fb5075feea4bc56e9e54e6053fe687@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6152,7 +5892,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:bb9c6f96f205d279d53776a192758a47df727cfd@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270208T070000
 DTEND;TZID=America/New_York:20270208T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -6171,7 +5911,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2027-02-0
 END:VEVENT
 BEGIN:VEVENT
 UID:b3f3c103a3b53f39653cfaa8a11d1f0c2bf00353@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270210T190000
 DTEND;TZID=America/New_York:20270210T210000
 SUMMARY:INTENSIVE SCREENWRITING WORKSHOP
@@ -6187,7 +5927,7 @@ CATEGORIES:Classes &amp\; Workshops,Clean-ups,Film,Food &amp\; Drink
 END:VEVENT
 BEGIN:VEVENT
 UID:405cc4991e0a3fbe254c8ec696b52e984f77aa34@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6208,7 +5948,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:f79f1cd6d34e6e835ed61f18a0bcad1024c2c001@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270211T170000
 DTEND;TZID=America/New_York:20270211T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -6226,7 +5966,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:3d1aab60b0f34267c148142821048219b52ccd99@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270212T080000
 DTEND;TZID=America/New_York:20270212T150000
 SUMMARY:Day-Off Camp
@@ -6245,7 +5985,7 @@ CATEGORIES:Children,Day Off Camp
 END:VEVENT
 BEGIN:VEVENT
 UID:16c429ae92164bdca0c4a0dd6eeb7ea39d31cd61@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6266,7 +6006,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:3ad3f2acaa6afb1fe038426beb1303213339c803@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270215T070000
 DTEND;TZID=America/New_York:20270215T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -6285,7 +6025,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2027-02-1
 END:VEVENT
 BEGIN:VEVENT
 UID:84d8d52d609adbc32be6f3231310b1cd4b56df35@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270215T080000
 DTEND;TZID=America/New_York:20270215T150000
 SUMMARY:Day-Off Camp
@@ -6304,7 +6044,7 @@ CATEGORIES:Children,Day Off Camp
 END:VEVENT
 BEGIN:VEVENT
 UID:7bfbf874e4b830c1ba73025a308121d35674b02f@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6325,7 +6065,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:ce8aa90275ef3872c0b2878ed8eaf1453dc42d5e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270218T170000
 DTEND;TZID=America/New_York:20270218T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -6343,7 +6083,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:ee36a63bb822e9adac36de58dccb8a0912d371e5@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6364,7 +6104,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:b83cafce41d79a6b28cc59df5e6ae6b7c33d2178@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270222T070000
 DTEND;TZID=America/New_York:20270222T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -6383,7 +6123,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2027-02-2
 END:VEVENT
 BEGIN:VEVENT
 UID:625ef6148ad5a87e09b9cea782e885ead280ca69@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6404,7 +6144,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:690905a7a3176dee58d362e20caeff7b2c237e3e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270225T170000
 DTEND;TZID=America/New_York:20270225T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -6422,7 +6162,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:a42c1374860b16f2955e03ab58cf68366c3dcd5e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6443,7 +6183,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:878250de89a87790e61f9b6e02396d87a43e5786@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6464,7 +6204,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:e63669caea064be4d4819d80c36750324515499e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270301T070000
 DTEND;TZID=America/New_York:20270301T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -6483,7 +6223,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2027-03-0
 END:VEVENT
 BEGIN:VEVENT
 UID:1536dce6fd46e0fdc66e4c005a4b1911c4ed86f7@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6504,7 +6244,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:e22cc59fe16ac358e605e9adfe3a35c396d50d5b@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270304T170000
 DTEND;TZID=America/New_York:20270304T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -6522,7 +6262,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:dbc512ffdf886027c5d6aa1340f3a773d950ac03@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270305T120000
 DTEND;TZID=America/New_York:20270305T170000
 SUMMARY:One Art Volunteer Day
@@ -6534,7 +6274,7 @@ URL:https://gridphilly.com/event/one-art-volunteer-day-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:db2bd77cb23fff98290bd59d055f31384ddb6430@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6555,7 +6295,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:b9dd91b3a54a088558425119b024c6e3e2b6537b@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270308T070000
 DTEND;TZID=America/New_York:20270308T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -6574,7 +6314,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2027-03-0
 END:VEVENT
 BEGIN:VEVENT
 UID:637072032f5b6543df9b94198d11d1646f99392e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6595,7 +6335,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:eaad7d00cec933a91fd30f8ad8ca0ac00e1282cd@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270310T190000
 DTEND;TZID=America/New_York:20270310T210000
 SUMMARY:INTENSIVE SCREENWRITING WORKSHOP
@@ -6611,7 +6351,7 @@ CATEGORIES:Classes &amp\; Workshops,Clean-ups,Film,Food &amp\; Drink
 END:VEVENT
 BEGIN:VEVENT
 UID:4d94226ed11ed5802c96cdad6fe046c7290bcc4c@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270311T170000
 DTEND;TZID=America/New_York:20270311T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -6629,7 +6369,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:99891094a2bd66e87255eabc7ccdf7f221b87abc@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6650,7 +6390,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:abd3f7dd5eb30dc7ce0103a0eac0a1e386c1b7c8@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270315T070000
 DTEND;TZID=America/New_York:20270315T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -6669,7 +6409,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2027-03-1
 END:VEVENT
 BEGIN:VEVENT
 UID:f583101d5ed6c677167d4b72842595b650e74afc@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6690,7 +6430,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:1f3f777f3f73b419d82dc48c821226cf952edc97@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270318T170000
 DTEND;TZID=America/New_York:20270318T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -6708,7 +6448,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:20c9324e7b1c67deac0b93fd9d4faaa772293592@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6729,7 +6469,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:394858a526dfbc29167cab9661b0396022d26540@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6750,7 +6490,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:ba1ee1436697604bc7726a539e67f8b6ac33032a@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270322T070000
 DTEND;TZID=America/New_York:20270322T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -6769,7 +6509,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2027-03-2
 END:VEVENT
 BEGIN:VEVENT
 UID:c88f5df2df7c46c95deef479864fc1126ad53f35@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6790,7 +6530,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:c2673cf5bf45e67f998bb081534b6d64ae293514@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270325T170000
 DTEND;TZID=America/New_York:20270325T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -6808,7 +6548,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:f0a4dd2a5239076d444850e2b61a4066f4c715ae@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6829,7 +6569,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:218b5f58fe50ecc06b38d2718edc335c61e50be4@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270329T070000
 DTEND;TZID=America/New_York:20270329T080000
 SUMMARY:Morning Wellness Walks at Awbury
@@ -6848,7 +6588,7 @@ URL:https://gridphilly.com/event/morning-wellness-walks-at-awbury/2027-03-2
 END:VEVENT
 BEGIN:VEVENT
 UID:1ec6f23f91c14d2137e6b336901268cfb9d23566@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6869,7 +6609,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:0dbe8ed1adfd9e4df7b8ab232a035158bef796ce@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270401T170000
 DTEND;TZID=America/New_York:20270401T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -6887,7 +6627,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:c4970fa11ba8835b27df3a9314ade1fa24f29a30@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270402T120000
 DTEND;TZID=America/New_York:20270402T170000
 SUMMARY:One Art Volunteer Day
@@ -6899,7 +6639,7 @@ URL:https://gridphilly.com/event/one-art-volunteer-day-8/
 END:VEVENT
 BEGIN:VEVENT
 UID:30871fc76008a0fe6f27f96ac6089cb5e4c29c06@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6920,7 +6660,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:014187f03bf4987d2e9e840266a2a7364d577a8e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6941,7 +6681,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:0ad9d0d6ed3d40cfebb2e6c65db01684bd35ae49@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270408T170000
 DTEND;TZID=America/New_York:20270408T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -6959,7 +6699,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:5b03a69bac297f7d60927c62a07e83c9e3e2623b@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 SUMMARY:Made in Philadelphia Holiday Market
@@ -6980,7 +6720,7 @@ CATEGORIES:Event,Events,Family,Family Activities,family and kid friendly,Fa
 END:VEVENT
 BEGIN:VEVENT
 UID:a5ac4aec1aa345cd95de73738f99be68b8d9d276@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270415T170000
 DTEND;TZID=America/New_York:20270415T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -6998,7 +6738,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:809c56b41c2b40ce265a5a6d2545f6a3e4a14510@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270422T170000
 DTEND;TZID=America/New_York:20270422T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7016,7 +6756,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:74ad49b1260e3e41156a3bbd70eb7ce1674016bc@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270429T170000
 DTEND;TZID=America/New_York:20270429T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7034,7 +6774,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:2da84dafb4f4b6e1ebab0fbff32cf4c35e063ab8@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270506T170000
 DTEND;TZID=America/New_York:20270506T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7052,7 +6792,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:2d51c2da18e6e597687e0d69086fe3565e024bd1@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270513T170000
 DTEND;TZID=America/New_York:20270513T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7070,7 +6810,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:777d493e663a7daf3179d2748ffefc3cae6c2778@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270520T170000
 DTEND;TZID=America/New_York:20270520T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7088,7 +6828,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:e753c502b8b20c1a298b029e120fd241c5e925de@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270527T170000
 DTEND;TZID=America/New_York:20270527T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7106,7 +6846,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:9b0c37dff89bfaae6482011389b0a5b81a742142@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270603T170000
 DTEND;TZID=America/New_York:20270603T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7124,7 +6864,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:fd4ff595c2ec894d4a0314161abb40ff33230bae@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270610T170000
 DTEND;TZID=America/New_York:20270610T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7142,7 +6882,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:677879c1b3cd7f7fc26275c9cd0d925813ac2a0b@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270617T170000
 DTEND;TZID=America/New_York:20270617T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7160,7 +6900,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:041352d1ad26f6d02d0dbe14133238a3dd15e66f@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270624T170000
 DTEND;TZID=America/New_York:20270624T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7178,7 +6918,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:226fee73ef2acaf216f3b529bdf5a122771a0ff7@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270701T170000
 DTEND;TZID=America/New_York:20270701T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7196,7 +6936,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:4a317f293884923a0d51e5f9e0823c2dc1c3f957@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270708T170000
 DTEND;TZID=America/New_York:20270708T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7214,7 +6954,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:3388fc437ac094ad0201fc49abbb058cd5a2e8b0@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270715T170000
 DTEND;TZID=America/New_York:20270715T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7232,7 +6972,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:8b71f162c6f2a1a9caa583f8ce9e772003f9c723@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270722T170000
 DTEND;TZID=America/New_York:20270722T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7250,7 +6990,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:b0b5ad54ae8843b51772a33ba6a36b2ac6b6d3bd@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270729T170000
 DTEND;TZID=America/New_York:20270729T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7268,7 +7008,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:3f457399cb71cef168d963016e1f688ca0629e5e@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270805T170000
 DTEND;TZID=America/New_York:20270805T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7286,7 +7026,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:6494a20aa9d76016a2a336fcd9484dfa37d1e5ce@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270812T170000
 DTEND;TZID=America/New_York:20270812T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7304,7 +7044,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:55dc9d9daf87d2bef62e0ac4a6dc24991b51fb85@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270819T170000
 DTEND;TZID=America/New_York:20270819T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7322,7 +7062,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:7167734a074a853bcdf2723dda9608e8935d4011@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270826T170000
 DTEND;TZID=America/New_York:20270826T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7340,7 +7080,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:0a83b3361be7c22ad15e38b69ee5f05e68dd3392@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270902T170000
 DTEND;TZID=America/New_York:20270902T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7358,7 +7098,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:e33f271f1e39c5cc5144e45e93a747095e598b17@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270909T170000
 DTEND;TZID=America/New_York:20270909T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7376,7 +7116,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:4af866d5fb910f66a3167081b926b3cba3321d3d@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270916T170000
 DTEND;TZID=America/New_York:20270916T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7394,7 +7134,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:040c921fa3082b6a331e300195cc06f140315060@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270923T170000
 DTEND;TZID=America/New_York:20270923T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7412,7 +7152,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:a1c8b043ceecbf42d856d23ba966b417089197ec@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20270930T170000
 DTEND;TZID=America/New_York:20270930T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7430,7 +7170,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:c08358940e7be1b006961a44bc240724bb884caf@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20271007T170000
 DTEND;TZID=America/New_York:20271007T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7448,7 +7188,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:89efeb013755637eaac20a577de4120dda770180@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20271014T170000
 DTEND;TZID=America/New_York:20271014T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
@@ -7466,7 +7206,7 @@ CATEGORIES:Food &amp\; Drink,Happy Hour
 END:VEVENT
 BEGIN:VEVENT
 UID:b3b54d83f5247c432f2abdf30da8eec19bdb85c0@gridphilly.com
-DTSTAMP:20261114T223500Z
+DTSTAMP:20261115T064703Z
 DTSTART;TZID=America/New_York:20271021T170000
 DTEND;TZID=America/New_York:20271021T200000
 SUMMARY:Happy Hour at Newlin Grist Mill
