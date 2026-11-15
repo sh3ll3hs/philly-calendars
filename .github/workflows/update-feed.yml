@@ -43,7 +43,16 @@ jobs:
         run: python3 xpn_to_ics.py --out docs/xpn.ics --times-cache docs/xpn_times.json
       - name: Build Grid Magazine feed
         continue-on-error: true
-        run: python3 grid_to_ics.py --out docs/grid.ics
+        run: python3 tribe_to_ics.py grid --out docs/grid.ics
+      - name: Build Delco Arts feed
+        continue-on-error: true
+        run: python3 tribe_to_ics.py delcoarts --out docs/delcoarts.ics
+      - name: Build County Lines Magazine feed
+        continue-on-error: true
+        run: python3 tribe_to_ics.py countylines --out docs/countylines.ics
+      - name: Build Philly Family feed
+        continue-on-error: true
+        run: python3 tribe_to_ics.py phillyfamily --out docs/phillyfamily.ics
       # Runs at most once a day (the script skips itself otherwise) to keep load off the library's server
       - name: Build Free Library feed
         continue-on-error: true
