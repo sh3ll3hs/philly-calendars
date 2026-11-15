@@ -30,18 +30,6 @@ class Readers(unittest.TestCase):
         C.get_text = lambda url: body
         C.get_json = lambda url: json.loads(body)
 
-    def test_squarespace_converts_epoch_to_local_time(self):
-        self.serve("combined_squarespace.json")
-        src = {"id": "jet", "name": "Jet Wine Bar", "url": "https://www.jetwinebar.com/events"}
-        ev = C.read_squarespace(src, CTX)
-        self.assertEqual(len(ev), 1)                      # the undated item is dropped
-        e = ev[0]
-        self.assertEqual(e["title"], "Wine Class: Bubbles & Bites")
-        self.assertEqual(e["start"], dt.datetime(2026, 11, 20, 19, 0))   # 1795219200000 ms = Nov 21 00:00 UTC = 7 PM Eastern
-        self.assertEqual(e["end"], dt.datetime(2026, 11, 20, 21, 0))
-        self.assertEqual(e["loc"], "Jet Wine Bar, 1525 South Street, Philadelphia, PA, 19146")
-        self.assertEqual(e["url"], "https://www.jetwinebar.com/events/wine-class")
-
     def test_jsonld_times_dates_and_addresses(self):
         self.serve("combined_jsonld.html")
         src = {"id": "hoj", "name": "The Heart of Jazz", "url": "https://example.org/venue/time/"}

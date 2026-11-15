@@ -1,0 +1,334 @@
+{
+ "componentChunkName": "component---src-templates-news-and-events-js",
+ "path": "/news-and-events/",
+ "result": {
+  "data": {
+   "prismicNewsAndEvents": {
+    "data": {
+     "title": "News & Events"
+    },
+    "uid": "news-and-events",
+    "type": "news_and_events",
+    "url": "/news-and-events/",
+    "lang": "en-us"
+   },
+   "allPrismicNews": {
+    "edges": []
+   },
+   "allPrismicEvent": {
+    "edges": [
+     {
+      "node": {
+       "id": "440b927c-80d8-5d02-8d87-63077aa65273",
+       "url": "/event/november-13-love-your-park/",
+       "lang": "en-us",
+       "type": "event",
+       "data": {
+        "title": "Love Your Park",
+        "start": "2026-11-14T15:00:00+0000",
+        "end": "2026-11-14T18:00:00+0000",
+        "all_day": true,
+        "cost": null,
+        "tags": [
+         {
+          "event_type": "Volunteer Opportunities"
+         },
+         {
+          "event_type": "Nature & the Environment"
+         }
+        ],
+        "recurring_event": false,
+        "frequency": "Monthly",
+        "interval": null,
+        "recurring_end": null,
+        "excluded_dates": [
+         {
+          "date": null
+         }
+        ],
+        "location": [
+         {
+          "venue": "The Rail Park",
+          "address": {
+           "richText": [],
+           "text": ""
+          },
+          "google_maps_url": null,
+          "website": {
+           "url": null
+          }
+         }
+        ]
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "cde49f64-2a90-51ef-aadb-a42bf3f533a2",
+       "url": "/event/dance-on-the-park-with-siempre-salsa/",
+       "lang": "en-us",
+       "type": "event",
+       "data": {
+        "title": "Dance on the Park with Siempre Salsa",
+        "start": "2026-10-31T19:00:00+0000",
+        "end": "2026-10-31T22:00:00+0000",
+        "all_day": false,
+        "cost": null,
+        "tags": [
+         {
+          "event_type": "Arts & Culture"
+         }
+        ],
+        "recurring_event": false,
+        "frequency": "Daily",
+        "interval": null,
+        "recurring_end": null,
+        "excluded_dates": [
+         {
+          "date": null
+         }
+        ],
+        "location": [
+         {
+          "venue": null,
+          "address": {
+           "richText": [],
+           "text": ""
+          },
+          "google_maps_url": null,
+          "website": {
+           "url": null
+          }
+         }
+        ]
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "15c531e6-e96c-5f62-b9fb-78f32670bd2b",
+       "url": "/event/yappy-hour-october-2026/",
+       "lang": "en-us",
+       "type": "event",
+       "data": {
+        "title": "October Yappy Hour",
+        "start": "2026-10-29T21:30:00+0000",
+        "end": "2026-10-29T23:00:00+0000",
+        "all_day": false,
+        "cost": null,
+        "tags": [
+         {
+          "event_type": "Arts & Culture"
+         },
+         {
+          "event_type": "On the Park"
+         }
+        ],
+        "recurring_event": false,
+        "frequency": "Daily",
+        "interval": null,
+        "recurring_end": null,
+        "excluded_dates": [
+         {
+          "date": null
+         }
+        ],
+        "location": [
+         {
+          "venue": "The Rail Park",
+          "address": {
+           "richText": [
+            {
+             "type": "paragraph",
+             "text": "1300 Block of Noble Street",
+             "spans": [],
+             "direction": "ltr"
+            }
+           ],
+           "text": "1300 Block of Noble Street"
+          },
+          "google_maps_url": null,
+          "website": {
+           "url": null
+          }
+         }
+        ]
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "63bedbf7-b8dd-51ca-99aa-65fb6d8aa5cd",
+       "url": "/event/2026-november-tour/",
+       "lang": "en-us",
+       "type": "event",
+       "data": {
+        "title": "Tour the Rail Park!",
+        "start": "2026-11-14T15:00:00+0000",
+        "end": "2026-11-14T17:00:00+0000",
+        "all_day": false,
+        "cost": "20",
+        "tags": [
+         {
+          "event_type": "Tours"
+         }
+        ],
+        "recurring_event": false,
+        "frequency": "Daily",
+        "interval": null,
+        "recurring_end": null,
+        "excluded_dates": [
+         {
+          "date": null
+         }
+        ],
+        "location": [
+         {
+          "venue": null,
+          "address": {
+           "richText": [],
+           "text": ""
+          },
+          "google_maps_url": null,
+          "website": {
+           "url": null
+          }
+         }
+        ]
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "fb3975c1-01f0-5513-8e66-f7946b1d3f6d",
+       "url": "/event/community-engagement-survey/",
+       "lang": "en-us",
+       "type": "event",
+       "data": {
+        "title": "Community Engagement Survey",
+        "start": "2024-03-08T05:00:00+0000",
+        "end": "2024-03-21T03:59:00+0000",
+        "all_day": true,
+        "cost": null,
+        "tags": [],
+        "recurring_event": false,
+        "frequency": "Weekly",
+        "interval": "2",
+        "recurring_end": "2024-11-23",
+        "excluded_dates": [],
+        "location": [
+         {
+          "venue": null,
+          "address": {
+           "richText": [],
+           "text": ""
+          },
+          "google_maps_url": null,
+          "website": {
+           "url": null
+          }
+         }
+        ]
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "18927798-2d7b-5fd4-8a40-4ebd01e0ae98",
+       "url": "/event/block-party/",
+       "lang": "en-us",
+       "type": "event",
+       "data": {
+        "title": "Block Party",
+        "start": "2022-06-11T18:00:00+0000",
+        "end": "2022-05-12T00:00:00+0000",
+        "all_day": false,
+        "cost": null,
+        "tags": [],
+        "recurring_event": false,
+        "frequency": "Daily",
+        "interval": null,
+        "recurring_end": null,
+        "excluded_dates": [
+         {
+          "date": null
+         }
+        ],
+        "location": [
+         {
+          "venue": "The Rail Park",
+          "address": {
+           "richText": [
+            {
+             "type": "paragraph",
+             "text": "1300 Noble Street",
+             "spans": []
+            }
+           ],
+           "text": "1300 Noble Street"
+          },
+          "google_maps_url": "https://www.google.com/maps/@39.9601708,-75.1593962,3a,75y,175.7h,91.42t/data=!3m7!1e1!3m5!1sAF1QipPnztXobhuy9tGFM5y50w0PgOzyzVCBE8d7j5g9!2e10!3e11!7i5504!8i2752",
+          "website": {
+           "url": null
+          }
+         }
+        ]
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "95f9d0a2-530b-5662-9968-ce740150771e",
+       "url": "/event/furry-friends-meet-up/",
+       "lang": "en-us",
+       "type": "event",
+       "data": {
+        "title": "Furry Friends Meet Up",
+        "start": "2023-09-14T20:00:00+0000",
+        "end": "2023-09-14T23:00:00+0000",
+        "all_day": false,
+        "cost": null,
+        "tags": [],
+        "recurring_event": false,
+        "frequency": "Daily",
+        "interval": null,
+        "recurring_end": null,
+        "excluded_dates": [
+         {
+          "date": null
+         }
+        ],
+        "location": [
+         {
+          "venue": "The Rail Park",
+          "address": {
+           "richText": [
+            {
+             "type": "paragraph",
+             "text": "1300 Noble Street Philadelphia, PA 19123",
+             "spans": []
+            }
+           ],
+           "text": "1300 Noble Street Philadelphia, PA 19123"
+          },
+          "google_maps_url": "https://goo.gl/maps/t64h3CsgvGfSQJBWA",
+          "website": {
+           "url": null
+          }
+         }
+        ]
+       }
+      }
+     }
+    ]
+   }
+  },
+  "pageContext": {
+   "language": "en-us",
+   "uid": "news-and-events"
+  }
+ },
+ "staticQueryHashes": [
+  "3000541721"
+ ]
+}

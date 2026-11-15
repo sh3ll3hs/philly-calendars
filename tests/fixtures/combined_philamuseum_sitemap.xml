@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- https://www.philamuseum.org/sitemap-events.xml saved 2026-11-15 and trimmed for the test: 7 of 195 entries kept -->
+  <url>
+    <loc>https://www.philamuseum.org/events</loc>
+    <lastmod>2026-11-15T21:43:37.053Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.philamuseum.org/events/modern-contemporary-art-tour</loc>
+    <lastmod>2026-06-04T22:10:45Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.philamuseum.org/events/friday-night-pepperpot-edition</loc>
+    <lastmod>2026-10-26T17:31:40Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.philamuseum.org/events/friday-holiday-jazz-market-edition</loc>
+    <lastmod>2026-11-12T18:47:01Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.philamuseum.org/events/alter-ego-family-festival</loc>
+    <lastmod>2026-11-13T19:14:47Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.philamuseum.org/events/see-art-make-art-screenprints-banned-books</loc>
+    <lastmod>2026-01-30T17:12:13Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.philamuseum.org/events/exhibition-tour-rodins-hands</loc>
+    <lastmod>2026-11-04T15:04:30Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

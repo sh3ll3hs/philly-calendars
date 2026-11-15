@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<title>Events - Mural Arts</title>
+</head>
+<body>
+<!-- https://muralarts.org/events/ saved 2026-11-15 and trimmed for the test: header, footer, forms, scripts other than window.events, icons and thumbnail URLs removed -->
+<div class="content-container">
+	<script>
+		window.events = [{"id":27534,"title":"Mural Arts Artist Town Hall on AI: Session 1","start":"11\/05\/2026","end":"11\/05\/2026","time":"6:00 pm","url":"https:\/\/muralarts.org\/events\/mural-arts-artist-town-hall-on-ai-session-1\/","thumbnail":false},{"id":27359,"title":"\u201cAging With Style: the Saga of Our Lives\u201d Mural Dedication","start":"11\/06\/2026","end":"11\/06\/2026","time":"1:00 pm","url":"https:\/\/muralarts.org\/events\/mary-field-apartments-mural-dedication\/","thumbnail":false},{"id":27346,"title":"\u201cCircle Up\u201d Mural Dedication","start":"11\/12\/2026","end":"11\/12\/2026","time":"12:00 pm","url":"https:\/\/muralarts.org\/events\/circle-up-mural-dedication\/","thumbnail":false},{"id":27535,"title":"Mural Arts Artist Town Hall on AI: Session 2","start":"11\/12\/2026","end":"11\/12\/2026","time":"6:00 pm","url":"https:\/\/muralarts.org\/events\/mural-arts-artist-town-hall-on-ai-session-2\/","thumbnail":false},{"id":26788,"title":"Rescheduled: \u201cCelebrate the Healer Within\u201d Walter P. Lomax Jr., MD Mural Dedication","start":"11\/14\/2026","end":"11\/14\/2026","time":"11:00 am","url":"https:\/\/muralarts.org\/events\/celebrate-the-healer-within-dr-walter-p-lomax-mural-dedication\/","thumbnail":false},{"id":27360,"title":"Tacony Lab\u2019s Third Annual KNIT-A-THON","start":"11\/14\/2026","end":"11\/15\/2026","time":"12:00 pm","url":"https:\/\/muralarts.org\/events\/tacony-labs-third-annual-knit-a-thon\/","thumbnail":false},{"id":27594,"title":"Eco-Social Realism Open House at TILT","start":"11\/14\/2026","end":"11\/14\/2026","time":"","url":"https:\/\/muralarts.org\/events\/eco-social-realism-open-house-at-tilt\/","thumbnail":false},{"id":27629,"title":"Philadelphia Stars Community Paint Day","start":"11\/17\/2026","end":"11\/17\/2026","time":"6:00 pm","url":"https:\/\/muralarts.org\/events\/community-paint-day-philadelphia-stars-negro-league-baseball-mural\/","thumbnail":false},{"id":27514,"title":"Restorative Justice Month at City Hall: Just Us Exhibition & Reception","start":"11\/19\/2026","end":"11\/19\/2026","time":"10:00 am","url":"https:\/\/muralarts.org\/events\/restorative-justice-month-at-city-hall-just-us-exhibition-reception\/","thumbnail":false},{"id":27509,"title":"\u201cThen and Now and All Around\u201d Dedication","start":"11\/20\/2026","end":"11\/20\/2026","time":"10:00 am","url":"https:\/\/muralarts.org\/events\/then-now-and-all-around-dedication\/","thumbnail":false},{"id":27355,"title":"Defender Association Art Sale","start":"12\/10\/2026","end":"12\/10\/2026","time":"4:00 pm","url":"https:\/\/muralarts.org\/events\/defender-association-art-sale\/","thumbnail":false}];
+	</script>
+	<div class="container py-10">
+		<div x-data="{ activeTab: $persist('list') }" class="mb-8">
+			<div class="flex justify-end divide-x divide-brand">
+				<div class="px-4 first:pl-0 last:pr-0">
+					<button @click="activeTab = 'list'" :class="{'underline': activeTab == 'list'}" class="py-0 text-brand type-tag-sans underline-offset-4">
+						List
+					</button>
+				</div>
+				<div class="px-4 first:pl-0 last:pr-0">
+					<button @click="activeTab = 'calendar'" :class="{'underline': activeTab == 'calendar'}" class="py-0 text-brand type-tag-sans underline-offset-4">
+						Calendar
+					</button>
+				</div>
+			</div>
+			<div id="list-view" x-show="activeTab === 'list'" x-transition:enter="transition ease-out duration-300" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" class="flex flex-col gap-5 mt-6">
+					<a href="https://muralarts.org/events/mural-arts-artist-town-hall-on-ai-session-1/" class="flex flex-col md:flex-row py-5 gap-3 border-b border-brand hidden">
+						<div class="flex-none w-[80px] pt-1">
+															Nov 5
+													</div>
+						<div class="flex-auto w-full">
+							<div class="type-display-md">Mural Arts Artist Town Hall on AI: Session 1</div>
+						</div>
+						<div class="flex-none pl-2">
+						</div>
+					</a>
+					<a href="https://muralarts.org/events/mary-field-apartments-mural-dedication/" class="flex flex-col md:flex-row py-5 gap-3 border-b border-brand hidden">
+						<div class="flex-none w-[80px] pt-1">
+															Nov 6
+													</div>
+						<div class="flex-auto w-full">
+							<div class="type-display-md">&#8220;Aging With Style: the Saga of Our Lives&#8221; Mural Dedication</div>
+						</div>
+						<div class="flex-none pl-2">
+						</div>
+					</a>
+					<a href="https://muralarts.org/events/circle-up-mural-dedication/" class="flex flex-col md:flex-row py-5 gap-3 border-b border-brand hidden">
+						<div class="flex-none w-[80px] pt-1">
+															Nov 12
+													</div>
+						<div class="flex-auto w-full">
+							<div class="type-display-md">&#8220;Circle Up&#8221; Mural Dedication</div>
+						</div>
+						<div class="flex-none pl-2">
+						</div>
+					</a>
+					<a href="https://muralarts.org/events/mural-arts-artist-town-hall-on-ai-session-2/" class="flex flex-col md:flex-row py-5 gap-3 border-b border-brand hidden">
+						<div class="flex-none w-[80px] pt-1">
+															Nov 12
+													</div>
+						<div class="flex-auto w-full">
+							<div class="type-display-md">Mural Arts Artist Town Hall on AI: Session 2</div>
+						</div>
+						<div class="flex-none pl-2">
+						</div>
+					</a>
+					<a href="https://muralarts.org/events/celebrate-the-healer-within-dr-walter-p-lomax-mural-dedication/" class="flex flex-col md:flex-row py-5 gap-3 border-b border-brand hidden">
+						<div class="flex-none w-[80px] pt-1">
+															Nov 14
+													</div>
+						<div class="flex-auto w-full">
+							<div class="type-display-md">Rescheduled: &#8220;Celebrate the Healer Within&#8221; Walter P. Lomax Jr., MD Mural Dedication</div>
+						</div>
+						<div class="flex-none pl-2">
+						</div>
+					</a>
+					<a href="https://muralarts.org/events/tacony-labs-third-annual-knit-a-thon/" class="flex flex-col md:flex-row py-5 gap-3 border-b border-brand ">
+						<div class="flex-none w-[80px] pt-1">
+															Nov 14&ndash;Nov 15
+													</div>
+						<div class="flex-auto w-full">
+							<div class="type-display-md">Tacony Lab&#8217;s Third Annual KNIT-A-THON</div>
+						</div>
+						<div class="flex-none pl-2">
+						</div>
+					</a>
+					<a href="https://muralarts.org/events/eco-social-realism-open-house-at-tilt/" class="flex flex-col md:flex-row py-5 gap-3 border-b border-brand hidden">
+						<div class="flex-none w-[80px] pt-1">
+															Nov 14
+													</div>
+						<div class="flex-auto w-full">
+							<div class="type-display-md">Eco-Social Realism Open House at TILT</div>
+						</div>
+						<div class="flex-none pl-2">
+						</div>
+					</a>
+					<a href="https://muralarts.org/events/community-paint-day-philadelphia-stars-negro-league-baseball-mural/" class="flex flex-col md:flex-row py-5 gap-3 border-b border-brand ">
+						<div class="flex-none w-[80px] pt-1">
+															Nov 17
+													</div>
+						<div class="flex-auto w-full">
+							<div class="type-display-md">Philadelphia Stars Community Paint Day</div>
+						</div>
+						<div class="flex-none pl-2">
+						</div>
+					</a>
+					<a href="https://muralarts.org/events/restorative-justice-month-at-city-hall-just-us-exhibition-reception/" class="flex flex-col md:flex-row py-5 gap-3 border-b border-brand ">
+						<div class="flex-none w-[80px] pt-1">
+															Nov 19
+													</div>
+						<div class="flex-auto w-full">
+							<div class="type-display-md">Restorative Justice Month at City Hall: Just Us Exhibition &#038; Reception</div>
+						</div>
+						<div class="flex-none pl-2">
+						</div>
+					</a>
+					<a href="https://muralarts.org/events/then-now-and-all-around-dedication/" class="flex flex-col md:flex-row py-5 gap-3 border-b border-brand ">
+						<div class="flex-none w-[80px] pt-1">
+															Nov 20
+													</div>
+						<div class="flex-auto w-full">
+							<div class="type-display-md">&#8220;Then and Now and All Around&#8221; Dedication</div>
+						</div>
+						<div class="flex-none pl-2">
+						</div>
+					</a>
+					<a href="https://muralarts.org/events/defender-association-art-sale/" class="flex flex-col md:flex-row py-5 gap-3 border-b border-brand ">
+						<div class="flex-none w-[80px] pt-1">
+															Dec 10
+													</div>
+						<div class="flex-auto w-full">
+							<div class="type-display-md">Defender Association Art Sale</div>
+						</div>
+						<div class="flex-none pl-2">
+						</div>
+					</a>
+							</div>
+			<div id="calendar-view" x-show="activeTab === 'calendar'" x-transition:enter="transition ease-out duration-300" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" class="mt-6">
+				<div id="react-calendar-root"></div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

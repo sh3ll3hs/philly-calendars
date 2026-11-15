@@ -1,0 +1,205 @@
+{
+ "events": [
+  {
+   "ID": "1981528082837",
+   "post_title": "Hive76 Open House",
+   "post_content": "Take a tour of Hive76's makerspace. See our woodshop, laser cutter, 3D printers and more.",
+   "post_date": "2026-11-15T14:30:00",
+   "post_date_gmt": "2026-11-15T19:30:00Z",
+   "start": {
+    "timezone": "America/New_York",
+    "utc": "2026-11-15T19:30:00Z",
+    "local": "2026-11-15T14:30:00"
+   },
+   "end": {
+    "timezone": "America/New_York",
+    "utc": "2026-11-15T22:00:00Z",
+    "local": "2026-11-15T17:00:00"
+   },
+   "venue": {
+    "address": {
+     "address_1": "1821 East Hagert Street",
+     "address_2": "#100c",
+     "city": "Philadelphia",
+     "region": "PA",
+     "postal_code": "19125",
+     "country": "US",
+     "latitude": "39.98616029999999",
+     "longitude": "-75.1296852",
+     "localized_address_display": "1821 East Hagert Street #100c, Philadelphia, PA 19125",
+     "localized_area_display": "Philadelphia, PA",
+     "localized_multi_line_address_display": [
+      "1821 East Hagert Street",
+      "#100c",
+      "Philadelphia, PA 19125"
+     ]
+    },
+    "resource_uri": "https://www.eventbriteapi.com/v3/venues/187380029/",
+    "id": "187380029",
+    "age_restriction": null,
+    "capacity": null,
+    "name": "Hive76",
+    "latitude": "39.98616029999999",
+    "longitude": "-75.1296852"
+   },
+   "public": true,
+   "series_id": "773223320767",
+   "is_series": true,
+   "is_free": true,
+   "status": "live",
+   "online_event": false,
+   "url": "https://www.eventbrite.com/e/hive76-open-house-tickets-1981528082837",
+   "organizer": {
+    "id": "68181119183",
+    "name": "Hive76",
+    "url": "https://www.eventbrite.com/o/hive76-68181119183",
+    "website": "https://hive76.org"
+   },
+   "vue": {
+    "start": "November 15, 2026 @ 2:30 pm",
+    "start_full": "November 15, 2026 @ 2:30 pm",
+    "start_weekday": "Sun",
+    "start_month": "Nov",
+    "start_day": "15",
+    "end": "5:00 pm",
+    "end_full": "5:00 pm",
+    "location": "1821 East Hagert Street #100c, Philadelphia, PA 19125",
+    "title": "Hive76 Open House"
+   }
+  },
+  {
+   "ID": "1981528083840",
+   "post_title": "Hive76 Open House",
+   "post_content": "Take a tour of Hive76's makerspace. See our woodshop, laser cutter, 3D printers and more.",
+   "post_date": "2026-11-22T14:30:00",
+   "post_date_gmt": "2026-11-22T19:30:00Z",
+   "start": {
+    "timezone": "America/New_York",
+    "utc": "2026-11-22T19:30:00Z",
+    "local": "2026-11-22T14:30:00"
+   },
+   "end": {
+    "timezone": "America/New_York",
+    "utc": "2026-11-22T22:00:00Z",
+    "local": "2026-11-22T17:00:00"
+   },
+   "venue": {
+    "address": {
+     "address_1": "1821 East Hagert Street",
+     "address_2": "#100c",
+     "city": "Philadelphia",
+     "region": "PA",
+     "postal_code": "19125",
+     "country": "US",
+     "latitude": "39.98616029999999",
+     "longitude": "-75.1296852",
+     "localized_address_display": "1821 East Hagert Street #100c, Philadelphia, PA 19125",
+     "localized_area_display": "Philadelphia, PA",
+     "localized_multi_line_address_display": [
+      "1821 East Hagert Street",
+      "#100c",
+      "Philadelphia, PA 19125"
+     ]
+    },
+    "resource_uri": "https://www.eventbriteapi.com/v3/venues/187380029/",
+    "id": "187380029",
+    "age_restriction": null,
+    "capacity": null,
+    "name": "Hive76",
+    "latitude": "39.98616029999999",
+    "longitude": "-75.1296852"
+   },
+   "public": true,
+   "series_id": "773223320767",
+   "is_series": true,
+   "is_free": true,
+   "status": "live",
+   "online_event": false,
+   "url": "https://www.eventbrite.com/e/hive76-open-house-tickets-1981528083840",
+   "organizer": {
+    "id": "68181119183",
+    "name": "Hive76",
+    "url": "https://www.eventbrite.com/o/hive76-68181119183",
+    "website": "https://hive76.org"
+   },
+   "vue": {
+    "start": "November 22, 2026 @ 2:30 pm",
+    "start_full": "November 22, 2026 @ 2:30 pm",
+    "start_weekday": "Sun",
+    "start_month": "Nov",
+    "start_day": "22",
+    "end": "5:00 pm",
+    "end_full": "5:00 pm",
+    "location": "1821 East Hagert Street #100c, Philadelphia, PA 19125",
+    "title": "Hive76 Open House"
+   }
+  },
+  {
+   "ID": "1981528084843",
+   "post_title": "Hive76 Open House",
+   "post_content": "Take a tour of Hive76's makerspace. See our woodshop, laser cutter, 3D printers and more.",
+   "post_date": "2026-11-29T14:30:00",
+   "post_date_gmt": "2026-11-29T19:30:00Z",
+   "start": {
+    "timezone": "America/New_York",
+    "utc": "2026-11-29T19:30:00Z",
+    "local": "2026-11-29T14:30:00"
+   },
+   "end": {
+    "timezone": "America/New_York",
+    "utc": "2026-11-29T22:00:00Z",
+    "local": "2026-11-29T17:00:00"
+   },
+   "venue": {
+    "address": {
+     "address_1": "1821 East Hagert Street",
+     "address_2": "#100c",
+     "city": "Philadelphia",
+     "region": "PA",
+     "postal_code": "19125",
+     "country": "US",
+     "latitude": "39.98616029999999",
+     "longitude": "-75.1296852",
+     "localized_address_display": "1821 East Hagert Street #100c, Philadelphia, PA 19125",
+     "localized_area_display": "Philadelphia, PA",
+     "localized_multi_line_address_display": [
+      "1821 East Hagert Street",
+      "#100c",
+      "Philadelphia, PA 19125"
+     ]
+    },
+    "resource_uri": "https://www.eventbriteapi.com/v3/venues/187380029/",
+    "id": "187380029",
+    "age_restriction": null,
+    "capacity": null,
+    "name": "Hive76",
+    "latitude": "39.98616029999999",
+    "longitude": "-75.1296852"
+   },
+   "public": true,
+   "series_id": "773223320767",
+   "is_series": true,
+   "is_free": true,
+   "status": "live",
+   "online_event": false,
+   "url": "https://www.eventbrite.com/e/hive76-open-house-tickets-1981528084843",
+   "organizer": {
+    "id": "68181119183",
+    "name": "Hive76",
+    "url": "https://www.eventbrite.com/o/hive76-68181119183",
+    "website": "https://hive76.org"
+   },
+   "vue": {
+    "start": "November 29, 2026 @ 2:30 pm",
+    "start_full": "November 29, 2026 @ 2:30 pm",
+    "start_weekday": "Sun",
+    "start_month": "Nov",
+    "start_day": "29",
+    "end": "5:00 pm",
+    "end_full": "5:00 pm",
+    "location": "1821 East Hagert Street #100c, Philadelphia, PA 19125",
+    "title": "Hive76 Open House"
+   }
+  }
+ ]
+}

@@ -1,18 +1,19 @@
 #!/usr/bin/env python3
 """
-combined_to_ics.py — one .ics feed merged from many small Philadelphia event sources.
+combined_to_ics.py — one .ics feed merged from many Philadelphia event sources.
 
-The sources (venues, galleries, bars, neighborhood groups) are listed in
+The sources (museums, parks, venues, galleries, bars, neighborhood groups) are listed in
 combined_sources.json. Each entry names a site and how its events can be read:
 
     ics          any public iCalendar feed (Google Calendar, Tockify, Luma)
     tribe        The Events Calendar REST API (/wp-json/tribe/events/v1/events)
-    squarespace  a Squarespace events collection (<page>?format=json)
+    squarespace  a Squarespace events-list page (its HTML; robots.txt rules out ?format=json)
     spothopper   SpotHopper's public events JSON (restaurant and bar sites)
     jsonld       schema.org Event data embedded in the page
     wix          the Wix Events data embedded in the page
     html         a plain HTML events page: the script follows the page's links to
                  individual event pages and reads schema.org Event data there
+    custom       a site with its own reader module in combined_readers/
     text         a plain HTML events page with no structured data anywhere: each
                  small block holding one written date and a heading or link is
                  read as an event (checked by hand before a source is set to this)
@@ -55,7 +56,7 @@ import tribe_to_ics as tribe
 NY = ZoneInfo(TZID)
 UA = "Mozilla/5.0 (combined_to_ics; personal calendar subscription; +https://github.com/sh3ll3hs/philly-calendars)"
 DEFAULT_HOURS = 2
-MAX_DESC = 500
+MAX_DESC = 350
 DETAIL_PER_SOURCE = 12     # event pages opened per html source per run
 DETAIL_TTL_DAYS = 7
 DAILY_MIN = 10
@@ -148,8 +149,12 @@ def event(src, key, title, start, end=None, all_day=False, loc="", url="", desc=
             and end - start >= dt.timedelta(hours=20) and (end.hour, end.minute) in ((23, 59), (0, 0), (1, 0)):
         # "midnight to 11:59 PM" is how sites enter an all-day item (closures, exhibitions)
         start, end, all_day = start.date(), (end - dt.timedelta(minutes=2)).date(), True
+    parts = []
+    for piece in clean(loc).split(", "):          # "..., Philadelphia, PA, 19103, Philadelphia" -> drop the repeat
+        if piece and piece.lower() not in [x.lower() for x in parts]:
+            parts.append(piece)
     return {"src": src["id"], "key": str(key), "title": title, "start": start, "end": end, "all_day": all_day,
-            "loc": clean(loc) or src.get("venue", ""), "url": tribe.good_url(url) or src.get("page") or src["url"],
+            "loc": ", ".join(parts) or src.get("venue", ""), "url": tribe.good_url(url) or src.get("page") or src["url"],
             "desc": text(desc), "source": src["name"]}
 
 
@@ -214,21 +219,10 @@ def read_tribe(src, ctx):
 
 
 def read_squarespace(src, ctx):
-    d = get_json(src["url"].split("?")[0] + "?format=json")
-    root = "{0.scheme}://{0.netloc}".format(urllib.parse.urlsplit(src["url"]))
-    out = []
-    for it in d.get("upcoming") or []:
-        if not it.get("startDate"):
-            continue
-        st = local(dt.datetime.fromtimestamp(int(it["startDate"]) / 1000, dt.timezone.utc))
-        en = local(dt.datetime.fromtimestamp(int(it["endDate"]) / 1000, dt.timezone.utc)) if it.get("endDate") else None
-        L = it.get("location") or {}
-        loc = ", ".join(x for x in (clean(L.get("addressTitle")), clean(L.get("addressLine1")), clean(L.get("addressLine2"))) if x)
-        e = event(src, it.get("id") or it.get("urlId"), it.get("title"), st, en, False, loc,
-                  urllib.parse.urljoin(root, it.get("fullUrl") or ""), it.get("excerpt") or it.get("body"))
-        if e:
-            out.append(e)
-    return out
+    """A Squarespace events-list page, read from its HTML. (The tidier `?format=json`
+    view is ruled out by the robots.txt every Squarespace site ships with.)"""
+    from combined_readers import squarespace_list
+    return squarespace_list.parse(get_text(src["url"]), src)
 
 
 def read_spothopper(src, ctx):
@@ -489,6 +483,15 @@ def read_ics(src, ctx):
 READERS["ics"] = read_ics
 
 
+def read_custom(src, ctx):
+    """A site that needs its own reader: combined_readers/<reader>.py with read(src, ctx)."""
+    import importlib
+    return importlib.import_module(f"combined_readers.{src['reader']}").read(src, ctx)
+
+
+READERS["custom"] = read_custom
+
+
 # ---------------------------------------------------------------- state (JSON-safe events)
 def pack(e):
     d = dict(e)
@@ -629,6 +632,8 @@ def main(argv=None):
     def run(s):
         try:
             got = [e for e in READERS[s["method"]](s, ctx) if e]
+            if s.get("skip"):                 # e.g. "CLOSED" / "PRIVATE EVENT" housekeeping entries
+                got = [e for e in got if not re.search(s["skip"], e["title"], re.I)]
             return s, [e for e in got if e.get("rrule") or lo <= day_of(e) <= hi], ""
         except Exception as ex:
             kind = "blocked" if isinstance(ex, http.BlockedError) else "error"

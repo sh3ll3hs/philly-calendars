@@ -17,7 +17,7 @@ A GitHub Actions workflow rebuilds the feeds every 6 hours and publishes them vi
 | Philly Family | `https://sh3ll3hs.github.io/philly-calendars/phillyfamily.ics` | `tribe_to_ics.py phillyfamily` — same method |
 | Bartram's Garden | `https://sh3ll3hs.github.io/philly-calendars/bartrams.ics` | `tribe_to_ics.py bartrams` — same method (the site's own `?ical=1` link triggers an "insecure connection" warning in Apple Calendar) |
 | Free Library of Philadelphia | `https://sh3ll3hs.github.io/philly-calendars/flp.ics` | `flp_to_ics.py` — the library's per-branch RSS feeds (the calendar site itself is behind a Cloudflare challenge); accumulates daily |
-| Small venues and groups, combined | `https://sh3ll3hs.github.io/philly-calendars/combined.ics` | `combined_to_ics.py` — 79 sites listed in `combined_sources.json` (bars, galleries, neighborhood groups, museums), each read by the best method it offers; see "Combined feed" below |
+| Everything else, combined | `https://sh3ll3hs.github.io/philly-calendars/combined.ics` | `combined_to_ics.py` — 140 sites listed in `combined_sources.json` (museums, parks, bars, galleries, theatres, neighborhood groups, Eventbrite's free Philadelphia listing), each read by the best method it offers; see "Combined feed" below |
 
 Checked and not worth converting: Northeast Times community calendar (prose, last updated Jan 2025),
 Sound Advice newsletter (last issue June 2025), Visit Philly (editorial, stale dates),
@@ -41,24 +41,29 @@ The feed scripts are plain Python 3; `xpn_times.py` and the venue scrapers need 
 
 ## Combined feed (`combined_to_ics.py`)
 
-One feed for sites too small to deserve their own. `combined_sources.json` holds one entry per site: `id`, `name`, `method`, `url`, and optionally `venue` (used as the location when the site gives none), `params`, `page`, `tz`, `off`.
+One feed for every source that does not have a feed of its own above. `combined_sources.json` holds one entry per site: `id`, `name`, `method`, `url`, and optionally `venue` (used as the location when the site gives none), `params`, `page`, `tz`, `skip` (a pattern for titles to drop, such as "CLOSED"), `off`.
 
 | `method` | Reads | Notes |
 |---|---|---|
 | `ics` | any public iCalendar feed (Google Calendar, Tockify, Luma `api.lu.ma/ics/get?entity=calendar&id=…`) | events pass through as published, so repeating events keep their rule; reminders are stripped |
 | `tribe` | The Events Calendar REST API | `params: {"venue": "466"}` narrows a shared calendar to one venue |
-| `squarespace` | `<events page>?format=json` | only works when the page is a real Events collection |
+| `squarespace` | a Squarespace events-list page, from its HTML | the tidier `?format=json` view is disallowed by the robots.txt every Squarespace site ships with, so it is not used; calendar-view pages therefore yield nothing |
 | `spothopper` | `spothopperapp.com/api/spots/<id>/events` | restaurant and bar sites; `page` is the link events open |
 | `jsonld` | schema.org `Event` data in the page | set `"tz": "utc_wall"` for a site whose data applies its UTC offset twice (Weavers Way) |
 | `wix` | the Wix Events data block in the page | |
 | `html` | follows the page's links to event pages and reads schema.org data there | event pages are cached for a week in `docs/combined_state.json` |
 | `text` | a plain page: each small block with one written date and a heading or link | all-day unless the block states a time; switch a source to this only after checking its output by hand |
+| `custom` | a site-specific reader, `combined_readers/<reader>.py` | each module's docstring says what it reads, what it was checked against and how it can break; each has a saved sample and a test |
 
 Events are de-duplicated across sources by title + start time, nightly runs fold into one "(daily through …)" entry, "midnight to 11:59 PM" items become all-day, and a site that answers 403/406 is reported and skipped. Requests carry an honest user agent: several sites refuse a browser-like one outright.
 
 To add a source: find the method with `python3 calfind.py --deep URL` and the table above, add an entry, run `python3 combined_to_ics.py --only <id> --force --out /tmp/t.ics --state /tmp/t.json`, and compare a few events with the site.
 
-Entries marked `"off": true` (80 of them) are events pages with no feed and no structured data; `needs` says what each is waiting for. They are skipped until someone writes a reader.
+Site-specific readers so far: Barnes Foundation, Bob & Barbara's, Center City Events, Cherry Street Pier, Curtis Institute, Delaware River Waterfront, Eventbrite (the public free-events listing for Philadelphia, 5 pages per run, plus single organizer pages), Evil Genius, Hive76, ICA, Mural Arts, Navy Yard, Independence National Historical Park, Parks on Tap, Philadelphia Museum of Art, The Rotunda, Schuylkill Banks, Science History Institute, SideQuest Theater (Crowdwork), The Rail Park.
+
+Rules every reader follows: check robots.txt before relying on a path; a 403/406 or bot challenge means the source is left out (Tixr, Temple, Penn Libraries, GivePulse's API); MATO and Instagram are never requested.
+
+Entries marked `"off": true` (72 of them) are events pages with no feed and no structured data; `needs` says what each is waiting for. They are skipped until someone writes a reader.
 
 ## Venue scrapers (`scrapers/`)
 

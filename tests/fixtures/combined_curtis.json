@@ -1,0 +1,288 @@
+{
+ "success": true,
+ "data": [
+  {
+   "id": 5039,
+   "title": "Graduation Recital: Zubin Hathi, Timpani &amp; Percussion",
+   "date": "2019-01-21",
+   "datetime": "2019-01-21T18:30:00",
+   "time": "6:30 p.m.",
+   "venue": "Curtis Institute of Music, Gould Rehearsal Hall",
+   "season": "2018-19",
+   "isFree": false,
+   "isTicketed": true,
+   "categories": [],
+   "primaryCategory": null,
+   "url": "/event/graduation-recital-zubin-hathi-timpani-percussion-2019-01-21/",
+   "image": null
+  },
+  {
+   "id": 6310,
+   "title": "Opera OnDemand",
+   "date": "2021-01-22",
+   "datetime": "2021-01-22T00:00:00",
+   "time": "12:00 a.m.",
+   "venue": "Virtual Event, Register for Access",
+   "season": "2020-21",
+   "isFree": false,
+   "isTicketed": true,
+   "categories": [
+    "curtis-opera-theatre"
+   ],
+   "primaryCategory": "curtis-opera-theatre",
+   "url": "/event/opera-ondemand-2021-01-22/",
+   "image": {
+    "url": "https://res.cloudinary.com/curtisinstitute/image/upload/c_fill,g_faces,h_680,w_680/opera-on-demand-1440x400_6311e6472?_a=BAAAV6DQ",
+    "alt": ""
+   }
+  },
+  {
+   "id": 13100,
+   "title": "Spring Gala 2023",
+   "date": null,
+   "datetime": null,
+   "time": null,
+   "venue": "Kimmel Center",
+   "season": null,
+   "isFree": false,
+   "isTicketed": true,
+   "categories": [
+    "gala"
+   ],
+   "primaryCategory": "gala",
+   "url": "/event/spring-gala-2023/",
+   "image": {
+    "url": "https://res.cloudinary.com/curtisinstitute/image/upload/c_fill,g_faces,h_680,w_680/MicrosoftTeams-image-50_16720e79d5?_a=BAAAV6DQ",
+    "alt": ""
+   }
+  },
+  {
+   "id": 14400,
+   "title": "John Dowell: <i>A Public Intimate Space</i>",
+   "date": "2022-12-08",
+   "datetime": "2022-12-08T19:00:00",
+   "time": "7:00 p.m.",
+   "venue": "The Barnes Foundation - Annenberg Court",
+   "season": "2022-23",
+   "isFree": false,
+   "isTicketed": true,
+   "categories": [],
+   "primaryCategory": null,
+   "url": "/event/john-dowell-a-public-intimate-space/",
+   "image": {
+    "url": "https://res.cloudinary.com/curtisinstitute/image/upload/c_fill,g_faces,h_680,w_680/John-1_162702b446?_a=BAAAV6DQ",
+    "alt": ""
+   }
+  },
+  {
+   "id": 205778,
+   "title": "Bozza, Beethoven, and more",
+   "date": "2026-11-13",
+   "datetime": "2026-11-13T17:00:00",
+   "time": "5:00 p.m.",
+   "venue": "Curtis Institute of Music, Field Concert Hall",
+   "season": "2026-27",
+   "isFree": true,
+   "isTicketed": true,
+   "categories": [
+    "student-recital",
+    "free"
+   ],
+   "primaryCategory": "student-recital",
+   "url": "/event/student-recital-2026-11-13-5pm/",
+   "image": {
+    "url": "https://www.curtis.edu/wp-content/uploads/2025/09/Piano_calendar_C0A2690-1-1-680x680.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "id": 205782,
+   "title": "Bowen, Prokofiev, and more",
+   "date": "2026-11-13",
+   "datetime": "2026-11-13T19:30:00",
+   "time": "7:30 p.m.",
+   "venue": "Curtis Institute of Music, Field Concert Hall",
+   "season": "2026-27",
+   "isFree": true,
+   "isTicketed": true,
+   "categories": [
+    "student-recital",
+    "free",
+    "broadcast"
+   ],
+   "primaryCategory": "student-recital",
+   "url": "/event/student-recital-2026-11-13/",
+   "image": {
+    "url": "https://www.curtis.edu/wp-content/uploads/2026/08/crs-viola-strings-2026-tracie-van-auken-Calendar-680x680.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "id": 205962,
+   "title": "Curtis at All Hallows: Daniel Carroll, organ",
+   "date": "2026-11-14",
+   "datetime": "2026-11-14T19:00:00",
+   "time": "7:00 p.m.",
+   "venue": "All Hallows Episcopal Church",
+   "season": "2026-27",
+   "isFree": true,
+   "isTicketed": true,
+   "categories": [
+    "student-recital",
+    "free",
+    "partner-presentation"
+   ],
+   "primaryCategory": "student-recital",
+   "url": "/event/curtis-at-all-hallows-2026-11-14/",
+   "image": {
+    "url": "https://www.curtis.edu/wp-content/uploads/2025/09/daniel-carroll-organ-Calendar-680x680.png",
+    "alt": ""
+   }
+  },
+  {
+   "id": 205785,
+   "title": "Bach, Brahms, and Schubert",
+   "date": "2026-11-16",
+   "datetime": "2026-11-16T19:30:00",
+   "time": "7:30 p.m.",
+   "venue": "Curtis Institute of Music, Field Concert Hall",
+   "season": "2026-27",
+   "isFree": true,
+   "isTicketed": true,
+   "categories": [
+    "student-recital",
+    "free"
+   ],
+   "primaryCategory": "student-recital",
+   "url": "/event/student-recital-2026-11-16/",
+   "image": {
+    "url": "https://www.curtis.edu/wp-content/uploads/2025/07/crs-cello-field-Calendar-4-1-680x680.png",
+    "alt": ""
+   }
+  },
+  {
+   "id": 202891,
+   "title": "Susannah",
+   "date": "2026-11-19",
+   "datetime": "2026-11-19T19:00:00",
+   "time": "7:00 p.m.",
+   "venue": "Mainstage Theater, Philadelphia Film Center",
+   "season": "2026-27",
+   "isFree": false,
+   "isTicketed": true,
+   "categories": [
+    "curtis-opera-theatre"
+   ],
+   "primaryCategory": "curtis-opera-theatre",
+   "url": "/event/susannah-nov-19-2627/",
+   "image": {
+    "url": "https://www.curtis.edu/wp-content/uploads/2026/04/COT1-2627-Susannah-Curtis-1440-Desktop-680x680.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "id": 205795,
+   "title": "Mozart, Prokofiev, and more",
+   "date": "2026-11-20",
+   "datetime": "2026-11-20T19:30:00",
+   "time": "7:30 p.m.",
+   "venue": "Curtis Institute of Music, Gould Rehearsal Hall",
+   "season": "2026-27",
+   "isFree": true,
+   "isTicketed": true,
+   "categories": [
+    "free",
+    "broadcast",
+    "student-recital"
+   ],
+   "primaryCategory": "free",
+   "url": "/event/student-recital-2026-11-20/",
+   "image": {
+    "url": "https://www.curtis.edu/wp-content/uploads/2026/01/violin-gould-Calendar-680x680.png",
+    "alt": ""
+   }
+  },
+  {
+   "id": 206418,
+   "title": "Poiesis Quartet Residency Recital",
+   "date": "2026-12-01",
+   "datetime": "2026-12-01T19:30:00",
+   "time": "7:30 p.m.",
+   "venue": "Curtis Institute of Music, Field Concert Hall",
+   "season": "2026-27",
+   "isFree": true,
+   "isTicketed": true,
+   "categories": [
+    "student-recital",
+    "free"
+   ],
+   "primaryCategory": "student-recital",
+   "url": "/event/student-recital-2026-12-01/",
+   "image": {
+    "url": "https://www.curtis.edu/wp-content/uploads/2026/09/updated-poiesis-quartet-2026-calendar-680x680.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "id": 206721,
+   "title": "Project CSO: Tchaikovsky Symphony No. 5",
+   "date": "2026-12-04",
+   "datetime": "2026-12-04T18:00:00",
+   "time": "6:00 p.m.",
+   "venue": "YouTube",
+   "season": "2026-27",
+   "isFree": false,
+   "isTicketed": true,
+   "categories": [
+    "curtis-symphony-orchestra",
+    "broadcast"
+   ],
+   "primaryCategory": "curtis-symphony-orchestra",
+   "url": "/event/project-cso-2026-12-04/",
+   "image": {
+    "url": "https://www.curtis.edu/wp-content/uploads/2026/10/piccolo-project-cso-gould-vanauken-Calendar-680x680.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "id": 205548,
+   "title": "Curtis on Tour in Tryon, NC",
+   "date": "2027-02-16",
+   "datetime": "2027-02-16T19:30:00",
+   "time": "7:30 p.m.",
+   "venue": "Tryon Fine Arts Center",
+   "season": "2026-27",
+   "isFree": false,
+   "isTicketed": true,
+   "categories": [
+    "curtis-on-tour"
+   ],
+   "primaryCategory": "curtis-on-tour",
+   "url": "/event/curtis-on-tour-in-tryon-nc/",
+   "image": {
+    "url": "https://www.curtis.edu/wp-content/uploads/2024/10/canellakis-square-680x680.jpg",
+    "alt": ""
+   }
+  },
+  {
+   "id": 203167,
+   "title": "Osmo Leads Shostakovich 4",
+   "date": "2027-03-14",
+   "datetime": "2027-03-14T15:00:00",
+   "time": "3:00 p.m.",
+   "venue": "Marian Anderson Hall, Kimmel Center",
+   "season": "2026-27",
+   "isFree": false,
+   "isTicketed": true,
+   "categories": [
+    "curtis-symphony-orchestra"
+   ],
+   "primaryCategory": "curtis-symphony-orchestra",
+   "url": "/event/shostakovich-4-mar-14-2627/",
+   "image": {
+    "url": "https://www.curtis.edu/wp-content/uploads/2026/04/CSO3-2627-Osmo-Curtis-1440-Desktop-680x680.jpg",
+    "alt": ""
+   }
+  }
+ ]
+}

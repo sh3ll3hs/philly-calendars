@@ -1,7 +1,0 @@
-{"website": {"timeZone": "America/New_York"}, "past": [],
- "upcoming": [
-  {"id": "6741aa01", "urlId": "wine-class", "title": "Wine Class: Bubbles &amp; Bites", "startDate": 1795219200000, "endDate": 1795226400000,
-   "fullUrl": "/events/wine-class", "excerpt": "<p>A guided tasting of five sparkling wines.</p>",
-   "location": {"addressTitle": "Jet Wine Bar", "addressLine1": "1525 South Street", "addressLine2": "Philadelphia, PA, 19146", "addressCountry": "United States"}},
-  {"id": "6741aa02", "urlId": "no-date", "title": "Undated item", "fullUrl": "/events/no-date"}
- ]}

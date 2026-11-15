@@ -1,10 +1,114 @@
 {
 "detail": {
-"https://statesidelive.com/Events-and-Entertainment/Events/Expecto-Bar-Crawl": {
-"events": [],
+"https://muralarts.org/events/celebrate-the-healer-within-dr-walter-p-lomax-mural-dedication/": {
+"events": [
+{
+"all_day": false,
+"desc": "Cost: Free\n\nJoin us to dedicate Celebrate the Healer Within by Athena Scott, a new mural honoring the life and legacy of Walter P. Lomax, Jr. M.D. (1932\u20132013), a physician, entrepreneur, and philanthropist whose decades of service transformed healthcare access for Philadelphia communities.\n\nEnjoy a spoken word performance, free food, and community while\u2026",
+"end": "2026-11-14T13:00:00",
+"loc": "2024 Reed Street 19146",
+"start": "2026-11-14T11:00:00"
+}
+],
 "fetched": "2026-11-15"
 },
-"https://statesidelive.com/Events-and-Entertainment/Events/New-Years-Eve-Live-Philly": {
+"https://muralarts.org/events/circle-up-mural-dedication/": {
+"events": [
+{
+"all_day": false,
+"desc": "Cost: Free\n\nJoin Mural Arts Philadelphia and COMHAR to dedicate Circle Up, a new mural by Eric Okdeh and Cody Stuhltrager exploring themes of mentorship and leadership through Mural Arts\u2019 Restorative Justice Program.\n\nThe mural grew out of a mentoring relationship between Okdeh, a teaching artist, and Stuhltrager, who learned the art of mural-making while\u2026",
+"end": "2026-11-12T13:00:00",
+"loc": "3147 Emerald St, Philadelphia, PA 19134",
+"start": "2026-11-12T12:00:00"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://muralarts.org/events/community-paint-day-philadelphia-stars-negro-league-baseball-mural/": {
+"events": [
+{
+"all_day": false,
+"desc": "Cost: Free\n\nCome help paint the new Philadelphia Stars Negro League Baseball Mural! The cloth panels that we paint will be installed on the wall at the Miller Parker Philadelphia Stars Negro League Memorial Park in the spring of 2027.\n\nDesigned by muralist David McShane, the new artwork expands upon a 2005 mural that was lost to development. Grab a paint\u2026",
+"end": "2026-11-17T20:00:00",
+"loc": "1101 N 38th St, Philadelphia, PA 19104",
+"start": "2026-11-17T18:00:00"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://muralarts.org/events/defender-association-art-sale/": {
+"events": [
+{
+"all_day": false,
+"desc": "Join us for the annual Defender Association Art Sale on December 10, from 4:00 to 6:00 pm. The art sale will amplify the voices of incarcerated artists while ensuring they are compensated for their creative work. Featuring original artwork by artists at SCI Phoenix, this event celebrates art, justice, and community. Enjoy food, beverages, and\u2026",
+"end": "2026-12-10T18:00:00",
+"loc": "1441 Sansom Street",
+"start": "2026-12-10T16:00:00"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://muralarts.org/events/eco-social-realism-open-house-at-tilt/": {
+"events": [
+{
+"all_day": true,
+"desc": "Tour Eco-Social Realism: Historic Mural Activations at TILT before it closes during an Open House event showcasing ecologically-themed artwork at galleries across the Philadelphia region. At TILT, viewers can explore original works by Jos\u00e9 Ortiz-Pag\u00e1n, Li Sumpter, Lori Waselchuk, and Ricky Yanas & Grimaldi Baez, which emerged from a summer of\u2026",
+"end": null,
+"loc": "TILT Institute for the Contemporary Image, 1400 North American Street",
+"start": "2026-11-14"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://muralarts.org/events/mural-arts-artist-town-hall-on-ai-session-2/": {
+"events": [
+{
+"all_day": false,
+"desc": "Join a Mural Arts town hall to share your perspectives and help shape our organizational policy on AI in our public art practice.\n\nMural Arts is developing an organizational policy on AI as it relates to our work in public art. We invite you to a Mural Arts Artist Town Hall on AI to help shape that policy through your experiences and\u2026",
+"end": "2026-11-12T20:00:00",
+"loc": "1727-29 Mt. Vernon Street",
+"start": "2026-11-12T18:00:00"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://muralarts.org/events/restorative-justice-month-at-city-hall-just-us-exhibition-reception/": {
+"events": [
+{
+"all_day": false,
+"desc": "Cost: Free\n\nNovember is National Restorative Justice Month, a time to recognize art\u2019s role as a pathway toward recovery, reflection, and renewal. Join Creative Philadelphia and Mural Arts Philadelphia at City Hall on November 19 to celebrate Mural Arts\u2019 Restorative Justice program and honor the artists, participants, and teaching artists using art to build a\u2026",
+"end": "2026-11-19T15:00:00",
+"loc": "Philadelphia City Hall, 1400 John F. Kennedy Blvd",
+"start": "2026-11-19T10:00:00"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://muralarts.org/events/tacony-labs-third-annual-knit-a-thon/": {
+"events": [
+{
+"all_day": true,
+"desc": "Set your watch, knit a swatch, and get ready for 24 hours of textile fun at Tacony LAB Community Arts Center\u2019s 3rd Annual Knitathon!\n\nKnitathon is a 24-hour fiber fest and fundraiser, from noon on November 14 to noon on November 15, that encourages the use of handwork and fibers skills to create items for those in need. Ticket sales and raffle\u2026",
+"end": "2026-11-15",
+"loc": "Tacony LAB Community Arts Center, 6918 Torresdale Avenue, Philadelphia, PA, USA",
+"start": "2026-11-14"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://muralarts.org/events/then-now-and-all-around-dedication/": {
+"events": [
+{
+"all_day": false,
+"desc": "Join Mural Arts Philadelphia and the Academy of Natural Sciences to dedicate Then and Now and All Around, a new large-scale mural by scientific illustrator Jane Kim, documenting the wide variety of birds found in Philadelphia and their fascinating connections to local ecologies, watersheds, and neighborhoods.\n\nBorn out of the 2023 exhibition\u2026",
+"end": "2026-11-20T12:00:00",
+"loc": "2331 Frankford Avenue",
+"start": "2026-11-20T10:00:00"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://statesidelive.com/Events-and-Entertainment/Events/Expecto-Bar-Crawl": {
 "events": [],
 "fetched": "2026-11-15"
 },
@@ -78,6 +182,1782 @@
 "events": [],
 "fetched": "2026-11-15"
 },
+"https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/": {
+"events": [
+{
+"all_day": false,
+"desc": "Join us on the first Friday of each month for exhibition openings, artist studio tours, markets, and stunning views of the Delaware River.\n\nAll exhibitions and events are free and open to the public unless otherwise noted. First Friday dates: March 6, April 3, May 1, June 5, July 3, August 7, September 4, October 2, November 6, and December\u2026",
+"end": "2026-05-01T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/|2026-05-01",
+"loc": "Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-05-01T16:00:00",
+"title": "First Friday presented by Fulton Bank",
+"url": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/"
+},
+{
+"all_day": false,
+"desc": "Join us on the first Friday of each month for exhibition openings, artist studio tours, markets, and stunning views of the Delaware River.\n\nAll exhibitions and events are free and open to the public unless otherwise noted. First Friday dates: March 6, April 3, May 1, June 5, July 3, August 7, September 4, October 2, November 6, and December\u2026",
+"end": "2026-06-05T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/|2026-06-05",
+"loc": "Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-06-05T16:00:00",
+"title": "First Friday presented by Fulton Bank",
+"url": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/"
+},
+{
+"all_day": false,
+"desc": "Join us on the first Friday of each month for exhibition openings, artist studio tours, markets, and stunning views of the Delaware River.\n\nAll exhibitions and events are free and open to the public unless otherwise noted. First Friday dates: March 6, April 3, May 1, June 5, July 3, August 7, September 4, October 2, November 6, and December\u2026",
+"end": "2026-07-03T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/|2026-07-03",
+"loc": "Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-07-03T16:00:00",
+"title": "First Friday presented by Fulton Bank",
+"url": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/"
+},
+{
+"all_day": false,
+"desc": "Join us on the first Friday of each month for exhibition openings, artist studio tours, markets, and stunning views of the Delaware River.\n\nAll exhibitions and events are free and open to the public unless otherwise noted. First Friday dates: March 6, April 3, May 1, June 5, July 3, August 7, September 4, October 2, November 6, and December\u2026",
+"end": "2026-08-07T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/|2026-08-07",
+"loc": "Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-08-07T16:00:00",
+"title": "First Friday presented by Fulton Bank",
+"url": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/"
+},
+{
+"all_day": false,
+"desc": "Join us on the first Friday of each month for exhibition openings, artist studio tours, markets, and stunning views of the Delaware River.\n\nAll exhibitions and events are free and open to the public unless otherwise noted. First Friday dates: March 6, April 3, May 1, June 5, July 3, August 7, September 4, October 2, November 6, and December\u2026",
+"end": "2026-09-04T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/|2026-09-04",
+"loc": "Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-09-04T16:00:00",
+"title": "First Friday presented by Fulton Bank",
+"url": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/"
+},
+{
+"all_day": false,
+"desc": "Join us on the first Friday of each month for exhibition openings, artist studio tours, markets, and stunning views of the Delaware River.\n\nAll exhibitions and events are free and open to the public unless otherwise noted. First Friday dates: March 6, April 3, May 1, June 5, July 3, August 7, September 4, October 2, November 6, and December\u2026",
+"end": "2026-10-02T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/|2026-10-02",
+"loc": "Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-10-02T16:00:00",
+"title": "First Friday presented by Fulton Bank",
+"url": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/"
+},
+{
+"all_day": false,
+"desc": "Join us on the first Friday of each month for exhibition openings, artist studio tours, markets, and stunning views of the Delaware River.\n\nAll exhibitions and events are free and open to the public unless otherwise noted. First Friday dates: March 6, April 3, May 1, June 5, July 3, August 7, September 4, October 2, November 6, and December\u2026",
+"end": "2026-11-06T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/|2026-11-06",
+"loc": "Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-11-06T16:00:00",
+"title": "First Friday presented by Fulton Bank",
+"url": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/"
+},
+{
+"all_day": false,
+"desc": "Join us on the first Friday of each month for exhibition openings, artist studio tours, markets, and stunning views of the Delaware River.\n\nAll exhibitions and events are free and open to the public unless otherwise noted. First Friday dates: March 6, April 3, May 1, June 5, July 3, August 7, September 4, October 2, November 6, and December\u2026",
+"end": "2026-12-04T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/|2026-12-04",
+"loc": "Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-12-04T16:00:00",
+"title": "First Friday presented by Fulton Bank",
+"url": "https://www.cherrystreetpier.com/event/2021/11/first-friday-at-cherry-street-pier/"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.cherrystreetpier.com/event/2023/02/art-classes-with-amy-kelly-studio-5/": {
+"events": [
+{
+"all_day": true,
+"desc": "Looking to learn a new skill? Join resident artist Amy Kelly\u2019s various art classes for all ages and skill levels in Studio 8. Learn everything from painting to drawing and more right here on the Pier.\nSchedule\n\nCheck back for updates. New classes are added regularly.\n\nTo register for the classes, contact Amy at 47earrings@gmail.com or visit her\u2026",
+"end": "2026-11-30",
+"key": "https://www.cherrystreetpier.com/event/2023/02/art-classes-with-amy-kelly-studio-5/|2026-06-01",
+"loc": "Studio 8, Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-06-01",
+"title": "Art Classes with Amy Kelly (Studio 8)",
+"url": "https://www.cherrystreetpier.com/event/2023/02/art-classes-with-amy-kelly-studio-5/"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/": {
+"events": [
+{
+"all_day": false,
+"desc": "Shop local at the Artist and Artisans Market on select Fridays and Sundays at the Pier.\nSupport local artists, creatives, and entrepreneurs at the Artist and Artisans Market at Cherry Street Pier. Pick up one-of-a-kind finds at the Pier while you stroll our marketplace and enjoy stunning views of the Ben Franklin Bridge and the Delaware River.\u2026",
+"end": "2026-04-03T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/|2026-04-03",
+"loc": "The Market, Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-04-03T16:00:00",
+"title": "Artist and Artisans Market 2026",
+"url": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/"
+},
+{
+"all_day": false,
+"desc": "Shop local at the Artist and Artisans Market on select Fridays and Sundays at the Pier.\nSupport local artists, creatives, and entrepreneurs at the Artist and Artisans Market at Cherry Street Pier. Pick up one-of-a-kind finds at the Pier while you stroll our marketplace and enjoy stunning views of the Ben Franklin Bridge and the Delaware River.\u2026",
+"end": "2026-05-01T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/|2026-05-01",
+"loc": "The Market, Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-05-01T16:00:00",
+"title": "Artist and Artisans Market 2026",
+"url": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/"
+},
+{
+"all_day": false,
+"desc": "Shop local at the Artist and Artisans Market on select Fridays and Sundays at the Pier.\nSupport local artists, creatives, and entrepreneurs at the Artist and Artisans Market at Cherry Street Pier. Pick up one-of-a-kind finds at the Pier while you stroll our marketplace and enjoy stunning views of the Ben Franklin Bridge and the Delaware River.\u2026",
+"end": "2026-06-05T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/|2026-06-05",
+"loc": "The Market, Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-06-05T16:00:00",
+"title": "Artist and Artisans Market 2026",
+"url": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/"
+},
+{
+"all_day": false,
+"desc": "Shop local at the Artist and Artisans Market on select Fridays and Sundays at the Pier.\nSupport local artists, creatives, and entrepreneurs at the Artist and Artisans Market at Cherry Street Pier. Pick up one-of-a-kind finds at the Pier while you stroll our marketplace and enjoy stunning views of the Ben Franklin Bridge and the Delaware River.\u2026",
+"end": "2026-07-03T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/|2026-07-03",
+"loc": "The Market, Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-07-03T16:00:00",
+"title": "Artist and Artisans Market 2026",
+"url": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/"
+},
+{
+"all_day": false,
+"desc": "Shop local at the Artist and Artisans Market on select Fridays and Sundays at the Pier.\nSupport local artists, creatives, and entrepreneurs at the Artist and Artisans Market at Cherry Street Pier. Pick up one-of-a-kind finds at the Pier while you stroll our marketplace and enjoy stunning views of the Ben Franklin Bridge and the Delaware River.\u2026",
+"end": "2026-08-07T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/|2026-08-07",
+"loc": "The Market, Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-08-07T16:00:00",
+"title": "Artist and Artisans Market 2026",
+"url": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/"
+},
+{
+"all_day": false,
+"desc": "Shop local at the Artist and Artisans Market on select Fridays and Sundays at the Pier.\nSupport local artists, creatives, and entrepreneurs at the Artist and Artisans Market at Cherry Street Pier. Pick up one-of-a-kind finds at the Pier while you stroll our marketplace and enjoy stunning views of the Ben Franklin Bridge and the Delaware River.\u2026",
+"end": "2026-09-04T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/|2026-09-04",
+"loc": "The Market, Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-09-04T16:00:00",
+"title": "Artist and Artisans Market 2026",
+"url": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/"
+},
+{
+"all_day": false,
+"desc": "Shop local at the Artist and Artisans Market on select Fridays and Sundays at the Pier.\nSupport local artists, creatives, and entrepreneurs at the Artist and Artisans Market at Cherry Street Pier. Pick up one-of-a-kind finds at the Pier while you stroll our marketplace and enjoy stunning views of the Ben Franklin Bridge and the Delaware River.\u2026",
+"end": "2026-10-02T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/|2026-10-02",
+"loc": "The Market, Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-10-02T16:00:00",
+"title": "Artist and Artisans Market 2026",
+"url": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/"
+},
+{
+"all_day": false,
+"desc": "Shop local at the Artist and Artisans Market on select Fridays and Sundays at the Pier.\nSupport local artists, creatives, and entrepreneurs at the Artist and Artisans Market at Cherry Street Pier. Pick up one-of-a-kind finds at the Pier while you stroll our marketplace and enjoy stunning views of the Ben Franklin Bridge and the Delaware River.\u2026",
+"end": "2026-11-06T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/|2026-11-06",
+"loc": "The Market, Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-11-06T16:00:00",
+"title": "Artist and Artisans Market 2026",
+"url": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/"
+},
+{
+"all_day": false,
+"desc": "Shop local at the Artist and Artisans Market on select Fridays and Sundays at the Pier.\nSupport local artists, creatives, and entrepreneurs at the Artist and Artisans Market at Cherry Street Pier. Pick up one-of-a-kind finds at the Pier while you stroll our marketplace and enjoy stunning views of the Ben Franklin Bridge and the Delaware River.\u2026",
+"end": "2026-12-04T21:00:00",
+"key": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/|2026-12-04",
+"loc": "The Market, Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-12-04T16:00:00",
+"title": "Artist and Artisans Market 2026",
+"url": "https://www.cherrystreetpier.com/event/2026/03/artist-and-artisans-market/"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.cherrystreetpier.com/event/2026/10/opening-reception-dunu-artists/": {
+"events": [
+{
+"all_day": true,
+"desc": "Discover the work of Termite TV Artists in Residence Joy Waldinger and Lee Bird at Cherry Street Pier from November 6 to December 28, with an opening reception on Friday, November 6 from 5 pm to 8 pm.\nThroughout the summer of 2026, Joy and Lee produced work on site and in collaboration with the Open Kitchen Sculpture Garden. Joy created a\u2026",
+"end": "2026-12-28",
+"key": "https://www.cherrystreetpier.com/event/2026/10/opening-reception-dunu-artists/|2026-11-06",
+"loc": "Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-11-06",
+"title": "Termite TV Resident Artists: Joy Waldinger and Lee Bird Exhibition",
+"url": "https://www.cherrystreetpier.com/event/2026/10/opening-reception-dunu-artists/"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.cherrystreetpier.com/event/2026/11/drink-n-draw-cosplay/": {
+"events": [
+{
+"all_day": false,
+"desc": "Unleash your creativity and bring your artistic skills to life during this fun, interactive figure-drawing experience!\nArtists of all skill levels are invited to practice their traditional drawing techniques while sketching a live model dressed in cosplay. Whether you\u2019re an experienced artist or just looking to try something new, this is a great\u2026",
+"end": "2026-11-15T15:00:00",
+"key": "https://www.cherrystreetpier.com/event/2026/11/drink-n-draw-cosplay/|2026-11-15",
+"loc": "Amphitheater, Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-11-15T13:00:00",
+"title": "Drink N\u2019 Draw Featuring a Live Cosplay Model",
+"url": "https://www.cherrystreetpier.com/event/2026/11/drink-n-draw-cosplay/"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.cherrystreetpier.com/event/2026/11/in-diasporadna-exhibit/": {
+"events": [
+{
+"all_day": true,
+"desc": "Discover the stories, traditions, and cultural connections that shape who we are through In Diaspora, an exhibition exploring identity, heritage, migration, and the ways we carry our histories across generations.\nPresented by DiasporaDNA Story Center, this exhibition invites visitors to reflect on their origins, celebrate the traditions that\u2026",
+"end": "2026-11-26",
+"key": "https://www.cherrystreetpier.com/event/2026/11/in-diasporadna-exhibit/|2026-11-06",
+"loc": "Main Gallery, Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-11-06",
+"title": "In Diaspora",
+"url": "https://www.cherrystreetpier.com/event/2026/11/in-diasporadna-exhibit/"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.cherrystreetpier.com/event/2026/11/kinkeeping-summit-and-holiday-market/": {
+"events": [
+{
+"all_day": false,
+"desc": "Join DiasporaDNA Story Center for the first-ever Kinkeeping Summit\u2014a free, family-friendly celebration of the people, stories, traditions, and relationships that keep our families and communities connected.\nKinkeeping is the intentional work of keeping family and ancestral connections alive\u2014staying in touch, tracing our roots, preserving stories\u2026",
+"end": "2026-11-21T15:00:00",
+"key": "https://www.cherrystreetpier.com/event/2026/11/kinkeeping-summit-and-holiday-market/|2026-11-21",
+"loc": "Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-11-21T11:00:00",
+"title": "DiasporaDNA Kinkeeping Summit & Holiday Market",
+"url": "https://www.cherrystreetpier.com/event/2026/11/kinkeeping-summit-and-holiday-market/"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.cherrystreetpier.com/event/2026/11/philly-in-a-photo/": {
+"events": [
+{
+"all_day": true,
+"desc": "Explore Philly in a Photo: Trails Edition, a youth photojournalism exhibit showcasing how young people see and experience Philadelphia\u2019s trails. Featuring submissions from local youth, the exhibit highlights creativity, community, and the importance of involving the next generation in shaping the future of the city. Join us for the opening\u2026",
+"end": "2026-11-26",
+"key": "https://www.cherrystreetpier.com/event/2026/11/philly-in-a-photo/|2026-11-06",
+"loc": "Terrace Gallery, Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106",
+"source": "Cherry Street Pier",
+"src": "cherrystreetpier",
+"start": "2026-11-06",
+"title": "Philly in a Photo: Trails Edition Opening Reception",
+"url": "https://www.cherrystreetpier.com/event/2026/11/philly-in-a-photo/"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.delawareriverwaterfront.com/what-to-do/fireandice-party-2027": {
+"events": [
+{
+"loc": "Independence Blue Cross RiverRink Winterfest, 101 South Columbus Boulevard, Philadelphia, PA 19106"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.delawareriverwaterfront.com/what-to-do/holiday-tree-lighting-powered-by-peco-2026": {
+"events": [
+{
+"loc": "Independence Blue Cross RiverRink Winterfest, 101 South Columbus Boulevard, Philadelphia, PA 19106"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.delawareriverwaterfront.com/what-to-do/new-year-s-eve-fireworks-on-the-waterfront-2027": {
+"events": [
+{
+"loc": ""
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.delawareriverwaterfront.com/what-to-do/opening-weekend-independence-blue-cross-riverrink-winterfest-2026": {
+"events": [
+{
+"loc": "Independence Blue Cross RiverRink Winterfest, 101 South Columbus Boulevard, Philadelphia, PA 19106"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.ca/e/medal-engraving-monday-with-lululemon-philadelphia-tickets-2004528107530": {
+"events": [
+{
+"all_day": false,
+"desc": "You did it! Celebrate with complimentary medal engraving, sweet treats and your fellow finishers at lululemon Walnut Street.",
+"end": "2026-11-23T14:00:00",
+"key": "2004528107530",
+"loc": "lululemon Walnut St, 1718/1720 Walnut Street, Philadelphia, PA 19102",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-23T08:00:00",
+"title": "Medal Engraving Monday with lululemon Philadelphia",
+"url": "https://www.eventbrite.ca/e/medal-engraving-monday-with-lululemon-philadelphia-tickets-2004528107530"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.ca/e/shakeout-run-with-lululemon-philadelphia-tickets-2004528004221": {
+"events": [
+{
+"all_day": false,
+"desc": "Loosen up, settle the nerves and meet your people. A 5K run or 1.5-mile walk from Evolve in Old City, plus carbs and community after.",
+"end": "2026-11-20T09:00:00",
+"key": "2004528004221",
+"loc": "Evolve Fitness PHL, 126 Race Street, Philadelphia, PA 19106",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-20T07:00:00",
+"title": "Shakeout Run with lululemon Philadelphia",
+"url": "https://www.eventbrite.ca/e/shakeout-run-with-lululemon-philadelphia-tickets-2004528004221"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.co.uk/e/hustle-philadelphia-entrepreneur-networking-event-tickets-2000960414464": {
+"events": [
+{
+"all_day": false,
+"desc": "HUSTLE Philadelphia Entrepreneur Networking Event",
+"end": "2026-11-19T20:00:00",
+"key": "2000960414464",
+"loc": "Devil's Alley Bar & Grill, 1907 Chestnut Street, Philadelphia, PA, 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-19T17:00:00",
+"title": "HUSTLE Philadelphia Entrepreneur Networking Event",
+"url": "https://www.eventbrite.co.uk/e/hustle-philadelphia-entrepreneur-networking-event-tickets-2000960414464"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/2026-gift-of-life-annual-donor-sabbath-commemoration-gospel-concert-tickets-2003418841686": {
+"events": [
+{
+"all_day": false,
+"desc": "Celebrate life through gospel music and donor education at the 2026 Gift of Life Donor Sabbath Commemoration & Gospel Concert",
+"end": "2026-11-21T18:00:00",
+"key": "2003418841686",
+"loc": "Jones Memorial Baptist Church, 2308 North 20th Street, Philadelphia, PA 19132",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-21T15:00:00",
+"title": "2026 Gift of Life Annual Donor Sabbath Commemoration & Gospel Concert",
+"url": "https://www.eventbrite.com/e/2026-gift-of-life-annual-donor-sabbath-commemoration-gospel-concert-tickets-2003418841686"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/2026-philadelphia-holiday-arts-crafts-food-gift-festival-tickets-2003067552972": {
+"events": [
+{
+"all_day": false,
+"desc": "Celebrate the season in person with arts, crafts, festive food, and gifts for everyone!",
+"end": "2026-12-06T18:00:00",
+"key": "2003067552972",
+"loc": "St Pauls Community Center, 1018 Wallace Street, Philadelphia, PA 19123",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-04T10:00:00",
+"title": "2026 Philadelphia Holiday Arts, Crafts, Food & Gift Festival",
+"url": "https://www.eventbrite.com/e/2026-philadelphia-holiday-arts-crafts-food-gift-festival-tickets-2003067552972"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/2nd-annual-phamsgiving-tickets-2003464669759": {
+"events": [
+{
+"all_day": false,
+"desc": "Join the Philadelphia Visitor Center for our second annual Phamsgiving - our way of giving thanks to our outstanding Phams.",
+"end": "2026-11-18T19:30:00",
+"key": "2003464669759",
+"loc": "Philadelphia Visitor Center Corporation, 599 Market Street #2nd Floor, Philadelphia, PA 19106",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-18T17:30:00",
+"title": "2nd Annual Phamsgiving",
+"url": "https://www.eventbrite.com/e/2nd-annual-phamsgiving-tickets-2003464669759"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/actionable-results-series-outcome-tickets-2004246529322": {
+"events": [
+{
+"all_day": false,
+"desc": "In this third session in the series, come learn about the micro-grant participant outcomes, the business impact, and the proof of progress.",
+"end": "2026-12-16T12:00:00",
+"key": "2004246529322",
+"loc": "Pennsylvania Convention Center, Rm. 202AB 1101 Arch Street, Philadelphia, PA 19107",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-16T08:30:00",
+"title": "ACTIONABLE RESULTS SERIES: OUTCOME",
+"url": "https://www.eventbrite.com/e/actionable-results-series-outcome-tickets-2004246529322"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/advances-in-microbiome-research-host-communities-to-the-global-environment-tickets-1998436535474": {
+"events": [
+{
+"all_day": false,
+"desc": "2026 PennCHOP Microbiome Program - Wednesday, Dec 2nd and Thursday, Dec 3rd",
+"end": "2026-12-03T17:00:00",
+"key": "1998436535474",
+"loc": "Biomedical Research Building (BRB), 421 Curie Boulevard, Philadelphia, PA 19104",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-02T08:30:00",
+"title": "Advances in Microbiome Research: Host Communities to the Global Environment",
+"url": "https://www.eventbrite.com/e/advances-in-microbiome-research-host-communities-to-the-global-environment-tickets-1998436535474"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/ai-revolution-shaping-health-innovation-and-intelligent-systems-tickets-2004497922245": {
+"events": [
+{
+"all_day": false,
+"desc": "Join ISSNAF PND & Pi-Philly on Nov 30 at Rittenhouse Square for a free event on how AI is transforming health and intelligent systems!",
+"end": "2026-11-30T19:30:00",
+"key": "2004497922245",
+"loc": "Philadelphia Ethical Society, 1906 Rittenhouse Square, Philadelphia, PA 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-30T18:00:00",
+"title": "AI REVOLUTION: Shaping Health Innovation and Intelligent Systems",
+"url": "https://www.eventbrite.com/e/ai-revolution-shaping-health-innovation-and-intelligent-systems-tickets-2004497922245"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/arfaa-lecture-series-presents-inga-saffron-tickets-1995717882911": {
+"events": [
+{
+"all_day": false,
+"desc": "\u201cPhiladelphia: How an Old American City Can Make itself New Again\u201d",
+"end": "2027-02-03T19:30:00",
+"key": "1995717882911",
+"loc": "Mandell Theater, 3220 Chestnut Street, Philadelphia, PA 19104",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2027-02-03T18:00:00",
+"title": "Arfaa Lecture Series Presents Inga Saffron",
+"url": "https://www.eventbrite.com/e/arfaa-lecture-series-presents-inga-saffron-tickets-1995717882911"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/arfaa-lecture-series-presents-mohammad-gharipour-tickets-1995718105577": {
+"events": [
+{
+"all_day": false,
+"desc": "\u201cThe Project of Modernity: Iranian Architecture in the 1960s and 1970s\u201d",
+"end": "2027-04-19T19:30:00",
+"key": "1995718105577",
+"loc": "Mandell Theater, 3220 Chestnut Street, Philadelphia, PA 19104",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2027-04-19T18:00:00",
+"title": "Arfaa Lecture Series Presents Mohammad Gharipour",
+"url": "https://www.eventbrite.com/e/arfaa-lecture-series-presents-mohammad-gharipour-tickets-1995718105577"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/barnes-calder-together-on-the-parkway-100-years-in-the-making-tickets-2001777513429": {
+"events": [
+{
+"all_day": false,
+"desc": "Examining the planning and design of the Barnes Foundation and Calder Gardens projects in relation to the Parkway and its future.",
+"end": "2026-11-19T19:00:00",
+"key": "2001777513429",
+"loc": "Village of Industry & Art, 320 South Broad Street, Philadelphia, PA 19102",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-19T17:30:00",
+"title": "Barnes & Calder together on the Parkway, 100 years in the making",
+"url": "https://www.eventbrite.com/e/barnes-calder-together-on-the-parkway-100-years-in-the-making-tickets-2001777513429"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/becoming-american-philadelphias-story-film-screening-and-qa-tickets-2002947021459": {
+"events": [
+{
+"all_day": false,
+"desc": "Explore Philadelphia\u2019s early history through film and conversation with Becoming American, presented in connection with At Liberty.",
+"end": "2026-12-06T16:00:00",
+"key": "2002947021459",
+"loc": "Arthur Ross Gallery, University of Pennsylvania, Located in the Fisher Fine Arts Library Building 220 S. 34th Street, Philadelphia, PA 19104",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-06T14:00:00",
+"title": "Becoming American: Philadelphia\u2019s Story | Film Screening and Q&A",
+"url": "https://www.eventbrite.com/e/becoming-american-philadelphias-story-film-screening-and-qa-tickets-2002947021459"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/book-launch-holly-by-grace-ge-gilbert-tickets-2003773679014": {
+"events": [
+{
+"all_day": false,
+"desc": "A multimedia reading, performance, and conversation celebrating grace (ge) gilbert's new book Holly.",
+"end": "2026-11-20T20:00:00",
+"key": "2003773679014",
+"loc": "Ulises, 1525 N American St. Studio #104, Philadelphia, PA 19122",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-20T18:00:00",
+"title": "Book Launch: Holly by grace (ge) gilbert",
+"url": "https://www.eventbrite.com/e/book-launch-holly-by-grace-ge-gilbert-tickets-2003773679014"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/book-talk-with-david-luban-tickets-2003682775118": {
+"events": [
+{
+"all_day": false,
+"desc": "Powers of Judgment: Hannah Arendt\u2019s Moral and Legal Philosophy, 1.5 Ethics CLE Credits for PA lawyers",
+"end": "2026-11-19T18:00:00",
+"key": "2003682775118",
+"loc": "Perelman Center for Political Science and Economics, 133 South 36th Street Auditorium, Philadelphia, PA 19104",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-19T16:30:00",
+"title": "Book Talk with David Luban",
+"url": "https://www.eventbrite.com/e/book-talk-with-david-luban-tickets-2003682775118"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/bowling-with-dads-philly-tickets-1999040919202": {
+"events": [
+{
+"all_day": false,
+"desc": "The AAMWA presents Bowling with Dads. Come out and spend some quality time with your children while striking some pins.",
+"end": "2026-12-05T16:00:00",
+"key": "1999040919202",
+"loc": "South Bowl, 19 East Oregon Avenue, Philadelphia, PA 19148",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-05T13:00:00",
+"title": "Bowling with Dads Philly!",
+"url": "https://www.eventbrite.com/e/bowling-with-dads-philly-tickets-1999040919202"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/budget-friendly-nutrition-class-tickets-2003144289493": {
+"events": [
+{
+"all_day": false,
+"desc": "Dieticians providing guidance in creating nutritious and budget-friendly meals.",
+"end": "2026-11-18T19:30:00",
+"key": "2003144289493",
+"loc": "The Culinary Literacy Center at Parkway Central Library, 1901 Vine Street 4th Floor, Philadelphia, PA 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-18T17:30:00",
+"title": "Budget-Friendly Nutrition Class",
+"url": "https://www.eventbrite.com/e/budget-friendly-nutrition-class-tickets-2003144289493"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/burlesque-quizzo-tickets-1998488894080": {
+"events": [
+{
+"all_day": false,
+"desc": "FREE monthly quizzo/bingo & burlesque show hosted by the scintillating chanteuse Victoria Reno, featuring guest performers!",
+"end": "2026-11-29T22:00:00",
+"key": "1998488894080",
+"loc": "MilkBoy South Street, 401 South Street, Philadelphia, PA 19147",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-29T19:00:00",
+"title": "Burlesque Quizzo",
+"url": "https://www.eventbrite.com/e/burlesque-quizzo-tickets-1998488894080"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/celebration-of-innovation-2026-tickets-1999702068718": {
+"events": [
+{
+"all_day": false,
+"desc": "Celebrate Penn researchers and innovators named as inventors on patents issued to Penn this past fiscal year.",
+"end": "2026-12-01T18:30:00",
+"key": "1999702068718",
+"loc": "Amy Gutmann Hall, 3317 Chestnut Street, Philadelphia, PA 19104",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-01T16:30:00",
+"title": "Celebration of Innovation 2026",
+"url": "https://www.eventbrite.com/e/celebration-of-innovation-2026-tickets-1999702068718"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/cigarb-at-cigar-code-tickets-1989863240518": {
+"events": [
+{
+"all_day": false,
+"desc": "We are back at Cigar Code. The kitchen isn't open yet but stay tuned. You can bring your own food or order delivery in the meantime.",
+"end": "2026-11-18T23:30:00",
+"key": "1989863240518",
+"loc": "The Cigar Code, 939 North Delaware Avenue, Philadelphia, PA 19123",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-18T18:00:00",
+"title": "CigaR&B at Cigar Code",
+"url": "https://www.eventbrite.com/e/cigarb-at-cigar-code-tickets-1989863240518"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/coffee-conversations-an-open-mic-spoken-word-night-tickets-1990809927083": {
+"events": [
+{
+"all_day": false,
+"desc": "An open mic and featured poetry series at your local library; celebrating creativity, community, and connection over coffee.",
+"end": "2026-11-24T18:30:00",
+"key": "1990809927083",
+"loc": "Walnut Street West Library, 201 South 40th Street, Philadelphia, PA 19104",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-24T16:30:00",
+"title": "Coffee & Conversations, an open mic spoken word night",
+"url": "https://www.eventbrite.com/e/coffee-conversations-an-open-mic-spoken-word-night-tickets-1990809927083"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/combee-harriet-tubman-the-combahee-river-raid-and-black-freedom-tickets-2003218044095": {
+"events": [
+{
+"all_day": false,
+"desc": "Dive into the powerful stories of Harriet Tubman and the Combahee River Raid that shaped Black freedom history.",
+"end": "2026-11-30T21:30:00",
+"key": "2003218044095",
+"loc": "Founders' Hall, 5698 Wister Street, Philadelphia, PA 19144",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-30T19:30:00",
+"title": "COMBEE: Harriet Tubman, the Combahee River Raid, and Black Freedom",
+"url": "https://www.eventbrite.com/e/combee-harriet-tubman-the-combahee-river-raid-and-black-freedom-tickets-2003218044095"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/community-paint-day-philadelphia-stars-negro-league-baseball-mural-tickets-2004256383797": {
+"events": [
+{
+"all_day": false,
+"desc": "Come paint panels of the mural to be installed at Miller Parker Philadelphia Stars Negro League Memorial Park!",
+"end": "2026-11-17T20:00:00",
+"key": "2004256383797",
+"loc": "Clayborne and Lewis Community Center, 1101 North 38th Street, Philadelphia, PA 19104",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-17T18:00:00",
+"title": "Community Paint Day | Philadelphia Stars Negro League Baseball Mural",
+"url": "https://www.eventbrite.com/e/community-paint-day-philadelphia-stars-negro-league-baseball-mural-tickets-2004256383797"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/community-violence-prevention-funding-resources-forum-tickets-2004449420174": {
+"events": [
+{
+"all_day": false,
+"desc": "Join community leaders, nonprofits, and violence prevention professionals for a workshop on grant funding, resources, and advocacy.",
+"end": "2026-11-18T15:00:00",
+"key": "2004449420174",
+"loc": "4261 North 5th Street, Philadelphia, PA 19140",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-18T10:00:00",
+"title": "Community Violence Prevention: Funding & Resources Forum",
+"url": "https://www.eventbrite.com/e/community-violence-prevention-funding-resources-forum-tickets-2004449420174"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/democracy-amid-insecurity-a-conversation-w-pres-laura-chinchilla-registration-2004233103164": {
+"events": [
+{
+"all_day": false,
+"desc": "Register today for this special event with Former President of Costa Rica Laura Chinchilla",
+"end": "2026-11-18T17:00:00",
+"key": "2004233103164",
+"loc": "Perry World House, 3803 Locust Walk, Philadelphia, PA 19104",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-18T16:00:00",
+"title": "Democracy Amid Insecurity: A Conversation w/ Pres. Laura Chinchilla",
+"url": "https://www.eventbrite.com/e/democracy-amid-insecurity-a-conversation-w-pres-laura-chinchilla-registration-2004233103164"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/discover-food-sources-in-philly-cousins-market-tickets-2003143640552": {
+"events": [
+{
+"all_day": false,
+"desc": "Monthly program focusing on a different source of food in Philadelphia be it a market, garden, cooperative, or other source.",
+"end": "2026-12-01T19:30:00",
+"key": "2003143640552",
+"loc": "The Culinary Literacy Center at Parkway Central Library, 1901 Vine Street 4th Floor, Philadelphia, PA 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-01T17:30:00",
+"title": "Discover Food Sources in Philly! - Cousin's Market",
+"url": "https://www.eventbrite.com/e/discover-food-sources-in-philly-cousins-market-tickets-2003143640552"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/dna-detectives-investigating-the-basics-of-dna-tickets-2002309612953": {
+"events": [
+{
+"all_day": false,
+"desc": "Become a DNA detective in this fun, hands-on family workshop!",
+"end": "2026-12-15T18:30:00",
+"key": "2002309612953",
+"loc": "Thomas G. Morton School, 2501 South 63rd Street, Philadelphia, PA 19142",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-15T17:00:00",
+"title": "DNA Detectives: Investigating the basics of DNA",
+"url": "https://www.eventbrite.com/e/dna-detectives-investigating-the-basics-of-dna-tickets-2002309612953"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/earn-your-plate-tickets-2004384990463": {
+"events": [
+{
+"all_day": false,
+"desc": "Run, walk, or jog across the Ben Franklin Bridge on Thanksgiving morning at the 12th annual EARN YOUR PLATE!\u2014all ages welcome.",
+"end": "2026-11-26T10:00:00",
+"key": "2004384990463",
+"loc": "Benjamin Franklin Bridge S. Walkway pedestrian entrance PA, 232 North 5th Street, Philadelphia, PA 19106",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-26T08:00:00",
+"title": "EARN YOUR PLATE!",
+"url": "https://www.eventbrite.com/e/earn-your-plate-tickets-2004384990463"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/einstein-philadelphia-jefferson-health-nurse-manager-open-house-tickets-2003354486197": {
+"events": [
+{
+"all_day": false,
+"desc": "Come check out the Einstein Jefferson Health Open House and learn about exciting opportunities for Nurse Externs and New Grad RNs!",
+"end": "2027-01-05T15:00:00",
+"key": "2003354486197",
+"loc": "Gouley Auditorium Einstein Philadelphia, 5501 Old York Road, Philadelphia, PA 19141",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2027-01-05T11:00:00",
+"title": "Einstein Philadelphia Jefferson Health - Nurse Manager Open House",
+"url": "https://www.eventbrite.com/e/einstein-philadelphia-jefferson-health-nurse-manager-open-house-tickets-2003354486197"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/excellence-is-the-standard-sustaining-success-in-demanding-careers-tickets-2004463788149": {
+"events": [
+{
+"all_day": false,
+"desc": "Join us for our November General Body Meeting! We will discuss sustaining excellence in demanding careers.",
+"end": "2026-11-18T20:00:00",
+"key": "2004463788149",
+"loc": "Greenberg Traurig, LLP, 1717 Arch Street #400, Philadelphia, PA 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-18T18:00:00",
+"title": "Excellence Is the Standard: Sustaining Success In Demanding Careers",
+"url": "https://www.eventbrite.com/e/excellence-is-the-standard-sustaining-success-in-demanding-careers-tickets-2004463788149"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/feeding-the-village-building-systems-of-care-to-end-hunger-tickets-2002797345775": {
+"events": [
+{
+"all_day": false,
+"desc": "Join us to explore what it takes to build a resilient, collaborative response to hunger from strategy to grassroots efforts to funding.",
+"end": "2026-11-20T12:00:00",
+"key": "2002797345775",
+"loc": "St. Christopher's Hospital for Children, 160 East Erie Avenue, Philadelphia, PA 19134",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-20T11:00:00",
+"title": "Feeding the Village: Building Systems of Care to End Hunger",
+"url": "https://www.eventbrite.com/e/feeding-the-village-building-systems-of-care-to-end-hunger-tickets-2002797345775"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/feud-night-at-victory-brewing-philadelphia-tickets-1988121559102": {
+"events": [
+{
+"all_day": false,
+"desc": "Feud Night with great drinks!",
+"end": "2026-12-07T21:00:00",
+"key": "1988121559102",
+"loc": "Victory Brewing Company Philadelphia, 1776 Benjamin Franklin Parkway, Philadelphia, PA 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-07T19:00:00",
+"title": "Feud Night at Victory Brewing - Philadelphia!",
+"url": "https://www.eventbrite.com/e/feud-night-at-victory-brewing-philadelphia-tickets-1988121559102"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/free-philadelphia-pa-acting-class-tickets-2003777866539": {
+"events": [
+{
+"all_day": false,
+"desc": "Free Philadelphia, PA Acting Class and Open House with celebrity acting coach Louis Stancil",
+"end": "2026-11-29T16:00:00",
+"key": "2003777866539",
+"loc": "Philadelphia, ADDRESS PROVIDED, PA SOON",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-29T12:00:00",
+"title": "Free Philadelphia, PA Acting Class",
+"url": "https://www.eventbrite.com/e/free-philadelphia-pa-acting-class-tickets-2003777866539"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/grateful-dead-run-club-philadelphia-shakeout-run-tickets-2004547135443": {
+"events": [
+{
+"all_day": false,
+"desc": "Join the Grateful Dead Run Club Philadelphia Shakeout Run online for a fun, groovy start to your week!",
+"end": "2026-11-21T14:00:00",
+"key": "2004547135443",
+"loc": "1201 Market Street, Philadelphia, PA 19107",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-21T09:30:00",
+"title": "Grateful Dead Run Club ~ Philadelphia Shakeout Run",
+"url": "https://www.eventbrite.com/e/grateful-dead-run-club-philadelphia-shakeout-run-tickets-2004547135443"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/in-personfree-urban-league-first-time-homebuyer-seminar-dec-12-2026-tickets-2004147272442": {
+"events": [
+{
+"all_day": false,
+"desc": "YOUR DREAM HOME IS CLOSER THAN YOU THINK!!! JOIN US TO GET YOUR 4HR CREDIT FROM THE URBAN LEAGUE FOR HELP WITH DOWN-PAYMENT AND CLOSING COST",
+"end": "2026-12-12T14:00:00",
+"key": "2004147272442",
+"loc": "In Person! Free! Urban League First Time HomeBuyer Seminar, Get your 4hr credit needed for downpayment and closing costs grant, 3333 W Hunting Park Ave, Philadelphia, PA 19132",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-12T10:00:00",
+"title": "IN PERSON!FREE URBAN LEAGUE FIRST TIME HOMEBUYER SEMINAR! DEC 12, 2026",
+"url": "https://www.eventbrite.com/e/in-personfree-urban-league-first-time-homebuyer-seminar-dec-12-2026-tickets-2004147272442"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/in-pursuit-philadelphia-and-the-making-of-america-tickets-2002664579668": {
+"events": [
+{
+"all_day": false,
+"desc": "Film + conversation examining how Philadelphia\u2019s past and present continue to shape the American story.",
+"end": "2026-11-16T21:00:00",
+"key": "2002664579668",
+"loc": "Chestnut Hill College, 9601 Germantown Avenue #20, Philadelphia, PA 19118",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-16T19:00:00",
+"title": "In Pursuit: Philadelphia and the Making of America",
+"url": "https://www.eventbrite.com/e/in-pursuit-philadelphia-and-the-making-of-america-tickets-2002664579668"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/institutional-sales-workshop-position-your-business-for-new-opportunities-tickets-2003948736616": {
+"events": [
+{
+"all_day": false,
+"desc": "Free for SupplyPHL businesses: Build the skills, confidence, and relationships to pursue contracts with large institutions.",
+"end": "2026-11-18T19:00:00",
+"key": "2003948736616",
+"loc": "OIC Philadelphia, 1231 North Broad Street, Philadelphia, PA 19122",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-18T16:30:00",
+"title": "Institutional Sales Workshop: Position Your Business for New Opportunities",
+"url": "https://www.eventbrite.com/e/institutional-sales-workshop-position-your-business-for-new-opportunities-tickets-2003948736616"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/italian-opera-for-our-age-a-model-for-global-collaboration-tickets-2004393345453": {
+"events": [
+{
+"all_day": false,
+"desc": "Celebrating America 250, this event explores Philadelphia\u2019s legacy as North America\u2019s capital of Italian opera from the 1700s to today.",
+"end": "2026-11-21T13:00:00",
+"key": "2004393345453",
+"loc": "Athenaeum of Philadelphia, 219 South 6th Street, Philadelphia, PA 19106",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-21T11:00:00",
+"title": "Italian Opera for Our Age: A Model for Global Collaboration",
+"url": "https://www.eventbrite.com/e/italian-opera-for-our-age-a-model-for-global-collaboration-tickets-2004393345453"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/kinkeeping-summit-tickets-1993841959975": {
+"events": [
+{
+"all_day": false,
+"desc": "A Free Family-Friendly Celebration of Heritage, Joy & Connection!",
+"end": "2026-11-21T15:00:00",
+"key": "1993841959975",
+"loc": "Cherry Street Pier, 121 North Christopher Columbus Boulevard Suite 13, Philadelphia, PA 19106",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-21T11:00:00",
+"title": "Kinkeeping Summit",
+"url": "https://www.eventbrite.com/e/kinkeeping-summit-tickets-1993841959975"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/knife-skills-and-vegetarian-gumbo-tickets-2003144233325": {
+"events": [
+{
+"all_day": false,
+"desc": "An introduction to knife skills",
+"end": "2026-11-17T19:30:00",
+"key": "2003144233325",
+"loc": "The Culinary Literacy Center at Parkway Central Library, 1901 Vine Street 4th Floor, Philadelphia, PA 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-17T17:30:00",
+"title": "Knife Skills and Vegetarian Gumbo",
+"url": "https://www.eventbrite.com/e/knife-skills-and-vegetarian-gumbo-tickets-2003144233325"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/la-salle-stem-posium-research-showcase-and-competition-tickets-2002085988085": {
+"events": [
+{
+"all_day": false,
+"desc": "Come check out some cool STEM projects and friendly competition where bright minds show off their research skills!",
+"end": "2026-12-01T14:00:00",
+"key": "2002085988085",
+"loc": "La Salle University - Union Ballroom, 1900 West Olney Avenue, Philadelphia, PA 19141",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-01T12:00:00",
+"title": "La Salle STEM-Posium Research Showcase and Competition",
+"url": "https://www.eventbrite.com/e/la-salle-stem-posium-research-showcase-and-competition-tickets-2002085988085"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/legacy-with-9th-wonder-terry-hunter-buckshot-barbara-tucker-more-tickets-2003328306894": {
+"events": [
+{
+"all_day": false,
+"desc": "Two floors. One night. LEGACY brings Hip-Hop + House together for a night of legendary experiences with a legendary line up. Don't miss it!",
+"end": "2026-11-22T02:00:00",
+"key": "2003328306894",
+"loc": "Warehouse on Watts | W.O.W., 923 North Watts Street, Philadelphia, PA 19123",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-21T21:00:00",
+"title": "Legacy with 9th Wonder, Terry Hunter, Buckshot, Barbara Tucker + more!",
+"url": "https://www.eventbrite.com/e/legacy-with-9th-wonder-terry-hunter-buckshot-barbara-tucker-more-tickets-2003328306894"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/love-abide-with-you-the-birthplace-quilts-tickets-1997716333330": {
+"events": [
+{
+"all_day": false,
+"desc": "mike durkin, multidisciplinary artist, leads a workshop exploring the concept of \"birthplace,\" mending, and commemoration today",
+"end": "2026-12-02T15:00:00",
+"key": "1997716333330",
+"loc": "LGBT Center, 3907 Spruce Street, Philadelphia, PA 19104",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-02T12:00:00",
+"title": "Love Abide with You, The Birthplace Quilts",
+"url": "https://www.eventbrite.com/e/love-abide-with-you-the-birthplace-quilts-tickets-1997716333330"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/miracle-on-26th-street-tickets-2002458374904": {
+"events": [
+{
+"all_day": false,
+"desc": "Get ready to experience the magic and joy of the holidays at Miracle on 26th Street, live and in person!",
+"end": "2026-12-19T19:00:00",
+"key": "2002458374904",
+"loc": "2600 Tasker Street, Philadelphia, PA 19145",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-19T12:00:00",
+"title": "Miracle on 26th Street",
+"url": "https://www.eventbrite.com/e/miracle-on-26th-street-tickets-2002458374904"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/mirage-on-sundays-rsvp-for-free-drink-tickets-1978787692255": {
+"events": [
+{
+"all_day": false,
+"desc": "Dopest Sunday Night vibe in the City \u2022 Every Sunday \u2022 Everybody FREE Entry b4 10 \u2022 119 South St. Phila \u2022 Hookah x Food x Drinks x Bottles",
+"end": "2026-11-16T02:00:00",
+"key": "1978787692255",
+"loc": "Mirage Lounge Philadelphia, 119 South Street, Philadelphia, PA 19147",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-15T20:00:00",
+"title": "MIRAGE on SUNDAYS \u2022 RSVP for FREE Drink",
+"url": "https://www.eventbrite.com/e/mirage-on-sundays-rsvp-for-free-drink-tickets-1978787692255"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/moviejawn-philly-free-library-present-laura-1944-tickets-1994594629229": {
+"events": [
+{
+"all_day": false,
+"desc": "Join MovieJawn at Parkway Central Library for a free screening of 1944's LAURA",
+"end": "2026-11-20T16:00:00",
+"key": "1994594629229",
+"loc": "Parkway Central Library, 1901 Vine Street, Philadelphia, PA 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-20T13:30:00",
+"title": "MovieJawn & Philly Free Library present LAURA (1944)",
+"url": "https://www.eventbrite.com/e/moviejawn-philly-free-library-present-laura-1944-tickets-1994594629229"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/moviejawn-philly-free-library-present-the-lost-weekend-1945-tickets-1994594947180": {
+"events": [
+{
+"all_day": false,
+"desc": "Join MovieJawn at Parkway Central Library for a free screening of 1945's THE LOST WEEKEND",
+"end": "2026-12-18T16:00:00",
+"key": "1994594947180",
+"loc": "Parkway Central Library, 1901 Vine Street, Philadelphia, PA 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-18T13:30:00",
+"title": "MovieJawn & Philly Free Library present THE LOST WEEKEND (1945)",
+"url": "https://www.eventbrite.com/e/moviejawn-philly-free-library-present-the-lost-weekend-1945-tickets-1994594947180"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/music-buddies-mixer-tickets-2004447723098": {
+"events": [
+{
+"all_day": false,
+"desc": "A mixer for people who want more friends, like going to shows, and want more friends to go to shows with.",
+"end": "2026-12-03T20:00:00",
+"key": "2004447723098",
+"loc": "Tattooed Mom, 530 South Street, Philadelphia, PA 19147",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-03T18:00:00",
+"title": "Music Buddies Mixer",
+"url": "https://www.eventbrite.com/e/music-buddies-mixer-tickets-2004447723098"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/networking-for-liberty-happy-hour-tickets-1095409743029": {
+"events": [
+{
+"all_day": false,
+"desc": "A social evening for liberty enthusiasts who enjoy interesting discussions over cold drinks.",
+"end": "2026-12-08T21:00:00",
+"key": "1095409743029",
+"loc": "Ryan's Pub Manayunk, 4301 Main Street, Philadelphia, PA 19127",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-08T18:00:00",
+"title": "Networking for liberty happy hour",
+"url": "https://www.eventbrite.com/e/networking-for-liberty-happy-hour-tickets-1095409743029"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/nickel-and-dimed-25-years-later-tickets-2004546899738": {
+"events": [
+{
+"all_day": false,
+"desc": "A lively discussion about Barbara Ehrenreich's landmark book, low-wage, physically demanding work, and how to report on it.",
+"end": "2026-11-16T19:00:00",
+"key": "2004546899738",
+"loc": "Public Trust, 4017 Walnut Street, Philadelphia, PA 19104",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-16T17:30:00",
+"title": "Nickel and Dimed, 25 Years Later",
+"url": "https://www.eventbrite.com/e/nickel-and-dimed-25-years-later-tickets-2004546899738"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/november-processing-event-tickets-1988631340873": {
+"events": [
+{
+"all_day": false,
+"desc": "The PA Flax Project is back at the Wyck Historic House and Garden to show you how the flax crop becomes spinnable fiber!",
+"end": "2026-11-20T13:00:00",
+"key": "1988631340873",
+"loc": "6026 Germantown Avenue, Philadelphia, PA 19144",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-20T10:00:00",
+"title": "November Processing Event",
+"url": "https://www.eventbrite.com/e/november-processing-event-tickets-1988631340873"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/november-tei-salt-event-hosted-by-deloitte-tickets-2003749321159": {
+"events": [
+{
+"all_day": false,
+"desc": "Join Deloitte Tax LLP and the Tax Executives Institute Philadelphia Chapter for our annual half-day State & Local Tax (SALT) event.",
+"end": "2026-11-18T14:00:00",
+"key": "2003749321159",
+"loc": "1700 Market Street, Philadelphia, PA 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-18T08:30:00",
+"title": "November TEI SALT Event Hosted by Deloitte",
+"url": "https://www.eventbrite.com/e/november-tei-salt-event-hosted-by-deloitte-tickets-2003749321159"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/operation-turkey-philadelphia-2026-tickets-2004262187155": {
+"events": [
+{
+"all_day": false,
+"desc": "Help us prepare, package and deliver 2500 meals to the homeless and less fortunate on Thanksgiving Day in Philly and the Tri-State area.",
+"end": "2026-11-26T12:00:00",
+"key": "2004262187155",
+"loc": "The Common Place, 5736 Chester Ave, Philadelphia, PA 19143",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-25T18:00:00",
+"title": "Operation Turkey - Philadelphia 2026",
+"url": "https://www.eventbrite.com/e/operation-turkey-philadelphia-2026-tickets-2004262187155"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/parent-family-university-fall-learning-festival-tickets-2004012263627": {
+"events": [
+{
+"all_day": false,
+"desc": "Celebrate National Family Engagement Month with us with learning events, organization sign-ups, giveaways, and more!",
+"end": "2026-11-21T14:00:00",
+"key": "2004012263627",
+"loc": "440 North Broad Street, Philadelphia, PA 19130",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-21T11:00:00",
+"title": "Parent & Family University Fall Learning Festival",
+"url": "https://www.eventbrite.com/e/parent-family-university-fall-learning-festival-tickets-2004012263627"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/pax-unplugged-clank-10th-anniversary-the-dragons-birthday-party-tickets-2001246616502": {
+"events": [
+{
+"all_day": false,
+"desc": "The beloved deck-building board game Clank! celebrates its 10th birthday with a custom scenario using the new Clank! Master Thief Edition!",
+"end": "2026-12-04T16:45:00",
+"key": "2001246616502",
+"loc": "PAX Unplugged - Tabletop Tourney Room (Room 115), 1101 Arch Street, Philadelphia, PA 19107",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-04T12:45:00",
+"title": "PAX Unplugged \u2013 Clank! 10th Anniversary: The Dragon's Birthday Party",
+"url": "https://www.eventbrite.com/e/pax-unplugged-clank-10th-anniversary-the-dragons-birthday-party-tickets-2001246616502"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/philadelphia-connection-conversation-with-albany-medical-college-tickets-1995936083555": {
+"events": [
+{
+"all_day": false,
+"desc": "Join Albany Medical College in Philadelphia for an evening of connection and conversation with Dean Alan S. Boulos, MD '94, MHCDS.",
+"end": "2026-11-20T20:00:00",
+"key": "1995936083555",
+"loc": "The Union League of Philadelphia, 140 South Broad Street, Philadelphia, PA 19102",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-20T18:00:00",
+"title": "Philadelphia | Connection & Conversation with Albany Medical College",
+"url": "https://www.eventbrite.com/e/philadelphia-connection-conversation-with-albany-medical-college-tickets-1995936083555"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/philadelphia-hiring-event-tickets-2000920538193": {
+"events": [
+{
+"all_day": false,
+"desc": "Meet live with top employers",
+"end": "2026-12-04T12:30:00",
+"key": "2000920538193",
+"loc": "Marriott Hotel, Street, Philadelphia, PA 19107",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-04T09:30:00",
+"title": "Philadelphia Hiring Event",
+"url": "https://www.eventbrite.com/e/philadelphia-hiring-event-tickets-2000920538193"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/philadelphia-job-fair-december-9-2026-philadelphia-career-fairs-tickets-1865601156279": {
+"events": [
+{
+"all_day": false,
+"desc": "Are you looking for a job in Philadelphia? If you are, this event is a must-attend. Meet with top hiring companies in Philadelphia.",
+"end": "2026-12-09T14:00:00",
+"key": "1865601156279",
+"loc": "Courtyard Philadelphia City Avenue, 4100 Presidential Boulevard, Philadelphia, PA 19131",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-09T11:00:00",
+"title": "Philadelphia Job Fair December 9, 2026 - Philadelphia Career Fairs",
+"url": "https://www.eventbrite.com/e/philadelphia-job-fair-december-9-2026-philadelphia-career-fairs-tickets-1865601156279"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/phmc-hiring-event-tickets-2004594536220": {
+"events": [
+{
+"all_day": false,
+"desc": "PHMC\u2019s in-person hiring event brings professionals together to explore openings across multiple programs and disciplines.",
+"end": "2026-11-20T15:00:00",
+"key": "2004594536220",
+"loc": "Public Health Managment Corporation, 4601 Market Street, Philadelphia, PA 19139",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-20T10:00:00",
+"title": "PHMC Hiring Event",
+"url": "https://www.eventbrite.com/e/phmc-hiring-event-tickets-2004594536220"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/plan-forward-tickets-2003925789982": {
+"events": [
+{
+"all_day": false,
+"desc": "Join us for a Philadelphia CoC Board and Office of Homeless Services-hosted panel discussion, informational session, and networking hour.",
+"end": "2026-11-19T13:00:00",
+"key": "2003925789982",
+"loc": "Parkway Central Library - Skyline Room, 1901 Vine Street, Philadelphia, PA 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-19T10:00:00",
+"title": "Plan Forward",
+"url": "https://www.eventbrite.com/e/plan-forward-tickets-2003925789982"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/preparando-tu-negocio-para-la-temporada-de-impuestos-tickets-2003742767557": {
+"events": [
+{
+"all_day": false,
+"desc": "Prep\u00e1rate para la temporada de impuestos con consejos pr\u00e1cticos y respuestas a tus dudas, en persona.",
+"end": "2026-11-19T13:00:00",
+"key": "2003742767557",
+"loc": "M Claudio Enterprise LLC, 3009 N 5th St, Philadelphia, PA 19133",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-19T09:00:00",
+"title": "Preparando tu negocio para la temporada de impuestos",
+"url": "https://www.eventbrite.com/e/preparando-tu-negocio-para-la-temporada-de-impuestos-tickets-2003742767557"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/real-estate-business-owners-investors-networking-happy-hour-tickets-2003212753270": {
+"events": [
+{
+"all_day": false,
+"desc": "A Night of Networking! Whether you're an established business owner, investor, real estate professional, or just getting started, Join us!",
+"end": "2026-12-01T20:30:00",
+"key": "2003212753270",
+"loc": "Pyramid Club, 52nd Floor, 1735 Market St 52 floor, Philadelphia, PA 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-01T17:30:00",
+"title": "Real Estate, Business Owners & Investors Networking Happy Hour",
+"url": "https://www.eventbrite.com/e/real-estate-business-owners-investors-networking-happy-hour-tickets-2003212753270"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/regional-leadership-meeting-2026-holiday-edition-tickets-1986009803785": {
+"events": [
+{
+"all_day": false,
+"desc": "Join us for our \"Holiday Edition\" Regional Leadership Meeting that will help you crush your 2027 goals!",
+"end": "2026-12-04T15:00:00",
+"key": "1986009803785",
+"loc": "Citizens Bank Park, 1 Citizens Bank Way, Philadelphia, PA 19148",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-04T09:00:00",
+"title": "Regional Leadership Meeting - 2026 Holiday Edition",
+"url": "https://www.eventbrite.com/e/regional-leadership-meeting-2026-holiday-edition-tickets-1986009803785"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/sankofa-tickets-2003796766068": {
+"events": [
+{
+"all_day": false,
+"desc": "Join the People's Cinema Club for a screening of Sankofa directed by Haile Gerima. Hosted by BlackStar Projects.",
+"end": "2026-12-01T21:00:00",
+"key": "2003796766068",
+"loc": "Village of Industry & Art, 320 South Broad Street, Philadelphia, PA 19102",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-01T18:30:00",
+"title": "Sankofa",
+"url": "https://www.eventbrite.com/e/sankofa-tickets-2003796766068"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/sgdi-the-return-popup-shop-tickets-2002609722589": {
+"events": [
+{
+"all_day": false,
+"desc": "SGDI Family, the wait is over! After nearly two years since our last collection, we\u2019re back. Welcome to The Return: Fall 2026!",
+"end": "2026-11-21T22:00:00",
+"key": "2002609722589",
+"loc": "2233 North 7th Street, Philadelphia, PA 19133",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-21T18:00:00",
+"title": "SGDI \"The Return\" Popup shop",
+"url": "https://www.eventbrite.com/e/sgdi-the-return-popup-shop-tickets-2002609722589"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/still-sounds-an-evening-conversation-with-will-downing-tickets-2004035247372": {
+"events": [
+{
+"all_day": false,
+"desc": "Soul and R&B Singer, Will Downing, discusses his latest photography book with Dyana Williams, creator of Black Music Month.",
+"end": "2026-12-03T20:00:00",
+"key": "2004035247372",
+"loc": "Parkway Central Library, 1901 Vine Street, Philadelphia, Pennsylvania, PA 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-03T18:30:00",
+"title": "Still Sounds: An Evening Conversation with Will Downing",
+"url": "https://www.eventbrite.com/e/still-sounds-an-evening-conversation-with-will-downing-tickets-2004035247372"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/stitch-and-bitch-at-natural-creativity-tickets-2002231306737": {
+"events": [
+{
+"all_day": false,
+"desc": "A relaxed evening of sewing, mending, and good company on the 2nd Thursday of the month. Bring a project or start one. All skill levels we",
+"end": "2026-12-10T20:30:00",
+"key": "2002231306737",
+"loc": "3820 The Oak Road, Philadelphia, PA 19129",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-10T18:30:00",
+"title": "Stitch and Bitch at Natural Creativity",
+"url": "https://www.eventbrite.com/e/stitch-and-bitch-at-natural-creativity-tickets-2002231306737"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/story-circles-with-august-wilson-beyond-2026-tickets-2004409571987": {
+"events": [
+{
+"all_day": false,
+"desc": "Come out to hear stories of family, struggle, and the people who makes us who we are, plus share some of your own.",
+"end": "2026-12-05T15:00:00",
+"key": "2004409571987",
+"loc": "White Rock Baptist Church, 5240 Chestnut Street, Philadelphia, PA 19139",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-05T12:30:00",
+"title": "Story Circles with August Wilson & Beyond 2026",
+"url": "https://www.eventbrite.com/e/story-circles-with-august-wilson-beyond-2026-tickets-2004409571987"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/thank-a-member-karaoke-night-tickets-2003471887347": {
+"events": [
+{
+"all_day": false,
+"desc": "Join us at WXPN for Live Band Karaoke! FREE admission.",
+"end": null,
+"key": "2003471887347",
+"loc": "3025 Walnut Street, Philadelphia, PA 19104",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-20T19:00:00",
+"title": "Thank-A-Member Karaoke Night!",
+"url": "https://www.eventbrite.com/e/thank-a-member-karaoke-night-tickets-2003471887347"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/thankful-for-our-heroes-dinner-and-award-ceremony-tickets-2002665829406": {
+"events": [
+{
+"all_day": false,
+"desc": "Join us for a fun night honoring our heroes with great food, awards, and heartfelt thanks!",
+"end": "2026-11-19T16:00:00",
+"key": "2002665829406",
+"loc": "The Salvation Army Kroc Center of Philadelphia, 4200 Wissahickon Avenue, Philadelphia, PA 19129",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-19T12:00:00",
+"title": "Thankful For Our Heroes Dinner and Award Ceremony",
+"url": "https://www.eventbrite.com/e/thankful-for-our-heroes-dinner-and-award-ceremony-tickets-2002665829406"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/thanksgiving-2026-volunteer-sign-up-tickets-2003621249092": {
+"events": [
+{
+"all_day": false,
+"desc": "Help us serve or free Thanksgiving dinner to our community!",
+"end": "2026-11-26T14:00:00",
+"key": "2003621249092",
+"loc": "Rock Ministries of Philadelphia, 2755 Kensington Ave, Philadelphia, PA 19134",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-26T10:30:00",
+"title": "Thanksgiving 2026 Volunteer Sign-Up",
+"url": "https://www.eventbrite.com/e/thanksgiving-2026-volunteer-sign-up-tickets-2003621249092"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/the-arts-of-self-care-catalyzing-art-making-for-well-being-tickets-2002240129125": {
+"events": [
+{
+"all_day": false,
+"desc": "Caregivers and parents often sacrifice their well-being for their families, but to care for others, you must also care for yourself!",
+"end": "2026-11-19T18:30:00",
+"key": "2002240129125",
+"loc": "Martin Luther King High School, 6100 Stenton Avenue, Philadelphia, PA 19138",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-19T17:00:00",
+"title": "The Arts of Self-Care: Catalyzing Art-Making for Well-Being",
+"url": "https://www.eventbrite.com/e/the-arts-of-self-care-catalyzing-art-making-for-well-being-tickets-2002240129125"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/the-gentlemans-corner-happy-hour-mixer-tickets-2004388898151": {
+"events": [
+{
+"all_day": false,
+"desc": "A sophisticated post-work happy hour featuring a fragrance bar, curated drinks, and multi-industry networking.",
+"end": "2026-11-19T21:00:00",
+"key": "2004388898151",
+"loc": "Revolution House, 200 Market Street, Philadelphia, PA 19106",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-19T18:00:00",
+"title": "The Gentleman's Corner Happy Hour Mixer",
+"url": "https://www.eventbrite.com/e/the-gentlemans-corner-happy-hour-mixer-tickets-2004388898151"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/the-mayor-author-brian-alexander-mayor-stefan-roots-tickets-1997921874108": {
+"events": [
+{
+"all_day": false,
+"desc": "Can one challenged city show the way to restore faith in government and reimagine the nation\u2019s future? Join this community discussion.",
+"end": "2026-12-02T19:30:00",
+"key": "1997921874108",
+"loc": "Parkway Central Library, 1901 Vine Street, Philadelphia, PA 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-02T18:00:00",
+"title": "The Mayor | Author Brian Alexander & Mayor Stefan Roots",
+"url": "https://www.eventbrite.com/e/the-mayor-author-brian-alexander-mayor-stefan-roots-tickets-1997921874108"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/the-wonders-of-philadelphia-city-hall-tickets-2003326963877": {
+"events": [
+{
+"all_day": false,
+"desc": "Discover Philadelphia City Hall\u2019s history, sculpture, and restoration through the insights of tour leader Greta Greenberger and preservation",
+"end": "2026-12-15T19:30:00",
+"key": "2003326963877",
+"loc": "Village of Industry & Art, 320 South Broad Street, Philadelphia, PA 19102",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-15T17:30:00",
+"title": "The Wonders of Philadelphia City Hall",
+"url": "https://www.eventbrite.com/e/the-wonders-of-philadelphia-city-hall-tickets-2003326963877"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/thomas-jefferson-university-hospital-nurse-manager-open-house-tickets-2002070526840": {
+"events": [
+{
+"all_day": false,
+"desc": "Come check out the Jefferson Health Center City Open House and learn about exciting opportunities for Nurse Externs and New Grad RNs!",
+"end": "2027-01-12T14:30:00",
+"key": "2002070526840",
+"loc": "Jefferson Alumni Hall, 1020 Locust Street, Philadelphia, PA 19107",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2027-01-12T10:30:00",
+"title": "Thomas Jefferson University Hospital Nurse Manager Open House",
+"url": "https://www.eventbrite.com/e/thomas-jefferson-university-hospital-nurse-manager-open-house-tickets-2002070526840"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/trivia-at-the-bar-at-claudes-comedy-club-tickets-1998523451442": {
+"events": [
+{
+"all_day": false,
+"desc": "Whiz Wit Trivia is coming to Claude\u2019s for free general trivia, drinks, prizes, and pre-show hangs before the evening's comedy show.",
+"end": "2026-11-19T19:00:00",
+"key": "1998523451442",
+"loc": "Claude's Comedy Club & Bar, 1123 South Broad Street #Cellar, Philadelphia, PA 19147",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-19T17:30:00",
+"title": "Trivia at the bar at Claude\u2019s Comedy Club",
+"url": "https://www.eventbrite.com/e/trivia-at-the-bar-at-claudes-comedy-club-tickets-1998523451442"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/ukrainian-bandurist-chorus-presents-a-ukrainian-christmas-philadelphiapa-tickets-2003896653835": {
+"events": [
+{
+"all_day": false,
+"desc": "Experience a 90-minute Christmas program featuring musicians from across North America led by Artistic Director and Conductor Oleh Mahlay",
+"end": null,
+"key": "2003896653835",
+"loc": "Ukrainian Catholic Cathedral of the Immaculate Conception, 830 North Franklin Street, Philadelphia, PA 19123",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-20T14:30:00",
+"title": "UKRAINIAN BANDURIST CHORUS presents A UKRAINIAN CHRISTMAS - PHILADELPHIA,PA",
+"url": "https://www.eventbrite.com/e/ukrainian-bandurist-chorus-presents-a-ukrainian-christmas-philadelphiapa-tickets-2003896653835"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/vetsintech-greater-philadelphia-end-of-year-community-celebration-tickets-1997984145363": {
+"events": [
+{
+"all_day": false,
+"desc": "Join VetsinTech Greater Philadelphia to celebrate another year of connection, community, and building together!",
+"end": "2026-12-03T20:00:00",
+"key": "1997984145363",
+"loc": "Yards Brewing Company, 500 Spring Garden Street, Philadelphia, PA 19123",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-03T18:00:00",
+"title": "VetsinTech Greater Philadelphia End-of-Year Community Celebration",
+"url": "https://www.eventbrite.com/e/vetsintech-greater-philadelphia-end-of-year-community-celebration-tickets-1997984145363"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/wild-turkey-friendsgiving-tickets-2004611246200": {
+"events": [
+{
+"all_day": false,
+"desc": "Join the Philly USBG and Wild Turkey for our Wild Turkey Friendsgiving at Attico on November 16th.",
+"end": "2026-11-16T22:00:00",
+"key": "2004611246200",
+"loc": "Attico Rooftop, 219 South Broad Street, Philadelphia, PA 19107",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-11-16T19:00:00",
+"title": "Wild Turkey Friendsgiving!",
+"url": "https://www.eventbrite.com/e/wild-turkey-friendsgiving-tickets-2004611246200"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/winter-wonderland-community-baby-shower-tickets-2002397747566": {
+"events": [
+{
+"all_day": false,
+"desc": "Join us for a cozy celebration filled with fun, gifts, and good vibes as we welcome the newest little neighbors! All Items of Free!",
+"end": "2026-12-04T15:00:00",
+"key": "2002397747566",
+"loc": "Concilio, 141 East Hunting Park Avenue, Philadelphia, PA 19124",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-04T12:00:00",
+"title": "Winter Wonderland Community Baby Shower",
+"url": "https://www.eventbrite.com/e/winter-wonderland-community-baby-shower-tickets-2002397747566"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/wooden-nickel-vox-populis-99-preview-event-tickets-1997269582085": {
+"events": [
+{
+"all_day": false,
+"desc": "Preview Wooden Nickel, Vox\u2019s 5th annual $99 Exhibition, with first-pick art, live music, small bites + champagne for the first 99 people!",
+"end": "2026-12-02T20:00:00",
+"key": "1997269582085",
+"loc": "Vox Populi, 319 N 11th Street Third Floor, Philadelphia, PA 19107",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-02T18:00:00",
+"title": "Wooden Nickel: Vox Populi's $99 Preview Event",
+"url": "https://www.eventbrite.com/e/wooden-nickel-vox-populis-99-preview-event-tickets-1997269582085"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/worker-well-being-the-full-cost-of-community-impact-tickets-2004500700555": {
+"events": [
+{
+"all_day": false,
+"desc": "\"What Comes Next?\" after NFF's \"Heart of the Sector\" Philadelphia convening on 9/22.",
+"end": "2026-12-08T12:30:00",
+"key": "2004500700555",
+"loc": "The Philadelphia Foundation, 1835 Market Street #2410, Philadelphia, PA 19103",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-08T09:30:00",
+"title": "Worker Well-Being & the Full Cost of Community Impact",
+"url": "https://www.eventbrite.com/e/worker-well-being-the-full-cost-of-community-impact-tickets-2004500700555"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.eventbrite.com/e/wxpn-philly-anthems-live-tickets-2003626797688": {
+"events": [
+{
+"all_day": false,
+"desc": "Catch amazing talent\u2014with performances by artists part of WXPN Philly Anthems!",
+"end": null,
+"key": "2003626797688",
+"loc": "3025 Walnut Street, Philadelphia, PA 19104",
+"source": "Eventbrite (free events in Philadelphia)",
+"src": "eventbrite",
+"start": "2026-12-10T19:30:00",
+"title": "WXPN Philly Anthems LIVE",
+"url": "https://www.eventbrite.com/e/wxpn-philly-anthems-live-tickets-2003626797688"
+}
+],
+"fetched": "2026-11-15"
+},
 "https://www.moviejawn.com/events/2026/11/20/laura": {
 "events": [
 {
@@ -86,7 +1966,7 @@
 "end": "2026-11-20T16:00:00",
 "key": "https://www.moviejawn.com/events/2026/11/20/laura|2026-11-20T13:30:00-0500",
 "loc": "Philadelphia Parkway Central Library, 1901 Vine Street Philadelphia, PA 19103 USA",
-"source": "Moviejawn",
+"source": "MovieJawn",
 "src": "moviejawn",
 "start": "2026-11-20T13:30:00",
 "title": "LAURA (1944) at Parkway Central Library \u2014 Moviejawn",
@@ -103,7 +1983,7 @@
 "end": "2026-11-21T23:15:00",
 "key": "https://www.moviejawn.com/events/2026/11/21/scream|2026-11-21T20:15:00-0500",
 "loc": "Oaks Center Cinema, 180 Mill Road Oaks, PA 19456 USA",
-"source": "Moviejawn",
+"source": "MovieJawn",
 "src": "moviejawn",
 "start": "2026-11-21T20:15:00",
 "title": "SCREAM in 16mm at Oaks Center Cinema \u2014 Moviejawn",
@@ -120,7 +2000,7 @@
 "end": "2026-11-15T22:00:00",
 "key": "https://www.moviejawn.com/events/2026/13/11/noir-city|2026-11-13T18:30:00-0500",
 "loc": "Ambler Theater, 108 E. Butler Avenue Ambler, PA 19002 USA",
-"source": "Moviejawn",
+"source": "MovieJawn",
 "src": "moviejawn",
 "start": "2026-11-13T18:30:00",
 "title": "Noir City Philadelphia 2026 at Ambler Theater \u2014 Moviejawn",
@@ -128,9 +2008,1119 @@
 }
 ],
 "fetched": "2026-11-15"
+},
+"https://www.philamuseum.org/events/3-in-30-tour": {
+"events": [
+{
+"all_day": false,
+"desc": "Tours\n\n\u200bJoin us on this 30 minute guided tour as we take a deep dive into 3 objects in our collection and discover the unique theme that connects them.",
+"end": "2026-11-12T14:00:00",
+"key": "https://www.philamuseum.org/events/3-in-30-tour|2026-11-12T18:30:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Great Stair Hall), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-12T13:30:00",
+"title": "3 Stories in 30 Minutes Tour",
+"url": "https://www.philamuseum.org/events/3-in-30-tour?start=2026-11-12T18:30:00.000Z&end=2026-11-12T19:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-11-10T15:28:11Z",
+"occ": [
+[
+"2026-11-12T13:30:00",
+"2026-11-12T14:00:00"
+],
+[
+"2026-11-13T13:30:00",
+"2026-11-13T14:00:00"
+],
+[
+"2026-11-14T13:30:00",
+"2026-11-14T14:00:00"
+],
+[
+"2026-11-19T13:30:00",
+"2026-11-19T14:00:00"
+],
+[
+"2026-11-20T13:30:00",
+"2026-11-20T14:00:00"
+],
+[
+"2026-11-21T13:30:00",
+"2026-11-21T14:00:00"
+],
+[
+"2026-11-26T13:30:00",
+"2026-11-26T14:00:00"
+],
+[
+"2026-11-27T13:30:00",
+"2026-11-27T14:00:00"
+],
+[
+"2026-11-28T13:30:00",
+"2026-11-28T14:00:00"
+],
+[
+"2026-12-03T13:30:00",
+"2026-12-03T14:00:00"
+],
+[
+"2026-12-04T13:30:00",
+"2026-12-04T14:00:00"
+],
+[
+"2026-12-05T13:30:00",
+"2026-12-05T14:00:00"
+],
+[
+"2026-12-10T13:30:00",
+"2026-12-10T14:00:00"
+],
+[
+"2026-12-11T13:30:00",
+"2026-12-11T14:00:00"
+],
+[
+"2026-12-12T13:30:00",
+"2026-12-12T14:00:00"
+],
+[
+"2026-12-17T13:30:00",
+"2026-12-17T14:00:00"
+],
+[
+"2026-12-18T13:30:00",
+"2026-12-18T14:00:00"
+],
+[
+"2026-12-19T13:30:00",
+"2026-12-19T14:00:00"
+],
+[
+"2026-12-24T13:30:00",
+"2026-12-24T14:00:00"
+],
+[
+"2026-12-26T13:30:00",
+"2026-12-26T14:00:00"
+],
+[
+"2026-12-31T13:30:00",
+"2026-12-31T14:00:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/40-years-collab-design-award": {
+"events": [
+{
+"all_day": false,
+"desc": "Social",
+"end": "2026-11-19T20:00:00",
+"key": "https://www.philamuseum.org/events/40-years-collab-design-award|2026-11-19T23:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Great Stair Hall), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-19T18:00:00",
+"title": "Celebrating 40 years of the Collab Design Excellence Award",
+"url": "https://www.philamuseum.org/events/40-years-collab-design-award?start=2026-11-19T23:00:00.000Z&end=2026-11-20T01:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-11-06T20:34:57Z",
+"occ": [
+[
+"2026-11-19T18:00:00",
+"2026-11-19T20:00:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/alter-ego-family-festival": {
+"events": [
+{
+"all_day": false,
+"desc": "Activities",
+"end": "2026-12-06T15:00:00",
+"key": "https://www.philamuseum.org/events/alter-ego-family-festival|2026-12-06T15:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Multiple locations), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-12-06T10:00:00",
+"title": "Alter Ego: Family Festival",
+"url": "https://www.philamuseum.org/events/alter-ego-family-festival?start=2026-12-06T15:00:00.000Z&end=2026-12-06T20:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-11-13T19:14:47Z",
+"occ": [
+[
+"2026-12-06T10:00:00",
+"2026-12-06T15:00:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/arcadia-library-lecture-archiving-independence": {
+"events": [
+{
+"all_day": false,
+"desc": "Talks",
+"end": "2026-11-12T19:00:00",
+"key": "https://www.philamuseum.org/events/arcadia-library-lecture-archiving-independence|2026-11-12T23:00:00.000Z",
+"loc": "Perelman Building, Perelman Auditorium",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-12T18:00:00",
+"title": "Arcadia Library Lecture: Archiving Independence",
+"url": "https://www.philamuseum.org/events/arcadia-library-lecture-archiving-independence?start=2026-11-12T23:00:00.000Z&end=2026-11-13T00:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-11-11T21:48:03Z",
+"occ": [
+[
+"2026-11-12T18:00:00",
+"2026-11-12T19:00:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/exhibition-tour-rodins-hands": {
+"events": [
+{
+"all_day": false,
+"desc": "Tours\n\nEnjoy a guided tour of The Rodin Museum. Experience one of the world\u2019s greatest collections of work by sculptor Auguste Rodin.",
+"end": "2026-11-13T14:00:00",
+"key": "https://www.philamuseum.org/events/exhibition-tour-rodins-hands|2026-11-13T18:00:00.000Z",
+"loc": "Rodin Museum (Main Gallery), 2151 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-13T13:00:00",
+"title": "Exhibition Tour: Rodin\u2019s Hands",
+"url": "https://www.philamuseum.org/events/exhibition-tour-rodins-hands?start=2026-11-13T18:00:00.000Z&end=2026-11-13T19:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-11-04T15:04:30Z",
+"occ": [
+[
+"2026-11-13T13:00:00",
+"2026-11-13T14:00:00"
+],
+[
+"2026-11-14T13:00:00",
+"2026-11-14T14:00:00"
+],
+[
+"2026-11-15T13:00:00",
+"2026-11-15T14:00:00"
+],
+[
+"2026-11-16T13:00:00",
+"2026-11-16T14:00:00"
+],
+[
+"2026-11-20T13:00:00",
+"2026-11-20T14:00:00"
+],
+[
+"2026-11-21T13:00:00",
+"2026-11-21T14:00:00"
+],
+[
+"2026-11-22T13:00:00",
+"2026-11-22T14:00:00"
+],
+[
+"2026-11-23T13:00:00",
+"2026-11-23T14:00:00"
+],
+[
+"2026-11-27T13:00:00",
+"2026-11-27T14:00:00"
+],
+[
+"2026-11-28T13:00:00",
+"2026-11-28T14:00:00"
+],
+[
+"2026-11-29T13:00:00",
+"2026-11-29T14:00:00"
+],
+[
+"2026-11-30T13:00:00",
+"2026-11-30T14:00:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/friday-holiday-jazz-market-edition": {
+"events": [
+{
+"all_day": false,
+"desc": "Social",
+"end": "2026-12-11T20:30:00",
+"key": "https://www.philamuseum.org/events/friday-holiday-jazz-market-edition|2026-12-11T22:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Multiple locations), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-12-11T17:00:00",
+"title": "Friday Night: Holiday Jazz & Artist Market",
+"url": "https://www.philamuseum.org/events/friday-holiday-jazz-market-edition?start=2026-12-11T22:00:00.000Z&end=2026-12-12T01:30:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-11-12T18:47:01Z",
+"occ": [
+[
+"2026-12-11T17:00:00",
+"2026-12-11T20:30:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/highlights-museum-tour": {
+"events": [
+{
+"all_day": false,
+"desc": "Tours\n\nPerfect for the first-time visitor, this tour provides an overview of some of the museum\u2019s most renowned treasures.",
+"end": "2026-11-12T12:00:00",
+"key": "https://www.philamuseum.org/events/highlights-museum-tour|2026-11-12T16:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Great Stair Hall), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-12T11:00:00",
+"title": "Highlights of the Museum",
+"url": "https://www.philamuseum.org/events/highlights-museum-tour?start=2026-11-12T16:00:00.000Z&end=2026-11-12T17:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-11-09T15:55:24Z",
+"occ": [
+[
+"2026-11-12T11:00:00",
+"2026-11-12T12:00:00"
+],
+[
+"2026-11-13T11:00:00",
+"2026-11-13T12:00:00"
+],
+[
+"2026-11-14T11:00:00",
+"2026-11-14T12:00:00"
+],
+[
+"2026-11-15T11:00:00",
+"2026-11-15T12:00:00"
+],
+[
+"2026-11-16T11:00:00",
+"2026-11-16T12:00:00"
+],
+[
+"2026-11-19T11:00:00",
+"2026-11-19T12:00:00"
+],
+[
+"2026-11-20T11:00:00",
+"2026-11-20T12:00:00"
+],
+[
+"2026-11-21T11:00:00",
+"2026-11-21T12:00:00"
+],
+[
+"2026-11-22T11:00:00",
+"2026-11-22T12:00:00"
+],
+[
+"2026-11-23T11:00:00",
+"2026-11-23T12:00:00"
+],
+[
+"2026-11-27T11:00:00",
+"2026-11-27T12:00:00"
+],
+[
+"2026-11-28T11:00:00",
+"2026-11-28T12:00:00"
+],
+[
+"2026-11-29T11:00:00",
+"2026-11-29T12:00:00"
+],
+[
+"2026-11-30T11:00:00",
+"2026-11-30T12:00:00"
+],
+[
+"2026-12-03T11:00:00",
+"2026-12-03T12:00:00"
+],
+[
+"2026-12-04T11:00:00",
+"2026-12-04T12:00:00"
+],
+[
+"2026-12-05T11:00:00",
+"2026-12-05T12:00:00"
+],
+[
+"2026-12-06T11:00:00",
+"2026-12-06T12:00:00"
+],
+[
+"2026-12-07T11:00:00",
+"2026-12-07T12:00:00"
+],
+[
+"2026-12-10T11:00:00",
+"2026-12-10T12:00:00"
+],
+[
+"2026-12-11T11:00:00",
+"2026-12-11T12:00:00"
+],
+[
+"2026-12-12T11:00:00",
+"2026-12-12T12:00:00"
+],
+[
+"2026-12-13T11:00:00",
+"2026-12-13T12:00:00"
+],
+[
+"2026-12-14T11:00:00",
+"2026-12-14T12:00:00"
+],
+[
+"2026-12-17T11:00:00",
+"2026-12-17T12:00:00"
+],
+[
+"2026-12-18T11:00:00",
+"2026-12-18T12:00:00"
+],
+[
+"2026-12-19T11:00:00",
+"2026-12-19T12:00:00"
+],
+[
+"2026-12-20T11:00:00",
+"2026-12-20T12:00:00"
+],
+[
+"2026-12-21T11:00:00",
+"2026-12-21T12:00:00"
+],
+[
+"2026-12-24T11:00:00",
+"2026-12-24T12:00:00"
+],
+[
+"2026-12-26T11:00:00",
+"2026-12-26T12:00:00"
+],
+[
+"2026-12-27T11:00:00",
+"2026-12-27T12:00:00"
+],
+[
+"2026-12-28T11:00:00",
+"2026-12-28T12:00:00"
+],
+[
+"2026-12-31T11:00:00",
+"2026-12-31T12:00:00"
+],
+[
+"2026-11-12T15:00:00",
+"2026-11-12T16:00:00"
+],
+[
+"2026-11-13T15:00:00",
+"2026-11-13T16:00:00"
+],
+[
+"2026-11-14T15:00:00",
+"2026-11-14T16:00:00"
+],
+[
+"2026-11-15T15:00:00",
+"2026-11-15T16:00:00"
+],
+[
+"2026-11-16T15:00:00",
+"2026-11-16T16:00:00"
+],
+[
+"2026-11-19T15:00:00",
+"2026-11-19T16:00:00"
+],
+[
+"2026-11-20T15:00:00",
+"2026-11-20T16:00:00"
+],
+[
+"2026-11-21T15:00:00",
+"2026-11-21T16:00:00"
+],
+[
+"2026-11-22T15:00:00",
+"2026-11-22T16:00:00"
+],
+[
+"2026-11-23T15:00:00",
+"2026-11-23T16:00:00"
+],
+[
+"2026-11-26T15:00:00",
+"2026-11-26T16:00:00"
+],
+[
+"2026-11-27T15:00:00",
+"2026-11-27T16:00:00"
+],
+[
+"2026-11-28T15:00:00",
+"2026-11-28T16:00:00"
+],
+[
+"2026-11-29T15:00:00",
+"2026-11-29T16:00:00"
+],
+[
+"2026-11-30T15:00:00",
+"2026-11-30T16:00:00"
+],
+[
+"2026-12-03T15:00:00",
+"2026-12-03T16:00:00"
+],
+[
+"2026-12-04T15:00:00",
+"2026-12-04T16:00:00"
+],
+[
+"2026-12-05T15:00:00",
+"2026-12-05T16:00:00"
+],
+[
+"2026-12-06T15:00:00",
+"2026-12-06T16:00:00"
+],
+[
+"2026-12-07T15:00:00",
+"2026-12-07T16:00:00"
+],
+[
+"2026-12-10T15:00:00",
+"2026-12-10T16:00:00"
+],
+[
+"2026-12-11T15:00:00",
+"2026-12-11T16:00:00"
+],
+[
+"2026-12-12T15:00:00",
+"2026-12-12T16:00:00"
+],
+[
+"2026-12-13T15:00:00",
+"2026-12-13T16:00:00"
+],
+[
+"2026-12-14T15:00:00",
+"2026-12-14T16:00:00"
+],
+[
+"2026-12-17T15:00:00",
+"2026-12-17T16:00:00"
+],
+[
+"2026-12-18T15:00:00",
+"2026-12-18T16:00:00"
+],
+[
+"2026-12-19T15:00:00",
+"2026-12-19T16:00:00"
+],
+[
+"2026-12-20T15:00:00",
+"2026-12-20T16:00:00"
+],
+[
+"2026-12-21T15:00:00",
+"2026-12-21T16:00:00"
+],
+[
+"2026-12-26T15:00:00",
+"2026-12-26T16:00:00"
+],
+[
+"2026-12-27T15:00:00",
+"2026-12-27T16:00:00"
+],
+[
+"2026-12-28T15:00:00",
+"2026-12-28T16:00:00"
+],
+[
+"2026-12-31T15:00:00",
+"2026-12-31T16:00:00"
+],
+[
+"2026-11-13T18:00:00",
+"2026-11-13T19:00:00"
+],
+[
+"2026-11-20T18:00:00",
+"2026-11-20T19:00:00"
+],
+[
+"2026-11-27T18:00:00",
+"2026-11-27T19:00:00"
+],
+[
+"2026-12-04T18:00:00",
+"2026-12-04T19:00:00"
+],
+[
+"2026-12-11T18:00:00",
+"2026-12-11T19:00:00"
+],
+[
+"2026-12-18T18:00:00",
+"2026-12-18T19:00:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/impressionism-and-beyond": {
+"events": [
+{
+"all_day": false,
+"desc": "Tours\n\nGo on a guided tour of our new European galleries. See some of the greatest Impressionist and Post-Impressionist art in the world, featuring masterworks by artists such as Claude Monet, Camille Pissarro, Vincent van Gogh, and Paul C\u00e9zanne.",
+"end": "2026-11-12T13:00:00",
+"key": "https://www.philamuseum.org/events/impressionism-and-beyond|2026-11-12T17:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Great Stair Hall), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-12T12:00:00",
+"title": "Impressionism & Beyond",
+"url": "https://www.philamuseum.org/events/impressionism-and-beyond?start=2026-11-12T17:00:00.000Z&end=2026-11-12T18:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-11-10T14:58:20Z",
+"occ": [
+[
+"2026-11-12T12:00:00",
+"2026-11-12T13:00:00"
+],
+[
+"2026-11-13T12:00:00",
+"2026-11-13T13:00:00"
+],
+[
+"2026-11-14T12:00:00",
+"2026-11-14T13:00:00"
+],
+[
+"2026-11-15T12:00:00",
+"2026-11-15T13:00:00"
+],
+[
+"2026-11-16T12:00:00",
+"2026-11-16T13:00:00"
+],
+[
+"2026-11-19T12:00:00",
+"2026-11-19T13:00:00"
+],
+[
+"2026-11-20T12:00:00",
+"2026-11-20T13:00:00"
+],
+[
+"2026-11-21T12:00:00",
+"2026-11-21T13:00:00"
+],
+[
+"2026-11-22T12:00:00",
+"2026-11-22T13:00:00"
+],
+[
+"2026-11-23T12:00:00",
+"2026-11-23T13:00:00"
+],
+[
+"2026-11-26T12:00:00",
+"2026-11-26T13:00:00"
+],
+[
+"2026-11-27T12:00:00",
+"2026-11-27T13:00:00"
+],
+[
+"2026-11-28T12:00:00",
+"2026-11-28T13:00:00"
+],
+[
+"2026-11-29T12:00:00",
+"2026-11-29T13:00:00"
+],
+[
+"2026-11-30T12:00:00",
+"2026-11-30T13:00:00"
+],
+[
+"2026-12-03T12:00:00",
+"2026-12-03T13:00:00"
+],
+[
+"2026-12-04T12:00:00",
+"2026-12-04T13:00:00"
+],
+[
+"2026-12-05T12:00:00",
+"2026-12-05T13:00:00"
+],
+[
+"2026-12-06T12:00:00",
+"2026-12-06T13:00:00"
+],
+[
+"2026-12-07T12:00:00",
+"2026-12-07T13:00:00"
+],
+[
+"2026-12-10T12:00:00",
+"2026-12-10T13:00:00"
+],
+[
+"2026-12-11T12:00:00",
+"2026-12-11T13:00:00"
+],
+[
+"2026-12-12T12:00:00",
+"2026-12-12T13:00:00"
+],
+[
+"2026-12-13T12:00:00",
+"2026-12-13T13:00:00"
+],
+[
+"2026-12-14T12:00:00",
+"2026-12-14T13:00:00"
+],
+[
+"2026-12-17T12:00:00",
+"2026-12-17T13:00:00"
+],
+[
+"2026-12-18T12:00:00",
+"2026-12-18T13:00:00"
+],
+[
+"2026-12-19T12:00:00",
+"2026-12-19T13:00:00"
+],
+[
+"2026-12-20T12:00:00",
+"2026-12-20T13:00:00"
+],
+[
+"2026-12-21T12:00:00",
+"2026-12-21T13:00:00"
+],
+[
+"2026-12-24T12:00:00",
+"2026-12-24T13:00:00"
+],
+[
+"2026-12-26T12:00:00",
+"2026-12-26T13:00:00"
+],
+[
+"2026-12-27T12:00:00",
+"2026-12-27T13:00:00"
+],
+[
+"2026-12-28T12:00:00",
+"2026-12-28T13:00:00"
+],
+[
+"2026-12-31T12:00:00",
+"2026-12-31T13:00:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/nation-of-artists-tour": {
+"events": [
+{
+"all_day": false,
+"desc": "Tours\n\n\u200bGet a deeper look at A Nation of Artists highlighting the richness, diversity, and excellence of American artists and artisans.",
+"end": "2026-11-12T14:00:00",
+"key": "https://www.philamuseum.org/events/nation-of-artists-tour|2026-11-12T18:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Great Stair Hall), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-12T13:00:00",
+"title": "A Nation of Artists Tour",
+"url": "https://www.philamuseum.org/events/nation-of-artists-tour?start=2026-11-12T18:00:00.000Z&end=2026-11-12T19:00:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-11-10T15:52:35Z",
+"occ": [
+[
+"2026-11-12T13:00:00",
+"2026-11-12T14:00:00"
+],
+[
+"2026-11-13T13:00:00",
+"2026-11-13T14:00:00"
+],
+[
+"2026-11-14T13:00:00",
+"2026-11-14T14:00:00"
+],
+[
+"2026-11-15T13:00:00",
+"2026-11-15T14:00:00"
+],
+[
+"2026-11-16T13:00:00",
+"2026-11-16T14:00:00"
+],
+[
+"2026-11-19T13:00:00",
+"2026-11-19T14:00:00"
+],
+[
+"2026-11-20T13:00:00",
+"2026-11-20T14:00:00"
+],
+[
+"2026-11-21T13:00:00",
+"2026-11-21T14:00:00"
+],
+[
+"2026-11-22T13:00:00",
+"2026-11-22T14:00:00"
+],
+[
+"2026-11-23T13:00:00",
+"2026-11-23T14:00:00"
+],
+[
+"2026-11-26T13:00:00",
+"2026-11-26T14:00:00"
+],
+[
+"2026-11-27T13:00:00",
+"2026-11-27T14:00:00"
+],
+[
+"2026-11-28T13:00:00",
+"2026-11-28T14:00:00"
+],
+[
+"2026-11-29T13:00:00",
+"2026-11-29T14:00:00"
+],
+[
+"2026-11-30T13:00:00",
+"2026-11-30T14:00:00"
+],
+[
+"2026-12-03T13:00:00",
+"2026-12-03T14:00:00"
+],
+[
+"2026-12-04T13:00:00",
+"2026-12-04T14:00:00"
+],
+[
+"2026-12-05T13:00:00",
+"2026-12-05T14:00:00"
+],
+[
+"2026-12-06T13:00:00",
+"2026-12-06T14:00:00"
+],
+[
+"2026-12-07T13:00:00",
+"2026-12-07T14:00:00"
+],
+[
+"2026-12-10T13:00:00",
+"2026-12-10T14:00:00"
+],
+[
+"2026-12-11T13:00:00",
+"2026-12-11T14:00:00"
+],
+[
+"2026-12-12T13:00:00",
+"2026-12-12T14:00:00"
+],
+[
+"2026-12-13T13:00:00",
+"2026-12-13T14:00:00"
+],
+[
+"2026-12-14T13:00:00",
+"2026-12-14T14:00:00"
+],
+[
+"2026-12-17T13:00:00",
+"2026-12-17T14:00:00"
+],
+[
+"2026-12-18T13:00:00",
+"2026-12-18T14:00:00"
+],
+[
+"2026-12-19T13:00:00",
+"2026-12-19T14:00:00"
+],
+[
+"2026-12-20T13:00:00",
+"2026-12-20T14:00:00"
+],
+[
+"2026-12-21T13:00:00",
+"2026-12-21T14:00:00"
+],
+[
+"2026-12-24T13:00:00",
+"2026-12-24T14:00:00"
+],
+[
+"2026-12-26T13:00:00",
+"2026-12-26T14:00:00"
+],
+[
+"2026-12-27T13:00:00",
+"2026-12-27T14:00:00"
+],
+[
+"2026-12-28T13:00:00",
+"2026-12-28T14:00:00"
+],
+[
+"2026-12-31T13:00:00",
+"2026-12-31T14:00:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/preview-party-craft-show": {
+"events": [],
+"fetched": "2026-11-15",
+"lastmod": "2026-11-04T13:52:18Z",
+"occ": [],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/sketching-in-the-galleries": {
+"events": [
+{
+"all_day": false,
+"desc": "Activities\n\nExplore the galleries through a series of drop-in sketching sessions.",
+"end": "2026-11-13T13:30:00",
+"key": "https://www.philamuseum.org/events/sketching-in-the-galleries|2026-11-13T17:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Multiple locations), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-13T12:00:00",
+"title": "Sketching in the Galleries",
+"url": "https://www.philamuseum.org/events/sketching-in-the-galleries?start=2026-11-13T17:00:00.000Z&end=2026-11-13T18:30:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-11-08T16:24:03Z",
+"occ": [
+[
+"2026-11-13T12:00:00",
+"2026-11-13T13:30:00"
+],
+[
+"2026-11-27T12:00:00",
+"2026-11-27T13:30:00"
+],
+[
+"2026-11-14T10:30:00",
+"2026-11-14T12:00:00"
+],
+[
+"2026-11-28T10:30:00",
+"2026-11-28T12:00:00"
+],
+[
+"2026-12-04T12:00:00",
+"2026-12-04T13:30:00"
+],
+[
+"2026-12-05T10:30:00",
+"2026-12-05T12:00:00"
+],
+[
+"2026-12-11T12:00:00",
+"2026-12-11T13:30:00"
+],
+[
+"2026-12-12T10:30:00",
+"2026-12-12T12:00:00"
+],
+[
+"2026-12-18T12:00:00",
+"2026-12-18T13:30:00"
+],
+[
+"2026-12-19T10:30:00",
+"2026-12-19T12:00:00"
+],
+[
+"2026-12-26T10:30:00",
+"2026-12-26T12:00:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/tours-250-black-writing": {
+"events": [
+{
+"all_day": false,
+"desc": "Tours for 250",
+"end": "2026-12-11T15:30:00",
+"key": "https://www.philamuseum.org/events/tours-250-black-writing|2026-12-11T19:30:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Great Stair Hall), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-12-11T14:30:00",
+"title": "Black Writing and Writers in American Art",
+"url": "https://www.philamuseum.org/events/tours-250-black-writing?start=2026-12-11T19:30:00.000Z&end=2026-12-11T20:30:00.000Z"
+}
+],
+"fetched": "2026-11-15",
+"lastmod": "2026-11-05T21:52:32Z",
+"occ": [
+[
+"2026-12-11T14:30:00",
+"2026-12-11T15:30:00"
+]
+],
+"read": "2026-11-15"
+},
+"https://www.schuylkillbanks.org/events/community-events/artist-walk-and-talk-fairmount-water-works-history-schuylkill": {
+"events": [
+{
+"desc": "Step behind the scenes of Walking the Schuylkill, the current exhibition at Fairmount Water Works, in this artist walk and talk. The event starts with a one-hour discussion with artist John Brady about how he captured the Schuylkill River for this exhibit within the context of the river's mutifaceted history. Learn how canals, coal, railroads,\u2026",
+"end": null,
+"loc": "640 Waterworks Dr, Philadelphia, PA 19130"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.schuylkillbanks.org/events/community-events/artist-walk-and-talk-fairmount-water-works-schuylkill-today": {
+"events": [
+{
+"desc": "Step behind the scenes of Walking the Schuylkill, the current exhibition at Fairmount Water Works, in this artist walk and talk. The event starts with a one-hour discussion with artist John Brady about how he captured the Schuylkill River for this exhibit within the context of the river's multifaceted history. Discuss current events and trends\u2026",
+"end": null,
+"loc": "640 Waterworks Dr, Philadelphia, PA 19130"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.schuylkillbanks.org/events/community-events/bicycle-club-phila-ride-schuylkill-crossing-ribbon-cutting": {
+"events": [
+{
+"desc": "Bike to the Schuylkill Crossing ribbon cutting with Bicycle Club of Philadelphia! Meet at Cosmic Cafe, and then ride roughly 3 miles all on the Schuylkill River Trail to the event. Beginners are very welcome. \nThere is free street parking along Sedgley Drive between Kelly Drive and Poplar Drive. Helmets are required. Indego bikes are available for\u2026",
+"end": null,
+"loc": "Cosmic Cafe, 1 Boathouse Row, Philadelphia, PA 19130"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.schuylkillbanks.org/events/community-events/eniac-endless-loop-walk-freewalkers": {
+"events": [
+{
+"desc": "Celebrate of the world's first electronic computer at its birthplace and enjoy a new loop walk on the Schuylkill on this 3-15 mile walk. Beginning at the William H Gray III, 30th Street Amtrak Train Station, FreeWalkers will lead a walk connecting Schuylkill Banks, Bartram's Gardens, University of Pennsylvania, ENIAC, Shofuso, Belmont Plateau,\u2026",
+"end": null,
+"loc": "Walk begins at the William H Gray III, 30th Street Amtrak Train Station"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.schuylkillbanks.org/events/community-events/friday-night-pepperpot-edition-philadelphia-museum-art": {
+"events": [
+{
+"desc": "Celebrate the musical and culinary traditions of Philadelphia through the story of pepperpot soup, a local dish with its history rooted in the colonial-era marketplaces of this city. V. Shayne Frederick\u2019s presentation highlights the role of African American entrepreneurs in this cultural tradition through a newly commissioned musical performance,\u2026",
+"end": null,
+"loc": "2600 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.schuylkillbanks.org/events/community-events/handmade-holidays-bartrams-garden": {
+"events": [
+{
+"desc": "Join Bartram's Garden for their annual celebration of winter, local artists and makers, and community! This free public event is for the whole family, rain or shine. \nMore details TBA by Bartram's Garden.\n\nImage courtesy Bartram's Garden.",
+"end": null,
+"loc": "5400 Lindbergh Boulevard, Philadelphia, PA 19143"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.schuylkillbanks.org/events/community-events/schuylkill-banks-walk-philadelphia-prospect-park-freewalkers": {
+"events": [
+{
+"desc": "Explore new pedestrian bridges, a colonial arboretum, gardens and wildlife refuge along the Schuylkill River. Beginning at the 30th Street Station and ending at Tinicum, stops along the 15-mile walk include Bartram's Garden and the John Heinz Wildlife Refuge.\nLearn more and explore the route.",
+"end": null,
+"loc": "Begins at The Porch at 30th St Station, 2949 Market Street, Philadelphia, PA 19104"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.schuylkillbanks.org/events/community-events/schuylkill-crossing-community-celebration": {
+"events": [
+{
+"desc": "Join SRDC, Bartram\u2019s Garden, Bicycle Coalition of Greater Philadelphia, WeWalk PHL, the East Coast Greenway Alliance, and The Circuit Trails for a day of celebratory opportunities to explore Schuylkill Crossing!\n10-11am - Community Walk\nJoin WeWalk PHL for a stroll along Bartram's Mile to the swing bridge. \n11am-2pm - Guided Bike Tours\nJoin the\u2026",
+"end": null,
+"loc": ""
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.schuylkillbanks.org/events/community-events/siege-weekend-fort-mifflin": {
+"events": [
+{
+"desc": "Commemorate the 249th anniversary of the greatest bombardment of the American Revolution with the team at Fort Mifflin! Meet Revolutionary War soldiers and civilians, enjoy musket and cannon demonstrations, and living history activities. \nGuided tour and battle times will be announced by Fort Mifflin the week of the event.",
+"end": "2026-11-15",
+"loc": "Fort Mifflin & Hog Island Roads, Philadelphia, PA 19153"
+}
+],
+"fetched": "2026-11-15"
+},
+"https://www.schuylkillbanks.org/events/schuylkill-crossing-ribbon-cutting-ceremony": {
+"events": [
+{
+"desc": "Join Schuylkill River Development Corporation, the City of Philadelphia, and its partners to celebrate the opening of the newest section of Schuylkill Banks at the Schuylkill Crossing swing bridge!\nSchedule of Events:\n2pm Hear remarks from elected officials and city partners\n3pm Ribbon cutting and bridge opens\nFall treats and free opening day\u2026",
+"end": null,
+"loc": "Grays Ferry Crescent Esplanade"
+}
+],
+"fetched": "2026-11-15"
 }
 },
-"last_run": "2026-11-15T17:49:45.223540+00:00",
+"last_run": "2026-11-15T22:10:23.193690+00:00",
 "sources": {
 "2ndstfestival": {
 "checked": "2026-11-15",
@@ -142,6 +3132,11 @@
 "error": "",
 "events": 1
 },
+"aaunited": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
 "actii_philly": {
 "checked": "2026-11-15",
 "error": "",
@@ -150,7 +3145,7 @@
 "albustanseeds": {
 "checked": "2026-11-15",
 "error": "",
-"events": 2
+"events": 4
 },
 "atmyhou.se": {
 "checked": "2026-11-15",
@@ -167,10 +3162,20 @@
 "error": "",
 "events": 23
 },
+"barnes": {
+"checked": "2026-11-15",
+"error": "",
+"events": 21
+},
 "beautyiscultureevents": {
 "checked": "2026-11-15",
 "error": "",
 "events": 0
+},
+"bobandbarbaras": {
+"checked": "2026-11-15",
+"error": "",
+"events": 37
 },
 "bok_bar": {
 "checked": "2026-11-15",
@@ -181,6 +3186,11 @@
 "checked": "2026-11-15",
 "error": "",
 "events": 2
+},
+"bowerbird": {
+"checked": "2026-11-15",
+"error": "",
+"events": 11
 },
 "broadstreet_lovepark": {
 "checked": "2026-11-15",
@@ -197,6 +3207,21 @@
 "error": "",
 "events": 156
 },
+"centercityevents": {
+"checked": "2026-11-15",
+"error": "",
+"events": 10
+},
+"chconservancy": {
+"checked": "2026-11-15",
+"error": "",
+"events": 10
+},
+"cherrystreetpier": {
+"checked": "2026-11-15",
+"error": "",
+"events": 4
+},
 "chestnuthill_pa": {
 "checked": "2026-11-15",
 "error": "",
@@ -212,15 +3237,50 @@
 "error": "",
 "events": 0
 },
+"circularphiladelphia": {
+"checked": "2026-11-15",
+"error": "",
+"events": 7
+},
+"curtis": {
+"checked": "2026-11-15",
+"error": "",
+"events": 27
+},
 "dahlak_paradise": {
 "checked": "2026-11-15",
 "error": "",
 "events": 78
 },
+"designgym": {
+"checked": "2026-11-15",
+"error": "",
+"events": 19
+},
+"dice_theavelive": {
+"checked": "2026-11-15",
+"error": "",
+"events": 24
+},
 "discoverypathways": {
 "checked": "2026-11-15",
 "error": "",
 "events": 17
+},
+"dockstreetbeer": {
+"checked": "2026-11-15",
+"error": "",
+"events": 10
+},
+"dosagemagazine": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"drwc": {
+"checked": "2026-11-15",
+"error": "",
+"events": 4
 },
 "eastpassyunk": {
 "checked": "2026-11-15",
@@ -237,10 +3297,50 @@
 "error": "",
 "events": 1
 },
+"ellieandbird": {
+"checked": "2026-11-15",
+"error": "",
+"events": 13
+},
 "esperanza_us": {
 "checked": "2026-11-15",
 "error": "",
 "events": 0
+},
+"eventbrite": {
+"checked": "2026-11-15",
+"error": "",
+"events": 83
+},
+"eventbrite_honeytreeevileye": {
+"checked": "2026-11-15",
+"error": "",
+"events": 11
+},
+"eventbrite_monstervegan": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"eventbrite_wissahickonec": {
+"checked": "2026-11-15",
+"error": "",
+"events": 7
+},
+"evilgeniusbeer": {
+"checked": "2026-11-15",
+"error": "",
+"events": 28
+},
+"famfrequencyproductions": {
+"checked": "2026-11-15",
+"error": "",
+"events": 5
+},
+"familiarhearts": {
+"checked": "2026-11-15",
+"error": "",
+"events": 3
 },
 "fdrpark": {
 "checked": "2026-11-15",
@@ -272,12 +3372,47 @@
 "error": "",
 "events": 3
 },
+"glenfoerd": {
+"checked": "2026-11-15",
+"error": "",
+"events": 10
+},
+"hecphila": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"historicasmh": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"historicfairhill": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"hive76": {
+"checked": "2026-11-15",
+"error": "",
+"events": 8
+},
+"icaphila": {
+"checked": "2026-11-15",
+"error": "",
+"events": 3
+},
 "inliquidart": {
 "checked": "2026-11-15",
 "error": "",
 "events": 4
 },
 "inpursuitofhistory": {
+"checked": "2026-11-15",
+"error": "",
+"events": 5
+},
+"jazzbridge": {
 "checked": "2026-11-15",
 "error": "",
 "events": 5
@@ -290,12 +3425,12 @@
 "jetwinebar": {
 "checked": "2026-11-15",
 "error": "",
-"events": 6
+"events": 7
 },
 "khyberpasspub": {
 "checked": "2026-11-15",
 "error": "",
-"events": 5
+"events": 6
 },
 "lavenderpanzies": {
 "checked": "2026-11-15",
@@ -312,6 +3447,41 @@
 "error": "",
 "events": 31
 },
+"luma_clubsatucitysquare": {
+"checked": "2026-11-15",
+"error": "",
+"events": 6
+},
+"luma_freehandartsupply": {
+"checked": "2026-11-15",
+"error": "",
+"events": 3
+},
+"luma_indyhallevents": {
+"checked": "2026-11-15",
+"error": "",
+"events": 29
+},
+"luma_phillyrb": {
+"checked": "2026-11-15",
+"error": "",
+"events": 4
+},
+"luma_phlcodeclub": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"luma_spacexsiforphiladelphiau": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"luma_wisecommunityevents": {
+"checked": "2026-11-15",
+"error": "",
+"events": 16
+},
 "manayunkbrewingco": {
 "checked": "2026-11-15",
 "error": "",
@@ -327,10 +3497,30 @@
 "error": "",
 "events": 43
 },
+"misaludwellness": {
+"checked": "2026-11-15",
+"error": "",
+"events": 5
+},
+"monarchyoga": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
 "moviejawn": {
 "checked": "2026-11-15",
 "error": "",
 "events": 3
+},
+"mtairycdc": {
+"checked": "2026-11-15",
+"error": "",
+"events": 14
+},
+"muralarts": {
+"checked": "2026-11-15",
+"error": "",
+"events": 9
 },
 "museumforartinwood": {
 "checked": "2026-11-15",
@@ -342,6 +3532,11 @@
 "error": "",
 "events": 7
 },
+"navyyard": {
+"checked": "2026-11-15",
+"error": "",
+"events": 20
+},
 "nextfab_phl": {
 "checked": "2026-11-15",
 "error": "",
@@ -350,7 +3545,17 @@
 "nlna": {
 "checked": "2026-11-15",
 "error": "",
-"events": 8
+"events": 10
+},
+"nonamegalleryphilly": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"nps_independence": {
+"checked": "2026-11-15",
+"error": "",
+"events": 45
 },
 "olneyculturelab": {
 "checked": "2026-11-15",
@@ -360,12 +3565,17 @@
 "paflaxproject": {
 "checked": "2026-11-15",
 "error": "",
-"events": 3
+"events": 4
 },
 "pageburnersbookstore": {
 "checked": "2026-11-15",
 "error": "",
 "events": 2
+},
+"parksontap": {
+"checked": "2026-11-15",
+"error": "",
+"events": 0
 },
 "pennmuseum": {
 "checked": "2026-11-15",
@@ -382,6 +3592,16 @@
 "error": "",
 "events": 1
 },
+"philamuseum": {
+"checked": "2026-11-15",
+"error": "",
+"events": 193
+},
+"philly700": {
+"checked": "2026-11-15",
+"error": "",
+"events": 10
+},
 "phillygoatproject": {
 "checked": "2026-11-15",
 "error": "",
@@ -391,6 +3611,16 @@
 "checked": "2026-11-15",
 "error": "",
 "events": 1
+},
+"phillyjazzscene": {
+"checked": "2026-11-15",
+"error": "",
+"events": 241
+},
+"phillyorchards": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
 },
 "phillyrollerderby": {
 "checked": "2026-11-15",
@@ -407,6 +3637,11 @@
 "error": "",
 "events": 300
 },
+"popupplay": {
+"checked": "2026-11-15",
+"error": "",
+"events": 3
+},
 "pplwalk": {
 "checked": "2026-11-15",
 "error": "",
@@ -420,7 +3655,12 @@
 "qvnaorg": {
 "checked": "2026-11-15",
 "error": "",
-"events": 15
+"events": 19
+},
+"readingterminalmarket": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
 },
 "reporecords": {
 "checked": "2026-11-15",
@@ -442,10 +3682,40 @@
 "error": "",
 "events": 0
 },
+"savannahcare": {
+"checked": "2026-11-15",
+"error": "",
+"events": 1
+},
+"schuylkillbanks": {
+"checked": "2026-11-15",
+"error": "",
+"events": 10
+},
+"schuylkillcenter": {
+"checked": "2026-11-15",
+"error": "",
+"events": 31
+},
+"sciencehistory": {
+"checked": "2026-11-15",
+"error": "",
+"events": 54
+},
+"sidequesttheater": {
+"checked": "2026-11-15",
+"error": "",
+"events": 54
+},
 "sorynez": {
 "checked": "2026-11-15",
 "error": "",
-"events": 8
+"events": 9
+},
+"soundlounge": {
+"checked": "2026-11-15",
+"error": "",
+"events": 12
 },
 "southstreetphilly": {
 "checked": "2026-11-15",
@@ -462,6 +3732,11 @@
 "error": "",
 "events": 10
 },
+"tallerpr": {
+"checked": "2026-11-15",
+"error": "",
+"events": 4
+},
 "tattooedmom": {
 "checked": "2026-11-15",
 "error": "",
@@ -477,6 +3752,16 @@
 "error": "",
 "events": 1
 },
+"therailpark": {
+"checked": "2026-11-15",
+"error": "",
+"events": 2
+},
+"therotunda": {
+"checked": "2026-11-15",
+"error": "",
+"events": 28
+},
 "timerestaurant": {
 "checked": "2026-11-15",
 "error": "",
@@ -487,6 +3772,11 @@
 "error": "",
 "events": 0
 },
+"ucitysquare": {
+"checked": "2026-11-15",
+"error": "",
+"events": 38
+},
 "universitycity": {
 "checked": "2026-11-15",
 "error": "",
@@ -495,12 +3785,12 @@
 "velvetwhipphilly": {
 "checked": "2026-11-15",
 "error": "",
-"events": 21
+"events": 24
 },
 "voxpopuligallery": {
 "checked": "2026-11-15",
 "error": "",
-"events": 7
+"events": 8
 },
 "waygayarchives": {
 "checked": "2026-11-15",
@@ -515,7 +3805,12 @@
 "westphillytoollibrary": {
 "checked": "2026-11-15",
 "error": "",
-"events": 24
+"events": 23
+},
+"woodenshoebooks": {
+"checked": "2026-11-15",
+"error": "",
+"events": 13
 },
 "wooder_ice": {
 "checked": "2026-11-15",

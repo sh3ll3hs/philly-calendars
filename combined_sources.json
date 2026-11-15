@@ -51,16 +51,6 @@
   "venue": "48 Record Bar"
  },
  {
-  "id": "evilgeniusbeer",
-  "name": "Evil Genius",
-  "method": "html",
-  "url": "https://evilgeniusbeer.com/calendar/",
-  "instagram": "evilgeniusbeer",
-  "venue": "Evil Genius Beer Company",
-  "off": true,
-  "needs": "its own scraper: no feed or structured event data on the page"
- },
- {
   "id": "reel_nomadic",
   "name": "Reel Nomadic",
   "method": "html",
@@ -263,15 +253,6 @@
   "venue": "Pistolas Del Sur"
  },
  {
-  "id": "soundloungepercy",
-  "name": "Sound Lounge @ Percy",
-  "method": "html",
-  "url": "https://www.soundloungepercy.com/calendar",
-  "instagram": "soundloungepercy",
-  "off": true,
-  "needs": "its own scraper: no feed or structured event data on the page"
- },
- {
   "id": "strangelovesphilly",
   "name": "Strangelove's",
   "method": "html",
@@ -288,16 +269,6 @@
   "url": "https://www.theloganhotel.com/our-hotel/happenings",
   "instagram": "theloganhotel",
   "venue": "The Logan Hotel"
- },
- {
-  "id": "thewoodenshoebooks",
-  "name": "Wooden Shoe Books",
-  "method": "html",
-  "url": "https://woodenshoebooks.org/index.php/events/",
-  "instagram": "thewoodenshoebooks",
-  "venue": "Wooden Shoe Books",
-  "off": true,
-  "needs": "its own scraper: no feed or structured event data on the page"
  },
  {
   "id": "tattooedmom",
@@ -461,15 +432,6 @@
   "needs": "its own scraper: no feed or structured event data on the page"
  },
  {
-  "id": "navyyardphila",
-  "name": "Navy Yard",
-  "method": "html",
-  "url": "https://navyyard.org/events",
-  "instagram": "navyyardphila",
-  "off": true,
-  "needs": "its own scraper: no feed or structured event data on the page"
- },
- {
   "id": "northernlibertiesfarmersmarket",
   "name": "Northern Liberties Farmers Market",
   "method": "html",
@@ -575,16 +537,6 @@
   "venue": "The Print Center"
  },
  {
-  "id": "therailpark",
-  "name": "The Rail Park",
-  "method": "html",
-  "url": "https://www.therailpark.org/news-and-events/",
-  "instagram": "therailpark",
-  "venue": "The Rail Park",
-  "off": true,
-  "needs": "its own scraper: no feed or structured event data on the page"
- },
- {
   "id": "voxpopuligallery",
   "name": "Vox Populi",
   "method": "squarespace",
@@ -651,16 +603,6 @@
   "method": "html",
   "url": "https://www.bar-ly.com/happenings",
   "instagram": "barly_philly",
-  "off": true,
-  "needs": "its own scraper: no feed or structured event data on the page"
- },
- {
-  "id": "barnesfoundation",
-  "name": "The Barnes",
-  "method": "html",
-  "url": "https://www.barnesfoundation.org/whats-on",
-  "instagram": "barnesfoundation",
-  "venue": "Barnes Foundation",
   "off": true,
   "needs": "its own scraper: no feed or structured event data on the page"
  },
@@ -817,16 +759,6 @@
   "url": "https://www.elfrethsalley.org/events",
   "instagram": "elfrethsalley",
   "venue": "Elfreth's Alley"
- },
- {
-  "id": "ellieandbirdphl",
-  "name": "Ellie + Bird Coffee Bar",
-  "method": "html",
-  "url": "https://www.ellieandbird.com/events",
-  "instagram": "ellieandbirdphl",
-  "venue": "Ellie & Bird Coffee Bar",
-  "off": true,
-  "needs": "its own scraper: no feed or structured event data on the page"
  },
  {
   "id": "fairmountcivicassociation",
@@ -1159,15 +1091,6 @@
   "venue": "Saint Lazarus Bar"
  },
  {
-  "id": "sandyeldredbass",
-  "name": "Sandy Eldred",
-  "method": "html",
-  "url": "https://www.phillyjazzscene.com/jazz-calendar-monthly",
-  "instagram": "sandyeldredbass",
-  "off": true,
-  "needs": "its own scraper: no feed or structured event data on the page"
- },
- {
   "id": "seamarket_fdrpark",
   "name": "Southeast Asian Market in FDR Park",
   "method": "html",
@@ -1384,5 +1307,428 @@
   "venue": "Wyck Historic House & Garden",
   "off": true,
   "needs": "its own scraper: no feed or structured event data on the page"
+ },
+ {
+  "id": "historicasmh",
+  "name": "Arch Street Meeting House",
+  "venue": "Arch Street Meeting House",
+  "method": "squarespace",
+  "url": "https://www.historicasmh.org/events-at-asmh"
+ },
+ {
+  "id": "dosagemagazine",
+  "name": "Dosage Magazine",
+  "method": "tribe",
+  "url": "https://www.dosagemagazine.com"
+ },
+ {
+  "id": "phillyjazzscene",
+  "name": "Philly Jazz Scene",
+  "method": "wix",
+  "url": "https://www.phillyjazzscene.com/jazz-calendar-monthly"
+ },
+ {
+  "id": "misaludwellness",
+  "name": "Mi Salud Wellness Center",
+  "venue": "Mi Salud Wellness Center",
+  "method": "squarespace",
+  "url": "https://misaludwellness.org/upcoming-events"
+ },
+ {
+  "id": "jazzbridge",
+  "name": "Jazz Bridge",
+  "method": "squarespace",
+  "url": "https://jazzbridge.org/events"
+ },
+ {
+  "id": "tallerpr",
+  "name": "Taller Puertorriqueño",
+  "venue": "Taller Puertorriqueño",
+  "method": "tribe",
+  "url": "https://tallerpr.org"
+ },
+ {
+  "id": "bowerbird",
+  "name": "Bowerbird",
+  "method": "tribe",
+  "url": "https://www.bowerbird.org"
+ },
+ {
+  "id": "ucitysquare",
+  "name": "uCity Square",
+  "method": "tribe",
+  "url": "https://ucitysquare.com"
+ },
+ {
+  "id": "historicfairhill",
+  "name": "Historic Fair Hill",
+  "method": "tribe",
+  "url": "https://historicfairhill.com"
+ },
+ {
+  "id": "schuylkillcenter",
+  "name": "The Schuylkill Center for Environmental Education",
+  "venue": "The Schuylkill Center for Environmental Education",
+  "method": "tribe",
+  "url": "https://schuylkillcenter.org"
+ },
+ {
+  "id": "designgym",
+  "name": "Design Gym",
+  "method": "squarespace",
+  "url": "https://www.designgym.co/events"
+ },
+ {
+  "id": "monarchyoga",
+  "name": "Monarch Yoga",
+  "method": "squarespace",
+  "url": "https://www.monarch-yoga.com/calendar",
+  "venue": "Monarch Yoga"
+ },
+ {
+  "id": "mtairycdc",
+  "name": "Mt. Airy CDC",
+  "method": "tribe",
+  "url": "https://mtairycdc.org"
+ },
+ {
+  "id": "famfrequencyproductions",
+  "name": "Fam Frequency Productions",
+  "method": "squarespace",
+  "url": "https://famfrequencyproductions.org/calendar"
+ },
+ {
+  "id": "phillyorchards",
+  "name": "Philadelphia Orchard Project",
+  "method": "jsonld",
+  "url": "https://www.phillyorchards.org/events-new/",
+  "tz": "utc_wall",
+  "note": "The site's structured data runs 5 h early (offset applied twice); checked against two event pages, Nov 2026."
+ },
+ {
+  "id": "philly700",
+  "name": "The 700",
+  "venue": "The 700",
+  "method": "tribe",
+  "url": "https://philly700.com"
+ },
+ {
+  "id": "aaunited",
+  "name": "Asian Americans United",
+  "method": "ics",
+  "url": "https://calendar.google.com/calendar/ical/c_9e05d9268769c9a78f2fbc00829400d5898a8b22bfdd92291da5e0c7a152205f%40group.calendar.google.com/public/basic.ics"
+ },
+ {
+  "id": "popupplay",
+  "name": "Pop Up Play",
+  "method": "wix",
+  "url": "https://www.popupplay.net/"
+ },
+ {
+  "id": "chconservancy",
+  "name": "Chestnut Hill Conservancy",
+  "venue": "Chestnut Hill Conservancy",
+  "method": "tribe",
+  "url": "https://chconservancy.org"
+ },
+ {
+  "id": "soundlounge",
+  "name": "The Sound Lounge @ Percy",
+  "method": "squarespace",
+  "url": "https://soundloungepercy.squarespace.com/upcoming",
+  "venue": "The Sound Lounge @ Percy"
+ },
+ {
+  "id": "dockstreetbeer",
+  "name": "Dock Street Brewery",
+  "method": "squarespace",
+  "url": "https://www.dockstreetbeer.com/event-listings"
+ },
+ {
+  "id": "readingterminalmarket",
+  "name": "Reading Terminal Market",
+  "method": "tribe",
+  "url": "https://readingterminalmarket.org",
+  "venue": "Reading Terminal Market"
+ },
+ {
+  "id": "familiarhearts",
+  "name": "Familiar Hearts Animal Society",
+  "method": "ics",
+  "url": "https://calendar.google.com/calendar/ical/c_0084d8d72fa45d44b5214a4cb9026d60a8897a3831b3301624da8d6341064cca%40group.calendar.google.com/public/basic.ics"
+ },
+ {
+  "id": "circularphiladelphia",
+  "name": "Circular Philadelphia",
+  "method": "tribe",
+  "url": "https://circularphiladelphia.org"
+ },
+ {
+  "id": "hecphila",
+  "name": "Holistic Empowerment Center",
+  "method": "ics",
+  "url": "https://calendar.google.com/calendar/ical/637dfe346b2ef4fef7ce87e4a679defcc2dd5b569d052b34358144b7060116ed%40group.calendar.google.com/public/basic.ics"
+ },
+ {
+  "id": "nonamegalleryphilly",
+  "name": "NoName Gallery",
+  "method": "wix",
+  "url": "https://nonamegalleryphilly.com/events/"
+ },
+ {
+  "id": "savannahcare",
+  "name": "SavannahCare Simple Senior Solutions",
+  "method": "wix",
+  "url": "https://www.savannahcare.org/events-1/"
+ },
+ {
+  "id": "luma_indyhallevents",
+  "name": "Indy Hall Events",
+  "method": "ics",
+  "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-m1Zz3WQ4MHlYEDD"
+ },
+ {
+  "id": "luma_freehandartsupply",
+  "name": "Freehand Art Supply",
+  "method": "ics",
+  "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-VyTAwWI5zLiGOR2"
+ },
+ {
+  "id": "luma_wisecommunityevents",
+  "name": "WISE Community Events",
+  "method": "ics",
+  "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-jilJo6vLs5CIPKR"
+ },
+ {
+  "id": "luma_spacexsiforphiladelphiau",
+  "name": "SpaceXSI for Philadelphia, US",
+  "method": "ics",
+  "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-LsDYhlQFmV2fr7G"
+ },
+ {
+  "id": "luma_phlcodeclub",
+  "name": "PHL Code Club",
+  "method": "ics",
+  "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-ognDKwStICAW6bF"
+ },
+ {
+  "id": "luma_clubsatucitysquare",
+  "name": "Clubs at uCity Square",
+  "method": "ics",
+  "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-tF2XxBrkPpUHmTe"
+ },
+ {
+  "id": "luma_phillyrb",
+  "name": "Philly.rb",
+  "method": "ics",
+  "url": "https://api.lu.ma/ics/get?entity=calendar&id=cal-I1gz7FWSPfbvCHV"
+ },
+ {
+  "id": "barnes",
+  "name": "Barnes Foundation",
+  "method": "custom",
+  "reader": "barnes",
+  "url": "https://www.barnesfoundation.org/whats-on",
+  "onsite_venue": "Barnes Foundation, 2025 Benjamin Franklin Pkwy, Philadelphia, PA 19130"
+ },
+ {
+  "id": "centercityevents",
+  "name": "CenterCity.Events",
+  "method": "custom",
+  "reader": "centercityevents",
+  "url": "https://centercity.events/rss.xml",
+  "page": "https://centercity.events/calendar"
+ },
+ {
+  "id": "cherrystreetpier",
+  "name": "Cherry Street Pier",
+  "method": "custom",
+  "reader": "cherrystreetpier",
+  "url": "https://www.cherrystreetpier.com/events/",
+  "venue": "Cherry Street Pier, 121 N Christopher Columbus Blvd, Philadelphia, PA 19106"
+ },
+ {
+  "id": "curtis",
+  "name": "Curtis Institute of Music",
+  "method": "custom",
+  "reader": "curtis",
+  "url": "https://www.curtis.edu/wp-json/curtis/v1/events",
+  "page": "https://www.curtis.edu/curtis-performances/calendar/"
+ },
+ {
+  "id": "dice_theavelive",
+  "name": "The Ave Live",
+  "method": "jsonld",
+  "url": "https://dice.fm/venue/the-ave-live-92ogn",
+  "venue": "The Ave Live"
+ },
+ {
+  "id": "drwc",
+  "name": "Delaware River Waterfront",
+  "method": "custom",
+  "reader": "drwc",
+  "url": "https://www.delawareriverwaterfront.com/what-to-do"
+ },
+ {
+  "id": "ellieandbird",
+  "name": "Ellie & Bird Coffee Bar",
+  "method": "ics",
+  "url": "https://calendar.google.com/calendar/ical/c_ac79a991cee7176ab417428467c6d76bc8eaf6098d5ddd46294d881acd3e4f52%40group.calendar.google.com/public/basic.ics",
+  "page": "https://www.ellieandbird.com/events",
+  "skip": "^(private event|closed|open \\\\d)"
+ },
+ {
+  "id": "eventbrite",
+  "name": "Eventbrite (free events in Philadelphia)",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/d/pa--philadelphia/free--events/",
+  "pages": 5
+ },
+ {
+  "id": "eventbrite_honeytreeevileye",
+  "name": "HoneyTree EvilEye",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/honeytree-evileye-15688641088"
+ },
+ {
+  "id": "eventbrite_monstervegan",
+  "name": "Monster Vegan",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/monster-vegan-39034984473"
+ },
+ {
+  "id": "eventbrite_wissahickonec",
+  "name": "Wissahickon Environmental Center",
+  "method": "custom",
+  "reader": "eventbrite",
+  "url": "https://www.eventbrite.com/o/wissahickon-environmental-center-54209991113"
+ },
+ {
+  "id": "evilgeniusbeer",
+  "name": "Evil Genius Beer Company",
+  "method": "custom",
+  "reader": "evilgeniusbeer",
+  "url": "https://evilgeniusbeer.com/calendar/",
+  "lab_venue": "Evil Genius Beer Company, 1727 N Front St, Philadelphia, PA 19122"
+ },
+ {
+  "id": "glenfoerd",
+  "name": "Glen Foerd",
+  "method": "squarespace",
+  "url": "https://www.glenfoerd.org/events"
+ },
+ {
+  "id": "hive76",
+  "name": "Hive76",
+  "method": "custom",
+  "reader": "hive76",
+  "url": "https://www.hive76.org/wp-json/event-feed-for-eventbrite/v1/feed/7402",
+  "page": "https://www.hive76.org/classes/",
+  "venue": "Hive76, 1821 East Hagert Street #100c, Philadelphia, PA 19125"
+ },
+ {
+  "id": "icaphila",
+  "name": "Institute of Contemporary Art",
+  "method": "custom",
+  "reader": "icaphila",
+  "url": "https://icaphila.org/calendar/",
+  "venue": "Institute of Contemporary Art, 118 S. 36th Street, Philadelphia, PA 19104"
+ },
+ {
+  "id": "navyyard",
+  "name": "Navy Yard",
+  "method": "custom",
+  "reader": "navyyard",
+  "url": "https://navyyard.org/events/"
+ },
+ {
+  "id": "nps_independence",
+  "name": "Independence National Historical Park",
+  "method": "custom",
+  "reader": "nps_independence",
+  "url": "https://www.nps.gov/inde/planyourvisit/calendar.htm",
+  "parks": "inde,edal,thko,glde",
+  "city": "Philadelphia, PA"
+ },
+ {
+  "id": "schuylkillbanks",
+  "name": "Schuylkill Banks",
+  "method": "custom",
+  "reader": "schuylkillbanks",
+  "url": "https://www.schuylkillbanks.org/events/upcoming-events"
+ },
+ {
+  "id": "sciencehistory",
+  "name": "Science History Institute",
+  "method": "custom",
+  "reader": "sciencehistory",
+  "url": "https://www.sciencehistory.org/visit/events/",
+  "venue": "Science History Institute, 315 Chestnut St, Philadelphia, PA 19106"
+ },
+ {
+  "id": "therailpark",
+  "name": "The Rail Park",
+  "method": "custom",
+  "reader": "therailpark",
+  "url": "https://www.therailpark.org/news-and-events/"
+ },
+ {
+  "id": "woodenshoebooks",
+  "name": "Wooden Shoe Books",
+  "method": "ics",
+  "url": "https://calendar.google.com/calendar/ical/t8qmive63n27mdj7gt03ntc2u8%40group.calendar.google.com/public/basic.ics",
+  "page": "https://woodenshoebooks.org/index.php/events/",
+  "venue": "Wooden Shoe Books, 704 South Street, Philadelphia, PA 19147"
+ },
+ {
+  "id": "sidequesttheater",
+  "name": "SideQuest Theater",
+  "method": "custom",
+  "reader": "crowdwork",
+  "url": "https://crowdwork.com/api/v2/sidequesttheater/shows",
+  "page": "https://sidequesttheater.com/shows/",
+  "venue": "SideQuest Theater"
+ },
+ {
+  "id": "bobandbarbaras",
+  "name": "Bob & Barbara's Lounge",
+  "method": "custom",
+  "reader": "bobandbarbaras",
+  "url": "https://www.bobandbarbaras.com/events",
+  "venue": "Bob & Barbara's Lounge, 1509 South St, Philadelphia, PA 19146"
+ },
+ {
+  "id": "parksontap",
+  "name": "Parks on Tap",
+  "method": "custom",
+  "reader": "parksontap",
+  "url": "https://www.parksontap.com/locations"
+ },
+ {
+  "id": "muralarts",
+  "name": "Mural Arts Philadelphia",
+  "method": "custom",
+  "reader": "muralarts",
+  "url": "https://muralarts.org/events/",
+  "city": "Philadelphia, PA"
+ },
+ {
+  "id": "therotunda",
+  "name": "The Rotunda",
+  "method": "custom",
+  "reader": "therotunda",
+  "url": "https://www.therotunda.org/events",
+  "venue": "The Rotunda, 4014 Walnut St, Philadelphia, PA 19104"
+ },
+ {
+  "id": "philamuseum",
+  "name": "Philadelphia Museum of Art",
+  "method": "custom",
+  "reader": "philamuseum",
+  "url": "https://www.philamuseum.org/sitemap-events.xml",
+  "page": "https://www.philamuseum.org/events"
  }
 ]
