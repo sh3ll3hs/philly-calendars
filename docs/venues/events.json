@@ -1,61 +1,5 @@
 [
  {
-  "venue": "SOUTH Jazz Club",
-  "title": "ARPEGGIO JAZZ ENSEMBLE TRIBUTE TO GIL SCOTT-HERON",
-  "subtitle": null,
-  "date": "2026-11-13",
-  "show_time": null,
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/",
-  "ticket_url": null,
-  "price": null,
-  "source": "html",
-  "needs_manual": true
- },
- {
-  "venue": "Dawson Street Pub",
-  "title": "Philly Blind Pig BBQ!",
-  "subtitle": null,
-  "date": "2026-11-14",
-  "show_time": null,
-  "doors_time": null,
-  "set_times": [],
-  "url": "http://beta.dawsonstreetpub.com/index.php",
-  "ticket_url": null,
-  "price": null,
-  "source": "html",
-  "needs_manual": true
- },
- {
-  "venue": "Dawson Street Pub",
-  "title": "The Garden Roads w/ The No Good Crowd and John Faye",
-  "subtitle": null,
-  "date": "2026-11-14",
-  "show_time": null,
-  "doors_time": null,
-  "set_times": [],
-  "url": "http://beta.dawsonstreetpub.com/index.php",
-  "ticket_url": null,
-  "price": null,
-  "source": "html",
-  "needs_manual": true
- },
- {
-  "venue": "SOUTH Jazz Club",
-  "title": "ARPEGGIO JAZZ ENSEMBLE TRIBUTE TO GIL SCOTT-HERON",
-  "subtitle": null,
-  "date": "2026-11-14",
-  "show_time": null,
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/",
-  "ticket_url": null,
-  "price": null,
-  "source": "html",
-  "needs_manual": true
- },
- {
   "venue": "Dawson Street Pub",
   "title": "Philly Blind Pig BBQ!",
   "subtitle": null,
@@ -68,35 +12,6 @@
   "price": null,
   "source": "html",
   "needs_manual": true
- },
- {
-  "venue": "SOUTH Jazz Club",
-  "title": "ARPEGGIO JAZZ ENSEMBLE TRIBUTE TO GIL SCOTT-HERON",
-  "subtitle": null,
-  "date": "2026-11-15",
-  "show_time": null,
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/",
-  "ticket_url": null,
-  "price": null,
-  "source": "html",
-  "needs_manual": true
- },
- {
-  "venue": "Sellersville Theater",
-  "title": "John Cassidy - Comedy, Magic & Really Weird Things with Balloons",
-  "subtitle": null,
-  "date": "2026-11-15",
-  "show_time": "11:00",
-  "doors_time": "10:30",
-  "set_times": [],
-  "url": "https://www.st94.com/events/john-cassidy-comedy-magic-really-weird-things-with-balloons-5/",
-  "ticket_url": "https://www.etix.com/ticket/p/41330469/john-cassidy-comedymagic-really-weird-things-with-balloons-sellersville-sellersville-theater-1894",
-  "price": "$12.5 to $16",
-  "source": "html",
-  "needs_manual": false,
-  "room": "Sellersville Theater 1894"
  },
  {
   "venue": "Dawson Street Pub",
@@ -111,21 +26,6 @@
   "price": null,
   "source": "html",
   "needs_manual": false
- },
- {
-  "venue": "Sellersville Theater",
-  "title": "Jesse Cook",
-  "subtitle": null,
-  "date": "2026-11-15",
-  "show_time": "20:00",
-  "doors_time": "19:30",
-  "set_times": [],
-  "url": "https://www.st94.com/events/jesse-cook-2/",
-  "ticket_url": "https://www.etix.com/ticket/p/91524347/jesse-cook-sellersville-sellersville-theater-1894",
-  "price": "$49.5 to $86.5",
-  "source": "html",
-  "needs_manual": false,
-  "room": "Sellersville Theater 1894"
  },
  {
   "venue": "Sellersville Theater",
@@ -195,7 +95,7 @@
   "show_time": null,
   "doors_time": null,
   "set_times": [],
-  "url": "https://www.southjazzkitchen.com/event/chris-big-dog-davis-thursday-november-19-presented-by-unscripted-jazz/",
+  "url": "https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/",
   "ticket_url": null,
   "price": null,
   "source": "html",
@@ -1859,21 +1759,6 @@
  },
  {
   "venue": "Parx Casino",
-  "title": "Joe Conklin Holiday Special",
-  "subtitle": "with The City Rhythm Orchestra",
-  "date": "2026-12-17",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
   "title": "Get The Led Out",
   "subtitle": null,
   "date": "2026-12-17",
@@ -1886,6 +1771,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "Xcite Center"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Joe Conklin Holiday Special",
+  "subtitle": "with The City Rhythm Orchestra",
+  "date": "2026-12-17",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
@@ -2373,6 +2273,23 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Washington House"
+ },
+ {
+  "venue": "SOUTH Jazz Club",
+  "title": "Maya Belardo & V Shayne Frederick: Home for the Holidays",
+  "subtitle": null,
+  "date": "2026-12-24",
+  "show_time": "18:30",
+  "doors_time": null,
+  "set_times": [
+   "18:30",
+   "21:00"
+  ],
+  "url": "https://www.southjazzkitchen.com/event/maya-belardo-v-shayne-frederick-home-for-the-holidays-dec-24-630pm-900pm/",
+  "ticket_url": null,
+  "price": null,
+  "source": "html",
+  "needs_manual": false
  },
  {
   "venue": "Sellersville Theater",
