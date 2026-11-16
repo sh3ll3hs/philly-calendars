@@ -3411,6 +3411,21 @@
   "room": "Liberty Bell Gastropub"
  },
  {
+  "venue": "Parx Casino",
+  "title": "Behind The Apple",
+  "subtitle": "The Untold Stories of New York",
+  "date": "2027-02-05",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xcite Center"
+ },
+ {
   "venue": "Sellersville Theater",
   "title": "Bruce In The USA: The World's #1 Tribute to Bruce Springsteen & The E Street Band",
   "subtitle": null,
@@ -3577,13 +3592,13 @@
  },
  {
   "venue": "Sellersville Theater",
-  "title": "Mariposas Galácticas",
+  "title": "Mariposas GalÃ¡cticas",
   "subtitle": null,
   "date": "2027-02-11",
   "show_time": "19:30",
   "doors_time": "19:00",
   "set_times": [],
-  "url": "https://www.st94.com/events/mariposas-galácticas/",
+  "url": "https://www.st94.com/events/mariposas-galÃ¡cticas/",
   "ticket_url": "https://www.etix.com/ticket/p/74007854/mariposas-gal%C3%A1cticas-sellersville-sellersville-theater-1894",
   "price": "$25 to $32",
   "source": "html",
@@ -3592,13 +3607,13 @@
  },
  {
   "venue": "Sellersville Theater",
-  "title": "LIVESTREAM: Mariposas Galácticas",
+  "title": "LIVESTREAM: Mariposas GalÃ¡cticas",
   "subtitle": null,
   "date": "2027-02-11",
   "show_time": "19:35",
   "doors_time": null,
   "set_times": [],
-  "url": "https://www.st94.com/events/livestream-mariposas-galácticas/",
+  "url": "https://www.st94.com/events/livestream-mariposas-galÃ¡cticas/",
   "ticket_url": "https://www.etix.com/ticket/p/32099183/livestreammariposas-gal%C3%A1cticas-sellersville-sellersville-theater-1894",
   "price": "$10 to $13.5",
   "source": "html",
@@ -3800,6 +3815,21 @@
   "room": "Sellersville Theater 1894"
  },
  {
+  "venue": "Parx Casino",
+  "title": "Midnight Sun Rize",
+  "subtitle": null,
+  "date": "2027-02-19",
+  "show_time": "21:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "360"
+ },
+ {
   "venue": "Dawson Street Pub",
   "title": "Kenn Kweder and the Men from WAWA",
   "subtitle": null,
@@ -3995,6 +4025,21 @@
  },
  {
   "venue": "Parx Casino",
+  "title": "80's Revolution",
+  "subtitle": null,
+  "date": "2027-02-26",
+  "show_time": "21:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "360"
+ },
+ {
+  "venue": "Parx Casino",
   "title": "Deen Anthony",
   "subtitle": null,
   "date": "2027-02-26",
@@ -4159,6 +4204,36 @@
   "room": "Liberty Bell Gastropub"
  },
  {
+  "venue": "Parx Casino",
+  "title": "DJ Tonka",
+  "subtitle": null,
+  "date": "2027-03-12",
+  "show_time": "21:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xlounge"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Anthony Rodia",
+  "subtitle": "Insanely Funny Tour",
+  "date": "2027-03-13",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xcite Center"
+ },
+ {
   "venue": "The Queen",
   "title": "Alaska Thunderf*ck: The Revolution Tour",
   "subtitle": null,
@@ -4202,6 +4277,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "Liberty Bell Gastropub"
+ },
+ {
+  "venue": "Sellersville Theater",
+  "title": "Uriah Heep Magician's Farewell Tour",
+  "subtitle": null,
+  "date": "2027-03-18",
+  "show_time": "19:30",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://www.st94.com/events/uriah-heep-magicians-farewell-tour/",
+  "ticket_url": "https://www.etix.com/ticket/p/86009341/uriah-heep-magicians-farewell-tour-sellersville-sellersville-theater-1894",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
  },
  {
   "venue": "The Queen",
@@ -4324,6 +4414,21 @@
   "room": "Xcite Center"
  },
  {
+  "venue": "Parx Casino",
+  "title": "DJ Capps",
+  "subtitle": null,
+  "date": "2027-03-26",
+  "show_time": "21:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xlounge"
+ },
+ {
   "venue": "Sellersville Theater",
   "title": "The Land Of Ozz - The Ultimate Ozzy Osbourne Experience (9 PM)",
   "subtitle": null,
@@ -4442,6 +4547,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Flight Entertainment & Parx Casino presents Q102 Legends of Freestyle Reunion Tour",
+  "subtitle": "featuring Lisa Lisa, TKA/K7, Rockell, 69 Boyz, Coro, Pretty Poison, Planet Patrol, Larger Than Life - Hosted by Buster of Q102",
+  "date": "2027-04-17",
+  "show_time": "19:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xcite Center"
  },
  {
   "venue": "The Queen",

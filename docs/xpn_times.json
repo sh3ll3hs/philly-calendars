@@ -2968,5 +2968,173 @@
   "source": "http:200",
   "time": null,
   "url": "http://www.dawsonstreetpub.com"
+ },
+ "517769": {
+  "checked": "2026-11-16",
+  "source": "venue-site:The Queen (name match)",
+  "time": "20:00",
+  "url": "https://www.ticketmaster.com/lucinda-williams-and-her-band-wilmington-delaware-02-23-2027/event/02006564872A3315"
+ },
+ "517771": {
+  "checked": "2026-11-16",
+  "source": "venue-site:ardmoremusichall.com (name match)",
+  "time": "19:30",
+  "url": "Tom Hamilton: Home for the Holidays"
+ },
+ "517773": {
+  "checked": "2026-11-16",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.ticketmaster.com/event/0200656BC07EFD6F"
+ },
+ "517775": {
+  "checked": "2026-11-16",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.ticketmaster.com/event/02006569CD80B556"
+ },
+ "517777": {
+  "checked": "2026-11-16",
+  "source": "jsonld",
+  "time": "14:30",
+  "url": "https://folkproject.org/mec-events/2026-11-20/"
+ },
+ "517780": {
+  "checked": "2026-11-16",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://events.humanitix.com/pfs-m-a-c-present-their-songs-remain-honoring-the-late-great-philly-songwriters"
+ },
+ "517782": {
+  "checked": "2026-11-16",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.instagram.com/p/Dfucv5PN4hq/?hl=en"
+ },
+ "517784": {
+  "checked": "2026-11-16",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.facebook.com/events/992688869794982"
+ },
+ "517787": {
+  "checked": "2026-11-16",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://events.ticketleap.com/tickets/kellycenter/12052026"
+ },
+ "517789": {
+  "checked": "2026-11-16",
+  "source": "jsonld",
+  "time": "15:00",
+  "url": "https://events.ticketleap.com/tickets/kellycenter/12122026"
+ },
+ "517791": {
+  "checked": "2026-11-16",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://events.ticketleap.com/tickets/kellycenter/12312026"
+ },
+ "517793": {
+  "checked": "2026-11-16",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://events.ticketleap.com/tickets/kellycenter/03062027"
+ },
+ "517795": {
+  "checked": "2026-11-16",
+  "source": "jsonld",
+  "time": "19:30",
+  "url": "https://events.ticketleap.com/tickets/kellycenter/04092027"
+ },
+ "517797": {
+  "checked": "2026-11-16",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.tixr.com/groups/wowphilly/events/454-pig-the-gemini-210158"
+ },
+ "517821": {
+  "checked": "2026-11-16",
+  "source": "http:403",
+  "time": null,
+  "url": "https://drexelperformingarts.universitytickets.com/w/event.aspx?id=2008"
+ },
+ "517824": {
+  "checked": "2026-11-16",
+  "source": "show",
+  "time": "20:00",
+  "url": "https://www.st94.com/events/arena-flashback-1976-1983-the-music-of-billy-squier-reo-speedwagon-loverboy-and-night-ranger/"
+ },
+ "517826": {
+  "checked": "2026-11-16",
+  "source": "show",
+  "time": "19:30",
+  "url": "https://www.st94.com/events/the-gibson-brothers/"
+ },
+ "517828": {
+  "checked": "2026-11-16",
+  "source": "show",
+  "time": "19:30",
+  "url": "https://www.st94.com/events/mardi-gras-party-with-james-day-the-fish-fry-2/"
+ },
+ "517830": {
+  "checked": "2026-11-16",
+  "source": "show",
+  "time": "20:00",
+  "url": "https://www.st94.com/events/marc-broussard-ted-broussard/"
+ },
+ "517832": {
+  "checked": "2026-11-16",
+  "source": "show",
+  "time": "20:00",
+  "url": "https://www.st94.com/events/matt-nathanson-to-the-point-solo-tour-2027/"
+ },
+ "517834": {
+  "checked": "2026-11-16",
+  "source": "show",
+  "time": "20:00",
+  "url": "https://www.st94.com/events/matt-nathanson-to-the-point-solo-tour-2027-2/"
+ },
+ "517836": {
+  "checked": "2026-11-16",
+  "source": "show",
+  "time": "20:00",
+  "url": "https://www.st94.com/events/matt-nathanson-to-the-point-solo-tour-2027-3/"
+ },
+ "517838": {
+  "checked": "2026-11-16",
+  "source": "jsonld",
+  "time": "15:00",
+  "url": "https://www.eventbrite.com/e/live-at-cako-w-john-davis-peter-peter-hughes-william-h-travis-and-more-tickets-2002912367809?utm_source=ig&amp;utm_medium=social&amp;utm_content=link_in_bio&amp;fbclid=PAZnRzaAVhgzFleHRuA2FlbQIxMQBwZG9mAmZkaWQWUSA0WyOyKjOcSUveRaK47xvE6EJ1CnNydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp7IDE1WARTKfT6gRN4BY2s1oehvv8k1PN4YTJlESCO3JQ9joXtwyxfeUBVjm_aem_B4BBPSqOFLvfCGdbzh06BA"
+ },
+ "517841": {
+  "checked": "2026-11-16",
+  "source": "show",
+  "time": "19:00",
+  "url": "https://shermantheater.com/event/the-menzingers-everything-i-ever-saw-north-american-tour/sherman-theater/"
+ },
+ "517843": {
+  "checked": "2026-11-16",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.ticketmaster.com/megadeth-vaccination-of-the-nations-tour-camden-new-jersey-06-13-2027/event/0200656BA6ABC704?_gl=1*q8vjan*_ga*Njg2MjAwNjc1LjE3OTQ4NDQzMDE.*_ga_C1T806G4DF*czE3OTQ4NDQzMDAkbzEkZzAkdDE3OTQ4NDQzMDQkajU2JGwwJGgw"
+ },
+ "517846": {
+  "checked": "2026-11-16",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.tixr.com/groups/singushomefest/events/sing-us-home-festival-2027-214222"
+ },
+ "517849": {
+  "checked": "2026-11-16",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.tixr.com/groups/singushomefest/events/sing-us-home-festival-2027-214222"
+ },
+ "517851": {
+  "checked": "2026-11-16",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.tixr.com/groups/singushomefest/events/sing-us-home-festival-2027-214222"
  }
 }
