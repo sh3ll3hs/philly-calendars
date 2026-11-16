@@ -3,6 +3,10 @@ name: Update calendar feeds
 on:
   schedule:
     - cron: "17 */6 * * *"   # every 6 hours
+    # Two extra morning starts (5:41 and 6:41 AM Eastern in winter). GitHub regularly drops the
+    # 12:17 UTC slot above, and the combined feed rebuilds on the first run of the morning.
+    - cron: "41 10 * * *"
+    - cron: "41 11 * * *"
   workflow_dispatch:          # lets you run it by hand from the Actions tab
 
 permissions:
