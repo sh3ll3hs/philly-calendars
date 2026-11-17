@@ -18,6 +18,7 @@ A GitHub Actions workflow rebuilds the feeds every 6 hours and publishes them vi
 | Bartram's Garden | `https://sh3ll3hs.github.io/philly-calendars/bartrams.ics` | `tribe_to_ics.py bartrams` — same method (the site's own `?ical=1` link triggers an "insecure connection" warning in Apple Calendar) |
 | Free Library of Philadelphia | `https://sh3ll3hs.github.io/philly-calendars/flp.ics` | `flp_to_ics.py` — the library's per-branch RSS feeds (the calendar site itself is behind a Cloudflare challenge); accumulates daily |
 | Everything else, combined | `https://sh3ll3hs.github.io/philly-calendars/combined.ics` | `combined_to_ics.py` — 160 sites listed in `combined_sources.json` (museums, parks, bars, galleries, theatres, neighborhood groups, Eventbrite organizers), each read by the best method it offers; see "Combined feed" below |
+| Queer Tech Events (LGBTQ+ career, tech and business organizations, nationwide) | `https://sh3ll3hs.github.io/philly-calendars/queertech.ics` | `combined_to_ics.py --sources queertech_sources.json` — Out in Tech, Out Professionals, Independence Business Alliance, TransWork, StartOut, Out & Equal, Build Out Alliance, LGBT Tech, NGLCC, QueerTech, Unicorns in Tech, Queer Design Club, Out Leadership, Reaching Out MBA, Out for Undergrad, Lesbians Who Tech; every event has its place, its page and a sign-up line; see "Queer Tech Events feed" below |
 
 Checked and not worth converting: Northeast Times community calendar (prose, last updated Jan 2025),
 Sound Advice newsletter (last issue June 2025), Visit Philly (editorial, stale dates),
@@ -35,6 +36,7 @@ Filmadelphia (bot-blocked ticketing), DIY PHL (site gone).
 - `phila_to_ics.py` — builds `docs/phila.ics` from the city's department calendars (drops recurring series that already ended; falls back to the saved calendar list if the city API blocks the request).
 - `flp_to_ics.py` — builds `docs/flp.ics` from `libwww.freelibrary.org/rss/eventsrss.cfm`. Each feed returns only the next 10 events, so it walks every branch (codes from the RSS menu) and, for busy branches, each category, and merges into `docs/flp_history.json`. Times come from the line every item ends with ("11/12/26, 10:00 A.M. - Andorra Library"); events are 1 hour long by default. Runs at most once per 20 h. Busy branches (Parkway Central) only reach a week or two ahead; cancellations aren't detected.
 - `combined_to_ics.py` — builds `docs/combined.ics` from every source in `combined_sources.json`. Rebuilds on every morning run (5–10 AM Eastern) and otherwise at most once every 11 h; `--only id1,id2 --force` tests a few sources, `--list` prints them. Needs `pip install requests beautifulsoup4`.
+- `combined_to_ics.py --sources queertech_sources.json --out docs/queertech.ics --state docs/queertech_state.json --name "Queer Tech Events" --rsvp-lines --days-ahead 400` — the same engine, building the Queer Tech Events feed.
 - `calfind.py` — finds embedded calendar feeds on any site: `python3 calfind.py --deep URL`.
 
 The feed scripts are plain Python 3; `xpn_times.py` and the venue scrapers need `pip install requests beautifulsoup4`.
@@ -64,6 +66,29 @@ Site-specific readers so far: Barnes Foundation, Bob & Barbara's, Center City Ev
 Rules every reader follows: check robots.txt before relying on a path; a 403/406 or bot challenge means the source is left out (Tixr, Temple, Penn Libraries, GivePulse's API); MATO and Instagram are never requested.
 
 Entries marked `"off": true` (72 of them) are events pages with no feed and no structured data; `needs` says what each is waiting for. They are skipped until someone writes a reader.
+
+## Queer Tech Events feed (`queertech_sources.json`)
+
+One feed of events from LGBTQ+ organizations that work on jobs and careers in tech, engineering, consulting, business and education. It is built by `combined_to_ics.py` from its own source list, with three differences from the combined feed:
+
+- **Events anywhere, times in Eastern.** These are national groups, so an event keeps whatever city it is in (or "Online"). Each clock time is moved to Eastern from the zone the source states (Eventbrite and Meetup give one; Out & Equal prints "ET") or, where the site prints local time at the venue (Out in Tech, Build Out Alliance: `"tz": "venue"`), from the venue's address (`combined_readers/zones.py`). When the zone cannot be told, the event is all-day and the printed time is quoted in its notes. Nothing is guessed.
+- **A sign-up line on every event** (`--rsvp-lines`): `RSVP: <link>` when the source gives a registration link (Eventbrite, Meetup, a "Register" button; for Build Out Alliance the link is read from each event's own page, `"rsvp_pages": true`), otherwise `RSVP: on the event page`.
+- **400 days ahead**, so next year's conferences show up as soon as they are announced.
+
+| Source | Read from | Notes |
+|---|---|---|
+| Out in Tech | outintech.com/events/ and each event page (`qt_outintech`) | only the events the page lists in its own HTML; the Accelevents widget on the same page is drawn by script and cannot be read |
+| Out Professionals, StartOut (two organizer pages), Unicorns in Tech, Queer Design Club | Eventbrite organizer pages (`eventbrite`, `"anywhere": true`) | the next 12 events of each organizer |
+| Independence Business Alliance | the event cards on thinkiba.com (`qt_thinkiba`) | the few next events; the members calendar answers 403 to scripts |
+| TransWork | transwork.org/events and each event page (`qt_transwork`) | Philadelphia job-search and networking events |
+| Out & Equal | outandequal.org/events/ (`qt_outandequal`) | many events are for partner companies only |
+| Build Out Alliance | its Squarespace events list (`squarespace`) | architecture, engineering, construction |
+| LGBT Tech, NGLCC | Wix Events data in the page (`wix`) | |
+| QueerTech (Montréal, Toronto, Calgary, Edmonton, Vancouver) | each Meetup group's events page (`qt_meetup`) | Meetup's calendar files leave out the venue |
+| Out Leadership | outleadership.com/events/ (`qt_outleadership`) | dates only: the site gives no time zone |
+| Reaching Out MBA, Out for Undergrad, Lesbians Who Tech & Allies | conference pages with a heading, a date line and a place (`qt_dateline`) | all-day; only dates written with their year |
+
+Looked at and left out: oSTEM, myGwork and Campus Pride (403 to scripts); Pride at Work Canada (its robots.txt turns away automated agents by name); the Consortium of Higher Education LGBT Resource Professionals (its calendar export answers 403); Point Foundation, Gaingels, Pride in STEM, Trans Can Work, TransTech Social, Maven Youth, Out to Innovate, Queer in AI, 500 Queer Scientists, LGBTQ Leaders in Higher Education and the LGBTQ in Technology Slack (no dated upcoming events on a page a script can read, as of November 2026). To add one later, add an entry to `queertech_sources.json` and test it with `--only <id> --force`.
 
 ## Venue scrapers (`scrapers/`)
 

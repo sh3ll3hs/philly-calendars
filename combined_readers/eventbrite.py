@@ -24,7 +24,11 @@ wall-clock values in the event's own `timezone`, is_online_event, is_cancelled,
 and primary_venue with a full address. The wall time is converted from the event's
 time zone to America/New_York (the same thing for nearly every Philadelphia event).
 
-What is kept: events with a venue in Philadelphia, PA. Dropped: online events,
+An entry with "anywhere": true (the national organizations of the Queer Tech Events
+feed) keeps every event of the organizer, wherever it is held: an online event gets
+the place "Online", and the event's link is repeated as its sign-up link.
+
+Otherwise, what is kept: events with a venue in Philadelphia, PA. Dropped: online events,
 cancelled or postponed events (see called_off), events elsewhere (the
 Philadelphia search also returns Camden, Cherry Hill and other nearby towns),
 and events whose organizer hid the start date (nothing on the site to check a
@@ -137,11 +141,13 @@ def place(venue):
 
 def parse(body, src):
     out, seen = [], set()
+    anywhere = bool(src.get("anywhere"))      # a national organization: keep every city and online events
     for r in records(body):
-        if not isinstance(r, dict) or r.get("is_online_event") or called_off(r) or r.get("hide_start_date"):
+        if not isinstance(r, dict) or called_off(r) or r.get("hide_start_date"):
             continue
         venue = r.get("primary_venue") or {}
-        if not venue or not in_philadelphia(r):
+        online = bool(r.get("is_online_event"))
+        if not anywhere and (online or not venue or not in_philadelphia(r)):
             continue
         st = when(r.get("start_date"), r.get("start_time"), r.get("timezone"))
         if not st:
@@ -157,7 +163,9 @@ def parse(body, src):
         if not url or key in seen:
             continue
         seen.add(key)
-        e = C.event(src, key, r.get("name"), start, end, all_day, place(venue), url, r.get("summary"))
+        where = "Online" if online else place(venue)
+        e = C.event(src, key, r.get("name"), start, end, all_day, where, url, r.get("summary"),
+                    rsvp=url if anywhere else "")
         if e:
             out.append(e)
     return out

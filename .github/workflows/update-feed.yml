@@ -72,6 +72,13 @@ jobs:
       - name: Build combined small-sources feed
         continue-on-error: true
         run: python3 combined_to_ics.py --out docs/combined.ics --state docs/combined_state.json
+      # LGBTQ+ career and tech organizations, nationwide (sources in queertech_sources.json). Same engine and
+      # the same schedule rule as the combined feed; events are kept up to 400 days ahead for the conferences.
+      - name: Build Queer Tech Events feed
+        continue-on-error: true
+        run: >-
+          python3 combined_to_ics.py --sources queertech_sources.json --out docs/queertech.ics
+          --state docs/queertech_state.json --name "Queer Tech Events" --rsvp-lines --days-ahead 400
       - name: Commit if changed
         run: |
           git config user.name  "feed-bot"

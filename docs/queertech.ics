@@ -1,0 +1,628 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//combined_to_ics//Philly combined events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Queer Tech Events
+X-WR-TIMEZONE:America/New_York
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:caaea17b11fc2be1c058b0ef29a69111087f64fc@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261115T140000
+DTEND;TZID=America/New_York:20261115T170000
+SUMMARY:San Francisco Bay Area: City to Coast: The Golden Gate Park Trek
+LOCATION:meet at The Harvey Milk Center for the Arts (Duboce Park)\, 50 Sco
+ tt Street San Francisco\, California\, 94117
+DESCRIPTION:Join the San Francisco Bay Area group for an unforgettable 5-mi
+ le scenic trek from Duboce Park to Ocean Beach across San Francisco's most
+  iconic green spaces. Connect with fellow industry peers while exploring h
+ ow design and nature shape our city!\n\nSource: Build Out Alliance\nEvent 
+ page: https://buildoutalliance.org/upcoming-events/2026-11-sf-city-to-coas
+ t-the-golden-gate-park-trek\nRSVP: https://www.eventbrite.com/e/city-to-co
+ ast-the-golden-gate-park-trek-tickets-2003772325967
+URL:https://buildoutalliance.org/upcoming-events/2026-11-sf-city-to-coast-t
+ he-golden-gate-park-trek
+CATEGORIES:Build Out Alliance
+END:VEVENT
+BEGIN:VEVENT
+UID:7cdebe7d629d8b08fcb8d7a758a86b768f0eebf3@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261116T140000
+DTEND;TZID=America/New_York:20261116T153000
+SUMMARY:360° Branding Workshop: From Strategy to Website to AI-Ready Marke
+ ting
+LOCATION:Online (Zoom)
+DESCRIPTION:Join the IBA and Pixel Parlor for a 360 degree branding worksho
+ p that every person who struggles with and could use support with branding
+ \, website\, and marketing should attend!\n\nSource: Independence Business
+  Alliance (Philadelphia LGBTQ+ chamber)\nEvent page: https://members.think
+ iba.com/ap/Events/Register/3BF8kbkUYCQCg\nRSVP: https://members.thinkiba.c
+ om/ap/Events/Register/3BF8kbkUYCQCg
+URL:https://members.thinkiba.com/ap/Events/Register/3BF8kbkUYCQCg
+CATEGORIES:Independence Business Alliance (Philadelphia LGBTQ+ chamber)
+END:VEVENT
+BEGIN:VEVENT
+UID:d7bcd6d22c4b2043d6d35b6cdc6999b23aed9dd5@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261117T120000
+DTEND;TZID=America/New_York:20261117T130000
+SUMMARY:Prosperity Planning Series: The Power of LGBTQ+ Financial Health wi
+ th Jiselle Rouet
+LOCATION:Online (Zoom)
+DESCRIPTION:Prosperity Planning Series: The Power of LGBTQ+ Financial Healt
+ h with Jiselle Rouet\n\nSource: Independence Business Alliance (Philadelph
+ ia LGBTQ+ chamber)\nEvent page: https://members.thinkiba.com/ap/Events/Reg
+ ister/QZFjqdoUdCnC0\nRSVP: https://members.thinkiba.com/ap/Events/Register
+ /QZFjqdoUdCnC0
+URL:https://members.thinkiba.com/ap/Events/Register/QZFjqdoUdCnC0
+CATEGORIES:Independence Business Alliance (Philadelphia LGBTQ+ chamber)
+END:VEVENT
+BEGIN:VEVENT
+UID:b9b6ab790d2befeac8af9b13db99df77d09068e8@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261117T180000
+DTEND;TZID=America/New_York:20261117T210000
+SUMMARY:Stronger Together: Queer & Ally panel discussion and networking nig
+ ht
+LOCATION:11508 Jasper Ave\, Edmonton\, AB T5K 0M8\, Canada
+DESCRIPTION:QueerTech is excited to announce we are partnering with the Alb
+ erta 2SLGBTQI+ Chamber of Commerce to come together as Queer\, Trans\, and
+  allied entrepreneurs and professionals in Edmonton.\n\nThe evening will s
+ tart with an overview of what the Alberta 2SLGBTQI+ Chamber of Commerce fo
+ und through the Beyond Barriers research (exploring the experience…\n\nS
+ ource: QueerTech (Edmonton)\nEvent page: https://www.meetup.com/queertech-
+ edmonton/events/316983902/\nRSVP: https://www.meetup.com/queertech-edmonto
+ n/events/316983902/
+URL:https://www.meetup.com/queertech-edmonton/events/316983902/
+CATEGORIES:QueerTech (Edmonton)
+END:VEVENT
+BEGIN:VEVENT
+UID:9a3ec3ee66d2932ee9b11bbf762a44973db45b7b@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261117T183000
+DTEND;TZID=America/New_York:20261117T203000
+SUMMARY:Make Sandwiches to Support At-Risk LGBTQ+ Youth and Others - NYC
+LOCATION:535 5th Avenue #fl 13\, New York\, NY 10017
+DESCRIPTION:Source: Out Professionals\nEvent page: https://www.eventbrite.c
+ om/e/make-sandwiches-to-support-at-risk-lgbtq-youth-and-others-nyc-tickets
+ -2002387797806\nRSVP: https://www.eventbrite.com/e/make-sandwiches-to-supp
+ ort-at-risk-lgbtq-youth-and-others-nyc-tickets-2002387797806
+URL:https://www.eventbrite.com/e/make-sandwiches-to-support-at-risk-lgbtq-y
+ outh-and-others-nyc-tickets-2002387797806
+CATEGORIES:Out Professionals
+END:VEVENT
+BEGIN:VEVENT
+UID:f2bfb017bab773893eb3540892141d642520e792@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261117T193000
+DTEND;TZID=America/New_York:20261117T213000
+SUMMARY:Out in Tech Denver | November Monthly Mixer
+LOCATION:525 Santa Fe Dr.\, Denver\, CO 80204
+DESCRIPTION:Join Out in Tech Denver at Town Hall Collaborative on Tuesday\,
+  November 17th from 5:30-7:30 PM for our monthly mixer!\n\nSource: Out in 
+ Tech\nEvent page: https://outintech.com/event/out-in-tech-denver-november-
+ monthly-mixer/\nRSVP: https://www.eventbrite.com/e/out-in-tech-denver-nove
+ mber-monthly-mixer-tickets-1993714974157
+URL:https://outintech.com/event/out-in-tech-denver-november-monthly-mixer/
+CATEGORIES:Out in Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:df72a7cb1e2439d9cedb53d91e5db217f2e801b0@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261117T200000
+DTEND;TZID=America/New_York:20261117T220000
+SUMMARY:Out in Tech Austin | Monthly Mixer 2026
+LOCATION:900 Red River Street\, Austin\, TX 78701
+DESCRIPTION:Join the Out in Tech ATX community for a night of mixing and mi
+ ngling! Grab a drink\, meet new people\, and enjoy great conversation.\n\n
+ Source: Out in Tech\nEvent page: https://outintech.com/event/out-in-tech-a
+ ustin-monthly-mixer-2026-11/\nRSVP: https://www.eventbrite.com/e/out-in-te
+ ch-austin-monthly-mixer-2026-tickets-1980511139131
+URL:https://outintech.com/event/out-in-tech-austin-monthly-mixer-2026-11/
+CATEGORIES:Out in Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:7d55c4f71f382433bee29abd19d77fdca77bfd42@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261118T080000
+DTEND;TZID=America/New_York:20261118T170000
+SUMMARY:QT Qonference 2026
+LOCATION:Evergreen Brick Works\, 550 Bayview Ave\, Toronto
+DESCRIPTION:QueerTech présente la QT Qonference 2026 (QTQ) — la plus gra
+ nde conférence technologique 2SLGBTQIA+ au Canada.\n\nEn 2026\, QTQ revie
+ nt à Toronto pour deux journées de programmation en présentiel\, centr
+ ées sur l’une des questions les plus urgentes de notre avenir :\n\n Qui
+  peut faire confiance à l’IA ?\n\nAlors que l’intelligence artificiel
+ le transforme…\n\nSource: QueerTech (Montréal)\nEvent page: https://www
+ .meetup.com/queertech-montreal/events/315378084/\nRSVP: https://www.meetup
+ .com/queertech-montreal/events/315378084/
+URL:https://www.meetup.com/queertech-montreal/events/315378084/
+CATEGORIES:QueerTech (Montréal)
+END:VEVENT
+BEGIN:VEVENT
+UID:c80d6dd63f203e378e4e3b9baa251976e42a4b31@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261118T120000
+DTEND;TZID=America/New_York:20261118T140000
+SUMMARY:Quarterly Partner Learning Meetup: November
+LOCATION:Online
+DESCRIPTION:Partner Exclusive\, Partner Learning Meetup\n\nSource: Out & Eq
+ ual\nEvent page: https://outandequal.org/event/partner-learning-meetup-nov
+ ember-2026/\nRSVP: on the event page
+URL:https://outandequal.org/event/partner-learning-meetup-november-2026/
+CATEGORIES:Out & Equal
+END:VEVENT
+BEGIN:VEVENT
+UID:0c08784c11d5e28f730d55feadc0d007b3b20841@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261118T173000
+DTEND;TZID=America/New_York:20261118T200000
+SUMMARY:Out in Tech Boston: LGBTQ+ Rights and Inclusion
+LOCATION:325 Binney Street\, Cambridge\, MA 02142
+DESCRIPTION:Healthcare\, Workplace\, and Corporate Responsibility in an Evo
+ lving Landscape for Transgender Communities\n\nSource: Out in Tech\nEvent 
+ page: https://outintech.com/event/out-in-tech-boston-lgbtq-rights-and-incl
+ usion/\nRSVP: https://www.eventbrite.com/e/out-in-tech-boston-lgbtq-rights
+ -and-inclusion-tickets-2003744673257
+URL:https://outintech.com/event/out-in-tech-boston-lgbtq-rights-and-inclusi
+ on/
+CATEGORIES:Out in Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:84cc381cf44b10c5c4a2c7eebb24dafb1d98f326@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261118T180000
+DTEND;TZID=America/New_York:20261118T200000
+SUMMARY:OutPro Meaningful LGBTQ+ Networking - Philly
+LOCATION:The Little Gay Pub\, 102 South 13th Street\, Philadelphia\, PA 191
+ 07
+DESCRIPTION:Source: Out Professionals\nEvent page: https://www.eventbrite.c
+ om/e/outpro-meaningful-lgbtq-networking-philly-tickets-2000987926754\nRSVP
+ : https://www.eventbrite.com/e/outpro-meaningful-lgbtq-networking-philly-t
+ ickets-2000987926754
+URL:https://www.eventbrite.com/e/outpro-meaningful-lgbtq-networking-philly-
+ tickets-2000987926754
+CATEGORIES:Out Professionals
+END:VEVENT
+BEGIN:VEVENT
+UID:be8eaa6c053ae575f9922be3888696eea72fb203@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261118T190000
+DTEND;TZID=America/New_York:20261118T210000
+SUMMARY:OutPro LGBTQ+ and Allies Networking on the Riverwalk - Chicago
+LOCATION:Sheraton Grand Chicago Riverwalk\, 301 East North Water Street\, C
+ hicago\, IL 60611
+DESCRIPTION:Source: Out Professionals\nEvent page: https://www.eventbrite.c
+ om/e/outpro-lgbtq-and-allies-networking-on-the-riverwalk-chicago-tickets-2
+ 003375583299\nRSVP: https://www.eventbrite.com/e/outpro-lgbtq-and-allies-n
+ etworking-on-the-riverwalk-chicago-tickets-2003375583299
+URL:https://www.eventbrite.com/e/outpro-lgbtq-and-allies-networking-on-the-
+ riverwalk-chicago-tickets-2003375583299
+CATEGORIES:Out Professionals
+END:VEVENT
+BEGIN:VEVENT
+UID:55f788958840584d03cef1dfe7455846849a944e@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261119T120000
+DTEND;TZID=America/New_York:20261119T143000
+SUMMARY:Out in Tech Amsterdam | Third Thursdays
+LOCATION:119-HS Elandsstraat\, 1016 RX Amsterdam
+DESCRIPTION:Join our monthly after work drinks event\, hosted the third Thu
+ rsday of every month at Cafe Saarein.\n\nSource: Out in Tech\nEvent page: 
+ https://outintech.com/event/out-in-tech-amsterdam-third-thursdays-37/\nRSV
+ P: https://www.eventbrite.com/e/out-in-tech-amsterdam-third-thursdays-regi
+ stration-1318589790559
+URL:https://outintech.com/event/out-in-tech-amsterdam-third-thursdays-37/
+CATEGORIES:Out in Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:707979d795bc0998bc261ac801bfc2abd0820c21@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261119T120000
+DTEND;TZID=America/New_York:20261119T140000
+SUMMARY:Signal Through the Noise November Webinar
+LOCATION:Online
+DESCRIPTION:Partner Exclusive\, Webinar\n\nSource: Out & Equal\nEvent page:
+  https://outandequal.org/event/signal-through-the-noise-november-webinar-2
+ /\nRSVP: on the event page
+URL:https://outandequal.org/event/signal-through-the-noise-november-webinar
+ -2/
+CATEGORIES:Out & Equal
+END:VEVENT
+BEGIN:VEVENT
+UID:92831331c4a0ceb292887b718777a583a08023dd@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261119T130000
+DTEND;TZID=America/New_York:20261119T150000
+SUMMARY:Unicorns in Tech FLINTA* Afterwork | for the FLINTA* Tech Community
+LOCATION:Curly Bar\, Adolfstraße 17\, 13347 Berlin
+DESCRIPTION:Source: Unicorns in Tech (Berlin)\nEvent page: https://www.even
+ tbrite.co.uk/e/unicorns-in-tech-flinta-afterwork-for-the-flinta-tech-commu
+ nity-tickets-698281748507\nRSVP: https://www.eventbrite.co.uk/e/unicorns-i
+ n-tech-flinta-afterwork-for-the-flinta-tech-community-tickets-698281748507
+URL:https://www.eventbrite.co.uk/e/unicorns-in-tech-flinta-afterwork-for-th
+ e-flinta-tech-community-tickets-698281748507
+CATEGORIES:Unicorns in Tech (Berlin)
+END:VEVENT
+BEGIN:VEVENT
+UID:f5c1706f13bcd1dba3b5f9ba82fbd683abbfc48f@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261119T173000
+DTEND;TZID=America/New_York:20261119T190000
+SUMMARY:November ConnX: with Philly Pride Visitor Center
+LOCATION:Philly Pride Visitor Center\, 12th and Locust\, Philadelphia\, PA 
+ 19107
+DESCRIPTION:Join the IBA at our monthly networking event\, ConnX! This Conn
+ X will be in partnership with the Philly Pride Visitor Center\, located in
+  the heart of the Gayborhood\, at 12th and Locust. Come walk through the n
+ ew Pride Visitor Center\, shop the locally made gifts\, and stay to chat w
+ ith our network at Knock Bar.\n\nSource: Independence Business Alliance (P
+ hiladelphia LGBTQ+ chamber)\nEvent page: https://members.thinkiba.com/ap/E
+ vents/Register/NaFQakvcYCaCm\nRSVP: https://members.thinkiba.com/ap/Events
+ /Register/NaFQakvcYCaCm
+URL:https://members.thinkiba.com/ap/Events/Register/NaFQakvcYCaCm
+CATEGORIES:Independence Business Alliance (Philadelphia LGBTQ+ chamber)
+END:VEVENT
+BEGIN:VEVENT
+UID:3b64398bf35129328cc74181c122643716b792f4@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261119T180000
+DTEND;TZID=America/New_York:20261119T200000
+SUMMARY:New York City: Fall Happy Hour with REBNY
+LOCATION:Tom Dixon Showroom\, 186 Franklin Street New York\, 10013
+DESCRIPTION:Our New York City group is joining forces with REBNY for an ele
+ vated autumn happy hour to expand your network across the design\, constru
+ ction\, and real estate industry. Connect with senior leaders and fellow p
+ rofessionals over light bites\, drinks\, and great conversation.\n\nSource
+ : Build Out Alliance\nEvent page: https://buildoutalliance.org/upcoming-ev
+ ents/2026-11-ny-fall-happy-hour-with-rebny\nRSVP: https://www.eventbrite.c
+ om/e/fall-happy-hour-with-rebny-tickets-2003775802365
+URL:https://buildoutalliance.org/upcoming-events/2026-11-ny-fall-happy-hour
+ -with-rebny
+CATEGORIES:Build Out Alliance
+END:VEVENT
+BEGIN:VEVENT
+UID:091ff66d88ba0e6b7e033cf9c4a5898086c014a0@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261119T183000
+DTEND;TZID=America/New_York:20261119T203000
+SUMMARY:Investor Pitching Workshop: Sharpen Your Pitch With Direct Feedback
+LOCATION:16 Madison Square West - (aka 1115 Broadway @ 25th Street - 11th F
+ loor Conference Room)\, 16 Madison Square North\, New York\, NY 10010
+DESCRIPTION:Source: StartOut\nEvent page: https://www.eventbrite.com/e/inve
+ stor-pitching-workshop-sharpen-your-pitch-with-direct-feedback-tickets-200
+ 2983171585\nRSVP: https://www.eventbrite.com/e/investor-pitching-workshop-
+ sharpen-your-pitch-with-direct-feedback-tickets-2002983171585
+URL:https://www.eventbrite.com/e/investor-pitching-workshop-sharpen-your-pi
+ tch-with-direct-feedback-tickets-2002983171585
+CATEGORIES:StartOut
+END:VEVENT
+BEGIN:VEVENT
+UID:6cfc36f9f14a8e792aecdf354c6dde7cd672a5cc@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261201T183000
+DTEND;TZID=America/New_York:20261201T203000
+SUMMARY:Book Club: 100 Boyfriends & Member Writing Challenge
+LOCATION:The LGBT Center\, 208 West 13th Street New York\, 10011
+DESCRIPTION:Our New York City group is gathering for our final reading circ
+ le of the year to dive into Brontez Purnell’s short story collection. Co
+ me connect with fellow readers\, enjoy great conversation\, and toast to a
+ n inspiring year of queer literature.\n\nSource: Build Out Alliance\nEvent
+  page: https://buildoutalliance.org/upcoming-events/2026-12-ny-book-club-1
+ 00-boyfriends-member-writing-challenge\nRSVP: https://www.eventbrite.com/e
+ /book-club-100-boyfriends-member-writing-challenge-tickets-2004661052171
+URL:https://buildoutalliance.org/upcoming-events/2026-12-ny-book-club-100-b
+ oyfriends-member-writing-challenge
+CATEGORIES:Build Out Alliance
+END:VEVENT
+BEGIN:VEVENT
+UID:3c1975e1a820e20d2c241604a0efbc5da046ecbd@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261203T130000
+DTEND;TZID=America/New_York:20261203T140000
+SUMMARY:10 Tips for Cyber Resilience for LGBTQ+ Organizations
+LOCATION:Virtual Webinar
+DESCRIPTION:Source: LGBT Tech\nEvent page: https://www.lgbttech.org/event-d
+ etails/10-tips-for-cyber-resilience-for-lgbtq-organizations\nRSVP: on the 
+ event page
+URL:https://www.lgbttech.org/event-details/10-tips-for-cyber-resilience-for
+ -lgbtq-organizations
+CATEGORIES:LGBT Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:1aae47758dd816544e1ebf51a1e618f230d49bd1@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261203T130000
+DTEND;TZID=America/New_York:20261203T150000
+SUMMARY:Unicorns In Tech Afterwork | for the LGBTIQ+ Tech Community
+LOCATION:Curly Bar\, Adolfstraße 17\, 13347 Berlin
+DESCRIPTION:Source: Unicorns in Tech (Berlin)\nEvent page: https://www.even
+ tbrite.co.uk/e/unicorns-in-tech-afterwork-for-the-lgbtiq-tech-community-ti
+ ckets-835620542537\nRSVP: https://www.eventbrite.co.uk/e/unicorns-in-tech-
+ afterwork-for-the-lgbtiq-tech-community-tickets-835620542537
+URL:https://www.eventbrite.co.uk/e/unicorns-in-tech-afterwork-for-the-lgbti
+ q-tech-community-tickets-835620542537
+CATEGORIES:Unicorns in Tech (Berlin)
+END:VEVENT
+BEGIN:VEVENT
+UID:2299d1be08f3877a676c3dba5f757e3d196811df@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261203T170000
+DTEND;TZID=America/New_York:20261203T190000
+SUMMARY:Networking Social for LGBTQ+ Professionals - Ft Lauderdale
+LOCATION:Batch Local Kitchen: Fort Lauderdale\, 525 North Federal Highway #
+ Ste: 500\, Fort Lauderdale\, FL 33301
+DESCRIPTION:Source: Out Professionals\nEvent page: https://www.eventbrite.c
+ om/e/networking-social-for-lgbtq-professionals-ft-lauderdale-tickets-20042
+ 87209999\nRSVP: https://www.eventbrite.com/e/networking-social-for-lgbtq-p
+ rofessionals-ft-lauderdale-tickets-2004287209999
+URL:https://www.eventbrite.com/e/networking-social-for-lgbtq-professionals-
+ ft-lauderdale-tickets-2004287209999
+CATEGORIES:Out Professionals
+END:VEVENT
+BEGIN:VEVENT
+UID:7446017aa2fd0379a868e281ecc1e566944d35e8@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261203T180000
+DTEND;TZID=America/New_York:20261203T220000
+SUMMARY:Chicago: Holiday Party & Hat Contest
+LOCATION:Wrigleyville North\, 3900 North Sheridan Road Chicago\, Illinois\,
+  60613
+DESCRIPTION:Our Chicago group is celebrating the holidays with a festive ha
+ t competition and a walk through the Christkindlmarket. Bring your boldest
+  pre-decorated headwear\, then enjoy hot cocoa and seasonal cheer with fel
+ low professionals.\n\nSource: Build Out Alliance\nEvent page: https://buil
+ doutalliance.org/upcoming-events/2026-12-chi-holiday-party-hat-contest\nRS
+ VP: https://www.eventbrite.com/e/holiday-party-hat-contest-tickets-2004429
+ 990058
+URL:https://buildoutalliance.org/upcoming-events/2026-12-chi-holiday-party-
+ hat-contest
+CATEGORIES:Build Out Alliance
+END:VEVENT
+BEGIN:VEVENT
+UID:99da932e5b016e8d7094bb2d96d7258a90dc19c0@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261203T180000
+DTEND;TZID=America/New_York:20261203T210000
+SUMMARY:Q4 2026 - QT Connect Meetup Calgary
+LOCATION:Clio\, 150 9 Ave SW #2500\, Calgary\, AB T2P 3H9\, Canada
+DESCRIPTION:Who Gets to Thrive? Opportunity and Power in an AI-Driven World
+ \n\nDate: Thursday\, December 3\, 2026\nTime: 4:00 PM - 7:00 PM (MST)\nLoc
+ ation: Clio\, 150 - 9th Avenue SW\, Suite 2500\, Calgary\, AB\n\nAI is cha
+ nging more than how we work. It is reshaping what opportunities exist\, wh
+ at skills and ideas are valued\, who has access to resources\, and who has
+  the…\n\nSource: QueerTech (Calgary)\nEvent page: https://www.meetup.com
+ /queertech-calgary/events/316696357/\nRSVP: https://www.meetup.com/queerte
+ ch-calgary/events/316696357/
+URL:https://www.meetup.com/queertech-calgary/events/316696357/
+CATEGORIES:QueerTech (Calgary)
+END:VEVENT
+BEGIN:VEVENT
+UID:43dde6b55ecb9ac497822bcf9c6d36c7c3f2bd5d@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261203T183000
+DTEND;TZID=America/New_York:20261203T203000
+SUMMARY:Wine Night LGBTQ+ Networking in NYC - Holiday Wines - All Inclusive
+ !
+LOCATION:Le Du's Wines\, 600 Washington Street\, New York\, NY 10014
+DESCRIPTION:Source: Out Professionals\nEvent page: https://www.eventbrite.c
+ om/e/wine-night-lgbtq-networking-in-nyc-holiday-wines-all-inclusive-ticket
+ s-2000984364098\nRSVP: https://www.eventbrite.com/e/wine-night-lgbtq-netwo
+ rking-in-nyc-holiday-wines-all-inclusive-tickets-2000984364098
+URL:https://www.eventbrite.com/e/wine-night-lgbtq-networking-in-nyc-holiday
+ -wines-all-inclusive-tickets-2000984364098
+CATEGORIES:Out Professionals
+END:VEVENT
+BEGIN:VEVENT
+UID:a2715ffe6d2de2af74c1cf3638445d898b794717@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261203T210000
+DTEND;TZID=America/New_York:20261203T230000
+SUMMARY:OutPro Los Angeles LGBTQ+ Networking
+LOCATION:Revolver Video Bar WeHo\, 8851 Santa Monica Boulevard\, West Holly
+ wood\, CA 90069
+DESCRIPTION:Source: Out Professionals\nEvent page: https://www.eventbrite.c
+ om/e/outpro-los-angeles-lgbtq-networking-tickets-2004832324451\nRSVP: http
+ s://www.eventbrite.com/e/outpro-los-angeles-lgbtq-networking-tickets-20048
+ 32324451
+URL:https://www.eventbrite.com/e/outpro-los-angeles-lgbtq-networking-ticket
+ s-2004832324451
+CATEGORIES:Out Professionals
+END:VEVENT
+BEGIN:VEVENT
+UID:ebc03b978339f77e4fdcf507be0932efb5ccb796@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261209T180000
+DTEND;TZID=America/New_York:20261209T200000
+SUMMARY:OutPro LGBTQ+ Networking Holiday Celebration - NYC
+LOCATION:The Townhouse of New York\, 236 East 58th Street\, New York\, NY 1
+ 0022
+DESCRIPTION:Source: Out Professionals\nEvent page: https://www.eventbrite.c
+ om/e/outpro-lgbtq-networking-holiday-celebration-nyc-tickets-1998983824430
+ \nRSVP: https://www.eventbrite.com/e/outpro-lgbtq-networking-holiday-celeb
+ ration-nyc-tickets-1998983824430
+URL:https://www.eventbrite.com/e/outpro-lgbtq-networking-holiday-celebratio
+ n-nyc-tickets-1998983824430
+CATEGORIES:Out Professionals
+END:VEVENT
+BEGIN:VEVENT
+UID:f40cf1fb03301936f2e84a19d3f3cf5ab96b62eb@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261210T120000
+DTEND;TZID=America/New_York:20261210T140000
+SUMMARY:Signal Through the Noise December Webinar
+LOCATION:Online
+DESCRIPTION:Partner Exclusive\, Webinar\n\nSource: Out & Equal\nEvent page:
+  https://outandequal.org/event/signal-through-the-noise-december-webinar-2
+ /\nRSVP: on the event page
+URL:https://outandequal.org/event/signal-through-the-noise-december-webinar
+ -2/
+CATEGORIES:Out & Equal
+END:VEVENT
+BEGIN:VEVENT
+UID:1245197c58c69d3c3c52d5e1ef5b1f3cd27d2f35@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261210T200000
+DTEND;TZID=America/New_York:20261210T213000
+SUMMARY:Out in Tech Houston | Monthly Mixer
+LOCATION:4201 Main Street #Suite 130\, Houston\, TX 77002
+DESCRIPTION:Out in Tech has arrived in Houston to provide an inclusive netw
+ orking space for LGBTQ+ people and allies working in tech.\n\nSource: Out 
+ in Tech\nEvent page: https://outintech.com/event/out-in-tech-houston-month
+ ly-mixer-53/\nRSVP: https://www.eventbrite.com/e/out-in-tech-houston-month
+ ly-mixer-tickets-1979625804070
+URL:https://outintech.com/event/out-in-tech-houston-monthly-mixer-53/
+CATEGORIES:Out in Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:d343f40ba8e6553af691a6278e4e9b2cfb09c5ab@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261210T210000
+DTEND;TZID=America/New_York:20261211T000000
+SUMMARY:Greater Los Angeles: End of Year Celebration
+LOCATION:Animal DTLA\, 428 South Hewitt Street Los Angeles\, California\, 9
+ 0013
+DESCRIPTION:Gather with the Greater Los Angeles group for a festive holiday
+  happy hour to reflect on the year\, connect with fellow professionals\, a
+ nd show off your favorite ugly sweater.\n\nSource: Build Out Alliance\nEve
+ nt page: https://buildoutalliance.org/upcoming-events/2026-12-la-end-of-ye
+ ar-celebration\nRSVP: https://www.eventbrite.com/e/end-of-year-celebration
+ -tickets-2003234974735
+URL:https://buildoutalliance.org/upcoming-events/2026-12-la-end-of-year-cel
+ ebration
+CATEGORIES:Build Out Alliance
+END:VEVENT
+BEGIN:VEVENT
+UID:abbdbea802cea0bbd0552575c0490ee3f3a71de4@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261210T210000
+DTEND;TZID=America/New_York:20261210T230000
+SUMMARY:San Francisco Bay Area: Holiday Happy Hour
+LOCATION:Driftwood\, 1225 Folsom Street San Francisco\, California\, 94103
+DESCRIPTION:Save the date to celebrate another incredible year with our San
+  Francisco Bay Area group over festive toasts and great conversation. We c
+ annot wait to bring our community together to toast the season!\n\nSource:
+  Build Out Alliance\nEvent page: https://buildoutalliance.org/upcoming-eve
+ nts/2026-12-sf-holiday-happy-hour\nRSVP: https://www.eventbrite.com/e/holi
+ day-happy-hour-tickets-2004823566255
+URL:https://buildoutalliance.org/upcoming-events/2026-12-sf-holiday-happy-h
+ our
+CATEGORIES:Build Out Alliance
+END:VEVENT
+BEGIN:VEVENT
+UID:b296562eda2cc851e75a4d6422837cb76a09af16@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261215T200000
+DTEND;TZID=America/New_York:20261215T220000
+SUMMARY:Out in Tech Austin | Monthly Mixer 2026
+LOCATION:900 Red River Street\, Austin\, TX 78701
+DESCRIPTION:Join the Out in Tech ATX community for a night of mixing and mi
+ ngling! Grab a drink\, meet new people\, and enjoy great conversation.\n\n
+ Source: Out in Tech\nEvent page: https://outintech.com/event/out-in-tech-a
+ ustin-monthly-mixer-2026-12/\nRSVP: https://www.eventbrite.com/e/out-in-te
+ ch-austin-monthly-mixer-2026-tickets-1980511140134
+URL:https://outintech.com/event/out-in-tech-austin-monthly-mixer-2026-12/
+CATEGORIES:Out in Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:816fa6d819f4a032036cd637a4ef880f7221acb0@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261217T120000
+DTEND;TZID=America/New_York:20261217T143000
+SUMMARY:Out in Tech Amsterdam | Third Thursdays
+LOCATION:119-HS Elandsstraat\, 1016 RX Amsterdam
+DESCRIPTION:Join our monthly after work drinks event\, hosted the third Thu
+ rsday of every month at Cafe Saarein.\n\nSource: Out in Tech\nEvent page: 
+ https://outintech.com/event/out-in-tech-amsterdam-third-thursdays-38/\nRSV
+ P: https://www.eventbrite.com/e/out-in-tech-amsterdam-third-thursdays-regi
+ stration-1318589800589
+URL:https://outintech.com/event/out-in-tech-amsterdam-third-thursdays-38/
+CATEGORIES:Out in Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:0d6c7e57fde1328a3d856f22e8bc0488f84c4e85@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20261217T180000
+DTEND;TZID=America/New_York:20261217T200000
+SUMMARY:Washington DC: Annual Holiday Celebration
+LOCATION:A League Of Her Own / Pitchers\, 2319 18th Street Northwest Washin
+ gton\, District of Columbia\, 20009
+DESCRIPTION:Our Washington DC group is wrapping up an incredible year with 
+ festive fun\, friendly competition\, and community connection. Come raise 
+ a glass\, enter the raffle\, and celebrate everything we have accomplished
+  together.\n\nSource: Build Out Alliance\nEvent page: https://buildoutalli
+ ance.org/upcoming-events/2026-12-dc-annual-holiday-celebration\nRSVP: http
+ s://www.eventbrite.com/e/annual-holiday-celebration-tickets-2004628019369
+URL:https://buildoutalliance.org/upcoming-events/2026-12-dc-annual-holiday-
+ celebration
+CATEGORIES:Build Out Alliance
+END:VEVENT
+BEGIN:VEVENT
+UID:e56d60a3695d903734c391c92aeae74d9800009f@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20270212T123000
+DTEND;TZID=America/New_York:20270212T143000
+SUMMARY:2027 APAC LGBTQ+ Workplace Inclusion Forum
+LOCATION:Manila\, Philippines
+DESCRIPTION:Partner Exclusive\, Global Forum\n\nSource: Out & Equal\nEvent 
+ page: https://outandequal.org/event/2027-apac-forum/\nRSVP: on the event p
+ age
+URL:https://outandequal.org/event/2027-apac-forum/
+CATEGORIES:Out & Equal
+END:VEVENT
+BEGIN:VEVENT
+UID:c2f4c09a13a37c0e2a0d287fb552b4603ec6a67f@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20270315T083000
+DTEND;TZID=America/New_York:20270315T103000
+SUMMARY:2027 Leadership Forum
+LOCATION:MGM National Harbor Hotel & Casino | Oxon Hill\, MD
+DESCRIPTION:Signature Event\n\nSource: Out & Equal\nEvent page: https://out
+ andequal.org/event/2027-leadership-forum/\nRSVP: on the event page
+URL:https://outandequal.org/event/2027-leadership-forum/
+CATEGORIES:Out & Equal
+END:VEVENT
+BEGIN:VEVENT
+UID:1c16221a4b492156e74af285331cbcb25d8629a6@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:LWT Summit (Lesbians Who Tech & Allies) (through Jun 9)
+LOCATION:New York
+DESCRIPTION:Source: Lesbians Who Tech & Allies\nEvent page: https://lwtsqua
+ d.com/\nRSVP: on the event page
+URL:https://lwtsquad.com/
+CATEGORIES:Lesbians Who Tech & Allies
+END:VEVENT
+BEGIN:VEVENT
+UID:0fb7993be24165788b2ec80e2453c55c997f76dc@combined.philly-calendars
+DTSTAMP:20261117T173401Z
+DTSTART;TZID=America/New_York:20271011T110000
+DTEND;TZID=America/New_York:20271011T130000
+SUMMARY:2027 Workplace Summit
+LOCATION:Las Vegas\, NV
+DESCRIPTION:Signature Event\n\nSource: Out & Equal\nEvent page: https://out
+ andequal.org/event/2027-workplace-summit/\nRSVP: on the event page
+URL:https://outandequal.org/event/2027-workplace-summit/
+CATEGORIES:Out & Equal
+END:VEVENT
+END:VCALENDAR

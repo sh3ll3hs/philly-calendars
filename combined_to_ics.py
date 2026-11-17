@@ -22,6 +22,9 @@ Usage:
     python3 combined_to_ics.py --out docs/combined.ics --state docs/combined_state.json
     python3 combined_to_ics.py --only jetwinebar,tmoms --force   # test a few sources
     python3 combined_to_ics.py --list                            # show the source list
+    python3 combined_to_ics.py --sources queertech_sources.json --out docs/queertech.ics \
+        --state docs/queertech_state.json --name "Queer Tech Events" --rsvp-lines --days-ahead 400
+                                                                 # a second feed from its own source list
 
 Rules it follows (same as the other feeds here):
   * Never invents a time. A source that gives only a date becomes an all-day event;
@@ -66,7 +69,11 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 
 # ---------------------------------------------------------------- small helpers
 def get_text(url):
-    return http.get(url, headers={"User-Agent": UA}).text
+    r = http.get(url, headers={"User-Agent": UA})
+    kind = r.headers.get("content-type", "").lower()
+    if "text/calendar" in kind and "charset" not in kind:
+        r.encoding = "utf-8"                  # iCalendar is UTF-8; without this, accents come out garbled
+    return r.text
 
 
 def get_json(url):
@@ -142,7 +149,7 @@ def address(loc):
     return ", ".join(parts)
 
 
-def event(src, key, title, start, end=None, all_day=False, loc="", url="", desc=""):
+def event(src, key, title, start, end=None, all_day=False, loc="", url="", desc="", rsvp=""):
     title = clean(title)
     if not title or start is None:
         return None
@@ -154,9 +161,12 @@ def event(src, key, title, start, end=None, all_day=False, loc="", url="", desc=
     for piece in clean(loc).split(", "):          # "..., Philadelphia, PA, 19103, Philadelphia" -> drop the repeat
         if piece and piece.lower() not in [x.lower() for x in parts]:
             parts.append(piece)
-    return {"src": src["id"], "key": str(key), "title": title, "start": start, "end": end, "all_day": all_day,
-            "loc": ", ".join(parts) or src.get("venue", ""), "url": tribe.good_url(url) or src.get("page") or src["url"],
-            "desc": text(desc), "source": src["name"]}
+    e = {"src": src["id"], "key": str(key), "title": title, "start": start, "end": end, "all_day": all_day,
+         "loc": ", ".join(parts) or src.get("venue", ""), "url": tribe.good_url(url) or src.get("page") or src["url"],
+         "desc": text(desc), "source": src["name"]}
+    if tribe.good_url(rsvp):                      # where to sign up, when the site gives a link for it
+        e["rsvp"] = tribe.good_url(rsvp)
+    return e
 
 
 # ---------------------------------------------------------------- readers
@@ -328,6 +338,7 @@ def read_html(src, ctx):
 MONTH_RX = r"(jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)[a-z]*\.?"
 DATE_RX = re.compile(r"\b" + MONTH_RX + r"\s+(\d{1,2})(?:st|nd|rd|th)?\b(?:,?\s+(20\d{2}))?", re.I)
 NUMDATE_RX = re.compile(r"\b(\d{1,2})/(\d{1,2})/(20\d{2}|\d{2})\b")
+RANGE_YEAR_RX = re.compile(r"\s*(?:-|–|—|to|through|&|and)\s*(?:" + MONTH_RX + r"\s+)?\d{1,2}(?:st|nd|rd|th)?,?\s+(?P<year>20\d{2})\b", re.I)
 STOP_TITLES = re.compile(r"^(read more|learn more|more info(rmation)?|details?|event details|view event|buy tickets?|tickets?|"
                          r"get tickets|rsvp|register( now| here)?|sign up|book now|see more|view all|click here|info|"
                          r"add to calendar|google calendar|ics|share|upcoming events?|events?|calendar|members?|featured event|free)$", re.I)
@@ -337,8 +348,12 @@ def _dates_in(txt, today):
     out = []
     for m in DATE_RX.finditer(txt):
         mon, day = normalize.month_num(m.group(1)), int(m.group(2))
+        year = m.group(3)
+        if not year:                              # "April 10-11, 2026", "June 7 - July 2, 2026": the year follows the range
+            tail = RANGE_YEAR_RX.match(txt, m.end())
+            year = tail.group("year") if tail else None
         try:
-            d = dt.date(int(m.group(3)), mon, day) if m.group(3) else normalize.infer_year(mon, day, today)
+            d = dt.date(int(year), mon, day) if year else normalize.infer_year(mon, day, today)
         except (ValueError, TypeError):
             continue
         if d:
@@ -551,7 +566,9 @@ def tidy(events, lo, hi):
     return sorted((e for e in keep if id(e) not in drop), key=lambda e: (day_of(e), e["start"].isoformat(), e["title"]))
 
 
-def build_ics(events, calname="Philly combined events"):
+def build_ics(events, calname="Philly combined events", rsvp_lines=False):
+    """rsvp_lines: say in every description where to sign up, the event's own page
+    when the source gives no separate link (the Queer Tech Events feed)."""
     now = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     out = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//combined_to_ics//Philly combined events//EN",
            "CALSCALE:GREGORIAN", "METHOD:PUBLISH", f"X-WR-CALNAME:{calname}", f"X-WR-TIMEZONE:{TZID}",
@@ -565,6 +582,9 @@ def build_ics(events, calname="Philly combined events"):
             if e.get("loc") and not any(l.startswith("LOCATION") and len(l) > 10 for l in lines):
                 lines = [l for l in lines if not l.startswith("LOCATION")] + [f"LOCATION:{esc(e['loc'])}"]
             tag = f"Source: {esc(e['source'])}"
+            page = next((l.split(":", 1)[1] for l in lines if re.match(r"URL[;:]", l)), "")
+            if rsvp_lines and page:
+                tag += f"\\nEvent page and RSVP: {page}"
             if any(l.startswith("DESCRIPTION") for l in lines):
                 lines = [l + "\\n\\n" + tag if l.startswith("DESCRIPTION") else l for l in lines]
             else:
@@ -588,7 +608,12 @@ def build_ics(events, calname="Philly combined events"):
         out.append(f"SUMMARY:{esc(title)}")
         if e.get("loc"):
             out.append(f"LOCATION:{esc(e['loc'])}")
-        desc = "\n\n".join(x for x in (e.get("desc"), f"Source: {e['source']}\nEvent page: {e['url']}") if x)
+        tail = f"Source: {e['source']}\nEvent page: {e['url']}"
+        if e.get("rsvp"):
+            tail += f"\nRSVP: {e['rsvp']}"
+        elif rsvp_lines:
+            tail += "\nRSVP: on the event page"
+        desc = "\n\n".join(x for x in (e.get("desc"), tail) if x)
         out += [f"DESCRIPTION:{esc(desc)}", f"URL:{e['url']}", f"CATEGORIES:{esc(e['source'])}", "END:VEVENT"]
     out.append("END:VCALENDAR")
     return "\r\n".join(fold(l) for l in out) + "\r\n"
@@ -612,6 +637,8 @@ def main(argv=None):
     ap.add_argument("--days-ahead", type=int, default=120)
     ap.add_argument("--min-hours", type=float, default=11,
                     help="skip the run if the last one was more recent (the morning run, 5-10 AM Eastern, always rebuilds)")
+    ap.add_argument("--name", default="Philly combined events", help="calendar name shown to subscribers")
+    ap.add_argument("--rsvp-lines", action="store_true", help="add a sign-up line to every event description")
     ap.add_argument("--only", default="", help="comma-separated source ids")
     ap.add_argument("--force", action="store_true")
     ap.add_argument("--list", action="store_true")
@@ -632,7 +659,7 @@ def main(argv=None):
     if state["last_run"] and not (a.force or only):
         age = (now - dt.datetime.fromisoformat(state["last_run"])).total_seconds() / 3600
         if should_skip(age, now.astimezone(NY).hour, a.min_hours) and os.path.exists(a.out):
-            print(f"combined: last run {age:.1f} h ago (< {a.min_hours:g} h); skipping")
+            print(f"{a.name}: last run {age:.1f} h ago (< {a.min_hours:g} h); skipping")
             return 0
 
     today = now.astimezone(NY).date()
@@ -645,6 +672,13 @@ def main(argv=None):
             got = [e for e in READERS[s["method"]](s, ctx) if e]
             if s.get("skip"):                 # e.g. "CLOSED" / "PRIVATE EVENT" housekeeping entries
                 got = [e for e in got if not re.search(s["skip"], e["title"], re.I)]
+            if s.get("tz") == "venue":        # clock times are local to each event's venue, not Eastern
+                from combined_readers import zones
+                got = [zones.relocate(e) for e in got]
+            if s.get("rsvp_pages"):           # the sign-up link is on each event's own page
+                from combined_readers import qt_common
+                keep = [e for e in got if e.get("rrule") or lo <= day_of(e) <= hi]
+                qt_common.rsvp_from_pages(s, keep, ctx)
             return s, [e for e in got if e.get("rrule") or lo <= day_of(e) <= hi], ""
         except Exception as ex:
             kind = "blocked" if isinstance(ex, http.BlockedError) else "error"
@@ -660,7 +694,7 @@ def main(argv=None):
 
     final = tidy(events, lo, hi)
     if not final:
-        print("combined: no events from any source; keeping the existing feed", file=sys.stderr)
+        print(f"{a.name}: no events from any source; keeping the existing feed", file=sys.stderr)
         return 1
     cutoff = (today - dt.timedelta(days=DETAIL_TTL_DAYS * 2)).isoformat()
     state["detail"] = {u: c for u, c in state["detail"].items() if c["fetched"] >= cutoff}
@@ -670,10 +704,10 @@ def main(argv=None):
         if os.path.dirname(path):
             os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(a.out, "w", newline="") as f:
-        f.write(build_ics(final))
+        f.write(build_ics(final, a.name, a.rsvp_lines))
     with open(a.state, "w") as f:
         json.dump(state, f, indent=0, sort_keys=True)
-    print(f"combined: {len(sources)} sources ({dict(report)}); {len(events)} events read, "
+    print(f"{a.name}: {len(sources)} sources ({dict(report)}); {len(events)} events read, "
           f"{len(final)} written to {a.out}")
     return 0
 
