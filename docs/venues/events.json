@@ -2294,6 +2294,21 @@
   "room": "Sellersville Theater 1894"
  },
  {
+  "venue": "Sellersville Theater",
+  "title": "Holiday Hangover Comedy Open Mic Night hosted by Jack Matthew",
+  "subtitle": null,
+  "date": "2026-12-29",
+  "show_time": "19:30",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://www.st94.com/events/holiday-hangover-comedy-open-mic-night-hosted-by-jack-matthew/",
+  "ticket_url": "https://www.etix.com/ticket/p/61277179/holiday-hangover-comedy-open-mic-night-hosted-by-jack-matthew-sellersville-sellersville-theater-1894",
+  "price": "$10 to $17",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
+ },
+ {
   "venue": "Parx Casino",
   "title": "Sway Duo featuring Joanne Farrell",
   "subtitle": null,
@@ -3743,6 +3758,21 @@
   "room": "Liberty Bell Gastropub"
  },
  {
+  "venue": "Sellersville Theater",
+  "title": "Black History Month Celebration by Dr. K's Motown Revue",
+  "subtitle": null,
+  "date": "2027-02-18",
+  "show_time": "19:30",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://www.st94.com/events/black-history-month-celebration-by-dr-ks-motown-revue/",
+  "ticket_url": "https://www.etix.com/ticket/p/42313091/black-history-month-celebration-by-drks-motown-revue-sellersville-sellersville-theater-1894",
+  "price": "$39.5 to $72",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
+ },
+ {
   "venue": "Dawson Street Pub",
   "title": "Freddie Berman's Birthday Jam",
   "subtitle": null,
@@ -4041,6 +4071,36 @@
   "room": "Sellersville Theater 1894"
  },
  {
+  "venue": "Sellersville Theater",
+  "title": "Rhonda Vincent & The Rage",
+  "subtitle": null,
+  "date": "2027-02-28",
+  "show_time": "14:00",
+  "doors_time": "13:30",
+  "set_times": [],
+  "url": "https://www.st94.com/events/rhonda-vincent-the-rage-6/",
+  "ticket_url": "https://www.etix.com/ticket/p/71330948/rhonda-vincent-the-rage-sellersville-sellersville-theater-1894",
+  "price": "$45 to $82",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
+ },
+ {
+  "venue": "Sellersville Theater",
+  "title": "The Philly Funksion ft. Tim Hutson & Carl Cox",
+  "subtitle": null,
+  "date": "2027-02-28",
+  "show_time": "20:00",
+  "doors_time": "19:30",
+  "set_times": [],
+  "url": "https://www.st94.com/events/the-philly-funksion-ft-tim-hutson-carl-cox/",
+  "ticket_url": "https://www.etix.com/ticket/p/41768801/the-philly-funksion-fttim-hutson-carl-cox-sellersville-sellersville-theater-1894",
+  "price": "$25 to $52",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
+ },
+ {
   "venue": "Parx Casino",
   "title": "Sway Duo featuring Joanne Farrell",
   "subtitle": null,
@@ -4159,6 +4219,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "Liberty Bell Gastropub"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Blackberry Smoke",
+  "subtitle": "All Over The Road Tour 2027",
+  "date": "2027-03-12",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "Xcite Center"
  },
  {
   "venue": "Parx Casino",
@@ -4441,6 +4516,21 @@
   "url": "https://www.st94.com/events/livestream-robert-jon-the-wreck/",
   "ticket_url": "https://www.etix.com/ticket/p/39959416/livestreamrobert-jon-the-wreck-sellersville-sellersville-theater-1894",
   "price": "$15 to $18.5",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
+ },
+ {
+  "venue": "Sellersville Theater",
+  "title": "Avi Kaplan - Down The Divine Tour",
+  "subtitle": null,
+  "date": "2027-03-30",
+  "show_time": "19:30",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://www.st94.com/events/avi-kaplan-down-the-divine-tour/",
+  "ticket_url": "https://www.etix.com/ticket/p/92274705/avi-kaplan-down-the-divine-tour-sellersville-sellersville-theater-1894",
+  "price": "$42 to $67",
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
