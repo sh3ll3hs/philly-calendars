@@ -2952,5 +2952,44 @@
   "title": "90s Drag Bingo",
   "url": "https://phillygaycalendar.com/events/90s-drag-bingo/",
   "venue": "The Brass Tap"
+ },
+ "46314-2026-11-19": {
+  "address": "330 South 13th Street, Philadelphia, PA, USA",
+  "all_day": false,
+  "cats": [
+   "Health & Wellness"
+  ],
+  "date": "2026-11-19",
+  "desc": "No Cost, High-Quality Groceries (Fresh Produce, Proteins, & Pantry Items) Please bring a bag if you have one available! No pre-registration required.",
+  "end": "2026-11-19T13:00:00",
+  "id": 46314,
+  "performers": "",
+  "start": "2026-11-19T12:00:00",
+  "ticket": "https://www.waygay.org/",
+  "time": "7:00 AM \u2013 8:00 AM",
+  "title": "WayGay Grocery Day",
+  "url": "https://phillygaycalendar.com/events/waygay-grocery-day/",
+  "venue": "Church of St Luke and the Epiphany"
+ },
+ "46321-2026-11-19": {
+  "address": "330 South 13th Street, Philadelphia, PA, USA",
+  "all_day": false,
+  "cats": [
+   "Dinner",
+   "Health & Wellness",
+   "Talks & Workshops",
+   "Trans"
+  ],
+  "date": "2026-11-19",
+  "desc": "Transgender Day of Remembrance is an annual community gathering to remember and celebrate our friends and loved ones lost to violence and to raise awareness of the continuing violence against members of our community. Free events for the Trans Community\u2026",
+  "end": "2026-11-19T20:00:00",
+  "id": 46321,
+  "performers": "",
+  "start": "2026-11-19T15:00:00",
+  "ticket": "https://www.instagram.com/p/DfkIniGjULp/?utm_source=ig_web_button_share_sheet&dlrf=MzRlODBiNWFlZA==",
+  "time": "10:00 AM \u2013 3:00 PM",
+  "title": "Arcila-Adams Trans Day of Wellness & Remembrance",
+  "url": "https://phillygaycalendar.com/events/arcila-adams-trans-day-of-wellness-remembrance/",
+  "venue": "Church of St Luke and the Epiphany"
  }
 }
