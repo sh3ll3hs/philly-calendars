@@ -2028,7 +2028,7 @@
 "url": "https://www.philamuseum.org/events/3-in-30-tour?start=2026-11-12T18:30:00.000Z&end=2026-11-12T19:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-11-10T15:28:11Z",
 "occ": [
 [
@@ -2133,7 +2133,7 @@
 "url": "https://www.philamuseum.org/events/40-years-collab-design-award?start=2026-11-19T23:00:00.000Z&end=2026-11-20T01:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-11-06T20:34:57Z",
 "occ": [
 [
@@ -2158,7 +2158,7 @@
 "url": "https://www.philamuseum.org/events/alter-ego-family-festival?start=2026-12-06T15:00:00.000Z&end=2026-12-06T20:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-11-13T19:14:47Z",
 "occ": [
 [
@@ -2170,7 +2170,7 @@
 },
 "https://www.philamuseum.org/events/angelo-outlaw-trio": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-09-16T12:39:18Z",
 "occ": [],
 "read": "2026-11-16"
@@ -2190,7 +2190,7 @@
 "url": "https://www.philamuseum.org/events/arcadia-library-lecture-archiving-independence?start=2026-11-12T23:00:00.000Z&end=2026-11-13T00:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-11-11T21:48:03Z",
 "occ": [
 [
@@ -2215,7 +2215,7 @@
 "url": "https://www.philamuseum.org/events/art-kids-classes-3-4?start=2026-11-14T15:30:00.000Z&end=2026-11-14T17:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-02T19:15:53Z",
 "occ": [
 [
@@ -2260,7 +2260,7 @@
 "url": "https://www.philamuseum.org/events/art-kids-classes-5-6?start=2026-11-14T15:30:00.000Z&end=2026-11-14T17:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-02T19:15:33Z",
 "occ": [
 [
@@ -2305,7 +2305,7 @@
 "url": "https://www.philamuseum.org/events/art-kids-classes-7-8?start=2026-11-14T15:30:00.000Z&end=2026-11-14T17:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-02T19:17:02Z",
 "occ": [
 [
@@ -2350,7 +2350,7 @@
 "url": "https://www.philamuseum.org/events/art-kids-classes-9-10?start=2026-11-14T15:30:00.000Z&end=2026-11-14T17:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-02T19:19:48Z",
 "occ": [
 [
@@ -2380,9 +2380,206 @@
 ],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/art-kids-studio": {
+"events": [
+{
+"all_day": false,
+"desc": "Activities\n\nDrop in and make art as a family. Projects change every few weeks. Artists of all ages welcome.",
+"end": "2026-11-14T15:00:00",
+"key": "https://www.philamuseum.org/events/art-kids-studio|2026-11-14T15:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, North Vaulted Walkway), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-14T10:00:00",
+"title": "Art Kids Studio",
+"url": "https://www.philamuseum.org/events/art-kids-studio?start=2026-11-14T15:00:00.000Z&end=2026-11-14T20:00:00.000Z"
+}
+],
+"fetched": "2026-11-17",
+"lastmod": "2026-09-01T13:54:39Z",
+"occ": [
+[
+"2026-11-14T10:00:00",
+"2026-11-14T15:00:00"
+],
+[
+"2026-11-15T10:00:00",
+"2026-11-15T15:00:00"
+],
+[
+"2026-11-27T10:00:00",
+"2026-11-27T15:00:00"
+],
+[
+"2026-11-28T10:00:00",
+"2026-11-28T15:00:00"
+],
+[
+"2026-11-29T10:00:00",
+"2026-11-29T15:00:00"
+],
+[
+"2026-12-05T10:00:00",
+"2026-12-05T15:00:00"
+],
+[
+"2026-12-06T10:00:00",
+"2026-12-06T15:00:00"
+],
+[
+"2026-12-12T10:00:00",
+"2026-12-12T15:00:00"
+],
+[
+"2026-12-13T10:00:00",
+"2026-12-13T15:00:00"
+],
+[
+"2026-12-19T10:00:00",
+"2026-12-19T15:00:00"
+],
+[
+"2026-12-20T10:00:00",
+"2026-12-20T15:00:00"
+],
+[
+"2026-12-26T10:00:00",
+"2026-12-26T15:00:00"
+],
+[
+"2026-12-27T10:00:00",
+"2026-12-27T15:00:00"
+]
+],
+"read": "2026-11-17"
+},
+"https://www.philamuseum.org/events/art-kids-tour": {
+"events": [
+{
+"all_day": false,
+"desc": "Tours\n\nLook, discover, and tell us what you think on these playful tours for families.",
+"end": "2026-11-14T12:00:00",
+"key": "https://www.philamuseum.org/events/art-kids-tour|2026-11-14T16:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, North Vaulted Walkway), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-14T11:00:00",
+"title": "Art Kids Tour",
+"url": "https://www.philamuseum.org/events/art-kids-tour?start=2026-11-14T16:00:00.000Z&end=2026-11-14T17:00:00.000Z"
+}
+],
+"fetched": "2026-11-17",
+"lastmod": "2026-09-01T13:54:30Z",
+"occ": [
+[
+"2026-11-14T11:00:00",
+"2026-11-14T12:00:00"
+],
+[
+"2026-11-14T13:30:00",
+"2026-11-14T14:30:00"
+],
+[
+"2026-11-15T11:00:00",
+"2026-11-15T12:00:00"
+],
+[
+"2026-11-15T13:30:00",
+"2026-11-15T14:30:00"
+],
+[
+"2026-11-27T11:00:00",
+"2026-11-27T12:00:00"
+],
+[
+"2026-11-27T13:30:00",
+"2026-11-27T14:30:00"
+],
+[
+"2026-11-28T11:00:00",
+"2026-11-28T12:00:00"
+],
+[
+"2026-11-28T13:30:00",
+"2026-11-28T14:30:00"
+],
+[
+"2026-11-29T11:00:00",
+"2026-11-29T12:00:00"
+],
+[
+"2026-11-29T13:30:00",
+"2026-11-29T14:30:00"
+],
+[
+"2026-12-05T11:00:00",
+"2026-12-05T12:00:00"
+],
+[
+"2026-12-05T13:30:00",
+"2026-12-05T14:30:00"
+],
+[
+"2026-12-12T11:00:00",
+"2026-12-12T12:00:00"
+],
+[
+"2026-12-12T13:30:00",
+"2026-12-12T14:30:00"
+],
+[
+"2026-12-13T11:00:00",
+"2026-12-13T12:00:00"
+],
+[
+"2026-12-13T13:30:00",
+"2026-12-13T14:30:00"
+],
+[
+"2026-12-19T11:00:00",
+"2026-12-19T12:00:00"
+],
+[
+"2026-12-19T13:30:00",
+"2026-12-19T14:30:00"
+],
+[
+"2026-12-20T11:00:00",
+"2026-12-20T12:00:00"
+],
+[
+"2026-12-20T13:30:00",
+"2026-12-20T14:30:00"
+],
+[
+"2026-12-26T11:00:00",
+"2026-12-26T12:00:00"
+],
+[
+"2026-12-26T13:30:00",
+"2026-12-26T14:30:00"
+],
+[
+"2026-12-27T11:00:00",
+"2026-12-27T12:00:00"
+],
+[
+"2026-12-27T13:30:00",
+"2026-12-27T14:30:00"
+]
+],
+"read": "2026-11-17"
+},
+"https://www.philamuseum.org/events/art-latin-america-tour": {
+"events": [],
+"fetched": "2026-11-17",
+"lastmod": "2026-09-03T15:08:00Z",
+"occ": [],
+"read": "2026-11-17"
+},
 "https://www.philamuseum.org/events/artists-on-art-joy-harjo": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-06T17:50:56Z",
 "occ": [],
 "read": "2026-11-15"
@@ -2402,40 +2599,40 @@
 "url": "https://www.philamuseum.org/events/author-talk-gwendolyn-dubois-shaw?start=2026-12-05T19:00:00.000Z&end=2026-12-05T20:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
-"lastmod": "2026-09-11T17:50:22Z",
+"fetched": "2026-11-17",
+"lastmod": "2026-11-16T20:42:17Z",
 "occ": [
 [
 "2026-12-05T14:00:00",
 "2026-12-05T15:00:00"
 ]
 ],
-"read": "2026-11-16"
+"read": "2026-11-17"
 },
 "https://www.philamuseum.org/events/author-talk-jo-piazza": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-09-18T13:26:24Z",
 "occ": [],
 "read": "2026-11-16"
 },
 "https://www.philamuseum.org/events/author-talk-katy-hessel": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-20T20:46:19Z",
 "occ": [],
 "read": "2026-11-15"
 },
 "https://www.philamuseum.org/events/communities-arts-crafts-artists": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-09-24T14:12:27Z",
 "occ": [],
 "read": "2026-11-16"
 },
 "https://www.philamuseum.org/events/curator-connect-marcel-duchamp": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-09-16T13:05:03Z",
 "occ": [],
 "read": "2026-11-16"
@@ -2455,7 +2652,7 @@
 "url": "https://www.philamuseum.org/events/duchamp-special-exhibition-tour?start=2026-11-12T17:00:00.000Z&end=2026-11-12T18:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-28T14:00:51Z",
 "occ": [
 [
@@ -2733,6 +2930,52 @@
 ],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/educator-preview-marcel-duchamp": {
+"events": [],
+"fetched": "2026-11-17",
+"lastmod": "2026-09-11T15:32:31Z",
+"occ": [],
+"read": "2026-11-17"
+},
+"https://www.philamuseum.org/events/educator-workshop-arms-armor": {
+"events": [
+{
+"all_day": false,
+"desc": "Activities",
+"end": "2026-12-05T13:00:00",
+"key": "https://www.philamuseum.org/events/educator-workshop-arms-armor|2026-12-05T15:00:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Eli Kirk Price Room), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-12-05T10:00:00",
+"title": "Educator Workshop: Arms and Armor",
+"url": "https://www.philamuseum.org/events/educator-workshop-arms-armor?start=2026-12-05T15:00:00.000Z&end=2026-12-05T18:00:00.000Z"
+}
+],
+"fetched": "2026-11-17",
+"lastmod": "2026-09-11T13:01:09Z",
+"occ": [
+[
+"2026-12-05T10:00:00",
+"2026-12-05T13:00:00"
+]
+],
+"read": "2026-11-17"
+},
+"https://www.philamuseum.org/events/educator-workshop-back-school": {
+"events": [],
+"fetched": "2026-11-17",
+"lastmod": "2026-09-08T15:31:37Z",
+"occ": [],
+"read": "2026-11-17"
+},
+"https://www.philamuseum.org/events/educator-workshop-continuing-odyssey": {
+"events": [],
+"fetched": "2026-11-17",
+"lastmod": "2026-09-11T12:58:35Z",
+"occ": [],
+"read": "2026-11-17"
+},
 "https://www.philamuseum.org/events/exhibition-tour-rodins-hands": {
 "events": [
 {
@@ -2748,7 +2991,7 @@
 "url": "https://www.philamuseum.org/events/exhibition-tour-rodins-hands?start=2026-11-13T18:00:00.000Z&end=2026-11-13T19:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-11-04T15:04:30Z",
 "occ": [
 [
@@ -2802,6 +3045,13 @@
 ],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/fall-party-workshop-world-celebration": {
+"events": [],
+"fetched": "2026-11-17",
+"lastmod": "2026-09-01T15:08:47Z",
+"occ": [],
+"read": "2026-11-17"
+},
 "https://www.philamuseum.org/events/fashion-arts-india-conversation-demonstration": {
 "events": [
 {
@@ -2817,7 +3067,7 @@
 "url": "https://www.philamuseum.org/events/fashion-arts-india-conversation-demonstration?start=2026-11-19T19:00:00.000Z&end=2026-11-19T20:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-09-16T12:54:34Z",
 "occ": [
 [
@@ -2842,7 +3092,7 @@
 "url": "https://www.philamuseum.org/events/friday-holiday-jazz-market-edition?start=2026-12-11T22:00:00.000Z&end=2026-12-12T01:30:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-11-12T18:47:01Z",
 "occ": [
 [
@@ -2854,10 +3104,17 @@
 },
 "https://www.philamuseum.org/events/friday-night-hispanic-latinx-edition": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-02T16:30:02Z",
 "occ": [],
 "read": "2026-11-16"
+},
+"https://www.philamuseum.org/events/friday-night-jazz-edition": {
+"events": [],
+"fetched": "2026-11-17",
+"lastmod": "2026-09-09T14:09:02Z",
+"occ": [],
+"read": "2026-11-17"
 },
 "https://www.philamuseum.org/events/friday-night-pepperpot-edition": {
 "events": [
@@ -2874,7 +3131,7 @@
 "url": "https://www.philamuseum.org/events/friday-night-pepperpot-edition?start=2026-11-13T22:00:00.000Z&end=2026-11-14T01:45:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-26T17:31:40Z",
 "occ": [
 [
@@ -2899,7 +3156,7 @@
 "url": "https://www.philamuseum.org/events/friday-nights?start=2026-11-20T22:00:00.000Z&end=2026-11-21T01:30:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-12T16:57:09Z",
 "occ": [
 [
@@ -2975,7 +3232,7 @@
 },
 "https://www.philamuseum.org/events/friday-nights-halloween-eve": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-09T19:07:58Z",
 "occ": [],
 "read": "2026-11-15"
@@ -2995,7 +3252,7 @@
 "url": "https://www.philamuseum.org/events/gallery-talk-legendary-futures?start=2026-11-20T23:30:00.000Z&end=2026-11-20T23:45:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-13T14:39:24Z",
 "occ": [
 [
@@ -3020,7 +3277,7 @@
 "url": "https://www.philamuseum.org/events/highlights-museum-tour?start=2026-11-12T16:00:00.000Z&end=2026-11-12T17:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-11-09T15:55:24Z",
 "occ": [
 [
@@ -3324,7 +3581,7 @@
 },
 "https://www.philamuseum.org/events/hirschhorn-behrend-lecture-duchamp": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-06T14:28:11Z",
 "occ": [],
 "read": "2026-11-15"
@@ -3344,7 +3601,7 @@
 "url": "https://www.philamuseum.org/events/impressionism-and-beyond?start=2026-11-12T17:00:00.000Z&end=2026-11-12T18:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-11-10T14:58:20Z",
 "occ": [
 [
@@ -3492,21 +3749,21 @@
 },
 "https://www.philamuseum.org/events/industry-access": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-09-28T12:55:42Z",
 "occ": [],
 "read": "2026-11-16"
 },
 "https://www.philamuseum.org/events/isaiah-collier-plays-coltrane": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-09-16T12:39:38Z",
 "occ": [],
 "read": "2026-11-16"
 },
 "https://www.philamuseum.org/events/light-way-family-festival": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-13T19:02:20Z",
 "occ": [],
 "read": "2026-11-15"
@@ -3526,7 +3783,7 @@
 "url": "https://www.philamuseum.org/events/members-hour-marcel-duchamp?start=2026-11-13T15:00:00.000Z&end=2026-11-13T16:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-28T20:22:36Z",
 "occ": [
 [
@@ -3570,7 +3827,7 @@
 },
 "https://www.philamuseum.org/events/museum-mindfulness-curiouser-curiouser": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-09-15T20:25:15Z",
 "occ": [],
 "read": "2026-11-16"
@@ -3590,7 +3847,7 @@
 "url": "https://www.philamuseum.org/events/museum-mindfulness-home-bright?start=2027-01-21T00:00:00.000Z&end=2027-01-21T01:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-20T15:24:32Z",
 "occ": [
 [
@@ -3602,7 +3859,7 @@
 },
 "https://www.philamuseum.org/events/museum-mindfulness-home-watercolor-wonders": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-11-03T22:22:02Z",
 "occ": [],
 "read": "2026-11-15"
@@ -3622,19 +3879,19 @@
 "url": "https://www.philamuseum.org/events/museum-mindfulness-moving-mythology?start=2026-12-12T16:00:00.000Z&end=2026-12-12T17:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
-"lastmod": "2026-10-20T17:22:16Z",
+"fetched": "2026-11-17",
+"lastmod": "2026-11-16T14:27:06Z",
 "occ": [
 [
 "2026-12-12T11:00:00",
 "2026-12-12T12:00:00"
 ]
 ],
-"read": "2026-11-15"
+"read": "2026-11-17"
 },
 "https://www.philamuseum.org/events/museum-mindfulness-nature-walk": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-28T17:36:28Z",
 "occ": [],
 "read": "2026-11-15"
@@ -3654,7 +3911,7 @@
 "url": "https://www.philamuseum.org/events/nation-artists-members-closer-look?start=2026-11-14T16:30:00.000Z&end=2026-11-14T17:30:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-05T19:07:29Z",
 "occ": [
 [
@@ -3731,7 +3988,7 @@
 "url": "https://www.philamuseum.org/events/nation-of-artists-tour?start=2026-11-12T18:00:00.000Z&end=2026-11-12T19:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-11-10T15:52:35Z",
 "occ": [
 [
@@ -3879,14 +4136,14 @@
 },
 "https://www.philamuseum.org/events/philly-sensory-theatre-quack": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-27T16:40:33Z",
 "occ": [],
 "read": "2026-11-15"
 },
 "https://www.philamuseum.org/events/preview-party-craft-show": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-11-04T13:52:18Z",
 "occ": [],
 "read": "2026-11-15"
@@ -3906,7 +4163,7 @@
 "url": "https://www.philamuseum.org/events/seeding-joy-workshop?start=2026-12-26T16:00:00.000Z&end=2026-12-26T18:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-28T13:26:40Z",
 "occ": [
 [
@@ -3947,7 +4204,7 @@
 "url": "https://www.philamuseum.org/events/sensory-friendly-mornings?start=2026-12-06T14:00:00.000Z&end=2026-12-06T15:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-27T16:37:31Z",
 "occ": [
 [
@@ -3972,7 +4229,7 @@
 "url": "https://www.philamuseum.org/events/sketching-in-the-galleries?start=2026-11-13T17:00:00.000Z&end=2026-11-13T18:30:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-11-08T16:24:03Z",
 "occ": [
 [
@@ -4037,7 +4294,7 @@
 "url": "https://www.philamuseum.org/events/the-bride-remade?start=2026-12-05T16:00:00.000Z&end=2026-12-05T18:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-11-02T05:33:01Z",
 "occ": [
 [
@@ -4047,9 +4304,16 @@
 ],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/the-karen-smith-experience": {
+"events": [],
+"fetched": "2026-11-17",
+"lastmod": "2026-09-02T18:24:34Z",
+"occ": [],
+"read": "2026-11-17"
+},
 "https://www.philamuseum.org/events/three-queens-yoga": {
 "events": [],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-09-27T04:00:03Z",
 "occ": [],
 "read": "2026-11-16"
@@ -4069,7 +4333,7 @@
 "url": "https://www.philamuseum.org/events/titian-turner-tour?start=2026-11-13T19:00:00.000Z&end=2026-11-13T20:00:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-09-23T12:43:10Z",
 "occ": [
 [
@@ -4226,7 +4490,7 @@
 "url": "https://www.philamuseum.org/events/tours-250-black-writing?start=2026-12-11T19:30:00.000Z&end=2026-12-11T20:30:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-11-05T21:52:32Z",
 "occ": [
 [
@@ -4251,7 +4515,7 @@
 "url": "https://www.philamuseum.org/events/yule-performance-trio-mediaeval?start=2026-12-04T22:00:00.000Z&end=2026-12-05T01:30:00.000Z"
 }
 ],
-"fetched": "2026-11-16",
+"fetched": "2026-11-17",
 "lastmod": "2026-10-20T13:46:32Z",
 "occ": [
 [
@@ -4362,190 +4626,190 @@
 "fetched": "2026-11-15"
 }
 },
-"last_run": "2026-11-16T13:22:17.197671+00:00",
+"last_run": "2026-11-17T08:07:25.510710+00:00",
 "sources": {
 "2ndstfestival": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "48recordbar": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "aaunited": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 2
+"events": 3
 },
 "actii_philly": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "albustanseeds": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 3
+"events": 2
 },
 "atmyhou.se": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 23
 },
 "atticbrewing": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 18
 },
 "awburyarboretum": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 22
 },
 "barnes": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 21
+"events": 7
 },
 "beautyiscultureevents": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "bobandbarbaras": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 34
 },
 "bok_bar": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "bourbonandbranch": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "bowerbird": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 10
+"events": 11
 },
 "broadstreet_lovepark": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "buildingbok": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 71
 },
 "centercitydistrict": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 156
 },
 "centercityevents": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 10
 },
 "chconservancy": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 10
 },
 "cherrystreetpier": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 3
 },
 "chestnuthill_pa": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 32
+"events": 33
 },
 "chicksphilly": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 8
 },
 "chinatownpcdc": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "circularphiladelphia": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 7
 },
 "curtis": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 27
+"events": 25
 },
 "dahlak_paradise": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 78
+"events": 77
 },
 "designgym": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 16
 },
 "dice_theavelive": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 24
+"events": 26
 },
 "discoverypathways": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 17
+"events": 18
 },
 "dockstreetbeer": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 9
 },
 "dosagemagazine": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "drwc": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 4
 },
 "eastpassyunk": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 4
+"events": 6
 },
 "ebennettart": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "elfrethsalley": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "ellieandbird": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 11
+"events": 13
 },
 "esperanza_us": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
@@ -4555,527 +4819,527 @@
 "events": 0
 },
 "eventbrite_arthurrossgalleryunive": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "eventbrite_associationforpublicar": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "eventbrite_chainashtacafewestphil": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "eventbrite_cobbscreekcommunityenv": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 3
 },
 "eventbrite_collectivefutures": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "eventbrite_dgriotphilly": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 6
 },
 "eventbrite_dvinitimarquitarobinso": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "eventbrite_getfreshdaily": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 0
+"events": 1
 },
 "eventbrite_honeytreeevileye": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 11
 },
 "eventbrite_inpursuitfilmfestival": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 4
+"events": 5
 },
 "eventbrite_kingsessingheals": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "eventbrite_midnightthewicked": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 4
 },
 "eventbrite_monstervegan": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "eventbrite_nationalmechanicsbarre": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "eventbrite_naturalcreativity": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "eventbrite_peoplescinemaclub": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 3
 },
 "eventbrite_riverfrontnorthpartner": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "eventbrite_sincitycabaret": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "eventbrite_survivorwatchpartiesph": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "eventbrite_taconytogether": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "eventbrite_theandreamitchellcente": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 2
+"events": 1
 },
 "eventbrite_theheadthehand": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "eventbrite_thetaconylabcommunitya": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 12
 },
 "eventbrite_thewelcometable": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "eventbrite_wissahickonec": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 7
 },
 "evilgeniusbeer": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 27
+"events": 28
 },
 "famfrequencyproductions": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 5
 },
 "familiarhearts": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 3
 },
 "fdrpark": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 15
 },
 "frankiessummerclub": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "freelibraryfdn": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 6
 },
 "friendsofcolumbussq": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "friendsofharrowgate": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "gatherfoodhallphilly": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 3
 },
 "glenfoerd": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 10
 },
 "hecphila": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "historicasmh": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "historicfairhill": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "hive76": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 8
 },
 "icaphila": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 3
 },
 "inliquidart": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 4
 },
 "inpursuitofhistory": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 4
+"events": 7
 },
 "jazzbridge": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 5
 },
 "jazzphiladelphia": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "jetwinebar": {
-"checked": "2026-11-16",
-"error": "",
-"events": 7
-},
-"khyberpasspub": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 6
 },
+"khyberpasspub": {
+"checked": "2026-11-17",
+"error": "",
+"events": 5
+},
 "lavenderpanzies": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "leewayfound": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "lovecitymanayunk": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 31
 },
 "luma_clubsatucitysquare": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 6
+"events": 7
 },
 "luma_freehandartsupply": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 2
+"events": 4
 },
 "luma_indyhallevents": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 30
 },
 "luma_phillyrb": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 5
 },
 "luma_phlcodeclub": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "luma_spacexsiforphiladelphiau": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "luma_wisecommunityevents": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 16
 },
 "manayunkbrewingco": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 13
 },
 "manayunkdotcom": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 3
 },
 "milkboy": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 42
+"events": 41
 },
 "misaludwellness": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 5
 },
 "monarchyoga": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "moviejawn": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 3
+"events": 2
 },
 "mtairycdc": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 13
 },
 "muralarts": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 7
 },
 "museumforartinwood": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 6
+"events": 5
 },
 "myphillypark": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 5
 },
 "navyyard": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 19
+"events": 21
 },
 "nextfab_phl": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "nlna": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 11
 },
 "nonamegalleryphilly": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "nps_independence": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 44
+"events": 43
 },
 "olneyculturelab": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "paflaxproject": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 4
+"events": 3
 },
 "pageburnersbookstore": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "parksontap": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "pennmuseum": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 13
+"events": 14
 },
 "philaathenaeum": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 35
+"events": 34
 },
 "philaholidays": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 1
+"events": 0
 },
 "philamuseum": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 358
+"events": 384
 },
 "philly700": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 9
+"events": 8
 },
 "phillygoatproject": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 5
 },
 "phillyistheculture": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "phillyjazzscene": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 228
+"events": 235
 },
 "phillyorchards": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "phillyrollerderby": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "pistolasdelsur": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "pleasetouchmuseum": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 300
 },
 "popupplay": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 3
 },
 "pplwalk": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "queenrookcafe": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 10
 },
 "qvnaorg": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 18
+"events": 16
 },
 "readingterminalmarket": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "reporecords": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 0
+"events": 1
 },
 "riotnerdphilly": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "riverfrontnorth": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "saintlazarusbar": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "savannahcare": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
 "schuylkillbanks": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 10
+"events": 4
 },
 "schuylkillcenter": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 30
+"events": 29
 },
 "sciencehistory": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 54
 },
 "sidequesttheater": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 54
+"events": 57
 },
 "sorynez": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 8
 },
 "soundlounge": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 11
+"events": 10
 },
 "southstreetphilly": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 5
+"events": 4
 },
 "statesideliveofficial": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 },
@@ -5085,92 +5349,92 @@
 "events": 10
 },
 "tallerpr": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 4
 },
 "tattooedmom": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 31
+"events": 32
 },
 "theloganhotel": {
-"checked": "2026-11-16",
-"error": "",
-"events": 2
+"checked": "2026-11-17",
+"error": "blocked: BlockedError: 403 from www.theloganhotel.com",
+"events": 0
 },
 "theprintcenter": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 1
+"events": 0
 },
 "therailpark": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 2
 },
 "therotunda": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 27
+"events": 26
 },
 "timerestaurant": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 9
+"events": 8
 },
 "triplebottombrewing": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "ucitysquare": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 36
+"events": 39
 },
 "universitycity": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 0
 },
 "velvetwhipphilly": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 23
 },
 "voxpopuligallery": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 8
 },
 "waygayarchives": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 39
 },
 "weaverswayfarms": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 10
+"events": 9
 },
 "westphillytoollibrary": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 23
+"events": 22
 },
 "woodenshoebooks": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 12
 },
 "wooder_ice": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
-"events": 5
+"events": 3
 },
 "woodfordmansion": {
-"checked": "2026-11-16",
+"checked": "2026-11-17",
 "error": "",
 "events": 1
 }

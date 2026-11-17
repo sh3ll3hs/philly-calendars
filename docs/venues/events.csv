@@ -1,15 +1,12 @@
 venue,title,subtitle,date,show_time,doors_time,set_times,url,ticket_url,price,source,needs_manual,room
-Dawson Street Pub,Philly Blind Pig BBQ!,,2026-11-15,,,,http://beta.dawsonstreetpub.com/index.php,,,html,True,
-Dawson Street Pub,Slowey & The Boats,,2026-11-15,17:00,,,http://beta.dawsonstreetpub.com/index.php,,,html,False,
-Sellersville Theater,"Tinsley Ellis ""Labor of Love""",,2026-11-16,20:00,19:30,,https://www.st94.com/events/tinsley-ellis-labor-of-love/,https://www.etix.com/ticket/p/78591269/tinsley-ellis-labor-of-love-sellersville-sellersville-theater-1894,$35 to $56.5,html,False,Sellersville Theater 1894
 Sellersville Theater,Stewart Copeland - Have I Said Too Much?,,2026-11-17,19:30,19:00,,https://www.st94.com/events/stewart-copeland-have-i-said-too-much/,https://www.etix.com/ticket/p/44706326/stewart-copeland-have-i-said-too-much-sellersville-sellersville-theater-1894,$55 to $102,html,False,Sellersville Theater 1894
 Parx Casino,Sway Duo featuring Joanne Farrell,,2026-11-18,17:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Liberty Bell Gastropub
 Sellersville Theater,WXPN Welcomes Marshall Crenshaw with special guests Sarah Borges & Eric Ambel,,2026-11-18,20:00,19:30,,https://www.st94.com/events/marshall-crenshaw-with-special-guests-sarah-borges-eric-ambel/,https://www.etix.com/ticket/p/30615242/wxpn-welcomes-marshall-crenshaw-with-special-guests-sarah-borges-eric-ambel-sellersville-sellersville-theater-1894,$35 to $72,html,False,Sellersville Theater 1894
 SOUTH Jazz Club,"CHRIS ""BIG DOG"" DAVIS",presented by UNSCRIPTED JAZZ,2026-11-19,,,,https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/,,,html,True,
 Parx Casino,The Quixote Project Duo,,2026-11-19,17:30,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Liberty Bell Gastropub
 Sellersville Theater,Ryan Coleman,,2026-11-19,19:30,19:00,,https://www.st94.com/events/ryan-coleman-2/,https://www.etix.com/ticket/p/64489908/ryan-coleman-sellersville-sellersville-theater-1894,$25 to $47,html,False,Sellersville Theater 1894
-Parx Casino,360 Comedy Night,Gabe Mahalik & Shane Daniels,2026-11-19,20:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,360
 Parx Casino,Jodeci,35th Anniversary Tour of Forever My Lady,2026-11-19,20:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Xcite Center
+Parx Casino,360 Comedy Night,Gabe Mahalik & Shane Daniels,2026-11-19,20:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,360
 The Queen,WXPN welcomes Alejandro Escovedo & The Electric Saints,,2026-11-19,20:00,19:00,,https://thequeenwilmington.com/events/alejandro-escovedo-the-electric-saints/,https://www.ticketmaster.com/wxpn-welcomes-alejandro-escovedo-the-electric-wilmington-delaware-11-19-2026/event/020064FA7D114933,,html,False,The Main Hall
 The Queen,Brad Goodall – FREE SHOW,,2026-11-19,20:00,19:00,,https://thequeenwilmington.com/events/brad-goodall/,https://www.ticketmaster.com/brad-goodall-free-show-wilmington-delaware-11-19-2026/event/020065307EFC5A7F,,html,False,The Crown
 Dawson Street Pub,"Electric Sex Power, Roberta Faceplant, The Black Seamen",,2026-11-20,,,,http://beta.dawsonstreetpub.com/index.php,,,html,True,

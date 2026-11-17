@@ -521,12 +521,6 @@
   "time": "19:30",
   "url": "https://events.humanitix.com/shovels-and-rope-bare-bones"
  },
- "513802": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:30",
-  "url": "https://tickets.citywinery.com/event/mky-mikey-jimenez-l392zn?_gl=1*5oba8y*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMjA4MzQ4Mjg2OC4xNzkyNTA4NTU5LjE3OTI1MTA1MDQ.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTI1MDg1NTkkbzEyJGcxJHQxNzkyNTEwNTA1JGo1OCRsMCRoMTkwMTk3NjUxOQ.."
- },
  "513809": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -887,12 +881,6 @@
   "time": "20:00",
   "url": "https://www.st94.com/events/bruce-in-the-usa-the-worlds-1-tribute-to-bruce-springsteen-the-e-street-band-9/"
  },
- "514404": {
-  "checked": "2026-11-08",
-  "source": "venue-site:aeg:Union Transfer",
-  "time": "20:00",
-  "url": "https://www.axs.com/events/1343297/die-spitz-tickets?skin=uniontransfer&amp;_gl=1*1250x5y*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
- },
  "514406": {
   "checked": "2026-11-08",
   "source": "venue-site:undergroundarts.org",
@@ -1031,12 +1019,6 @@
   "time": "20:00",
   "url": "https://www.ticketmaster.com/event/02006554AEC28578"
  },
- "514708": {
-  "checked": "2026-11-08",
-  "source": "venue-site:milkboyphilly.com (name match)",
-  "time": "20:00",
-  "url": "https://www.tixr.com/groups/milkboy/events/shanghai-qiutian-206113"
- },
  "514710": {
   "checked": "2026-11-08",
   "source": "venue-site:milkboyphilly.com",
@@ -1120,12 +1102,6 @@
   "source": "evening-time-near-date",
   "time": "20:00",
   "url": "https://newhopewinery.com/event/dar-williams/"
- },
- "514770": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:00",
-  "url": "https://www.ticketweb.com/event/humidifier-knotfall-granite01-amc-radio-nikki-lopez-philly-tickets/15052673"
  },
  "514772": {
   "checked": "2026-11-08",
@@ -1246,12 +1222,6 @@
   "source": "venue-site:themetphilly.com",
   "time": "20:00",
   "url": "https://www.ticketmaster.com/interpol-north-america-tour-2027-philadelphia-pennsylvania-03-26-2027/event/02006554B460962C"
- },
- "515014": {
-  "checked": "2026-11-08",
-  "source": "show",
-  "time": "20:00",
-  "url": "https://www.st94.com/events/tinsley-ellis-labor-of-love/"
  },
  "515016": {
   "checked": "2026-11-08",
@@ -1468,12 +1438,6 @@
   "source": "venue-site:thefillmorephilly.com",
   "time": "19:00",
   "url": "https://www.ticketmaster.com/reconnect-2026-the-starting-line-with-philadelphia-pennsylvania-12-19-2026/event/02006538D1AD613C?_gl=1*1g07unj*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzAkdDE3OTM0NzQ4MDMkajYwJGwwJGgw"
- },
- "515538": {
-  "checked": "2026-11-08",
-  "source": "venue-site:thefillmorephilly.com",
-  "time": "20:00",
-  "url": "https://www.ticketmaster.com/weatherday-philadelphia-pennsylvania-11-16-2026/event/0200648601E615FD?_gl=1*17sgze7*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
  },
  "515540": {
   "checked": "2026-11-08",
@@ -3070,12 +3034,6 @@
   "source": "show",
   "time": "19:30",
   "url": "https://www.st94.com/events/the-gibson-brothers/"
- },
- "517828": {
-  "checked": "2026-11-16",
-  "source": "show",
-  "time": "19:30",
-  "url": "https://www.st94.com/events/mardi-gras-party-with-james-day-the-fish-fry-2/"
  },
  "517830": {
   "checked": "2026-11-16",

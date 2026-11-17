@@ -1,48 +1,5 @@
 [
  {
-  "venue": "Dawson Street Pub",
-  "title": "Philly Blind Pig BBQ!",
-  "subtitle": null,
-  "date": "2026-11-15",
-  "show_time": null,
-  "doors_time": null,
-  "set_times": [],
-  "url": "http://beta.dawsonstreetpub.com/index.php",
-  "ticket_url": null,
-  "price": null,
-  "source": "html",
-  "needs_manual": true
- },
- {
-  "venue": "Dawson Street Pub",
-  "title": "Slowey & The Boats",
-  "subtitle": null,
-  "date": "2026-11-15",
-  "show_time": "17:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "http://beta.dawsonstreetpub.com/index.php",
-  "ticket_url": null,
-  "price": null,
-  "source": "html",
-  "needs_manual": false
- },
- {
-  "venue": "Sellersville Theater",
-  "title": "Tinsley Ellis \"Labor of Love\"",
-  "subtitle": null,
-  "date": "2026-11-16",
-  "show_time": "20:00",
-  "doors_time": "19:30",
-  "set_times": [],
-  "url": "https://www.st94.com/events/tinsley-ellis-labor-of-love/",
-  "ticket_url": "https://www.etix.com/ticket/p/78591269/tinsley-ellis-labor-of-love-sellersville-sellersville-theater-1894",
-  "price": "$35 to $56.5",
-  "source": "html",
-  "needs_manual": false,
-  "room": "Sellersville Theater 1894"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Stewart Copeland - Have I Said Too Much?",
   "subtitle": null,
@@ -133,21 +90,6 @@
  },
  {
   "venue": "Parx Casino",
-  "title": "360 Comedy Night",
-  "subtitle": "Gabe Mahalik & Shane Daniels",
-  "date": "2026-11-19",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
   "title": "Jodeci",
   "subtitle": "35th Anniversary Tour of Forever My Lady",
   "date": "2026-11-19",
@@ -160,6 +102,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "Xcite Center"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "360 Comedy Night",
+  "subtitle": "Gabe Mahalik & Shane Daniels",
+  "date": "2026-11-19",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "360"
  },
  {
   "venue": "The Queen",
