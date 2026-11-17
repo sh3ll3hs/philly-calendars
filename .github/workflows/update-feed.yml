@@ -71,9 +71,14 @@ jobs:
         run: python3 phila_to_ics.py --out docs/phila.ics --list docs/phila_calendars.json
       # Everything without a feed of its own. Rebuilds on every morning run (5-10 AM Eastern) and otherwise
       # at most once every 11 h; the script skips itself the rest of the time.
+      # A run started by hand (Actions tab > Run workflow) always rebuilds both feeds below: it passes
+      # --force, which skips the wait. Scheduled runs keep the wait, so the sites are not read more
+      # often than needed.
       - name: Build combined small-sources feed
         continue-on-error: true
-        run: python3 combined_to_ics.py --out docs/combined.ics --state docs/combined_state.json
+        run: >-
+          python3 combined_to_ics.py --out docs/combined.ics --state docs/combined_state.json
+          ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
       # LGBTQ+ career and tech organizations, nationwide (sources in queertech_sources.json). Same engine and
       # the same schedule rule as the combined feed; events are kept up to 400 days ahead for the conferences.
       - name: Build Queer Tech Events feed
@@ -81,6 +86,7 @@ jobs:
         run: >-
           python3 combined_to_ics.py --sources queertech_sources.json --out docs/queertech.ics
           --state docs/queertech_state.json --name "Queer Tech Events" --rsvp-lines --days-ahead 400
+          ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
       - name: Commit if changed
         run: |
           git config user.name  "feed-bot"
