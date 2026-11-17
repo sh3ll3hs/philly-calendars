@@ -3,9 +3,11 @@ name: Update calendar feeds
 on:
   schedule:
     - cron: "17 */6 * * *"   # every 6 hours
-    # Two extra morning starts (5:41 and 6:41 AM Eastern in winter). GitHub regularly drops the
-    # 12:17 UTC slot above, and the combined feed rebuilds on the first run of the morning.
+    # Extra morning starts (5:41, 6:00 and 6:41 AM Eastern in winter). GitHub regularly drops the
+    # 12:17 UTC slot above, and the combined feed rebuilds once on the first morning run (or skips if
+    # a post-1:00 AM Eastern rebuild already completed today).
     - cron: "41 10 * * *"
+    - cron: '0 11 * * *'
     - cron: "41 11 * * *"
   workflow_dispatch:          # lets you run it by hand from the Actions tab
 
@@ -31,7 +33,7 @@ jobs:
         continue-on-error: true
         run: python3 wkdu_to_ics.py --out docs/wkdu.ics --venues docs/wkdu_venues.json
       - name: Install scraping libraries
-        run: pip install --quiet requests beautifulsoup4
+        run: pip install --quiet requests beautifulsoup4 python-dateutil curl_cffi
       # Parser tests run against saved pages; a failure here flags a parser bug
       # without stopping the feeds from publishing.
       - name: Test venue parsers

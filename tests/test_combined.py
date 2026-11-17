@@ -131,6 +131,18 @@ class Schedule(unittest.TestCase):
         self.assertFalse(C.should_skip(age_hours=10.7, local_hour=8, min_hours=11))    # late evening run must not cancel the morning
         self.assertTrue(C.should_skip(age_hours=0.5, local_hour=7, min_hours=11))      # but not twice in the same morning
 
+    def test_has_completed_morning_rebuild(self):
+        from zoneinfo import ZoneInfo
+        now_et = dt.datetime.now(ZoneInfo("America/New_York"))
+        self.assertFalse(C.has_completed_morning_rebuild(None))
+        self.assertFalse(C.has_completed_morning_rebuild(""))
+        yesterday_late = (now_et - dt.timedelta(days=1)).replace(hour=23, minute=30).isoformat()
+        self.assertFalse(C.has_completed_morning_rebuild(yesterday_late))
+        today_1am = now_et.replace(hour=1, minute=5, second=0, microsecond=0).isoformat()
+        self.assertTrue(C.has_completed_morning_rebuild(today_1am))
+        self.assertTrue(C.should_skip(age_hours=5.0, local_hour=6, min_hours=11, last_run_iso=today_1am))
+        self.assertFalse(C.should_skip(age_hours=6.5, local_hour=6, min_hours=11, last_run_iso=yesterday_late))
+
 
 if __name__ == "__main__":
     unittest.main()

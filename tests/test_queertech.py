@@ -242,5 +242,100 @@ class Engine(unittest.TestCase):
         self.assertEqual([d for _, d in C._dates_in("Dec 5", TODAY)], [dt.date(2026, 12, 5)])
 
 
+class NewQueerTechReaders(unittest.TestCase):
+    def test_accelevents_cards(self):
+        R = reader("qt_outintech")
+        html = '''
+        <div class="org-desc">
+          <div class="organizer-info">
+            <div class="organizer-date-text">Wed, Dec 16, 2026 from 12:30 AM to 2:30 AM (GMT)</div>
+            <div class="organizer-event-name-location">
+              <a href="https://www.accelevents.com/e/denver122026">Out in Tech Denver | December Monthly Mixer</a>
+              <div class="organizer-location-text"><span>Town Hall Collaborative, 525 Santa Fe Dr, Denver, CO, USA</span></div>
+            </div>
+          </div>
+          <div class="price_wrap"><span>Free</span></div>
+        </div>
+        '''
+        ev = R.parse_accelevents(html, src("qt_outintech", "https://outintech.com/events/"))
+        self.assertEqual(len(ev), 1)
+        self.assertEqual(ev[0]["title"], "Out in Tech Denver | December Monthly Mixer")
+        self.assertEqual(ev[0]["start"], dt.datetime(2026, 12, 15, 19, 30))
+        self.assertEqual(ev[0]["end"], dt.datetime(2026, 12, 15, 21, 30))
+        self.assertEqual(ev[0]["loc"], "Town Hall Collaborative, 525 Santa Fe Dr, Denver, CO, USA")
+        self.assertEqual(ev[0]["url"], "https://events.outintech.com/e/denver122026")
+
+    def test_qcal_jsonld(self):
+        R = reader("qt_qcal")
+        html = '''
+        <script type="application/ld+json">
+        {"@context":"https://schema.org","@graph":[
+          {"@type":"Event","name":"Trans and Nonbinary Inclusion [Nov 19]","startDate":"2026-11-19T13:00:00-05:00","endDate":"2026-11-19T14:00:00-05:00",
+           "location":{"@type":"VirtualLocation"},"offers":{"@type":"Offer","url":"https://qcal.app/event/test"}}
+        ]}
+        </script>
+        '''
+        ev = R.parse_qcal_event_page(html, "https://qcal.app/event/test", src("qt_prideatwork", "https://qcal.app/host/pride-at-work-canada"))
+        self.assertEqual(len(ev), 1)
+        self.assertEqual(ev[0]["start"], dt.datetime(2026, 11, 19, 13, 0))
+        self.assertEqual(ev[0]["loc"], "Online")
+
+    def test_queer_in_ai_news_block(self):
+        R = reader("qt_queerinai")
+        html = '''
+        <ul><li><p><a href="/neurips-2026"><strong>NeurIPS 2026</strong></a> <strong>(December 06-13): Workshop</strong></p>
+        <ul><li><p>We will be hosting workshops and socials at all three venues (Atlanta, USA; Paris, France; Sydney, Australia) - more details to come soon!</p></li></ul></li></ul>
+        '''
+        ev = R.parse(html, src("qt_queerinai", "https://www.queerinai.com/"), today=TODAY)
+        self.assertEqual(len(ev), 1)
+        self.assertEqual(ev[0]["title"], "Queer in AI @ NeurIPS 2026: Workshop")
+        self.assertEqual((ev[0]["start"], ev[0]["end"]), (dt.date(2026, 12, 6), dt.date(2026, 12, 13)))
+        self.assertEqual(ev[0]["loc"], "Atlanta, USA; Paris, France; Sydney, Australia")
+        self.assertEqual(ev[0]["url"], "https://www.queerinai.com/neurips-2026")
+
+    def test_maven_youth_detail_jsonld(self):
+        R = reader("qt_mavenyouth")
+        html = '''
+        <script type="application/ld+json">
+        {"@type":"Event","name":"2027 NYC Summer Camp","startDate":"2027-08-02T09:30:00-05:00","endDate":"2027-08-13T17:30:00-05:00",
+         "location":{"@type":"Place","name":"Multiple Locations, Greater NYC Area"}}
+        </script>
+        '''
+        ev = R.parse_detail_jsonld(html, "https://www.mavenyouth.org/event-details/2027-nyc-summer-camp", src("qt_mavenyouth", "https://www.mavenyouth.org/summer-camps"))
+        self.assertEqual(len(ev), 1)
+        self.assertEqual(ev[0]["title"], "2027 NYC Summer Camp")
+        self.assertEqual(ev[0]["loc"], "Multiple Locations, Greater NYC Area")
+
+    def test_point_foundation_detail(self):
+        R = reader("qt_pointfoundation")
+        html = '''
+        <main><h1>Partner Registration</h1>
+        <p>The 2026 National Leadership Conference (NLC) will take place Thursday, July 16, through Sunday, July 19, at the Sheraton Universal Hotel in Universal City, CA.</p>
+        </main>
+        '''
+        info = R.parse_detail(html, "https://pointfoundation.org/community/events/national-leadership-conference-partners", "Partner Registration")
+        e = R.build_event("https://pointfoundation.org/community/events/national-leadership-conference-partners", info, src("qt_pointfoundation", "https://pointfoundation.org/community/events"))
+        self.assertEqual(e["title"], "2026 National Leadership Conference (NLC)")
+        self.assertEqual((e["start"], e["end"]), (dt.date(2026, 7, 16), dt.date(2026, 7, 19)))
+        self.assertEqual(e["loc"], "Sheraton Universal Hotel in Universal City, CA")
+
+    def test_mygwork_cards(self):
+        from bs4 import BeautifulSoup
+        R = reader("qt_mygwork")
+        html = '''
+        <div class="w-full"><a href="/events/eurout-2026"><h4>EUROUT 2026</h4></a>
+        <p>Europe's leading LGBTQ+ business conference.</p>
+        <div><span>Start:</span><span>November 19, 2026</span><span>at</span><span>9:00 AM</span><span>GMT</span>
+        <span>End:</span><span>November 21, 2026</span><span>at</span><span>9:00 PM</span><span>GMT</span>
+        <span>London Business School</span></div></div>
+        '''
+        ev = R.parse(BeautifulSoup(html, "html.parser"), src("qt_mygwork", "https://mygwork.com/en/events"))
+        self.assertEqual(len(ev), 1)
+        self.assertEqual(ev[0]["title"], "EUROUT 2026")
+        self.assertEqual(ev[0]["start"], dt.datetime(2026, 11, 19, 4, 0))
+        self.assertEqual(ev[0]["loc"], "London Business School")
+
+
+
 if __name__ == "__main__":
     unittest.main()

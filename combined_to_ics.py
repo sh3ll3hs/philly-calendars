@@ -619,13 +619,26 @@ def build_ics(events, calname="Philly combined events", rsvp_lines=False):
     return "\r\n".join(fold(l) for l in out) + "\r\n"
 
 
-def should_skip(age_hours, local_hour, min_hours, morning=(5, 10)):
+def has_completed_morning_rebuild(last_run_iso: str | None) -> bool:
+    if not last_run_iso:
+        return False
+    now_et = dt.datetime.now(ZoneInfo("America/New_York"))
+    last_et = dt.datetime.fromisoformat(last_run_iso).astimezone(ZoneInfo("America/New_York"))
+    today_1am = now_et.replace(hour=1, minute=0, second=0, microsecond=0)
+    return last_et >= today_1am
+
+
+def should_skip(age_hours, local_hour, min_hours, morning=(5, 10), last_run_iso=None):
     """Skip a run that comes too soon after the last one, except that the first run
     of the morning (Eastern time) always rebuilds, so the feed is fresh every day
     however the earlier runs fell."""
-    if morning[0] <= local_hour < morning[1] and age_hours >= 3:
-        return False
+    if morning[0] <= local_hour < morning[1]:
+        if last_run_iso is not None:
+            return has_completed_morning_rebuild(last_run_iso)
+        if age_hours >= 3:
+            return False
     return age_hours < min_hours
+
 
 
 def main(argv=None):
@@ -658,7 +671,7 @@ def main(argv=None):
     now = dt.datetime.now(dt.timezone.utc)
     if state["last_run"] and not (a.force or only):
         age = (now - dt.datetime.fromisoformat(state["last_run"])).total_seconds() / 3600
-        if should_skip(age, now.astimezone(NY).hour, a.min_hours) and os.path.exists(a.out):
+        if should_skip(age, now.astimezone(NY).hour, a.min_hours, last_run_iso=state["last_run"]) and os.path.exists(a.out):
             print(f"{a.name}: last run {age:.1f} h ago (< {a.min_hours:g} h); skipping")
             return 0
 

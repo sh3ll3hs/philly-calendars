@@ -18,12 +18,11 @@ read yet, the event is all-day and the printed time is quoted in the description
 robots.txt (2026-11-17): /events/ and /event/ are not disallowed. The site's
 /wp-json/tribe/ API answers but is empty (events are a custom post type).
 
-Not read: the same page also embeds an Accelevents widget (events.outintech.com),
-drawn by script from that service's own API, where the organization now posts part
-of its events. It has no feed and no page a script can read, so those events are
-missing here; the list's "We've Moved!" placeholder entry is dropped by the registry
-entry's "skip". Only the "Upcoming" part of the list has titles in <h3>; the "Past
-Events" part is ignored.
+Not read: only the "Upcoming" part of the list on outintech.com/events has titles in
+<h3>; the "Past Events" part is ignored. Chapter events on the Accelevents portal
+(https://www.accelevents.com/o/OutinTech / https://events.outintech.com) are also
+scraped from the SSR organizer cards and merged/deduplicated with the WordPress list.
+
 
 Checked 2026-11-17 against the site: Out in Tech Denver November Monthly Mixer
 (Nov 17, 5:30-7:30 pm at 525 Santa Fe Dr., Denver; its Eventbrite page gives
@@ -114,6 +113,91 @@ def build(item, info, src):
                    rsvp=(info or {}).get("rsvp", ""))
 
 
+ACCELEVENTS_URL = "https://www.accelevents.com/o/OutinTech"
+ACCELEVENTS_DATE_RX = re.compile(
+    r"([A-Za-z]{3},\s+[A-Za-z]{3}\s+\d{1,2},\s+\d{4})\s+from\s+"
+    r"(\d{1,2}:\d{2}\s*[AP]M)\s+to\s+(\d{1,2}:\d{2}\s*[AP]M)\s*"
+    r"\(([A-Z]{2,4})\)"
+)
+
+
+def parse_accelevents(body, src):
+    """Accelevents SSR portal HTML -> feed events."""
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(body, "html.parser")
+    events, seen_urls = [], set()
+    for link in soup.find_all("a", href=True):
+        href = link["href"]
+        if "/e/" not in href or any(x in href for x in ("sharer", "twitter.com", "mailto:")):
+            continue
+        event_url = href if href.startswith("http") else f"https://events.outintech.com{href}"
+        event_url = event_url.replace("https://www.accelevents.com/e/", "https://events.outintech.com/e/")
+        if event_url in seen_urls:
+            continue
+        card = link.find_parent("div", class_="org-desc") or link.find_parent(["div", "article", "li"]) or link
+        card_text = " ".join(card.stripped_strings)
+        match = ACCELEVENTS_DATE_RX.search(card_text)
+        if not match:
+            continue
+        date_part, start_str, end_str, tz_abbr = match.groups()
+        tz = Q.TZ_MAP.get(tz_abbr, Q.EASTERN)
+        dt_start = (
+            dt.datetime.strptime(f"{date_part} {start_str}", "%a, %b %d, %Y %I:%M %p")
+            .replace(tzinfo=tz)
+            .astimezone(Q.EASTERN)
+            .replace(tzinfo=None)
+        )
+        dt_end = (
+            dt.datetime.strptime(f"{date_part} {end_str}", "%a, %b %d, %Y %I:%M %p")
+            .replace(tzinfo=tz)
+            .astimezone(Q.EASTERN)
+            .replace(tzinfo=None)
+        )
+        if dt_end <= dt_start:
+            dt_end += dt.timedelta(days=1)
+        lines = [line.strip() for line in card.stripped_strings if line.strip()]
+        title = next(
+            (l for l in lines if "Out in Tech" in l or "#" in l),
+            link.get_text(strip=True) or "Out in Tech Event",
+        )
+        location = "See event page"
+        for i, l in enumerate(lines):
+            if l == title and i + 1 < len(lines):
+                candidate = lines[i + 1]
+                if not ACCELEVENTS_DATE_RX.search(candidate) and candidate not in ("Free", "MULTIPLE DATES"):
+                    location = candidate
+                break
+        seen_urls.add(event_url)
+        e = C.event(src, event_url, title, dt_start, dt_end, False, Q.place(location), event_url, "", rsvp=event_url)
+        if e:
+            events.append(e)
+    return events
+
+
+def scrape_out_in_tech_accelevents(src=None) -> list[dict]:
+    src = src or {"id": "qt_outintech", "name": "Out in Tech", "url": ACCELEVENTS_URL}
+    url = src.get("accelevents_url") or ACCELEVENTS_URL
+    if Q.cf_requests is not None:
+        C.http._wait(url)
+        resp = Q.cf_requests.get(url, headers={"User-Agent": "curl/8.0", "Accept-Language": "en-US,en;q=0.9"}, timeout=20)
+        resp.raise_for_status()
+        text = resp.text
+    else:
+        r = C.http.get(url, headers={"User-Agent": "curl/8.0"})
+        r.encoding = "utf-8"
+        text = r.text
+    if "/e/" not in text or "org-desc" not in text:
+        r = C.http.get(url, headers={"User-Agent": "Googlebot/2.1 (+http://www.google.com/bot.html)"})
+        r.encoding = "utf-8"
+        text = r.text
+    return parse_accelevents(text, src)
+
+
+def _city_key(title):
+    m = re.match(r"^out in tech\s+([a-z .'-]+?)(?:\s*[:|\-–—]|\s+\d|\s*$)", title.lower())
+    return m.group(1).strip() if m else C.norm_title(title)
+
+
 def read(src, ctx):
     items, url = [], src["url"]
     for n in range(1, MAX_PAGES + 1):
@@ -137,4 +221,18 @@ def read(src, ctx):
         e = build(it, Q.cached(ctx, it["url"], budget, parse_detail), src)
         if e:
             out.append(e)
+    try:
+        accel = scrape_out_in_tech_accelevents(src)
+    except Exception:
+        accel = []
+    seen_chapter_time = {(_city_key(e["title"]), e["start"]) for e in out}
+    for e in accel:
+        if not (ctx["lo"] <= C.day_of(e) <= ctx["hi"]):
+            continue
+        ck = (_city_key(e["title"]), e["start"])
+        if ck in seen_chapter_time or e["url"] in seen:
+            continue
+        seen.add(e["url"])
+        seen_chapter_time.add(ck)
+        out.append(e)
     return out

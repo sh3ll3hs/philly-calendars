@@ -3,7 +3,65 @@ import datetime as dt
 import html
 import re
 
+import urllib.parse
+from zoneinfo import ZoneInfo
+from bs4 import BeautifulSoup
+from dateutil import parser as date_parser
+
+try:
+    from curl_cffi import requests as cf_requests
+except ImportError:
+    cf_requests = None
+
 import combined_to_ics as C
+from combined_readers import zones
+
+EASTERN = zones.NY
+
+TZ_MAP = {
+    "PST": ZoneInfo("America/Los_Angeles"),
+    "PDT": ZoneInfo("America/Los_Angeles"),
+    "MST": ZoneInfo("America/Denver"),
+    "MDT": ZoneInfo("America/Denver"),
+    "CST": ZoneInfo("America/Chicago"),
+    "CDT": ZoneInfo("America/Chicago"),
+    "EST": ZoneInfo("America/New_York"),
+    "EDT": ZoneInfo("America/New_York"),
+    "CET": ZoneInfo("Europe/Amsterdam"),
+    "CEST": ZoneInfo("Europe/Amsterdam"),
+    "GMT": ZoneInfo("Etc/UTC"),
+    "UTC": ZoneInfo("Etc/UTC"),
+    "BST": ZoneInfo("Europe/London"),
+    "AEDT": ZoneInfo("Australia/Sydney"),
+    "AEST": ZoneInfo("Australia/Sydney"),
+}
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/128.0.0.0 Safari/537.36"
+    ),
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
+
+def fetch_cloudflare_text(url: str) -> str:
+    """Fetch HTML from a Cloudflare/WAF-protected page using curl_cffi TLS impersonation."""
+    C.http._wait(url)
+    if cf_requests is not None:
+        resp = cf_requests.get(url, impersonate="chrome120", headers=HEADERS, timeout=20)
+    else:
+        resp = C.http._SESSION.get(url, headers=HEADERS, timeout=20)
+    if resp.status_code in (403, 406):
+        raise C.http.BlockedError(f"{resp.status_code} from {urllib.parse.urlsplit(url).netloc}")
+    resp.raise_for_status()
+    return resp.text
+
+
+def fetch_cloudflare_protected(url: str) -> BeautifulSoup:
+    return BeautifulSoup(fetch_cloudflare_text(url), "html.parser")
+
 
 MONTHS = r"(?:jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)[a-z]*\.?"
 RSVP_TEXT = re.compile(r"\b(register|registration|rsvp|tickets?|sign up|apply|reserve|save (?:my|your) (?:spot|seat))\b", re.I)

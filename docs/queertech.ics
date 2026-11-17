@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:caaea17b11fc2be1c058b0ef29a69111087f64fc@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261115T140000
 DTEND;TZID=America/New_York:20261115T170000
 SUMMARY:San Francisco Bay Area: City to Coast: The Golden Gate Park Trek
@@ -45,7 +45,7 @@ CATEGORIES:Build Out Alliance
 END:VEVENT
 BEGIN:VEVENT
 UID:7cdebe7d629d8b08fcb8d7a758a86b768f0eebf3@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261116T140000
 DTEND;TZID=America/New_York:20261116T153000
 SUMMARY:360° Branding Workshop: From Strategy to Website to AI-Ready Marke
@@ -62,7 +62,7 @@ CATEGORIES:Independence Business Alliance (Philadelphia LGBTQ+ chamber)
 END:VEVENT
 BEGIN:VEVENT
 UID:d7bcd6d22c4b2043d6d35b6cdc6999b23aed9dd5@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261117T120000
 DTEND;TZID=America/New_York:20261117T130000
 SUMMARY:Prosperity Planning Series: The Power of LGBTQ+ Financial Health wi
@@ -78,7 +78,7 @@ CATEGORIES:Independence Business Alliance (Philadelphia LGBTQ+ chamber)
 END:VEVENT
 BEGIN:VEVENT
 UID:b9b6ab790d2befeac8af9b13db99df77d09068e8@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261117T180000
 DTEND;TZID=America/New_York:20261117T210000
 SUMMARY:Stronger Together: Queer & Ally panel discussion and networking nig
@@ -97,7 +97,7 @@ CATEGORIES:QueerTech (Edmonton)
 END:VEVENT
 BEGIN:VEVENT
 UID:9a3ec3ee66d2932ee9b11bbf762a44973db45b7b@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261117T183000
 DTEND;TZID=America/New_York:20261117T203000
 SUMMARY:Make Sandwiches to Support At-Risk LGBTQ+ Youth and Others - NYC
@@ -112,7 +112,7 @@ CATEGORIES:Out Professionals
 END:VEVENT
 BEGIN:VEVENT
 UID:f2bfb017bab773893eb3540892141d642520e792@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261117T193000
 DTEND;TZID=America/New_York:20261117T213000
 SUMMARY:Out in Tech Denver | November Monthly Mixer
@@ -127,7 +127,7 @@ CATEGORIES:Out in Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:df72a7cb1e2439d9cedb53d91e5db217f2e801b0@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261117T200000
 DTEND;TZID=America/New_York:20261117T220000
 SUMMARY:Out in Tech Austin | Monthly Mixer 2026
@@ -142,7 +142,7 @@ CATEGORIES:Out in Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:7d55c4f71f382433bee29abd19d77fdca77bfd42@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261118T080000
 DTEND;TZID=America/New_York:20261118T170000
 SUMMARY:QT Qonference 2026
@@ -159,8 +159,25 @@ URL:https://www.meetup.com/queertech-montreal/events/315378084/
 CATEGORIES:QueerTech (Montréal)
 END:VEVENT
 BEGIN:VEVENT
+UID:f9fda21b82e1d8879ddf8401096f855d34cd356b@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261118T090000
+DTEND;TZID=America/New_York:20261118T093000
+SUMMARY:Gay Investor Network - How to Become an Angel Investor with Only £
+ 1\,000 & Back LGBTQ+ Founders
+LOCATION:Online
+DESCRIPTION:Angel investing has always looked like a rich person's game. It
+  isn't. You can become an angel investor with £1\,000.\n\nSource: myGwork
+ \nEvent page: https://mygwork.com/events/how-to-become-an-angel-investor-w
+ ith-only-1000-back-lgbtq-founders\nRSVP: https://mygwork.com/events/how-to
+ -become-an-angel-investor-with-only-1000-back-lgbtq-founders
+URL:https://mygwork.com/events/how-to-become-an-angel-investor-with-only-10
+ 00-back-lgbtq-founders
+CATEGORIES:myGwork
+END:VEVENT
+BEGIN:VEVENT
 UID:c80d6dd63f203e378e4e3b9baa251976e42a4b31@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261118T120000
 DTEND;TZID=America/New_York:20261118T140000
 SUMMARY:Quarterly Partner Learning Meetup: November
@@ -173,7 +190,7 @@ CATEGORIES:Out & Equal
 END:VEVENT
 BEGIN:VEVENT
 UID:0c08784c11d5e28f730d55feadc0d007b3b20841@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261118T173000
 DTEND;TZID=America/New_York:20261118T200000
 SUMMARY:Out in Tech Boston: LGBTQ+ Rights and Inclusion
@@ -189,7 +206,7 @@ CATEGORIES:Out in Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:84cc381cf44b10c5c4a2c7eebb24dafb1d98f326@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261118T180000
 DTEND;TZID=America/New_York:20261118T200000
 SUMMARY:OutPro Meaningful LGBTQ+ Networking - Philly
@@ -205,7 +222,7 @@ CATEGORIES:Out Professionals
 END:VEVENT
 BEGIN:VEVENT
 UID:be8eaa6c053ae575f9922be3888696eea72fb203@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261118T190000
 DTEND;TZID=America/New_York:20261118T210000
 SUMMARY:OutPro LGBTQ+ and Allies Networking on the Riverwalk - Chicago
@@ -220,8 +237,35 @@ URL:https://www.eventbrite.com/e/outpro-lgbtq-and-allies-networking-on-the-
 CATEGORIES:Out Professionals
 END:VEVENT
 BEGIN:VEVENT
+UID:414bc88abe84030941f48cbe9c7f8c78324b627e@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261118T203000
+DTEND;TZID=America/New_York:20261118T230000
+SUMMARY:Out in Tech SF Bay Area: Fall into Community - Happy Hour
+LOCATION:Lookout | 3600 16th St\, San Francisco
+DESCRIPTION:Source: Out in Tech\nEvent page: https://events.outintech.com/e
+ /out-in-tech-sf-bay-area-fall-into-community--happ\nRSVP: https://events.o
+ utintech.com/e/out-in-tech-sf-bay-area-fall-into-community--happ
+URL:https://events.outintech.com/e/out-in-tech-sf-bay-area-fall-into-commun
+ ity--happ
+CATEGORIES:Out in Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:c36bd5d90cc2eba89c6770f8f6cb094c230b14f9@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261119T040000
+DTEND;TZID=America/New_York:20261119T160000
+SUMMARY:EUROUT 2026 (through Nov 21)
+LOCATION:London Business School
+DESCRIPTION:Europe's leading LGBTQ+ business conference for students and al
+ umni of top business schools.\n\nSource: myGwork\nEvent page: https://mygw
+ ork.com/events/eurout-2026\nRSVP: https://mygwork.com/events/eurout-2026
+URL:https://mygwork.com/events/eurout-2026
+CATEGORIES:myGwork
+END:VEVENT
+BEGIN:VEVENT
 UID:55f788958840584d03cef1dfe7455846849a944e@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261119T120000
 DTEND;TZID=America/New_York:20261119T143000
 SUMMARY:Out in Tech Amsterdam | Third Thursdays
@@ -236,7 +280,7 @@ CATEGORIES:Out in Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:707979d795bc0998bc261ac801bfc2abd0820c21@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261119T120000
 DTEND;TZID=America/New_York:20261119T140000
 SUMMARY:Signal Through the Noise November Webinar
@@ -249,8 +293,43 @@ URL:https://outandequal.org/event/signal-through-the-noise-november-webinar
 CATEGORIES:Out & Equal
 END:VEVENT
 BEGIN:VEVENT
+UID:14c1d237c7315e9be2c01ec305b6b59f13978002@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261119T123000
+DTEND;TZID=America/New_York:20261119T153000
+SUMMARY:Gaydio Networking: Glasgow
+LOCATION:The Corset Club Corset Club Glasgow G1 1TS
+DESCRIPTION:Celebrate Trans Awareness Week with Gaydio Networking Glasgow 
+ – a night of visibility\, connection\, community and authentic allyship.
+ \n\nSource: myGwork\nEvent page: https://mygwork.com/events/gaydio-network
+ ing-glasgow\nRSVP: https://mygwork.com/events/gaydio-networking-glasgow
+URL:https://mygwork.com/events/gaydio-networking-glasgow
+CATEGORIES:myGwork
+END:VEVENT
+BEGIN:VEVENT
+UID:0a1067f47571b493ffd102f96d4081772d4ca314@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261119T130000
+DTEND;TZID=America/New_York:20261119T140000
+SUMMARY:Trans and Nonbinary Inclusion and Safety in the Energy Sector [Nov 
+ 19]
+LOCATION:Online
+DESCRIPTION:Creating safer jobsites means ensuring every worker has the sup
+ port\, equipment\, and respect they need to do their job safely. For trans
+ gender and nonbinary employees\, barriers such as harassment\, inadequate 
+ facilities\, ill-fitting PPE\, or uncertainty about workplace expectations
+  can impact both physical and psychological safety.\n\nSource: Pride at Wo
+ rk Canada\nEvent page: https://qcal.app/event/trans-and-nonbinary-inclusio
+ n-and-safety-in-the-energy-sector-nov-19-toronto-on-ca\nRSVP: https://qcal
+ .app/event/trans-and-nonbinary-inclusion-and-safety-in-the-energy-sector-n
+ ov-19-toronto-on-ca
+URL:https://qcal.app/event/trans-and-nonbinary-inclusion-and-safety-in-the-
+ energy-sector-nov-19-toronto-on-ca
+CATEGORIES:Pride at Work Canada
+END:VEVENT
+BEGIN:VEVENT
 UID:92831331c4a0ceb292887b718777a583a08023dd@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261119T130000
 DTEND;TZID=America/New_York:20261119T150000
 SUMMARY:Unicorns in Tech FLINTA* Afterwork | for the FLINTA* Tech Community
@@ -265,7 +344,7 @@ CATEGORIES:Unicorns in Tech (Berlin)
 END:VEVENT
 BEGIN:VEVENT
 UID:f5c1706f13bcd1dba3b5f9ba82fbd683abbfc48f@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261119T173000
 DTEND;TZID=America/New_York:20261119T190000
 SUMMARY:November ConnX: with Philly Pride Visitor Center
@@ -284,7 +363,7 @@ CATEGORIES:Independence Business Alliance (Philadelphia LGBTQ+ chamber)
 END:VEVENT
 BEGIN:VEVENT
 UID:3b64398bf35129328cc74181c122643716b792f4@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261119T180000
 DTEND;TZID=America/New_York:20261119T200000
 SUMMARY:New York City: Fall Happy Hour with REBNY
@@ -302,7 +381,7 @@ CATEGORIES:Build Out Alliance
 END:VEVENT
 BEGIN:VEVENT
 UID:091ff66d88ba0e6b7e033cf9c4a5898086c014a0@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261119T183000
 DTEND;TZID=America/New_York:20261119T203000
 SUMMARY:Investor Pitching Workshop: Sharpen Your Pitch With Direct Feedback
@@ -317,8 +396,66 @@ URL:https://www.eventbrite.com/e/investor-pitching-workshop-sharpen-your-pi
 CATEGORIES:StartOut
 END:VEVENT
 BEGIN:VEVENT
+UID:e5318a9ee7a6fa3e4660a3b2bc349a7141cda12f@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261120T143000
+DTEND;TZID=America/New_York:20261120T163000
+SUMMARY:You Are Loved - Music For Change
+LOCATION:St Marylebone Parish Church\, NW1 5LT
+DESCRIPTION:Big Gay Out and Song in the City present 'Music for Change' –
+  a fundraising concert for You Are Loved\, supporting their mission to red
+ uce deaths from suicide and drugs in the LGBTQ+ community.\n\nSource: myGw
+ ork\nEvent page: https://mygwork.com/events/you-are-loved-music-for-change
+ \nRSVP: https://mygwork.com/events/you-are-loved-music-for-change
+URL:https://mygwork.com/events/you-are-loved-music-for-change
+CATEGORIES:myGwork
+END:VEVENT
+BEGIN:VEVENT
+UID:c8a6503e0a9faf07162c8788700aeb5f51428e20@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261122T130000
+DTEND;TZID=America/New_York:20261122T160000
+SUMMARY:Out in Tech Austin 🌈 Fall Picnic
+LOCATION:Edward Rendon Sr. Park\, Austin TX
+DESCRIPTION:Source: Out in Tech\nEvent page: https://events.outintech.com/e
+ /out-in-tech-austin-fall-picnic\nRSVP: https://events.outintech.com/e/out-
+ in-tech-austin-fall-picnic
+URL:https://events.outintech.com/e/out-in-tech-austin-fall-picnic
+CATEGORIES:Out in Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:3d79787a808eef2e9d3ecc535f3842dbdb12da0b@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261122T160000
+DTEND;TZID=America/New_York:20261122T180000
+SUMMARY:Pride in Practice Conference (through Nov 24)
+LOCATION:Marvel Stadium\, Melbourne
+DESCRIPTION:In 2026\, we’re thrilled to return on 23 & 24 November at Mar
+ vel Stadium\, Melbourne\, with a program designed to inspire\, challenge\,
+  and empower.\n\nSource: myGwork\nEvent page: https://mygwork.com/events/p
+ ride-in-practice-conference\nRSVP: https://mygwork.com/events/pride-in-pra
+ ctice-conference
+URL:https://mygwork.com/events/pride-in-practice-conference
+CATEGORIES:myGwork
+END:VEVENT
+BEGIN:VEVENT
+UID:e668d6a7a72c5b1e0d18475d708ca0860eb7ff65@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261201T123000
+DTEND;TZID=America/New_York:20261201T170000
+SUMMARY:Pride Wide Art Auction
+LOCATION:The Bomb Factory Art Foundation - Marylebone 206 Marylebone Road L
+ ondon NW1 6JQ
+DESCRIPTION:Celebrate extraordinary artists\, bid in our fundraising Auctio
+ n and learn more about how you can support Pride Wide's vital work.\n\nSou
+ rce: myGwork\nEvent page: https://mygwork.com/events/pride-wide-art-auctio
+ n\nRSVP: https://mygwork.com/events/pride-wide-art-auction
+URL:https://mygwork.com/events/pride-wide-art-auction
+CATEGORIES:myGwork
+END:VEVENT
+BEGIN:VEVENT
 UID:6cfc36f9f14a8e792aecdf354c6dde7cd672a5cc@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261201T183000
 DTEND;TZID=America/New_York:20261201T203000
 SUMMARY:Book Club: 100 Boyfriends & Member Writing Challenge
@@ -335,8 +472,38 @@ URL:https://buildoutalliance.org/upcoming-events/2026-12-ny-book-club-100-b
 CATEGORIES:Build Out Alliance
 END:VEVENT
 BEGIN:VEVENT
+UID:57076b91f39b237aedcdcb5d71ed1b18c8859d6f@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261201T200000
+DTEND;TZID=America/New_York:20261201T210000
+SUMMARY:#book-club: Gay Is Good: The Life and Letters of Gay Rights Pioneer
+  Franklin Kameny
+LOCATION:See event page
+DESCRIPTION:Source: Out in Tech\nEvent page: https://events.outintech.com/e
+ /gayisgood\nRSVP: https://events.outintech.com/e/gayisgood
+URL:https://events.outintech.com/e/gayisgood
+CATEGORIES:Out in Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:0010427f603659f93489558e6be4cf312dd19f6b@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261202T110000
+DTEND;TZID=America/New_York:20261202T120000
+SUMMARY:Panel – Community\, Care\, and Courage: HIV Awareness at Work
+LOCATION:Online
+DESCRIPTION:Mark World AIDS Day by discussing advances in treatment\, comba
+ tting stigma\, and supporting colleagues living with HIV. This session wil
+ l also spotlight healthcare access and global equity.\n\nSource: myGwork\n
+ Event page: https://mygwork.com/events/panel-community-care-and-courage-hi
+ v-awareness-at-work\nRSVP: https://mygwork.com/events/panel-community-care
+ -and-courage-hiv-awareness-at-work
+URL:https://mygwork.com/events/panel-community-care-and-courage-hiv-awarene
+ ss-at-work
+CATEGORIES:myGwork
+END:VEVENT
+BEGIN:VEVENT
 UID:3c1975e1a820e20d2c241604a0efbc5da046ecbd@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261203T130000
 DTEND;TZID=America/New_York:20261203T140000
 SUMMARY:10 Tips for Cyber Resilience for LGBTQ+ Organizations
@@ -350,7 +517,7 @@ CATEGORIES:LGBT Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:1aae47758dd816544e1ebf51a1e618f230d49bd1@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261203T130000
 DTEND;TZID=America/New_York:20261203T150000
 SUMMARY:Unicorns In Tech Afterwork | for the LGBTIQ+ Tech Community
@@ -365,7 +532,7 @@ CATEGORIES:Unicorns in Tech (Berlin)
 END:VEVENT
 BEGIN:VEVENT
 UID:2299d1be08f3877a676c3dba5f757e3d196811df@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261203T170000
 DTEND;TZID=America/New_York:20261203T190000
 SUMMARY:Networking Social for LGBTQ+ Professionals - Ft Lauderdale
@@ -381,7 +548,7 @@ CATEGORIES:Out Professionals
 END:VEVENT
 BEGIN:VEVENT
 UID:7446017aa2fd0379a868e281ecc1e566944d35e8@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261203T180000
 DTEND;TZID=America/New_York:20261203T220000
 SUMMARY:Chicago: Holiday Party & Hat Contest
@@ -400,7 +567,7 @@ CATEGORIES:Build Out Alliance
 END:VEVENT
 BEGIN:VEVENT
 UID:99da932e5b016e8d7094bb2d96d7258a90dc19c0@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261203T180000
 DTEND;TZID=America/New_York:20261203T210000
 SUMMARY:Q4 2026 - QT Connect Meetup Calgary
@@ -418,7 +585,7 @@ CATEGORIES:QueerTech (Calgary)
 END:VEVENT
 BEGIN:VEVENT
 UID:43dde6b55ecb9ac497822bcf9c6d36c7c3f2bd5d@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261203T183000
 DTEND;TZID=America/New_York:20261203T203000
 SUMMARY:Wine Night LGBTQ+ Networking in NYC - Holiday Wines - All Inclusive
@@ -434,7 +601,7 @@ CATEGORIES:Out Professionals
 END:VEVENT
 BEGIN:VEVENT
 UID:a2715ffe6d2de2af74c1cf3638445d898b794717@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261203T210000
 DTEND;TZID=America/New_York:20261203T230000
 SUMMARY:OutPro Los Angeles LGBTQ+ Networking
@@ -449,8 +616,41 @@ URL:https://www.eventbrite.com/e/outpro-los-angeles-lgbtq-networking-ticket
 CATEGORIES:Out Professionals
 END:VEVENT
 BEGIN:VEVENT
+UID:e267d00b637d176d156f59e06c3073284bee79cf@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Queer in AI @ NeurIPS 2026: Workshop (through Dec 13)
+LOCATION:Atlanta\, USA\; Paris\, France\; Sydney\, Australia
+DESCRIPTION:Source: Queer in AI\nEvent page: https://www.queerinai.com/neur
+ ips-2026\nRSVP: on the event page
+URL:https://www.queerinai.com/neurips-2026
+CATEGORIES:Queer in AI
+END:VEVENT
+BEGIN:VEVENT
+UID:07c4cfd48e01961aa0d7a99fede58abb85ab1caf@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261208T110000
+DTEND;TZID=America/New_York:20261208T120000
+SUMMARY:Trans and Nonbinary Inclusion and Safety in the Energy Sector [Dec 
+ 8]
+LOCATION:Online
+DESCRIPTION:Creating safer jobsites means ensuring every worker has the sup
+ port\, equipment\, and respect they need to do their job safely. For trans
+ gender and nonbinary employees\, barriers such as harassment\, inadequate 
+ facilities\, ill-fitting PPE\, or uncertainty about workplace expectations
+  can impact both physical and psychological safety.\n\nSource: Pride at Wo
+ rk Canada\nEvent page: https://qcal.app/event/trans-and-nonbinary-inclusio
+ n-and-safety-in-the-energy-sector-dec-8-toronto-on-ca\nRSVP: https://qcal.
+ app/event/trans-and-nonbinary-inclusion-and-safety-in-the-energy-sector-de
+ c-8-toronto-on-ca
+URL:https://qcal.app/event/trans-and-nonbinary-inclusion-and-safety-in-the-
+ energy-sector-dec-8-toronto-on-ca
+CATEGORIES:Pride at Work Canada
+END:VEVENT
+BEGIN:VEVENT
 UID:ebc03b978339f77e4fdcf507be0932efb5ccb796@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261209T180000
 DTEND;TZID=America/New_York:20261209T200000
 SUMMARY:OutPro LGBTQ+ Networking Holiday Celebration - NYC
@@ -466,7 +666,7 @@ CATEGORIES:Out Professionals
 END:VEVENT
 BEGIN:VEVENT
 UID:f40cf1fb03301936f2e84a19d3f3cf5ab96b62eb@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261210T120000
 DTEND;TZID=America/New_York:20261210T140000
 SUMMARY:Signal Through the Noise December Webinar
@@ -480,7 +680,7 @@ CATEGORIES:Out & Equal
 END:VEVENT
 BEGIN:VEVENT
 UID:1245197c58c69d3c3c52d5e1ef5b1f3cd27d2f35@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261210T200000
 DTEND;TZID=America/New_York:20261210T213000
 SUMMARY:Out in Tech Houston | Monthly Mixer
@@ -495,7 +695,7 @@ CATEGORIES:Out in Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:d343f40ba8e6553af691a6278e4e9b2cfb09c5ab@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261210T210000
 DTEND;TZID=America/New_York:20261211T000000
 SUMMARY:Greater Los Angeles: End of Year Celebration
@@ -513,7 +713,7 @@ CATEGORIES:Build Out Alliance
 END:VEVENT
 BEGIN:VEVENT
 UID:abbdbea802cea0bbd0552575c0490ee3f3a71de4@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261210T210000
 DTEND;TZID=America/New_York:20261210T230000
 SUMMARY:San Francisco Bay Area: Holiday Happy Hour
@@ -529,8 +729,59 @@ URL:https://buildoutalliance.org/upcoming-events/2026-12-sf-holiday-happy-h
 CATEGORIES:Build Out Alliance
 END:VEVENT
 BEGIN:VEVENT
+UID:f11bfdd66d7bdc7be9251cc09f74d3a6f64af3f0@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261214T230000
+DTEND;TZID=America/New_York:20261215T010000
+SUMMARY:Quarterly Global Webinar: APAC Focus
+LOCATION:Online
+DESCRIPTION:Partner Exclusive\, Webinar\n\nSource: Out & Equal\nEvent page:
+  https://outandequal.org/event/q4-global-webinar-apac-focus-2026/\nRSVP: o
+ n the event page
+URL:https://outandequal.org/event/q4-global-webinar-apac-focus-2026/
+CATEGORIES:Out & Equal
+END:VEVENT
+BEGIN:VEVENT
+UID:1282e8df47bb78bf994ff8ab0bbee8270034b4f1@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261215T100000
+DTEND;TZID=America/New_York:20261215T120000
+SUMMARY:Quarterly Global Webinar: LATAM Focus
+LOCATION:Online
+DESCRIPTION:Partner Exclusive\, Webinar\n\nSource: Out & Equal\nEvent page:
+  https://outandequal.org/event/q4-global-webinar-latam-focus-2026/\nRSVP: 
+ on the event page
+URL:https://outandequal.org/event/q4-global-webinar-latam-focus-2026/
+CATEGORIES:Out & Equal
+END:VEVENT
+BEGIN:VEVENT
+UID:ba7fe9a59cb39abfd6823cf0461c546a3709f668@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261215T190000
+DTEND;TZID=America/New_York:20261215T210000
+SUMMARY:Out in Tech NY x Automattic Holiday Social
+LOCATION:Automattic\, 166 Crosby Street\, New York\, NY\, USA
+DESCRIPTION:Source: Out in Tech\nEvent page: https://events.outintech.com/e
+ /out-in-tech-nyc-holiday-social\nRSVP: https://events.outintech.com/e/out-
+ in-tech-nyc-holiday-social
+URL:https://events.outintech.com/e/out-in-tech-nyc-holiday-social
+CATEGORIES:Out in Tech
+END:VEVENT
+BEGIN:VEVENT
+UID:fbd8c8a39decb4c11320ac771527df917ef4008b@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20261215T193000
+DTEND;TZID=America/New_York:20261215T213000
+SUMMARY:Out in Tech Denver | December Monthly Mixer
+LOCATION:Town Hall Collaborative\, 525 Santa Fe Dr\, Denver\, CO\, USA
+DESCRIPTION:Source: Out in Tech\nEvent page: https://events.outintech.com/e
+ /denver122026\nRSVP: https://events.outintech.com/e/denver122026
+URL:https://events.outintech.com/e/denver122026
+CATEGORIES:Out in Tech
+END:VEVENT
+BEGIN:VEVENT
 UID:b296562eda2cc851e75a4d6422837cb76a09af16@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261215T200000
 DTEND;TZID=America/New_York:20261215T220000
 SUMMARY:Out in Tech Austin | Monthly Mixer 2026
@@ -545,7 +796,7 @@ CATEGORIES:Out in Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:816fa6d819f4a032036cd637a4ef880f7221acb0@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261217T120000
 DTEND;TZID=America/New_York:20261217T143000
 SUMMARY:Out in Tech Amsterdam | Third Thursdays
@@ -560,7 +811,7 @@ CATEGORIES:Out in Tech
 END:VEVENT
 BEGIN:VEVENT
 UID:0d6c7e57fde1328a3d856f22e8bc0488f84c4e85@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20261217T180000
 DTEND;TZID=America/New_York:20261217T200000
 SUMMARY:Washington DC: Annual Holiday Celebration
@@ -577,8 +828,94 @@ URL:https://buildoutalliance.org/upcoming-events/2026-12-dc-annual-holiday-
 CATEGORIES:Build Out Alliance
 END:VEVENT
 BEGIN:VEVENT
+UID:40939770e998d56e9abace05e37575f8f28ca065@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20270119T090000
+DTEND;TZID=America/New_York:20270119T100000
+SUMMARY:Training - Neurodiversity 101
+LOCATION:Online
+DESCRIPTION:This webinar provides a foundation of knowledge on neurodiversi
+ ty in the workplace and explores the benefits of developing a neurodiversi
+ ty inclusive workplace environment.\n\nSource: myGwork\nEvent page: https:
+ //mygwork.com/events/training-neurodiversity-101\nRSVP: https://mygwork.co
+ m/events/training-neurodiversity-101
+URL:https://mygwork.com/events/training-neurodiversity-101
+CATEGORIES:myGwork
+END:VEVENT
+BEGIN:VEVENT
+UID:6a29cca493a8694d319267df5c1754b79970e992@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20270121T110000
+DTEND;TZID=America/New_York:20270121T120000
+SUMMARY:Workshop - Performing Under Pressure Masterclass
+LOCATION:Online
+DESCRIPTION:An engaging\, story-led session on the science of stress: what 
+ happens to the nervous system under pressure\, and how it affects inclusiv
+ e behavior\, decision-making\, communication\, creativity\, team cohesion\
+ , etc. Participants leave with simple tools to regulate their nervous syst
+ em\, followed by a guid...\n\nSource: myGwork\nEvent page: https://mygwork
+ .com/events/workshop-performing-under-pressure-masterclass\nRSVP: https://
+ mygwork.com/events/workshop-performing-under-pressure-masterclass
+URL:https://mygwork.com/events/workshop-performing-under-pressure-mastercla
+ ss
+CATEGORIES:myGwork
+END:VEVENT
+BEGIN:VEVENT
+UID:8a10d4616ea689ecb1986c3af70942e880188570@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20270128T110000
+DTEND;TZID=America/New_York:20270128T120000
+SUMMARY:Level 2: ERG Leadership Essentials - Employee Resource Group Leader
+ ship Programme
+LOCATION:Online
+DESCRIPTION:Core Focus: Strategic planning\, executive engagement\, and mea
+ surable impact\n\nSource: myGwork\nEvent page: https://mygwork.com/events/
+ level-2-erg-leadership-essentials-employee-resource-group-leadership-progr
+ amme\nRSVP: https://mygwork.com/events/level-2-erg-leadership-essentials-e
+ mployee-resource-group-leadership-programme
+URL:https://mygwork.com/events/level-2-erg-leadership-essentials-employee-r
+ esource-group-leadership-programme
+CATEGORIES:myGwork
+END:VEVENT
+BEGIN:VEVENT
+UID:5bd7ae0306f2d1737b7c5149cd0b10d9073b3df0@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20270210T030000
+DTEND;TZID=America/New_York:20270210T040000
+SUMMARY:Panel - Lunar New Year 2027: Asian\, LGBTQ+ and Out at Work
+LOCATION:Online
+DESCRIPTION:This online panel\, on Wednesday 10 February 2027\, marks Lunar
+  New Year. Asian LGBTQ+ panellists discuss being out at work but not at ho
+ me\, taking leave for a holiday that is not in the company calendar\, and 
+ marking the occasion without reducing it to decoration.\n\nSource: myGwork
+ \nEvent page: https://mygwork.com/events/panel-lunar-new-year-2027-asian-l
+ gbtq-and-out-at-work\nRSVP: https://mygwork.com/events/panel-lunar-new-yea
+ r-2027-asian-lgbtq-and-out-at-work
+URL:https://mygwork.com/events/panel-lunar-new-year-2027-asian-lgbtq-and-ou
+ t-at-work
+CATEGORIES:myGwork
+END:VEVENT
+BEGIN:VEVENT
+UID:145aa01be055a32201a610da1019c6c84d5c1c43@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20270211T110000
+DTEND;TZID=America/New_York:20270211T120000
+SUMMARY:Innovation & Inclusion: LGBTQ+ Pioneers & Progress Quiz
+LOCATION:Online
+DESCRIPTION:This online quiz\, on Thursday 11 February 2027\, celebrates LG
+ BTQ+ innovation. Teams and individuals answer questions on LGBTQ+ pioneers
+ \, research and workplace progress\, followed by a short discussion of wha
+ t sits behind the answers.\n\nSource: myGwork\nEvent page: https://mygwork
+ .com/events/innovation-inclusion-lgbtq-pioneers-progress-quiz-1\nRSVP: htt
+ ps://mygwork.com/events/innovation-inclusion-lgbtq-pioneers-progress-quiz-
+ 1
+URL:https://mygwork.com/events/innovation-inclusion-lgbtq-pioneers-progress
+ -quiz-1
+CATEGORIES:myGwork
+END:VEVENT
+BEGIN:VEVENT
 UID:e56d60a3695d903734c391c92aeae74d9800009f@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20270212T123000
 DTEND;TZID=America/New_York:20270212T143000
 SUMMARY:2027 APAC LGBTQ+ Workplace Inclusion Forum
@@ -591,7 +928,7 @@ CATEGORIES:Out & Equal
 END:VEVENT
 BEGIN:VEVENT
 UID:c2f4c09a13a37c0e2a0d287fb552b4603ec6a67f@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20270315T083000
 DTEND;TZID=America/New_York:20270315T103000
 SUMMARY:2027 Leadership Forum
@@ -603,7 +940,7 @@ CATEGORIES:Out & Equal
 END:VEVENT
 BEGIN:VEVENT
 UID:1c16221a4b492156e74af285331cbcb25d8629a6@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270608
 SUMMARY:LWT Summit (Lesbians Who Tech & Allies) (through Jun 9)
@@ -614,8 +951,68 @@ URL:https://lwtsquad.com/
 CATEGORIES:Lesbians Who Tech & Allies
 END:VEVENT
 BEGIN:VEVENT
+UID:f1f93aa0dbd761330ef975b49af24f9436a0b0a6@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20270607T123000
+DTEND;TZID=America/New_York:20270607T203000
+SUMMARY:2027 Bay Area SF/Oakland Camp (through Jun 18)
+LOCATION:Multiple Locations\, SF Bay Area
+DESCRIPTION:Bay Area\, CA Youth are encouraged to apply to this free summer
+  tech day camp for LGBT+ youth and allies. No prior tech experience needed
+ .\n\nSource: Maven Youth\nEvent page: https://www.mavenyouth.org/event-det
+ ails/2027-bay-area-sf-oakland-camp\nRSVP: https://www.mavenyouth.org/event
+ -details/2027-bay-area-sf-oakland-camp
+URL:https://www.mavenyouth.org/event-details/2027-bay-area-sf-oakland-camp
+CATEGORIES:Maven Youth
+END:VEVENT
+BEGIN:VEVENT
+UID:6c00e9367dd03eb09bc9360d21f89c990e3a627c@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20270711T103000
+DTEND;TZID=America/New_York:20270711T173000
+SUMMARY:2027 Online Summer Tech Camp (through Jul 23)
+LOCATION:Online
+DESCRIPTION:LGBT+ Youth anywhere in the USA are encouraged to apply to this
+  free summer tech camp for LGBT+ youth and allies. No prior tech experienc
+ e needed.\n\nSource: Maven Youth\nEvent page: https://www.mavenyouth.org/e
+ vent-details/2027-online-summer-tech-camp\nRSVP: https://www.mavenyouth.or
+ g/event-details/2027-online-summer-tech-camp
+URL:https://www.mavenyouth.org/event-details/2027-online-summer-tech-camp
+CATEGORIES:Maven Youth
+END:VEVENT
+BEGIN:VEVENT
+UID:42ec7f03ad38bce651e34b161845a18bc8cc19be@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20270712T103000
+DTEND;TZID=America/New_York:20270712T183000
+SUMMARY:2027 Austin Summer Tech Camp (through Jul 23)
+LOCATION:Multiple Locations\, Austin TX Area
+DESCRIPTION:Austin Area Youth are encouraged to apply to this free summer t
+ ech camp for LGBT+ youth and allies. No prior tech experience needed.\n\nS
+ ource: Maven Youth\nEvent page: https://www.mavenyouth.org/event-details/2
+ 027-austin-summer-tech-camp\nRSVP: https://www.mavenyouth.org/event-detail
+ s/2027-austin-summer-tech-camp
+URL:https://www.mavenyouth.org/event-details/2027-austin-summer-tech-camp
+CATEGORIES:Maven Youth
+END:VEVENT
+BEGIN:VEVENT
+UID:0ac223b69f2e41a808e063c9885fff9ddc126532@combined.philly-calendars
+DTSTAMP:20261117T184315Z
+DTSTART;TZID=America/New_York:20270802T103000
+DTEND;TZID=America/New_York:20270802T183000
+SUMMARY:2027 NYC Summer Camp (through Aug 13)
+LOCATION:Multiple Locations\, Greater NYC Area
+DESCRIPTION:NYC Area Youth are encouraged to apply to this free summer tech
+  day camp for LGBT+ youth and allies. No prior tech experience needed.\n\n
+ Source: Maven Youth\nEvent page: https://www.mavenyouth.org/event-details/
+ 2027-nyc-summer-camp\nRSVP: https://www.mavenyouth.org/event-details/2027-
+ nyc-summer-camp
+URL:https://www.mavenyouth.org/event-details/2027-nyc-summer-camp
+CATEGORIES:Maven Youth
+END:VEVENT
+BEGIN:VEVENT
 UID:0fb7993be24165788b2ec80e2453c55c997f76dc@combined.philly-calendars
-DTSTAMP:20261117T174215Z
+DTSTAMP:20261117T184315Z
 DTSTART;TZID=America/New_York:20271011T110000
 DTEND;TZID=America/New_York:20271011T130000
 SUMMARY:2027 Workplace Summit

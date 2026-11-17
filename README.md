@@ -18,7 +18,7 @@ A GitHub Actions workflow rebuilds the feeds every 6 hours and publishes them vi
 | Bartram's Garden | `https://sh3ll3hs.github.io/philly-calendars/bartrams.ics` | `tribe_to_ics.py bartrams` — same method (the site's own `?ical=1` link triggers an "insecure connection" warning in Apple Calendar) |
 | Free Library of Philadelphia | `https://sh3ll3hs.github.io/philly-calendars/flp.ics` | `flp_to_ics.py` — the library's per-branch RSS feeds (the calendar site itself is behind a Cloudflare challenge); accumulates daily |
 | Everything else, combined | `https://sh3ll3hs.github.io/philly-calendars/combined.ics` | `combined_to_ics.py` — 160 sites listed in `combined_sources.json` (museums, parks, bars, galleries, theatres, neighborhood groups, Eventbrite organizers), each read by the best method it offers; see "Combined feed" below |
-| Queer Tech Events (LGBTQ+ career, tech and business organizations, nationwide) | `https://sh3ll3hs.github.io/philly-calendars/queertech.ics` | `combined_to_ics.py --sources queertech_sources.json` — Out in Tech, Out Professionals, Independence Business Alliance, TransWork, StartOut, Out & Equal, Build Out Alliance, LGBT Tech, NGLCC, QueerTech, Unicorns in Tech, Queer Design Club, Out Leadership, Reaching Out MBA, Out for Undergrad, Lesbians Who Tech; every event has its place, its page and a sign-up line; see "Queer Tech Events feed" below |
+| Queer Tech Events (LGBTQ+ career, tech and business organizations, nationwide) | `https://sh3ll3hs.github.io/philly-calendars/queertech.ics` | `combined_to_ics.py --sources queertech_sources.json` — Out in Tech, Out Professionals, Independence Business Alliance, TransWork, StartOut, Out & Equal, Build Out Alliance, LGBT Tech, NGLCC, QueerTech, Unicorns in Tech, Queer Design Club, Out Leadership, Reaching Out MBA, Out for Undergrad, Lesbians Who Tech, Pride at Work Canada, Queer in AI, Maven Youth, Point Foundation, myGwork, oSTEM; every event has its place, its page and a sign-up line; see "Queer Tech Events feed" below |
 
 Checked and not worth converting: Northeast Times community calendar (prose, last updated Jan 2025),
 Sound Advice newsletter (last issue June 2025), Visit Philly (editorial, stale dates),
@@ -77,7 +77,7 @@ One feed of events from LGBTQ+ organizations that work on jobs and careers in te
 
 | Source | Read from | Notes |
 |---|---|---|
-| Out in Tech | outintech.com/events/ and each event page (`qt_outintech`) | only the events the page lists in its own HTML; the Accelevents widget on the same page is drawn by script and cannot be read |
+| Out in Tech | outintech.com/events/ and the Accelevents portal (`accelevents.com/o/OutinTech` / `events.outintech.com`) (`qt_outintech`) | merges WordPress event pages with SSR cards from the Accelevents organizer portal |
 | Out Professionals, StartOut (two organizer pages), Unicorns in Tech, Queer Design Club | Eventbrite organizer pages (`eventbrite`, `"anywhere": true`) | the next 12 events of each organizer |
 | Independence Business Alliance | the event cards on thinkiba.com (`qt_thinkiba`) | the few next events; the members calendar answers 403 to scripts |
 | TransWork | transwork.org/events and each event page (`qt_transwork`) | Philadelphia job-search and networking events |
@@ -87,8 +87,13 @@ One feed of events from LGBTQ+ organizations that work on jobs and careers in te
 | QueerTech (Montréal, Toronto, Calgary, Edmonton, Vancouver) | each Meetup group's events page (`qt_meetup`) | Meetup's calendar files leave out the venue |
 | Out Leadership | outleadership.com/events/ (`qt_outleadership`) | dates only: the site gives no time zone |
 | Reaching Out MBA, Out for Undergrad, Lesbians Who Tech & Allies | conference pages with a heading, a date line and a place (`qt_dateline`) | all-day; only dates written with their year |
+| Pride at Work Canada | syndicated Schema.org `Event` JSON-LD on `qcal.app` (`qt_qcal`) | respects `prideatwork.ca`'s `robots.txt` by reading its public syndicated listings on QCal |
+| Queer in AI | News block on `queerinai.com` and `/neurips-2026` (`qt_queerinai`) | conference workshops and socials |
+| Maven Youth | Wix `/summer-camps` and `/event-details/` pages (`qt_mavenyouth`) | LGBTQ+ youth tech summer camps |
+| Point Foundation | `/community/events` and event detail pages (`qt_pointfoundation`) | scholar and community events (National Leadership Conference, graduations, homecoming) |
+| myGwork, oSTEM | `mygwork.com/en/events` (`qt_mygwork`), `ostem.org/events/event_list.asp` and Atomcal `.ics` schedule hub (`qt_ostem`) | connected via `curl_cffi` TLS impersonation (`chrome120`); oSTEM currently has 0 upcoming events posted, ready for future postings |
 
-Looked at and left out: oSTEM, myGwork and Campus Pride (403 to scripts); Pride at Work Canada (its robots.txt turns away automated agents by name); the Consortium of Higher Education LGBT Resource Professionals (its calendar export answers 403); Point Foundation, Gaingels, Pride in STEM, Trans Can Work, TransTech Social, Maven Youth, Out to Innovate, Queer in AI, 500 Queer Scientists, LGBTQ Leaders in Higher Education and the LGBTQ in Technology Slack (no dated upcoming events on a page a script can read, as of November 2026). To add one later, add an entry to `queertech_sources.json` and test it with `--only <id> --force`.
+Looked at and left out: Campus Pride (403 to scripts, no upcoming events); the Consortium of Higher Education LGBT Resource Professionals (its calendar export answers 403); Gaingels, Pride in STEM, Trans Can Work, TransTech Social, Out to Innovate, 500 Queer Scientists, LGBTQ Leaders in Higher Education and the LGBTQ in Technology Slack (no dated upcoming events on a page a script can read, as of November 2026). To add one later, add an entry to `queertech_sources.json` and test it with `--only <id> --force`.
 
 ## Venue scrapers (`scrapers/`)
 
