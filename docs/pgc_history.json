@@ -1836,7 +1836,7 @@
   "desc": "Philly's sexiest men are dancing at Stir in Rittenhouse on Sundays starting at 5pm for Happy Hour.",
   "end": "2026-11-22T22:00:00",
   "id": 45036,
-  "performers": "Blake Banx, Chase",
+  "performers": "Blake Banx, El Papi Chase",
   "start": "2026-11-22T17:00:00",
   "ticket": "",
   "time": "12:00 PM \u2013 5:00 PM",
@@ -2991,5 +2991,24 @@
   "title": "Arcila-Adams Trans Day of Wellness & Remembrance",
   "url": "https://phillygaycalendar.com/events/arcila-adams-trans-day-of-wellness-remembrance/",
   "venue": "Church of St Luke and the Epiphany"
+ },
+ "46336-2026-11-22": {
+  "address": "319 N 11th St, Philadelphia, PA 19107",
+  "all_day": false,
+  "cats": [
+   "Burlesque",
+   "Drag"
+  ],
+  "date": "2026-11-22",
+  "desc": "Dim the lights, grab your popcorn, and get ready to turn up the heat. Netflix & Chill: A Cinema Themed Cabaret is a movie-obsessed boylesque and drag spectacular that takes your favorite silver screen moments and gives them a tantalizing,\u2026",
+  "end": "2026-11-22T23:00:00",
+  "id": 46336,
+  "performers": "Ariel Versace, El Papi Chase",
+  "start": "2026-11-22T20:00:00",
+  "ticket": "https://www.tickettailor.com/events/velvetwhip/2381888",
+  "time": "3:00 PM \u2013 6:00 PM",
+  "title": "Chase The Night Presents: Netflix & Chill \u2013 A Cinema Themed Cabaret",
+  "url": "https://phillygaycalendar.com/events/chase-the-night-presents-netflix-chill-a-cinema-themed-cabaret/",
+  "venue": "Velvet Whip"
  }
 }
