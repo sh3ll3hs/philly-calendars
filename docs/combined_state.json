@@ -108,6 +108,18 @@
 ],
 "fetched": "2026-11-15"
 },
+"https://muralarts.org/events/sit-with-it-opening-reception/": {
+"events": [
+{
+"all_day": false,
+"desc": "Join Forman Arts Initiative, Mural Arts Philadelphia, and the Free Library of Philadelphia for the opening reception of Karyn Olivier\u2019s Sit With It, a site-specific sculpture and video projection incorporating the first lines from historically-banned books. The sculpture, a bleacher-style staircase of books, mimics and inverts the Parkway Central\u2026",
+"end": "2026-12-09T20:00:00",
+"loc": "Parkway Central Library 1901 Vine St, Philadelphia, PA 19103",
+"start": "2026-12-09T18:00:00"
+}
+],
+"fetched": "2026-11-18"
+},
 "https://muralarts.org/events/tacony-labs-third-annual-knit-a-thon/": {
 "events": [
 {
@@ -2151,6 +2163,13 @@
 ],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/94-wip-sports-radio": {
+"events": [],
+"fetched": "2026-11-18",
+"lastmod": "2026-06-16T20:50:53Z",
+"occ": [],
+"read": "2026-11-18"
+},
 "https://www.philamuseum.org/events/alter-ego-family-festival": {
 "events": [
 {
@@ -2584,6 +2603,13 @@
 "lastmod": "2026-09-03T15:08:00Z",
 "occ": [],
 "read": "2026-11-17"
+},
+"https://www.philamuseum.org/events/artist-talk-judith-schaechter": {
+"events": [],
+"fetched": "2026-11-18",
+"lastmod": "2026-07-06T14:33:07Z",
+"occ": [],
+"read": "2026-11-18"
 },
 "https://www.philamuseum.org/events/artists-on-art-joy-harjo": {
 "events": [],
@@ -3036,6 +3062,13 @@
 "lastmod": "2026-09-11T12:58:35Z",
 "occ": [],
 "read": "2026-11-17"
+},
+"https://www.philamuseum.org/events/epic-iconography": {
+"events": [],
+"fetched": "2026-11-18",
+"lastmod": "2026-06-16T20:25:42Z",
+"occ": [],
+"read": "2026-11-18"
 },
 "https://www.philamuseum.org/events/exhibition-tour-rodins-hands": {
 "events": [
@@ -3795,6 +3828,35 @@
 "occ": [],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/little-art-kids": {
+"events": [
+{
+"all_day": false,
+"desc": "Activities\n\nToddlers and their grownups get to know the museum through art-making and creative play. Space is limited; first-come, first-served.",
+"end": "2026-11-23T11:15:00",
+"key": "https://www.philamuseum.org/events/little-art-kids|2026-11-23T15:30:00.000Z",
+"loc": "Philadelphia Museum of Art (Main Building, Classrooms 1 & 2), 2600 Benjamin Franklin Parkway, Philadelphia, PA 19130",
+"source": "Philadelphia Museum of Art",
+"src": "philamuseum",
+"start": "2026-11-23T10:30:00",
+"title": "Little Art Kids",
+"url": "https://www.philamuseum.org/events/little-art-kids?start=2026-11-23T15:30:00.000Z&end=2026-11-23T16:15:00.000Z"
+}
+],
+"fetched": "2026-11-18",
+"lastmod": "2026-07-09T15:15:02Z",
+"occ": [
+[
+"2026-11-23T10:30:00",
+"2026-11-23T11:15:00"
+],
+[
+"2026-12-14T10:30:00",
+"2026-12-14T11:15:00"
+]
+],
+"read": "2026-11-18"
+},
 "https://www.philamuseum.org/events/make-some-noise-family-festival": {
 "events": [],
 "fetched": "2026-11-18",
@@ -4166,6 +4228,20 @@
 ],
 "read": "2026-11-18"
 },
+"https://www.philamuseum.org/events/one-day-cake-ages-5-6": {
+"events": [],
+"fetched": "2026-11-18",
+"lastmod": "2026-07-09T13:07:26Z",
+"occ": [],
+"read": "2026-11-18"
+},
+"https://www.philamuseum.org/events/one-day-clay-ages-7-8": {
+"events": [],
+"fetched": "2026-11-18",
+"lastmod": "2026-07-01T14:32:19Z",
+"occ": [],
+"read": "2026-11-18"
+},
 "https://www.philamuseum.org/events/one-day-clay-ages-9-10": {
 "events": [],
 "fetched": "2026-11-18",
@@ -4180,12 +4256,33 @@
 "occ": [],
 "read": "2026-11-18"
 },
+"https://www.philamuseum.org/events/one-day-fabric-ages-7-8": {
+"events": [],
+"fetched": "2026-11-18",
+"lastmod": "2026-07-07T13:11:11Z",
+"occ": [],
+"read": "2026-11-18"
+},
+"https://www.philamuseum.org/events/patchwork-painted-family-festival": {
+"events": [],
+"fetched": "2026-11-18",
+"lastmod": "2026-07-10T14:56:08Z",
+"occ": [],
+"read": "2026-11-18"
+},
 "https://www.philamuseum.org/events/philly-sensory-theatre-quack": {
 "events": [],
 "fetched": "2026-11-18",
 "lastmod": "2026-10-27T16:40:33Z",
 "occ": [],
 "read": "2026-11-15"
+},
+"https://www.philamuseum.org/events/pop-up-delectable-displays": {
+"events": [],
+"fetched": "2026-11-18",
+"lastmod": "2026-07-07T14:49:46Z",
+"occ": [],
+"read": "2026-11-18"
 },
 "https://www.philamuseum.org/events/preview-party-craft-show": {
 "events": [],
@@ -4198,6 +4295,13 @@
 "events": [],
 "fetched": "2026-11-18",
 "lastmod": "2026-07-13T17:08:43Z",
+"occ": [],
+"read": "2026-11-18"
+},
+"https://www.philamuseum.org/events/rooms-revolution-tour": {
+"events": [],
+"fetched": "2026-11-18",
+"lastmod": "2026-06-26T16:04:02Z",
 "occ": [],
 "read": "2026-11-18"
 },
@@ -4402,6 +4506,13 @@
 "lastmod": "2026-08-27T13:10:49Z",
 "occ": [],
 "read": "2026-11-17"
+},
+"https://www.philamuseum.org/events/stars-stripes-sprinkles-festival": {
+"events": [],
+"fetched": "2026-11-18",
+"lastmod": "2026-07-02T20:06:41Z",
+"occ": [],
+"read": "2026-11-18"
 },
 "https://www.philamuseum.org/events/sunday-best-lunch-learn": {
 "events": [],
@@ -4626,6 +4737,13 @@
 ],
 "read": "2026-11-15"
 },
+"https://www.philamuseum.org/events/tours-250-climate-crisis": {
+"events": [],
+"fetched": "2026-11-18",
+"lastmod": "2026-06-18T13:57:57Z",
+"occ": [],
+"read": "2026-11-18"
+},
 "https://www.philamuseum.org/events/tours-250-lenape": {
 "events": [],
 "fetched": "2026-11-18",
@@ -4766,7 +4884,7 @@
 "fetched": "2026-11-15"
 }
 },
-"last_run": "2026-11-18T07:43:40.310805+00:00",
+"last_run": "2026-11-18T19:19:25.447405+00:00",
 "sources": {
 "2ndstfestival": {
 "checked": "2026-11-18",
@@ -4806,12 +4924,12 @@
 "awburyarboretum": {
 "checked": "2026-11-18",
 "error": "",
-"events": 23
+"events": 24
 },
 "barnes": {
 "checked": "2026-11-18",
 "error": "",
-"events": 19
+"events": 6
 },
 "beautyiscultureevents": {
 "checked": "2026-11-18",
@@ -4961,7 +5079,7 @@
 "eventbrite_arthurrossgalleryunive": {
 "checked": "2026-11-18",
 "error": "",
-"events": 2
+"events": 1
 },
 "eventbrite_associationforpublicar": {
 "checked": "2026-11-18",
@@ -5076,7 +5194,7 @@
 "eventbrite_thewelcometable": {
 "checked": "2026-11-18",
 "error": "",
-"events": 1
+"events": 5
 },
 "eventbrite_wissahickonec": {
 "checked": "2026-11-18",
@@ -5131,7 +5249,7 @@
 "glenfoerd": {
 "checked": "2026-11-18",
 "error": "",
-"events": 10
+"events": 11
 },
 "hecphila": {
 "checked": "2026-11-18",
@@ -5150,7 +5268,7 @@
 },
 "hive76": {
 "checked": "2026-11-18",
-"error": "error: RetryError: HTTPSConnectionPool(host='www.hive76.org', port=443): Max retries exceeded with url: /wp-json/event-feed-for-eventbrite/",
+"error": "error: ConnectionError: HTTPSConnectionPool(host='www.hive76.org', port=443): Max retries exceeded with url: /wp-json/event-feed-for-eventbrite/",
 "events": 0
 },
 "icaphila": {
@@ -5236,7 +5354,7 @@
 "luma_wisecommunityevents": {
 "checked": "2026-11-18",
 "error": "",
-"events": 11
+"events": 9
 },
 "manayunkbrewingco": {
 "checked": "2026-11-18",
@@ -5251,7 +5369,7 @@
 "milkboy": {
 "checked": "2026-11-18",
 "error": "",
-"events": 43
+"events": 47
 },
 "misaludwellness": {
 "checked": "2026-11-18",
@@ -5336,7 +5454,7 @@
 "pennmuseum": {
 "checked": "2026-11-18",
 "error": "",
-"events": 13
+"events": 14
 },
 "philaathenaeum": {
 "checked": "2026-11-18",
@@ -5351,7 +5469,7 @@
 "philamuseum": {
 "checked": "2026-11-18",
 "error": "",
-"events": 376
+"events": 378
 },
 "philly700": {
 "checked": "2026-11-18",
@@ -5371,7 +5489,7 @@
 "phillyjazzscene": {
 "checked": "2026-11-18",
 "error": "",
-"events": 0
+"events": 234
 },
 "phillyorchards": {
 "checked": "2026-11-18",
@@ -5511,7 +5629,7 @@
 "therailpark": {
 "checked": "2026-11-18",
 "error": "",
-"events": 0
+"events": 2
 },
 "therotunda": {
 "checked": "2026-11-18",
@@ -5556,7 +5674,7 @@
 "weaverswayfarms": {
 "checked": "2026-11-18",
 "error": "",
-"events": 9
+"events": 12
 },
 "westphillytoollibrary": {
 "checked": "2026-11-18",

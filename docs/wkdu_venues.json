@@ -16,6 +16,7 @@
  "/venue/47080": "2341 N Front St, Philadelphia PA",
  "/venue/49136": "",
  "/venue/49200": "923 North Watts Street, Philadelphia PA 19123",
+ "/venue/49862": "",
  "/venue/51124": "607 Bainbridge Street, Philadelphia PA 19147",
  "/venue/56298": "1542 East Montgomery Avenue, Philadelphia PA 19125",
  "/venue/57542": "3142 Richmond St., Philadelphia PA 19134",
@@ -29,6 +30,7 @@
  "/venue/62912": "205 Bainbridge St, Philadelphia PA 19147",
  "/venue/63008": "2321 Emerald St., Philadelphia PA 19125",
  "/venue/66488": "858 N Broad St, Philadelphia PA 19130",
+ "/venue/66501": "304 South St,, Philadelphia PA 19147",
  "/venue/66917": "2560 Haverford Rd, Ardmore PA 19003",
  "/venue/67212": "4740 Baltimore Ave., Philadelphia PA",
  "/venue/67616": "990 Filbert Street, Philadelphia PA 19107",
@@ -41,5 +43,7 @@
  "/venue/71940": "3680 Walnut Street, Philadelphia PA 19104",
  "/venue/72086": "3562 Frankford Avenue, Philadelphia PA 19104",
  "/venue/72172": "13639 Philmont Ave, Philadelphia PA 19116",
- "/venue/72217": "1837 N. Broad Street, Philadelphia PA 19122"
+ "/venue/72217": "1837 N. Broad Street, Philadelphia PA 19122",
+ "/venue/72250": "1700 Spring Garden Street, Philadelphia PA 19130",
+ "/venue/72272": "1728 Passyunk Ave, Philadelphia PA 19148"
 }

@@ -3061,7 +3061,7 @@
   "desc": "Dim the lights, grab your popcorn, and get ready to turn up the heat. Netflix & Chill: A Cinema Themed Cabaret is a movie-obsessed boylesque and drag spectacular that takes your favorite silver screen moments and gives them a tantalizing,\u2026",
   "end": "2026-11-22T23:00:00",
   "id": 46336,
-  "performers": "Ariel Versace, El Papi Chase",
+  "performers": "Ariel Versace, El Papi Chase, Toy, Turnpyke",
   "start": "2026-11-22T20:00:00",
   "ticket": "https://www.tickettailor.com/events/velvetwhip/2381888",
   "time": "3:00 PM \u2013 6:00 PM",
@@ -3087,5 +3087,44 @@
   "title": "EMERGE Vol. 2: A Free Dance Party with New Talent",
   "url": "https://phillygaycalendar.com/events/emerge-vol-2-a-free-dance-party-with-new-talent/",
   "venue": "Secrets Lounge"
+ },
+ "46373-2026-11-18": {
+  "address": "334 South St, Philadelphia, PA 19147, USA",
+  "all_day": false,
+  "cats": [
+   "Celebrity",
+   "Lesbian",
+   "Performance"
+  ],
+  "date": "2026-11-18",
+  "desc": "Phoebe Judge, the host and co-creator of the hit true crime podcast Criminal, brings her new live show, Don't Worry, to Philadelphia. This intimate, darkly funny stage show is built around personal stories. Phoebe tells the story of growing up\u2026",
+  "end": "2026-11-18T22:00:00",
+  "id": 46373,
+  "performers": "",
+  "start": "2026-11-18T20:00:00",
+  "ticket": "https://www.ticketmaster.com/criminal-presents-dont-worry-with-phoebe-philadelphia-pennsylvania-11-18-2026/event/02006531AEC70A21",
+  "time": "3:00 PM",
+  "title": "Criminal Presents: Don\u2019t Worry with Phoebe Judge",
+  "url": "https://phillygaycalendar.com/events/criminal-presents-dont-worry-with-phoebe-judge/",
+  "venue": "TLA"
+ },
+ "46376-2026-11-22": {
+  "address": "1009 Canal St, Philadelphia, PA, USA",
+  "all_day": false,
+  "cats": [
+   "Celebrity",
+   "Performance"
+  ],
+  "date": "2026-11-22",
+  "desc": "Indie band Tiny Habits plays Brooklyn Bowl Philadelphia on their current tour. Expect a night of heartfelt, honest songs in a relaxed music venue.LGBT+ connection: Band member Judah Mayowa talks openly about his queerness in interviews and in the band's\u2026",
+  "end": "2026-11-22T21:30:00",
+  "id": 46376,
+  "performers": "",
+  "start": "2026-11-22T19:30:00",
+  "ticket": "https://www.ticketmaster.com/tiny-habits-philadelphia-pennsylvania-11-22-2026/event/020064C4F5E8C285",
+  "time": "2:30 PM",
+  "title": "Tiny Habits",
+  "url": "https://phillygaycalendar.com/events/tiny-habits/",
+  "venue": "Brooklyn Bowl"
  }
 }

@@ -221,7 +221,7 @@
 }
 }
 },
-"last_run": "2026-11-18T07:44:28.548380+00:00",
+"last_run": "2026-11-18T19:21:50.134081+00:00",
 "sources": {
 "qt_buildout": {
 "checked": "2026-11-18",
@@ -266,7 +266,7 @@
 "qt_outandequal": {
 "checked": "2026-11-18",
 "error": "",
-"events": 8
+"events": 7
 },
 "qt_outintech": {
 "checked": "2026-11-18",
