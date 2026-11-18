@@ -11,12 +11,6 @@
   "time": "20:00",
   "url": "https://www.tixr.com/groups/undergroundarts/events/anna-von-hausswolff-179765"
  },
- "494024": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:30",
-  "url": "https://tickets.citywinery.com/event/joshua-radin-pucl9c?utm_source=google&amp;utm_medium=ppc&amp;_gl=1*19pu41*_gcl_aw*R0NMLjE3NzU0OTE3MDAuQ2owS0NRandzODNPQmhENEFSSXNBQ2JsajE4X0F1dlVVcDJJRkVHRjFEbVdwTzdHNU8wVk5MTkZHZW9laEVBYVhycS1fZ2Nwekc2Q3RORWFBdmg2RUFMd193Y0I.*_gcl_au*MTA3MzQ3NDk4My4xNzc1NDkxNzAw*_ga*MTI4MzYyNzI0Mi4xNzc1NDkxNzAw*_ga_4QGPZ6P9NP*czE3NzU0OTE2OTkkbzEkZzEkdDE3NzU0OTI4NjEkajYkbDAkaDE2NzcwMDU0NTQ."
- },
  "494117": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -353,12 +347,6 @@
   "time": "20:00",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/tommy-conwell-the-young-rumblers-169960"
  },
- "513210": {
-  "checked": "2026-11-08",
-  "source": "venue-site:brooklynbowl.com (name match)",
-  "time": "20:00",
-  "url": "https://www.brooklynbowl.com/philadelphia/events/detail/pi-erre-bourne-made-in-paris-vv17fz_fgkdaqhqb"
- },
  "513212": {
   "checked": "2026-11-08",
   "source": "venue-site:brooklynbowl.com (name match)",
@@ -376,12 +364,6 @@
   "source": "venue-site:brooklynbowl.com (name match)",
   "time": "19:30",
   "url": "https://www.brooklynbowl.com/philadelphia/events/detail/tiny-habits-vvg1fz_gkgbg1a"
- },
- "513294": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:30",
-  "url": "https://www.chrisjazzcafe.com/events/145647"
  },
  "513297": {
   "checked": "2026-11-08",
@@ -749,12 +731,6 @@
   "time": null,
   "url": "http://www.dawsonstreetpub.com"
  },
- "514052": {
-  "checked": "2026-11-08",
-  "source": "venue-site:r5productions.com",
-  "time": "20:00",
-  "url": "https://www.etix.com/ticket/p/94797403/marci-philadelphia-philamoca?partner_id=100&amp;_gl=1*1ovxcz4*_ga*MTEzMjg2NDI5NC4xNzg0MzAwODUw*_ga_6T50PMF8HM*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzIxNjIkajUzJGwwJGgxMzIxMjcwMDg3*_ga_20QQYQHBVX*czE3OTI1Mjc0NzIkbzgkZzEkdDE3OTI1MzIxNjIkajUzJGwwJGgxNDQ3OTM1OTIw"
- },
  "514054": {
   "checked": "2026-11-08",
   "source": "venue-site:r5productions.com",
@@ -917,12 +893,6 @@
   "time": "19:30",
   "url": "https://harmoniehall.space/event/the-suitcase-junket/"
  },
- "514516": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "20:00",
-  "url": "https://johnnybrendas.com/event/bailen-2/johnny-brendas/philadelphia-pennsylvania/"
- },
  "514518": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -1019,12 +989,6 @@
   "time": "20:00",
   "url": "https://www.ticketmaster.com/event/02006554AEC28578"
  },
- "514710": {
-  "checked": "2026-11-08",
-  "source": "venue-site:milkboyphilly.com",
-  "time": "20:00",
-  "url": "https://www.tixr.com/groups/milkboy/events/austin-giorgio-194895"
- },
  "514712": {
   "checked": "2026-11-08",
   "source": "venue-site:milkboyphilly.com",
@@ -1103,12 +1067,6 @@
   "time": "20:00",
   "url": "https://newhopewinery.com/event/dar-williams/"
  },
- "514772": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:00",
-  "url": "https://www.ticketweb.com/event/girl-tones-jt-loux-nikki-lopez-philly-tickets/15035273"
- },
  "514774": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -1126,12 +1084,6 @@
   "source": "jsonld",
   "time": "19:00",
   "url": "https://www.ticketweb.com/event/war-on-women-make-war-nikki-lopez-philly-tickets/14320544"
- },
- "514794": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "20:00",
-  "url": "https://dice.fm/event/py3pay-eliza-edens-maria-mirenzi-and-sovei-17th-nov-ortliebs-philadelphia-tickets"
  },
  "514796": {
   "checked": "2026-11-08",
@@ -1222,12 +1174,6 @@
   "source": "venue-site:themetphilly.com",
   "time": "20:00",
   "url": "https://www.ticketmaster.com/interpol-north-america-tour-2027-philadelphia-pennsylvania-03-26-2027/event/02006554B460962C"
- },
- "515016": {
-  "checked": "2026-11-08",
-  "source": "show",
-  "time": "19:30",
-  "url": "https://www.st94.com/events/stewart-copeland-have-i-said-too-much/"
  },
  "515018": {
   "checked": "2026-11-08",
@@ -1439,12 +1385,6 @@
   "time": "19:00",
   "url": "https://www.ticketmaster.com/reconnect-2026-the-starting-line-with-philadelphia-pennsylvania-12-19-2026/event/02006538D1AD613C?_gl=1*1g07unj*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzAkdDE3OTM0NzQ4MDMkajYwJGwwJGgw"
  },
- "515540": {
-  "checked": "2026-11-08",
-  "source": "venue-site:thefillmorephilly.com",
-  "time": "20:00",
-  "url": "https://www.ticketmaster.com/liana-flores-philadelphia-pennsylvania-11-17-2026/event/020064CFE8F63B70?_gl=1*9iru8t*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
- },
  "515542": {
   "checked": "2026-11-08",
   "source": "venue-site:thefillmorephilly.com",
@@ -1589,12 +1529,6 @@
   "time": null,
   "url": "https://www.timerestaurant.net/copy-of-music-events"
  },
- "515770": {
-  "checked": "2026-11-08",
-  "source": "venue-site:tlaphilly.com",
-  "time": "20:00",
-  "url": "https://www.ticketmaster.com/jojo-the-high-road-20-years-philadelphia-pennsylvania-11-17-2026/event/0200652AE8A77ECE?_gl=1*lyhil*_ga*MTkyNjcyMDMxNi4xNzgyMjQxMjU3*_ga_C1T806G4DF*czE3OTA2OTg2MDckbzUkZzAkdDE3OTA2OTg2MTgkajQ5JGwwJGgw"
- },
  "515772": {
   "checked": "2026-11-08",
   "source": "venue-site:tlaphilly.com",
@@ -1624,12 +1558,6 @@
   "source": "venue-site:undergroundarts.org",
   "time": "19:00",
   "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-funksgiving-ft-sam-greenfield-muscle-tough-203949"
- },
- "515804": {
-  "checked": "2026-11-08",
-  "source": "venue-site:aeg:Union Transfer (name match)",
-  "time": "20:00",
-  "url": "https://www.utphilly.com/events/detail/?event_id=1587658"
  },
  "515813": {
   "checked": "2026-11-15",
@@ -2212,12 +2140,6 @@
   "source": "evening-time-on-event-page",
   "time": "19:30",
   "url": "https://pennlivearts.org/event/MarsalisReeves"
- },
- "516774": {
-  "checked": "2026-11-09",
-  "source": "evening-time-on-event-page",
-  "time": "19:00",
-  "url": "https://pennlivearts.org/event/ThirdCoastKotche"
  },
  "516776": {
   "checked": "2026-11-09",
@@ -3094,5 +3016,485 @@
   "source": "blocked-site",
   "time": null,
   "url": "https://www.tixr.com/groups/singushomefest/events/sing-us-home-festival-2027-214222"
+ },
+ "517950": {
+  "checked": "2026-11-18",
+  "source": "jsonld",
+  "time": "20:00",
+  "url": "https://www.thenewtowntheatre.com/events/2027/steve-forbert"
+ },
+ "517954": {
+  "checked": "2026-11-18",
+  "source": "venue-site:118northwayne.com",
+  "time": "20:00",
+  "url": "https://www.tixr.com/groups/118north/events/kid-davis-the-bullets-pawnshop-roses-205358"
+ },
+ "517956": {
+  "checked": "2026-11-18",
+  "source": "venue-site:johnnybrendas.com",
+  "time": "20:00",
+  "url": "https://www.etix.com/ticket/p/96250636/babys-first-rodeo-philadelphia-johnny-brendas"
+ },
+ "517958": {
+  "checked": "2026-11-18",
+  "source": "evening-time-near-date",
+  "time": "20:00",
+  "url": "https://lititzshirtfactory.com/product/como-bros-new-years-eve-legends-of-the-60s-show/"
+ },
+ "517978": {
+  "checked": "2026-11-18",
+  "source": "jsonld",
+  "time": "17:30",
+  "url": "https://www.eventbrite.com/e/found-wandering-christmas-concert-tickets-2004917088984"
+ },
+ "518030": {
+  "checked": "2026-11-18",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.tixr.com/groups/anchorrockclub/events/israel-nash-204588"
+ },
+ "518036": {
+  "checked": "2026-11-18",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.ticketmaster.com/wxpn-welcomes-an-evening-with-dr-philadelphia-pennsylvania-04-18-2027/event/02006569CDF3B6B3"
+ },
+ "518038": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Union Transfer (name match)",
+  "time": "20:00",
+  "url": "https://www.utphilly.com/events/detail/?event_id=1705049"
+ },
+ "518040": {
+  "checked": "2026-11-18",
+  "source": "venue-site:118northwayne.com",
+  "time": "15:00",
+  "url": "https://www.tixr.com/groups/118north/events/bill-payne-of-little-feat-a-performance-discussion-signing-for-his-memoir-carnival-ghosts-214560"
+ },
+ "518149": {
+  "checked": "2026-11-18",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fin-the-company-of-serpents-nikki-lopez-philly-tickets%2F14308384&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "518150": {
+  "checked": "2026-11-18",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fdelta-heavy-skuzz-max-muerte-nikki-lopez-philly-tickets%2F14348064&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "518152": {
+  "checked": "2026-11-18",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fmainliners-nikki-lopez-philly-tickets%2F14335354&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "518153": {
+  "checked": "2026-11-18",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fdevon-gabriella-nikki-lopez-philly-tickets%2F14404594&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "518154": {
+  "checked": "2026-11-18",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fcrooked-fingers-julia-barfield-nikki-lopez-philly-tickets%2F14395254&amp;utm_medium=affiliate"
+ },
+ "518155": {
+  "checked": "2026-11-18",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fyouth-fountain-not-my-weekend-nikki-lopez-philly-tickets%2F14335004&amp;utm_medium=affiliate"
+ },
+ "518156": {
+  "checked": "2026-11-18",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fearth-to-eve-nikki-lopez-philly-tickets%2F14393194&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "518157": {
+  "checked": "2026-11-18",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fradio-free-alice-nikki-lopez-philly-tickets%2F14435714&amp;utm_medium=affiliate"
+ },
+ "518158": {
+  "checked": "2026-11-18",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fbaby-bugs-elliot-lee-nikki-lopez-philly-tickets%2F14822203&amp;utm_medium=affiliate"
+ },
+ "518159": {
+  "checked": "2026-11-18",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fdouble-camp-alt-bloom-nikki-lopez-philly-tickets%2F14394234&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "518160": {
+  "checked": "2026-11-18",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fwill-linley-could-nikki-lopez-philly-tickets%2F14320654&amp;utm_medium=affiliate"
+ },
+ "518161": {
+  "checked": "2026-11-18",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fjosh-joplin-group-valley-lodge-nikki-lopez-philly-tickets%2F14243934&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "518162": {
+  "checked": "2026-11-18",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fbabes-in-canyon-smokey-brights-nikki-lopez-philly-tickets%2F14416604&amp;utm_medium=affiliate"
+ },
+ "518189": {
+  "checked": "2026-11-18",
+  "source": "http:202",
+  "time": null,
+  "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/57126727/samantha-fish-paper-doll-live-world-tour-stroudsburg-sherman-theater?utm_source=jambase"
+ },
+ "518190": {
+  "checked": "2026-11-18",
+  "source": "http:202",
+  "time": null,
+  "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/32519014/railroad-earth-1127-stroudsburg-sherman-theater?utm_source=jambase"
+ },
+ "518191": {
+  "checked": "2026-11-18",
+  "source": "http:202",
+  "time": null,
+  "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/57918582/railroad-earth-1128-stroudsburg-sherman-theater?utm_source=jambase"
+ },
+ "518192": {
+  "checked": "2026-11-18",
+  "source": "http:202",
+  "time": null,
+  "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/79160160/the-eric-mintel-quartetcharlie-brown-jazz-holiday-concert-stroudsburg-sherman-theater?utm_source=jambase"
+ },
+ "518193": {
+  "checked": "2026-11-18",
+  "source": "http:202",
+  "time": null,
+  "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/52725376/jessica-lynns-a-very-merry-classic-christmas-stroudsburg-sherman-theater?utm_source=jambase"
+ },
+ "518196": {
+  "checked": "2026-11-18",
+  "source": "http:202",
+  "time": null,
+  "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/89835706/greensky-bluegrass-stroudsburg-sherman-theater?utm_source=jambase"
+ },
+ "518203": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://skypac.org/?utm_source=jambase"
+ },
+ "518204": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://skypac.org/?utm_source=jambase"
+ },
+ "518205": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://skypac.org/the-wood-brothers/"
+ },
+ "518206": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://skypac.org/?utm_source=jambase"
+ },
+ "518207": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://skypac.org/from-good-homes/"
+ },
+ "518208": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://skypac.org/from-good-homes/"
+ },
+ "518209": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1593705/roa-tickets?cid=usaffjambase&amp;utm_source=jambase"
+ },
+ "518210": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "19:00",
+  "url": "https://www.axs.com/events/1473930/wage-war-tickets?cid=usaffjambase&amp;utm_source=jambase"
+ },
+ "518211": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "19:30",
+  "url": "https://www.axs.com/events/1496411/turnover-tickets?cid=usaffjambase"
+ },
+ "518212": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:30",
+  "url": "https://www.axs.com/events/1604442/twinsick-18-event-tickets?cid=usaffjambase&amp;utm_source=jambase"
+ },
+ "518213": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1664598/ashe-tickets?cid=usaffjambase"
+ },
+ "518214": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1681828/boy-throb-s-real-tour-tickets?cid=usaffjambase"
+ },
+ "518215": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "19:00",
+  "url": "https://www.axs.com/events/1680080/currents-tickets?cid=usaffjambase"
+ },
+ "518216": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:30",
+  "url": "https://www.axs.com/events/1558303/michelle-branch-tickets?cid=usaffjambase"
+ },
+ "518217": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1672989/the-plot-in-you-tickets?cid=usaffjambase"
+ },
+ "518218": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1605478/the-interrupters-tickets?cid=usaffjambase"
+ },
+ "518219": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1681417/tally-hall-tickets?cid=usaffjambase&amp;utm_source=jambase"
+ },
+ "518220": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "19:30",
+  "url": "https://www.axs.com/events/1680065/poison-the-well-alexisonfire-tickets?skin=fmh"
+ },
+ "518221": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1698552/tori-kelly-tickets?cid=usaffjambase&amp;utm_source=jambase"
+ },
+ "518222": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1686994/the-dead-south-tickets?cid=usaffjambase"
+ },
+ "518223": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1672980/panchiko-tickets?cid=usaffjambase&amp;utm_source=jambase"
+ },
+ "518224": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1662896/tinashe-tickets?cid=usaffjambase"
+ },
+ "518225": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Franklin Music Hall",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1645221/bunt-tickets?cid=usaffjambase"
+ },
+ "518226": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://theticketing.co/e/shemekia?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
+ },
+ "518227": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://theticketing.co/e/minka-nov27?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
+ },
+ "518228": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://theticketing.co/e/shrimpnblitz?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
+ },
+ "518229": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://theticketing.co/e/firesidegrassplayers?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
+ },
+ "518230": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://theticketing.co/e/octavecatdec10?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
+ },
+ "518231": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://theticketing.co/e/ctsdec19?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
+ },
+ "518232": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://theticketing.co/e/tdkhbg?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
+ },
+ "518233": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://theticketing.co/e/dpaisley?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
+ },
+ "518234": {
+  "checked": "2026-11-18",
+  "source": "http:404",
+  "time": null,
+  "url": "https://abcbrew.com/the-abbey-bar/?utm_source=jambase"
+ },
+ "518235": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://theticketing.co/e/joeyabbeybar?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
+ },
+ "518236": {
+  "checked": "2026-11-18",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://theticketing.co/e/chillton?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
+ },
+ "518237": {
+  "checked": "2026-11-18",
+  "source": "jsonld",
+  "time": "14:00",
+  "url": "https://amtshows.com/?utm_source=jambase"
+ },
+ "518238": {
+  "checked": "2026-11-18",
+  "source": "jsonld",
+  "time": "14:00",
+  "url": "https://amtshows.com/?utm_source=jambase"
+ },
+ "518239": {
+  "checked": "2026-11-18",
+  "source": "jsonld",
+  "time": "20:00",
+  "url": "https://amtshows.com/show/santana-planet-of-free-will-global-tour-2027/"
+ },
+ "518240": {
+  "checked": "2026-11-18",
+  "source": "jsonld",
+  "time": "14:00",
+  "url": "https://amtshows.com/?utm_source=jambase"
+ },
+ "518241": {
+  "checked": "2026-11-18",
+  "source": "jsonld",
+  "time": "14:00",
+  "url": "https://amtshows.com/?utm_source=jambase"
+ },
+ "518242": {
+  "checked": "2026-11-18",
+  "source": "jsonld",
+  "time": "14:00",
+  "url": "https://amtshows.com/?utm_source=jambase"
+ },
+ "518243": {
+  "checked": "2026-11-18",
+  "source": "jsonld",
+  "time": "20:00",
+  "url": "https://r5productions.com/event/la-s\u00e9curit\u00e9/philamoca/philadelphia-pennsylvania/"
+ },
+ "518245": {
+  "checked": "2026-11-18",
+  "source": "jsonld",
+  "time": "20:00",
+  "url": "https://r5productions.com/event/lily-seabird/soloveev/philadelphia-pennsylvania/"
+ },
+ "518248": {
+  "checked": "2026-11-18",
+  "source": "jsonld",
+  "time": "20:00",
+  "url": "https://r5productions.com/event/porcelain/philamoca/philadelphia-pennsylvania/"
+ },
+ "518251": {
+  "checked": "2026-11-18",
+  "source": "jsonld",
+  "time": "20:00",
+  "url": "https://r5productions.com/event/advance-base/the-side-chapel-of-the-first-unitarian-church/philadelphia-pennsylvania/"
+ },
+ "518254": {
+  "checked": "2026-11-18",
+  "source": "jsonld",
+  "time": "20:00",
+  "url": "https://r5productions.com/event/haley-heynderickx/the-sanctuary-of-the-first-unitarian-church/philadelphia-pennsylvania/"
+ },
+ "518256": {
+  "checked": "2026-11-18",
+  "source": "jsonld",
+  "time": "20:00",
+  "url": "https://r5productions.com/event/jean-michel-blais/the-first-unitarian-church/philadelphia-pennsylvania/"
+ },
+ "518261": {
+  "checked": "2026-11-18",
+  "source": "show",
+  "time": "13:00",
+  "url": "https://r5productions.com/event/first-day-back-2/the-rotunda/"
+ },
+ "518270": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1558295/venna-21-event-tickets?skin=uniontransfer&amp;_gl=1*jm92j1*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
+ },
+ "518275": {
+  "checked": "2026-11-18",
+  "source": "venue-site:undergroundarts.org",
+  "time": "20:30",
+  "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-joe-jordan-195373"
+ },
+ "518277": {
+  "checked": "2026-11-18",
+  "source": "venue-site:undergroundarts.org",
+  "time": "20:00",
+  "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-king-buffalo-190650"
+ },
+ "518279": {
+  "checked": "2026-11-18",
+  "source": "venue-site:aeg:Union Transfer",
+  "time": "19:00",
+  "url": "https://www.axs.com/events/1526701/the-bouncing-souls-tickets?skin=uniontransfer&amp;_gl=1*vrcx4z*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
+ },
+ "518281": {
+  "checked": "2026-11-18",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.axs.com/events/1607350/big-bad-voodoo-daddy-tickets?skin=keswick&amp;_gl=1*bu1irq*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
  }
 }

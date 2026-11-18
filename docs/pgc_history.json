@@ -447,6 +447,25 @@
   "url": "https://phillygaycalendar.com/events/bijinx-a-bisexual-social-meetup/",
   "venue": "Franky Bradley's"
  },
+ "43803-2026-11-25": {
+  "address": "1320 Chancellor St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Community",
+   "Happy Hour"
+  ],
+  "date": "2026-11-25",
+  "desc": "BiJinx is Philadelphia's monthly bisexual social meetup, for anybody into everybody. Bi, pan, queer, questioning, and curious folks take over the atrium at Franky Bradley's for a low-pressure night of mingling, conversation, and drinks with people who get it. The\u2026",
+  "end": "2026-11-25T21:00:00",
+  "id": 43803,
+  "performers": "",
+  "start": "2026-11-25T18:00:00",
+  "ticket": "https://instagram.com/bijinx.philly",
+  "time": "1:00 PM \u2013 4:00 PM",
+  "title": "BiJinx: A Bisexual Social Meetup",
+  "url": "https://phillygaycalendar.com/events/bijinx-a-bisexual-social-meetup/",
+  "venue": "Franky Bradley's"
+ },
  "43911-2026-11-11": {
   "address": "1705 Chancellor Street, Philadelphia, PA 19103, USA",
   "all_day": false,
@@ -1365,6 +1384,26 @@
   "url": "https://phillygaycalendar.com/events/hump-wednesdays-free-weekly-burlesque-at-254/",
   "venue": "254"
  },
+ "44669-2026-11-25": {
+  "address": "254, South 12th Street, Philadelphia, PA",
+  "all_day": false,
+  "cats": [
+   "Burlesque",
+   "Drag",
+   "Performance"
+  ],
+  "date": "2026-11-25",
+  "desc": "A free, themed burlesque show every Wednesday at 254. Tassel Request Live, Turnpyke's Balls, Fever Dream and Sleepover rotate through.8 PM. The series runs through December 16.",
+  "end": "2026-11-25T23:00:00",
+  "id": 44669,
+  "performers": "",
+  "start": "2026-11-25T20:00:00",
+  "ticket": "https://www.eventbrite.com/e/hump-wednesdays-free-weekly-burlesque-show-at-254-tickets-1988090872317",
+  "time": "3:00 PM \u2013 6:00 PM",
+  "title": "Hump(!) Wednesdays: Free Weekly Burlesque at 254",
+  "url": "https://phillygaycalendar.com/events/hump-wednesdays-free-weekly-burlesque-at-254/",
+  "venue": "254"
+ },
  "44685-2026-10-28": {
   "address": "530 South St, Philadelphia, PA, USA",
   "all_day": false,
@@ -2174,6 +2213,25 @@
   "title": "Sabrina After Dark \u2013 A Sabrina Carpenter Tribute Concert",
   "url": "https://phillygaycalendar.com/events/sabrina-after-dark-a-sabrina-carpenter-tribute-concert/",
   "venue": "Franky Bradley's"
+ },
+ "45216-2026-11-25": {
+  "address": "2031 Sansom Street, Philadelphia, PA 19103, USA",
+  "all_day": false,
+  "cats": [
+   "Comedy",
+   "Drag"
+  ],
+  "date": "2026-11-25",
+  "desc": "A live drag show from Darby Lynn Cartwright and Alexis Bevels, mixing singing, dancing, comedy and video bits in their In My Homosexual Opinion act, at Helium Comedy Club.",
+  "end": "2026-11-25T22:30:00",
+  "id": 45216,
+  "performers": "Alexis Bevels, Darby Lynn Cartwright",
+  "start": "2026-11-25T21:15:00",
+  "ticket": "https://philadelphia.heliumcomedy.com/events/143310",
+  "time": "4:15 PM \u2013 5:30 PM",
+  "title": "Special Event: IMHO",
+  "url": "https://phillygaycalendar.com/events/special-event-imho/",
+  "venue": "Helium Comedy Club"
  },
  "45242-2026-11-13": {
   "address": "129 S State Rd, Upper Darby Township, PA 19082, USA",
@@ -3010,5 +3068,24 @@
   "title": "Chase The Night Presents: Netflix & Chill \u2013 A Cinema Themed Cabaret",
   "url": "https://phillygaycalendar.com/events/chase-the-night-presents-netflix-chill-a-cinema-themed-cabaret/",
   "venue": "Velvet Whip"
+ },
+ "46351-2026-11-18": {
+  "address": "1901 Buckius St, Philadelphia, PA 19124, USA",
+  "all_day": false,
+  "cats": [
+   "Dance Party",
+   "Lesbian"
+  ],
+  "date": "2026-11-18",
+  "desc": "Midweek just got a lot more interesting. EMERGE returns to Ascend Lounge for its second volume, and it is built for anyone who needs a reason to put on something fun, skip the Wednesday slump, and dance until the lights\u2026",
+  "end": "2026-11-19T01:00:00",
+  "id": 46351,
+  "performers": "DJ Bsides, DJ Damsel, DJ Honey Natural",
+  "start": "2026-11-18T22:00:00",
+  "ticket": "https://www.instagram.com/p/Df3Ds65BFNv/",
+  "time": "5:00 PM \u2013 8:00 PM",
+  "title": "EMERGE Vol. 2: A Free Dance Party with New Talent",
+  "url": "https://phillygaycalendar.com/events/emerge-vol-2-a-free-dance-party-with-new-talent/",
+  "venue": "Secrets Lounge"
  }
 }
