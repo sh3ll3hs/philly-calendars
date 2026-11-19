@@ -75,21 +75,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Brad Goodall – FREE SHOW",
-  "subtitle": null,
-  "date": "2026-11-19",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/brad-goodall/",
-  "ticket_url": "https://www.ticketmaster.com/brad-goodall-free-show-wilmington-delaware-11-19-2026/event/020065307EFC5A7F",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "WXPN welcomes Alejandro Escovedo & The Electric Saints",
   "subtitle": null,
   "date": "2026-11-19",
@@ -102,6 +87,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Brad Goodall – FREE SHOW",
+  "subtitle": null,
+  "date": "2026-11-19",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/brad-goodall/",
+  "ticket_url": "https://www.ticketmaster.com/brad-goodall-free-show-wilmington-delaware-11-19-2026/event/020065307EFC5A7F",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Dawson Street Pub",
@@ -935,21 +935,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Hometown Holiday Benefit",
-  "subtitle": null,
-  "date": "2026-12-04",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/hometown-holiday-benefit/",
-  "ticket_url": "https://www.ticketmaster.com/hometown-holiday-benefit-wilmington-delaware-12-04-2026/event/020065548FC33C57",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "A Flock of Seagulls",
   "subtitle": null,
   "date": "2026-12-04",
@@ -962,6 +947,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Hometown Holiday Benefit",
+  "subtitle": null,
+  "date": "2026-12-04",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/hometown-holiday-benefit/",
+  "ticket_url": "https://www.ticketmaster.com/hometown-holiday-benefit-wilmington-delaware-12-04-2026/event/020065548FC33C57",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Parx Casino",
@@ -1447,21 +1447,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Runnin’ Late Holiday Show",
-  "subtitle": null,
-  "date": "2026-12-12",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/runnin-late-holiday-show/",
-  "ticket_url": "https://www.ticketmaster.com/runnin-late-holiday-show-wilmington-delaware-12-12-2026/event/02006530768A4963",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "Zoso The Ultimate Led Zeppelin Experience",
   "subtitle": null,
   "date": "2026-12-12",
@@ -1474,6 +1459,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Runnin’ Late Holiday Show",
+  "subtitle": null,
+  "date": "2026-12-12",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/runnin-late-holiday-show/",
+  "ticket_url": "https://www.ticketmaster.com/runnin-late-holiday-show-wilmington-delaware-12-12-2026/event/02006530768A4963",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Parx Casino",

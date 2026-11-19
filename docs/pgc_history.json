@@ -1228,6 +1228,7 @@
   "cats": [
    "Community",
    "Performance",
+   "Sober",
    "Sports"
   ],
   "date": "2026-11-21",
@@ -2199,7 +2200,8 @@
   "cats": [
    "Christmas",
    "Drag",
-   "Performance"
+   "Performance",
+   "Sober"
   ],
   "date": "2026-11-22",
   "desc": "Murray & Peter present A Drag Queen Christmas, hosted by Nina West. It is the longest running drag tour in America, with queens performing live on stage.Lineup: Myki Meeks, Nini Coco, Darlene Mitchell, Juicy Love Dion, Discord Addams, Crystal Methyd\u2026",
@@ -2997,6 +2999,7 @@
   "cats": [
    "Community",
    "Dinner",
+   "Sober",
    "Trans"
   ],
   "date": "2026-11-19",
@@ -3016,7 +3019,8 @@
   "all_day": false,
   "cats": [
    "Community",
-   "Dinner"
+   "Dinner",
+   "Sober"
   ],
   "date": "2026-11-26",
   "desc": "A community Thanksgiving meal at the William Way LGBT Community Center.",
@@ -3052,7 +3056,8 @@
   "address": "330 South 13th Street, Philadelphia, PA, USA",
   "all_day": false,
   "cats": [
-   "Health & Wellness"
+   "Health & Wellness",
+   "Sober"
   ],
   "date": "2026-11-19",
   "desc": "No Cost, High-Quality Groceries (Fresh Produce, Proteins, & Pantry Items) Please bring a bag if you have one available! No pre-registration required.",
@@ -3072,8 +3077,8 @@
   "cats": [
    "Dinner",
    "Health & Wellness",
-   "Talks & Workshops",
-   "Trans"
+   "Sober",
+   "Talks & Workshops"
   ],
   "date": "2026-11-19",
   "desc": "Transgender Day of Remembrance is an annual community gathering to remember and celebrate our friends and loved ones lost to violence and to raise awareness of the continuing violence against members of our community. Free events for the Trans Community\u2026",
@@ -3150,7 +3155,8 @@
   "all_day": false,
   "cats": [
    "Celebrity",
-   "Performance"
+   "Performance",
+   "Sober"
   ],
   "date": "2026-11-22",
   "desc": "Indie band Tiny Habits plays Brooklyn Bowl Philadelphia on their current tour. Expect a night of heartfelt, honest songs in a relaxed music venue.LGBT+ connection: Band member Judah Mayowa talks openly about his queerness in interviews and in the band's\u2026",
