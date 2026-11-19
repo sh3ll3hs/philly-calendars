@@ -17,6 +17,24 @@
   "url": "https://phillygaycalendar.com/events/strip-thursdays-all-male-revue/",
   "venue": "Bar X"
  },
+ "29449-2026-11-26": {
+  "address": "255 S Camac St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Performance"
+  ],
+  "date": "2026-11-26",
+  "desc": "Thursday nights at Bar X turn up the heat, and it starts early. 9:00 PM: All American Boys Real Men of Philly Male Revue presents a warm-up you don\u2019t want to miss, featuring your fav jocks. Get there early, grab\u2026",
+  "end": "2026-11-26T23:55:00",
+  "id": 29449,
+  "performers": "",
+  "start": "2026-11-26T21:00:00",
+  "ticket": "",
+  "time": "4:00 PM \u2013 6:55 PM",
+  "title": "Men of Philly Male Revue",
+  "url": "https://phillygaycalendar.com/events/strip-thursdays-all-male-revue/",
+  "venue": "Bar X"
+ },
  "30290-2026-10-31": {
   "address": "1 Boathouse Row, Philadelphia, PA 19130",
   "all_day": false,
@@ -2991,6 +3009,25 @@
   "time": "12:30 PM \u2013 3:00 PM",
   "title": "Transgender Day of Remembrance Dinner",
   "url": "https://phillygaycalendar.com/events/transgender-day-of-remembrance-dinner/",
+  "venue": "William Way LGBT Community Center"
+ },
+ "46217-2026-11-26": {
+  "address": "1315 Spruce St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Community",
+   "Dinner"
+  ],
+  "date": "2026-11-26",
+  "desc": "A community Thanksgiving meal at the William Way LGBT Community Center.",
+  "end": "2026-11-26T14:00:00",
+  "id": 46217,
+  "performers": "",
+  "start": "2026-11-26T12:00:00",
+  "ticket": "https://www.waygay.org/calendar",
+  "time": "7:00 AM \u2013 9:00 AM",
+  "title": "Thanksgiving Holiday Meal at William Way",
+  "url": "https://phillygaycalendar.com/events/thanksgiving-holiday-meal-at-william-way/",
   "venue": "William Way LGBT Community Center"
  },
  "46236-2026-11-19": {
