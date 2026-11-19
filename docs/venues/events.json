@@ -935,21 +935,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "A Flock of Seagulls",
-  "subtitle": null,
-  "date": "2026-12-04",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/a-flock-of-seagulls/",
-  "ticket_url": "https://www.ticketmaster.com/a-flock-of-seagulls-wilmington-delaware-12-04-2026/event/0200653795C37BBA",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Main Hall"
- },
- {
-  "venue": "The Queen",
   "title": "Hometown Holiday Benefit",
   "subtitle": null,
   "date": "2026-12-04",
@@ -962,6 +947,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Crown"
+ },
+ {
+  "venue": "The Queen",
+  "title": "A Flock of Seagulls",
+  "subtitle": null,
+  "date": "2026-12-04",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/a-flock-of-seagulls/",
+  "ticket_url": "https://www.ticketmaster.com/a-flock-of-seagulls-wilmington-delaware-12-04-2026/event/0200653795C37BBA",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Main Hall"
  },
  {
   "venue": "Parx Casino",
@@ -1344,21 +1344,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Rocks This Way with Remedy",
-  "subtitle": null,
-  "date": "2026-12-11",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/rocks-this-way-with-remedy/",
-  "ticket_url": "https://www.ticketmaster.com/rocks-this-way-with-remedy-wilmington-delaware-12-11-2026/event/020064FA7482396E",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "Talib Kweli",
   "subtitle": null,
   "date": "2026-12-11",
@@ -1367,6 +1352,21 @@
   "set_times": [],
   "url": "https://thequeenwilmington.com/events/talib-kweli/",
   "ticket_url": "https://www.ticketmaster.com/talib-kweli-wilmington-delaware-12-11-2026/event/0200651BA1BDC9A6",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Rocks This Way with Remedy",
+  "subtitle": null,
+  "date": "2026-12-11",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/rocks-this-way-with-remedy/",
+  "ticket_url": "https://www.ticketmaster.com/rocks-this-way-with-remedy-wilmington-delaware-12-11-2026/event/020064FA7482396E",
   "price": null,
   "source": "html",
   "needs_manual": false,
@@ -2798,6 +2798,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Minka",
+  "subtitle": null,
+  "date": "2027-01-16",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/minka/",
+  "ticket_url": "https://www.ticketmaster.com/minka-wilmington-delaware-01-16-2027/event/0200656B9C5DAD2A",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Parx Casino",
@@ -4485,7 +4500,7 @@
   "set_times": [],
   "url": "https://www.st94.com/events/avi-kaplan-down-the-divine-tour/",
   "ticket_url": "https://www.etix.com/ticket/p/92274705/avi-kaplan-down-the-divine-tour-sellersville-sellersville-theater-1894",
-  "price": "$42 to $67",
+  "price": "$35 to $67",
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"

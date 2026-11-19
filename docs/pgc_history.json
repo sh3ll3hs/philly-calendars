@@ -2154,7 +2154,7 @@
   "venue": "Franky Bradley's"
  },
  "45208-2026-11-21": {
-  "address": "102 S 13th St, Philadelphia, PA 19107, USA",
+  "address": "254, South 12th Street, Philadelphia, PA",
   "all_day": false,
   "cats": [
    "Dance Party",
@@ -2167,11 +2167,11 @@
   "id": 45208,
   "performers": "Brittany Lynn",
   "start": "2026-11-21T17:00:00",
-  "ticket": "https://www.universe.com/events/purple-pub-crawl-tickets-FWBYL5",
+  "ticket": "https://www.universe.com/events/purple-pub-crawl-tickets-FWBYL5?ref=phillygaycalendar&utm_source=phillygaycalendar&utm_medium=website&utm_campaign=purple-pub-crawl",
   "time": "12:00 PM \u2013 5:00 PM",
   "title": "Purple Pub Crawl",
   "url": "https://phillygaycalendar.com/events/purple-pub-crawl/",
-  "venue": "Little Gay Pub"
+  "venue": "254"
  },
  "45210-2026-11-21": {
   "address": "33 West Laurel Street, Philadelphia, PA, USA",
@@ -3163,5 +3163,62 @@
   "title": "Tiny Habits",
   "url": "https://phillygaycalendar.com/events/tiny-habits/",
   "venue": "Brooklyn Bowl"
+ },
+ "46453-2026-11-23": {
+  "address": "1123 S Broad St, Philadelphia, PA 19147, USA",
+  "all_day": false,
+  "cats": [
+   "Comedy",
+   "Lesbian"
+  ],
+  "date": "2026-11-23",
+  "desc": "Girl Mic is a Philly open mic and showcase series centering women and queer comics. The Girl Mic girls Cassandra, Sam, and Lindsay are taking their act on the road - and by that we mean down Broad Street to\u2026",
+  "end": "2026-11-23T22:00:00",
+  "id": 46453,
+  "performers": "Cassandra Kyriazis, Lindsay Berrigan, Samantha Stoakes",
+  "start": "2026-11-23T19:30:00",
+  "ticket": "https://tickets.claudescomedy.com/e/showcase-supreme-2026-11-23-claude-s-comedy-club-bar-philadelphia-536c06",
+  "time": "2:30 PM \u2013 5:00 PM",
+  "title": "Girl Mic Showcase at Claude\u2019s Comedy Club",
+  "url": "https://phillygaycalendar.com/events/girl-mic-showcase-at-claudes-comedy-club/",
+  "venue": "Claude's Comedy Club"
+ },
+ "46456-2026-11-24": {
+  "address": "101 Asbury Avenue, Asbury Park, NJ, USA",
+  "all_day": false,
+  "cats": [
+   "Celebrity",
+   "Drag"
+  ],
+  "date": "2026-11-24",
+  "desc": "Join us Tuesdays at Paradise for Bingo with Jolina Jasmine \u2014 where the balls are rolling, the prizes are flowing, and the energy is absolutely electric! Jolina brings the glam, the giggles, and just the right amount of sass to\u2026",
+  "end": "2026-11-24T23:00:00",
+  "id": 46456,
+  "performers": "Crystal Envy, Jolina Jasmine",
+  "start": "2026-11-24T21:00:00",
+  "ticket": "https://www.paradisenj.com",
+  "time": "4:00 PM \u2013 6:00 PM",
+  "title": "Bingo",
+  "url": "https://phillygaycalendar.com/events/bingo-5/",
+  "venue": "Paradise"
+ },
+ "46460-2026-11-20": {
+  "address": "101 Asbury Avenue, Asbury Park, NJ, USA",
+  "all_day": false,
+  "cats": [
+   "Dance Party",
+   "Drag"
+  ],
+  "date": "2026-11-20",
+  "desc": "Get ready for a night of glamour, fabulous performances, and your dance classics & hits! Join Miss Paradise 2026, Vanity LaVain, as she hosts an unforgettable evening featuring the sensational Vinchelle, Ella Vader, and Eden Darkstar! Beats by DJ Steven\u2026",
+  "end": "2026-11-21T02:00:00",
+  "id": 46460,
+  "performers": "Vanity LaVain, VinChelle",
+  "start": "2026-11-20T22:30:00",
+  "ticket": "https://www.paradisenj.com",
+  "time": "5:30 PM \u2013 9:00 PM",
+  "title": "Vanity\u2019s Affair",
+  "url": "https://phillygaycalendar.com/events/vanitys-affair-5/",
+  "venue": "Paradise"
  }
 }
