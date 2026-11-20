@@ -251,18 +251,6 @@
   "time": "20:00",
   "url": "https://www.axs.com/events/1414994/low-cut-connie-tickets"
  },
- "511104": {
-  "checked": "2026-11-08",
-  "source": "venue-site:The Queen (name match)",
-  "time": "20:00",
-  "url": "https://www.ticketmaster.com/alejandro-escovedo-the-electric-saints-wilmington-delaware-11-19-2026/event/020064FA7D114933"
- },
- "511106": {
-  "checked": "2026-11-08",
-  "source": "evening-time-near-date",
-  "time": "19:30",
-  "url": "https://tickets.mccarter.org/19502?_ga=2.96024476.1291454568.1782239998-517305975.1782239997"
- },
  "511597": {
   "checked": "2026-11-08",
   "source": "venue-site:aeg:Union Transfer",
@@ -340,12 +328,6 @@
   "source": "venue-site:brooklynbowl.com (name match)",
   "time": "19:30",
   "url": "https://www.brooklynbowl.com/philadelphia/events/detail/tiny-habits-vvg1fz_gkgbg1a"
- },
- "513299": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:30",
-  "url": "https://www.chrisjazzcafe.com/events/144011"
  },
  "513301": {
   "checked": "2026-11-08",
@@ -605,12 +587,6 @@
   "time": "21:00",
   "url": "https://www.etix.com/ticket/p/47892768/tj-kong-and-the-atomic-bomb-philadelphia-johnny-brendas"
  },
- "513967": {
-  "checked": "2026-11-08",
-  "source": "show",
-  "time": "19:30",
-  "url": "https://www.st94.com/events/ryan-coleman-2/"
- },
  "513970": {
   "checked": "2026-11-08",
   "source": "show",
@@ -815,18 +791,6 @@
   "time": "20:00",
   "url": "https://www.st94.com/events/bruce-in-the-usa-the-worlds-1-tribute-to-bruce-springsteen-the-e-street-band-9/"
  },
- "514406": {
-  "checked": "2026-11-08",
-  "source": "venue-site:undergroundarts.org",
-  "time": "20:00",
-  "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-caroline-189132"
- },
- "514408": {
-  "checked": "2026-11-08",
-  "source": "venue-site:aeg:Franklin Music Hall",
-  "time": "20:00",
-  "url": "https://www.axs.com/events/1597315/action-bronson-human-growth-hormone-tickets?skin=fmh&amp;_gl=1*m5j27z*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
- },
  "514411": {
   "checked": "2026-11-08",
   "source": "venue-site:aeg:Union Transfer",
@@ -850,12 +814,6 @@
   "source": "jsonld",
   "time": "19:30",
   "url": "https://harmoniehall.space/event/the-suitcase-junket/"
- },
- "514520": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "21:00",
-  "url": "https://johnnybrendas.com/event/francis-of-delirium-2/johnny-brendas/philadelphia-pennsylvania/"
  },
  "514522": {
   "checked": "2026-11-08",
@@ -899,12 +857,6 @@
   "time": null,
   "url": "https://www.ensembleartsphilly.org/tickets-and-events/philadelphia-orchestra/2026-27-season/yo-yo-ma-and-emanuel-ax"
  },
- "514596": {
-  "checked": "2026-11-15",
-  "source": "http:404",
-  "time": null,
-  "url": "https://kungfunecktie.com/event/j-ember-that-graduate/kung-fu-necktie/philadelphia-pennsylvania/"
- },
  "514598": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -940,12 +892,6 @@
   "source": "venue-site:themetphilly.com (name match)",
   "time": "20:00",
   "url": "https://www.ticketmaster.com/event/02006554AEC28578"
- },
- "514714": {
-  "checked": "2026-11-08",
-  "source": "venue-site:milkboyphilly.com",
-  "time": "20:00",
-  "url": "https://www.tixr.com/groups/milkboy/events/punchline-192838"
  },
  "514716": {
   "checked": "2026-11-08",
@@ -1013,12 +959,6 @@
   "time": "20:00",
   "url": "https://newhopewinery.com/event/dar-williams/"
  },
- "514774": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "18:00",
-  "url": "https://www.ticketweb.com/event/ebril-kristiane-vcente-nikki-lopez-philly-tickets/15046853"
- },
  "514776": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -1031,12 +971,6 @@
   "time": "19:00",
   "url": "https://www.ticketweb.com/event/war-on-women-make-war-nikki-lopez-philly-tickets/14320544"
  },
- "514798": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:00",
-  "url": "https://dice.fm/event/v3lo87-jswiss-and-seraiah-nicole-19th-nov-ortliebs-philadelphia-tickets"
- },
  "514800": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -1048,12 +982,6 @@
   "source": "jsonld",
   "time": "19:00",
   "url": "https://dice.fm/event/2waop6-big-bill-heavy-shrug-marathon-77-and-shortcuts-21st-nov-ortliebs-philadelphia-tickets"
- },
- "514812": {
-  "checked": "2026-11-08",
-  "source": "venue-site:Parx Casino",
-  "time": "17:00",
-  "url": "https://www.parxcasino.com/bensalem/calendar"
  },
  "514814": {
   "checked": "2026-11-08",
@@ -1169,12 +1097,6 @@
   "time": "19:30",
   "url": "https://silkcityphilly.com/events/nur-d-heroes-league/"
  },
- "515078": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "20:00",
-  "url": "https://dice.fm/event/3ordqp-adam-ofarrills-elephant-19th-nov-solar-myth-philadelphia-tickets?pid=efdf5368&amp;_branch_match_id=1427047065559758097&amp;utm_medium=partners_api&amp;_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1U9PNEgzMjI3TDExN7MvyEyxTU1LSTM1NrNQqytKTUstKsrMS49PKsovL04tsg1OTEssygQAXHIyFkgAAAA%3D"
- },
  "515090": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -1216,12 +1138,6 @@
   "source": "jsonld",
   "time": "20:00",
   "url": "https://dice.fm/event/v3xr37-marta-snchez-17th-dec-solar-myth-philadelphia-tickets?pid=efdf5368&amp;_branch_match_id=1427047065559758097&amp;utm_medium=partners_api&amp;_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Q8zMDFJTjMxNjAwsbAvyEyxTU1LSTM1NrNQqytKTUstKsrMS49PKsovL04tsg1OTEssygQAzw0IbUgAAAA%3D"
- },
- "515464": {
-  "checked": "2026-11-15",
-  "source": "no-time-found",
-  "time": null,
-  "url": "https://www.southjazzkitchen.com/event/chris-big-dog-davis-thursday-november-19-presented-by-unscripted-jazz/"
  },
  "515466": {
   "checked": "2026-11-15",
@@ -1295,12 +1211,6 @@
   "time": "20:00",
   "url": "https://events.humanitix.com/hiruy-tirfe-presents-the-threshold-album-release-concert"
  },
- "515505": {
-  "checked": "2026-11-08",
-  "source": "venue-site:thefillmorephilly.com",
-  "time": "19:30",
-  "url": "https://www.ticketmaster.com/wdas-presents-maze-dressed-in-all-philadelphia-pennsylvania-11-19-2026/event/02006521BAED7BC9?_gl=1*v2j3ev*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTA1NDc5MDEkbzYkZzEkdDE3OTA1NDc5ODIkajUzJGwwJGgw"
- },
  "515508": {
   "checked": "2026-11-08",
   "source": "venue-site:thefillmorephilly.com",
@@ -1324,12 +1234,6 @@
   "source": "venue-site:thefillmorephilly.com",
   "time": "19:00",
   "url": "https://www.ticketmaster.com/reconnect-2026-the-starting-line-with-philadelphia-pennsylvania-12-19-2026/event/02006538D1AD613C?_gl=1*1g07unj*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzAkdDE3OTM0NzQ4MDMkajYwJGwwJGgw"
- },
- "515542": {
-  "checked": "2026-11-08",
-  "source": "venue-site:thefillmorephilly.com",
-  "time": "20:00",
-  "url": "https://www.ticketmaster.com/father-of-peace-the-year-of-philadelphia-pennsylvania-11-19-2026/event/020064D1C7B932E4?_gl=1*13cp8lp*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
  },
  "515544": {
   "checked": "2026-11-08",
@@ -1372,12 +1276,6 @@
   "source": "venue-site:themetphilly.com",
   "time": "20:00",
   "url": "https://www.ticketmaster.com/dalvin-la-melodia-philadelphia-pennsylvania-12-10-2026/event/02006548E78F2B12?_gl=1*xtmvmd*_ga*MzQwNDg2Mjg0LjE3ODU0Mjg1NTc.*_ga_C1T806G4DF*czE3OTA1NDgxNjckbzMkZzEkdDE3OTA1NDgxOTQkajMzJGwwJGgw"
- },
- "515580": {
-  "checked": "2026-11-08",
-  "source": "venue-site:The Queen",
-  "time": "20:00",
-  "url": "https://www.ticketmaster.com/brad-goodall-wilmington-delaware-11-19-2026/event/020065307EFC5A7F"
  },
  "515582": {
   "checked": "2026-11-08",
@@ -1462,12 +1360,6 @@
   "source": "no-time-found",
   "time": null,
   "url": "https://www.timerestaurant.net/copy-of-music-events"
- },
- "515772": {
-  "checked": "2026-11-08",
-  "source": "venue-site:tlaphilly.com",
-  "time": "20:00",
-  "url": "https://www.ticketmaster.com/the-pineapple-thief-philadelphia-pennsylvania-11-19-2026/event/0200648716434FBC?_gl=1*2y6f00*_ga*MTkyNjcyMDMxNi4xNzgyMjQxMjU3*_ga_C1T806G4DF*czE3OTA2OTg2MDckbzUkZzAkdDE3OTA2OTg2MTgkajQ5JGwwJGgw"
  },
  "515774": {
   "checked": "2026-11-08",
@@ -1583,18 +1475,6 @@
   "time": "20:00",
   "url": "https://outpostintheburbs.thundertix.com/events/270572"
  },
- "516247": {
-  "checked": "2026-11-08",
-  "source": "evening-time-near-date",
-  "time": "20:00",
-  "url": "https://elevatevocalarts.org/bent-but-not-broken/karen-slack-african-queens"
- },
- "516249": {
-  "checked": "2026-11-15",
-  "source": "no-time-found",
-  "time": null,
-  "url": "https://elevatevocalarts.org/bent-but-not-broken/honor-choir-concert"
- },
  "516251": {
   "checked": "2026-11-15",
   "source": "no-time-found",
@@ -1648,12 +1528,6 @@
   "source": "blocked-site",
   "time": null,
   "url": "https://www.tixr.com/groups/wowphilly/events/chris-farren-208499"
- },
- "516301": {
-  "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.ticketmaster.com/event/300064898BE02142?utm_source=WEBSITE&amp;utm_medium=XMA&amp;utm_campaign=SOMBR&amp;_gl=1*149w5pp*_gcl_au*NzAxNzc2MDE1LjE3OTA1NDg3ODc.*_ga*NjMyNTc1NDU5LjE3ODIyNDI0ODk.*_ga_2X5Q2J1M51*czE3OTM5ODAyMDIkbzUkZzEkdDE3OTM5ODA0NDUkajU5JGwwJGgw"
  },
  "516303": {
   "checked": "2026-11-08",
@@ -1888,12 +1762,6 @@
   "source": "venue-site:118northwayne.com",
   "time": "16:00",
   "url": "https://www.tixr.com/groups/118north/events/db-lambert-link-hansen-213653"
- },
- "516532": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:00",
-  "url": "https://dice.fm/partner/tickets/event/dk7q36-heart-to-gold-fib-so-totally-and-elephant-jake-19th-nov-ruba-club-upstairs-philadelphia-tickets?dice_id=10478647&amp;dice_channel=web&amp;dice_tags=organic&amp;dice_campaign=DICE&amp;dice_feature=mio_marketing&amp;_branch_match_id=1427047065559758097&amp;utm_source=web&amp;utm_campaign=DICE&amp;utm_medium=mio_marketing&amp;_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1U9PNko1NUgxMTWxNLavK0pNSy0qysxLj08qyi8vTi2yDU5MSyzKBABGcPxkOwAAAA%3D%3D&amp;lng=en-US"
  },
  "516534": {
   "checked": "2026-11-08",
@@ -2801,12 +2669,6 @@
   "time": "14:30",
   "url": "https://folkproject.org/mec-events/2026-11-20/"
  },
- "517780": {
-  "checked": "2026-11-16",
-  "source": "jsonld",
-  "time": "19:30",
-  "url": "https://events.humanitix.com/pfs-m-a-c-present-their-songs-remain-honoring-the-late-great-philly-songwriters"
- },
  "517782": {
   "checked": "2026-11-16",
   "source": "blocked-site",
@@ -2848,12 +2710,6 @@
   "source": "jsonld",
   "time": "19:30",
   "url": "https://events.ticketleap.com/tickets/kellycenter/04092027"
- },
- "517797": {
-  "checked": "2026-11-16",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.tixr.com/groups/wowphilly/events/454-pig-the-gemini-210158"
  },
  "517821": {
   "checked": "2026-11-16",
@@ -3094,12 +2950,6 @@
   "source": "http:202",
   "time": null,
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/89835706/greensky-bluegrass-stroudsburg-sherman-theater?utm_source=jambase"
- },
- "518203": {
-  "checked": "2026-11-18",
-  "source": "no-time-found",
-  "time": null,
-  "url": "https://skypac.org/?utm_source=jambase"
  },
  "518204": {
   "checked": "2026-11-18",
@@ -4476,15 +4326,15 @@
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fciaran-philadelphia-pennsylvania-02-06-2027%2Fevent%2F02006566967269AD&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518625": {
-  "checked": "2026-11-19",
-  "source": "http:403",
-  "time": null,
+  "checked": "2026-11-20",
+  "source": "venue-site:thefillmorephilly.com (name match)",
+  "time": "20:00",
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fbo-staloch-the-too-big-too-philadelphia-pennsylvania-02-08-2027%2Fevent%2F0200652F0A844D5B&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518626": {
-  "checked": "2026-11-19",
-  "source": "http:403",
-  "time": null,
+  "checked": "2026-11-20",
+  "source": "venue-site:thefillmorephilly.com (name match)",
+  "time": "20:00",
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fjake-minch-getting-big-tour-philadelphia-pennsylvania-02-09-2027%2Fevent%2F02006561FF03F003&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518627": {
@@ -4966,12 +4816,6 @@
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fwrff-presents-the-neighbourhood-wourld-tour-philadelphia-pennsylvania-04-23-2027%2Fevent%2F3000655AD25C9658&amp;utm_medium=affiliate&amp;utm_source=jambase"
- },
- "518707": {
-  "checked": "2026-11-19",
-  "source": "venue-site:aeg:Union Transfer",
-  "time": "19:00",
-  "url": "https://www.axs.com/events/1537663/pain-of-truth-tickets?cid=usaffjambase"
  },
  "518708": {
   "checked": "2026-11-19",
@@ -5543,12 +5387,6 @@
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-menzingers-everything-i-ever-saw-harrisburg-pennsylvania-05-15-2027%2Fevent%2F020065659E226241&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
- "518803": {
-  "checked": "2026-11-19",
-  "source": "http:403",
-  "time": null,
-  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fwynonna-judd-the-hard-truth-tour-bethlehem-pennsylvania-11-19-2026%2Fevent%2F020064FED2CE9757%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
- },
  "518804": {
   "checked": "2026-11-19",
   "source": "http:403",
@@ -5620,12 +5458,6 @@
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-psychedelic-furs-with-special-guests-bethlehem-pennsylvania-04-24-2027%2Fevent%2F0200652B938C9946&amp;utm_medium=affiliate&amp;utm_source=jambase"
- },
- "518817": {
-  "checked": "2026-11-19",
-  "source": "http:403",
-  "time": null,
-  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fmotionless-in-white-the-sweat-and-newark-new-jersey-11-19-2026%2Fevent%2F020064BCC422349F%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518818": {
   "checked": "2026-11-19",
@@ -6214,12 +6046,6 @@
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fsevendust-30-years-of-dust-stroudsburg-pennsylvania-04-06-2027%2Fevent%2F02006570DF94A14C&amp;utm_medium=affiliate&amp;utm_source=jambase"
- },
- "518920": {
-  "checked": "2026-11-19",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.tixr.com/groups/wowphilly/events/454-210158?utm_campaign=jambase&amp;utm_source=jambase"
  },
  "518921": {
   "checked": "2026-11-19",

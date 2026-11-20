@@ -187,6 +187,24 @@
   "url": "https://phillygaycalendar.com/events/showtunes-sunday-at-tavern-on-camac/",
   "venue": "Tavern on Camac"
  },
+ "38809-2026-11-27": {
+  "address": "254, South 12th Street, Philadelphia, PA",
+  "all_day": false,
+  "cats": [
+   "Drag"
+  ],
+  "date": "2026-11-27",
+  "desc": "Head to 254 every 4th Friday for Drag University, Philadelphia's ultimate amateur drag competition. New artists take the 2nd Floor Main Stage to showcase their creativity, uniqueness, nerve, and talent while being critiqued by rotating Philly favorites. Hosted by: Rotating\u2026",
+  "end": "2026-11-27T23:30:00",
+  "id": 38809,
+  "performers": "",
+  "start": "2026-11-27T22:00:00",
+  "ticket": "",
+  "time": "5:00 PM \u2013 6:30 PM",
+  "title": "Drag University",
+  "url": "https://phillygaycalendar.com/events/drag-university-8/",
+  "venue": "254"
+ },
  "38978-2026-11-11": {
   "address": "254, South 12th Street, Philadelphia, PA",
   "all_day": false,
@@ -242,6 +260,27 @@
   "id": 38980,
   "performers": "Lamia",
   "start": "2026-11-20T21:00:00",
+  "ticket": "",
+  "time": "4:00 PM",
+  "title": "Friday Night Karaoke",
+  "url": "https://phillygaycalendar.com/events/friday-night-karaoke-at-254/",
+  "venue": "254"
+ },
+ "38980-2026-11-27": {
+  "address": "254, South 12th Street, Philadelphia, PA",
+  "all_day": false,
+  "cats": [
+   "Drag",
+   "Comedy",
+   "Karaoke",
+   "Trans"
+  ],
+  "date": "2026-11-27",
+  "desc": "Shine on the cabaret stage every Friday night at 254 for the gayest karaoke in downtown Philadelphia. Hostess Lamia leads a late-night session featuring a library of over 20,000 songs spanning every genre from R&B and heavy metal to musical\u2026",
+  "end": "2026-11-27T23:00:00",
+  "id": 38980,
+  "performers": "Lamia",
+  "start": "2026-11-27T21:00:00",
   "ticket": "",
   "time": "4:00 PM",
   "title": "Friday Night Karaoke",
@@ -1317,6 +1356,26 @@
   "id": 44668,
   "performers": "",
   "start": "2026-11-20T19:00:00",
+  "ticket": "https://www.eventbrite.com/e/5-fridays-tickets-2004172880035?aff=erelpanelorg",
+  "time": "2:00 PM \u2013 4:30 PM",
+  "title": "$5 Fridays at Franky Bradley\u2019s",
+  "url": "https://phillygaycalendar.com/events/5-fridays-at-franky-bradleys/",
+  "venue": "Franky Bradley's"
+ },
+ "44668-2026-11-27": {
+  "address": "1320 Chancellor St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Dance Party",
+   "Happy Hour",
+   "Performance"
+  ],
+  "date": "2026-11-27",
+  "desc": "The weekly $5 Friday night at Franky Bradley's.7 PM every Friday. Listed here through the end of December.",
+  "end": "2026-11-27T21:30:00",
+  "id": 44668,
+  "performers": "",
+  "start": "2026-11-27T19:00:00",
   "ticket": "https://www.eventbrite.com/e/5-fridays-tickets-2004172880035?aff=erelpanelorg",
   "time": "2:00 PM \u2013 4:30 PM",
   "title": "$5 Fridays at Franky Bradley\u2019s",
