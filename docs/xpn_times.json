@@ -251,12 +251,6 @@
   "time": "20:00",
   "url": "https://www.axs.com/events/1414994/low-cut-connie-tickets"
  },
- "511597": {
-  "checked": "2026-11-08",
-  "source": "venue-site:aeg:Union Transfer",
-  "time": "20:00",
-  "url": "https://www.axs.com/events/1617122/a-philadelphia-tribute-to-the-last-waltz-tickets"
- },
  "511600": {
   "checked": "2026-11-08",
   "source": "venue-site:thefillmorephilly.com (name match)",
@@ -6521,18 +6515,6 @@
   "time": "21:00",
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/76889910/the-machine-x-sassy-009-philadelphia-johnny-brendas?utm_source=jambase"
  },
- "519000": {
-  "checked": "2026-11-19",
-  "source": "venue-site:johnnybrendas.com (name match)",
-  "time": "20:00",
-  "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/31516646/john-fayesug-daniels-roberta-faceplant-philadelphia-johnny-brendas?utm_source=jambase"
- },
- "519001": {
-  "checked": "2026-11-19",
-  "source": "venue-site:johnnybrendas.com (name match)",
-  "time": "19:00",
-  "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/59620346/nicole-saphos-bandchristina-ward-emily-drinker-philadelphia-johnny-brendas?utm_source=jambase"
- },
  "519002": {
   "checked": "2026-11-19",
   "source": "http:202",
@@ -6544,18 +6526,6 @@
   "source": "venue-site:johnnybrendas.com (name match)",
   "time": "20:00",
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/30623684/windermancolman-kimock-philadelphia-johnny-brendas?utm_source=jambase"
- },
- "519004": {
-  "checked": "2026-11-19",
-  "source": "venue-site:johnnybrendas.com (name match)",
-  "time": "21:00",
-  "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/87179629/edo-philadelphia-johnny-brendas?partner_id=100"
- },
- "519005": {
-  "checked": "2026-11-19",
-  "source": "venue-site:johnnybrendas.com (name match)",
-  "time": "20:00",
-  "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/86465789/gladie-kulfigirls-philadelphia-johnny-brendas?partner_id=100"
  },
  "519006": {
   "checked": "2026-11-19",
@@ -7012,5 +6982,161 @@
   "source": "blocked-site",
   "time": null,
   "url": "https://www.tixr.com/groups/themillrockdale/events/kids-cupid-dance-party-212924?utm_campaign=jambase&amp;utm_source=jambase"
+ },
+ "519135": {
+  "checked": "2026-11-20",
+  "source": "jsonld",
+  "time": "19:00",
+  "url": "https://link.dice.fm/l485eab59804?utm_source=jambase"
+ },
+ "519136": {
+  "checked": "2026-11-20",
+  "source": "http:202",
+  "time": null,
+  "url": "https://newhopewinery.com/?utm_source=jambase"
+ },
+ "519137": {
+  "checked": "2026-11-20",
+  "source": "venue-site:Parx Casino (name match)",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1541836/rick-springfield-21-event-tickets?cid=usaffjambase&amp;utm_source=jambase"
+ },
+ "519138": {
+  "checked": "2026-11-20",
+  "source": "venue-site:Parx Casino (name match)",
+  "time": "20:00",
+  "url": "https://www.parxcasino.com/bensalem/xcitecenter?utm_source=jambase"
+ },
+ "519139": {
+  "checked": "2026-11-20",
+  "source": "venue-site:Parx Casino (name match)",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1622955/ashanti-21-event-tickets?cid=usaffjambase&amp;utm_source=jambase"
+ },
+ "519140": {
+  "checked": "2026-11-20",
+  "source": "venue-site:Parx Casino (name match)",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1677250/grace-potter-the-trespassers-21-event-tickets?cid=usaffjambase"
+ },
+ "519141": {
+  "checked": "2026-11-20",
+  "source": "venue-site:Parx Casino (name match)",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1677237/scotty-mccreery-21-event-tickets?cid=usaffjambase&amp;utm_source=jambase"
+ },
+ "519142": {
+  "checked": "2026-11-20",
+  "source": "venue-site:Parx Casino (name match)",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1575273/bachman-turner-overdrive-21-event-tickets?cid=usaffjambase&amp;utm_source=jambase"
+ },
+ "519143": {
+  "checked": "2026-11-20",
+  "source": "venue-site:Parx Casino (name match)",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1698544/blackberry-smoke-21-event-tickets?cid=usaffjambase&amp;utm_source=jambase"
+ },
+ "519144": {
+  "checked": "2026-11-20",
+  "source": "venue-site:Parx Casino (name match)",
+  "time": "20:00",
+  "url": "https://www.axs.com/events/1688882/todd-rundgren-21-event-tickets?cid=usaffjambase"
+ },
+ "519145": {
+  "checked": "2026-11-20",
+  "source": "venue-site:Parx Casino (name match)",
+  "time": "19:00",
+  "url": "https://www.parxcasino.com/bensalem/xcitecenter?utm_source=jambase"
+ },
+ "519146": {
+  "checked": "2026-11-20",
+  "source": "jsonld",
+  "time": "19:00",
+  "url": "https://link.dice.fm/E9d117338834?utm_source=jambase"
+ },
+ "519147": {
+  "checked": "2026-11-20",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fprimer-55-redefined-makes-my-dingbatz-tickets%2F14284834%3FREFERRAL_ID%3Dtmfeed&amp;utm_medium=affiliate"
+ },
+ "519148": {
+  "checked": "2026-11-20",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fmourning-noises-annual-black-friday-dingbatz-tickets%2F15053623%3FREFERRAL_ID%3Dtmfeed&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "519149": {
+  "checked": "2026-11-20",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fspread-eagle-fire-n-ice-dingbatz-tickets%2F14353784%3FREFERRAL_ID%3Dtmfeed&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "519150": {
+  "checked": "2026-11-20",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fdingbatz-annual-toy-drive-for-dingbatz-tickets%2F14369124%3FREFERRAL_ID%3Dtmfeed&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "519151": {
+  "checked": "2026-11-20",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Ftrixter-dingbatz-tickets%2F14307364%3FREFERRAL_ID%3Dtmfeed&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "519152": {
+  "checked": "2026-11-20",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fdeceased-vigil-myenemy-ametropia-dingbatz-tickets%2F14352594%3FREFERRAL_ID%3Dtmfeed&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "519153": {
+  "checked": "2026-11-20",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fmurphys-law-the-outlaw-vinnie-dingbatz-tickets%2F14380784%3FREFERRAL_ID%3Dtmfeed&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "519154": {
+  "checked": "2026-11-20",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fsermon-of-sinners-if-empires-dingbatz-tickets%2F14414694%3FREFERRAL_ID%3Dtmfeed&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "519155": {
+  "checked": "2026-11-20",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fkuarantine-rahway-spider-rockets-dingbatz-tickets%2F14414674%3FREFERRAL_ID%3Dtmfeed&amp;utm_medium=affiliate&amp;utm_source=jambase"
+ },
+ "519156": {
+  "checked": "2026-11-20",
+  "source": "http:530",
+  "time": null,
+  "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fnervosa-castrator-embryonic-autopsy-dingbatz-tickets%2F14265234%3FREFERRAL_ID%3Dtmfeed&amp;utm_medium=affiliate"
+ },
+ "519218": {
+  "checked": "2026-11-20",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.facebook.com/events/3519706088211462/?rdid=JKJyvDi2v91rAHAP&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1FPiZbdHQ3%2F#"
+ },
+ "519227": {
+  "checked": "2026-11-20",
+  "source": "venue-site:ardmoremusichall.com",
+  "time": "19:30",
+  "url": "https://www.tixr.com/groups/ardmoremusichall/events/teenage-fanclub-214916"
+ },
+ "519245": {
+  "checked": "2026-11-20",
+  "source": "jsonld",
+  "time": "12:00",
+  "url": "https://www.eventbrite.com/e/wxpn-free-at-noon-with-the-ben-vaughn-quintet-tickets-2001075206811?aff=oddtdtcreator"
+ },
+ "519290": {
+  "checked": "2026-11-20",
+  "source": "jsonld",
+  "time": "20:00",
+  "url": "https://johnnybrendas.com/event/cheri-the-whipped-cream/johnny-brendas/philadelphia-pennsylvania/"
  }
 }

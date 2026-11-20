@@ -43,21 +43,6 @@
   "room": "Xcite Center"
  },
  {
-  "venue": "Sellersville Theater",
-  "title": "Jim Messina",
-  "subtitle": null,
-  "date": "2026-11-20",
-  "show_time": "20:00",
-  "doors_time": "19:30",
-  "set_times": [],
-  "url": "https://www.st94.com/events/jim-messina-3/",
-  "ticket_url": "https://www.etix.com/ticket/p/33726294/jim-messina-sellersville-sellersville-theater-1894",
-  "price": "$55 to $112",
-  "source": "html",
-  "needs_manual": false,
-  "room": "Sellersville Theater 1894"
- },
- {
   "venue": "The Queen",
   "title": "Jagged Little Thrill-The Alanis Experience",
   "subtitle": null,
@@ -1240,21 +1225,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Talib Kweli",
-  "subtitle": null,
-  "date": "2026-12-11",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/talib-kweli/",
-  "ticket_url": "https://www.ticketmaster.com/talib-kweli-wilmington-delaware-12-11-2026/event/0200651BA1BDC9A6",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "Rocks This Way with Remedy",
   "subtitle": null,
   "date": "2026-12-11",
@@ -1343,21 +1313,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Runnin’ Late Holiday Show",
-  "subtitle": null,
-  "date": "2026-12-12",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/runnin-late-holiday-show/",
-  "ticket_url": "https://www.ticketmaster.com/runnin-late-holiday-show-wilmington-delaware-12-12-2026/event/02006530768A4963",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "Zoso The Ultimate Led Zeppelin Experience",
   "subtitle": null,
   "date": "2026-12-12",
@@ -1370,6 +1325,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Runnin’ Late Holiday Show",
+  "subtitle": null,
+  "date": "2026-12-12",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/runnin-late-holiday-show/",
+  "ticket_url": "https://www.ticketmaster.com/runnin-late-holiday-show-wilmington-delaware-12-12-2026/event/02006530768A4963",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Parx Casino",
@@ -4220,6 +4190,21 @@
   "room": "Sellersville Theater 1894"
  },
  {
+  "venue": "The Queen",
+  "title": "Talib Kweli",
+  "subtitle": null,
+  "date": "2027-03-06",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/talib-kweli/",
+  "ticket_url": "https://www.ticketmaster.com/talib-kweli-wilmington-delaware-03-06-2027/event/0200651BA1BDC9A6",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
+ },
+ {
   "venue": "Parx Casino",
   "title": "Teso",
   "subtitle": null,
@@ -4409,7 +4394,7 @@
   "set_times": [],
   "url": "https://www.st94.com/events/uriah-heep-magicians-farewell-tour/",
   "ticket_url": "https://www.etix.com/ticket/p/86009341/uriah-heep-magicians-farewell-tour-sellersville-sellersville-theater-1894",
-  "price": null,
+  "price": "$80 to $112",
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
@@ -4803,35 +4788,5 @@
   "source": "html",
   "needs_manual": false,
   "room": "TD Pavilion"
- },
- {
-  "venue": "The Queen",
-  "title": "WXPN welcomes Alejandro Escovedo & The Electric Saints",
-  "subtitle": null,
-  "date": "2027-11-19",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/alejandro-escovedo-the-electric-saints/",
-  "ticket_url": "https://www.ticketmaster.com/wxpn-welcomes-alejandro-escovedo-the-electric-wilmington-delaware-11-19-2026/event/020064FA7D114933",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Main Hall"
- },
- {
-  "venue": "The Queen",
-  "title": "Brad Goodall – FREE SHOW",
-  "subtitle": null,
-  "date": "2027-11-19",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/brad-goodall/",
-  "ticket_url": "https://www.ticketmaster.com/brad-goodall-free-show-wilmington-delaware-11-19-2026/event/020065307EFC5A7F",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
  }
 ]
