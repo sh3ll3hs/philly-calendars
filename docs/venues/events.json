@@ -4698,35 +4698,5 @@
   "source": "html",
   "needs_manual": false,
   "room": "TD Pavilion"
- },
- {
-  "venue": "The Queen",
-  "title": "Jagged Little Thrill-The Alanis Experience",
-  "subtitle": null,
-  "date": "2027-11-20",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/jagged-little-thrill-the-alanis-experience/",
-  "ticket_url": "https://www.ticketmaster.com/jagged-little-thrillthe-alanis-experience-wilmington-delaware-11-20-2026/event/020064FA68F12B51",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Main Hall"
- },
- {
-  "venue": "The Queen",
-  "title": "Gimme Gimme Disco (18+)",
-  "subtitle": null,
-  "date": "2027-11-20",
-  "show_time": "20:30",
-  "doors_time": "20:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/gimme-gimme-disco-18/",
-  "ticket_url": "https://www.ticketmaster.com/gimme-gimme-disco-18-wilmington-delaware-11-20-2026/event/020065296B8D3698",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
  }
 ]
