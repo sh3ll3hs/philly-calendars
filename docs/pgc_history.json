@@ -206,6 +206,25 @@
   "url": "https://phillygaycalendar.com/events/showtunes-sunday-at-tavern-on-camac/",
   "venue": "Tavern on Camac"
  },
+ "37804-2026-11-29": {
+  "address": "243 S Camac St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Performance",
+   "Karaoke"
+  ],
+  "date": "2026-11-29",
+  "desc": "EVERY SUNDAYShowtunes Sunday at Tavern on CamacEvery Sunday from 8pm-1am!Come see my cultivated collection of videos from the best of Broadway, Tv, and Movies-ALL SHOWTUNES! SING OUT LOUISE!Free event!T.O.C.TAVERN ON CAMAC PRESENTSShowtunes SundayVIDEO DJING BY BRITTANY LYNN\u201cCURATED COLLECTION OF THE\u2026",
+  "end": "2026-11-29T23:55:00",
+  "id": 37804,
+  "performers": "",
+  "start": "2026-11-29T20:00:00",
+  "ticket": "",
+  "time": "3:00 PM \u2013 6:55 PM",
+  "title": "Showtunes Sunday",
+  "url": "https://phillygaycalendar.com/events/showtunes-sunday-at-tavern-on-camac/",
+  "venue": "Tavern on Camac"
+ },
  "38809-2026-11-27": {
   "address": "254, South 12th Street, Philadelphia, PA",
   "all_day": false,
@@ -1980,6 +1999,25 @@
   "url": "https://phillygaycalendar.com/events/boyz-of-philly/",
   "venue": "Stir Lounge"
  },
+ "45036-2026-11-29": {
+  "address": "1705 Chancellor Street, Philadelphia, PA 19103, USA",
+  "all_day": false,
+  "cats": [
+   "Dance Party",
+   "Happy Hour"
+  ],
+  "date": "2026-11-29",
+  "desc": "Philly's sexiest men are dancing at Stir in Rittenhouse on Sundays starting at 5pm for Happy Hour.",
+  "end": "2026-11-29T22:00:00",
+  "id": 45036,
+  "performers": "Blake Banx, El Papi Chase",
+  "start": "2026-11-29T17:00:00",
+  "ticket": "",
+  "time": "12:00 PM \u2013 5:00 PM",
+  "title": "Boyz of Philly",
+  "url": "https://phillygaycalendar.com/events/boyz-of-philly/",
+  "venue": "Stir Lounge"
+ },
  "45115-2026-11-06": {
   "address": "206 Quince Street, Philadelphia, PA, USA",
   "all_day": false,
@@ -2627,6 +2665,25 @@
   "url": "https://phillygaycalendar.com/events/drag-brunch-at-fabrika-2/",
   "venue": "Fabrika"
  },
+ "45997-2026-11-29": {
+  "address": "1108 Frankford Ave, Philadelphia, PA 19125, USA",
+  "all_day": false,
+  "cats": [
+   "Brunch",
+   "Drag"
+  ],
+  "date": "2026-11-29",
+  "desc": "Drag Brunch at Fabrika, every Sunday in Fishtown. Brunch starts at 12:00 PM and the show begins at 1:00 PM: iconic queens, rotating guest performers and RuPaul's Drag Race alumni on Fabrika's 360\u00b0 hydraulic stage, with a full brunch menu\u2026",
+  "end": "2026-11-29T15:45:00",
+  "id": 45997,
+  "performers": "",
+  "start": "2026-11-29T12:00:00",
+  "ticket": "https://fabrikaphilly.com/events/drag-brunch-sunday?utm_source=phillygaycalendar&utm_medium=calendar&utm_campaign=drag-brunch",
+  "time": "7:00 AM \u2013 10:45 AM",
+  "title": "Drag Brunch at Fabrika",
+  "url": "https://phillygaycalendar.com/events/drag-brunch-at-fabrika-2/",
+  "venue": "Fabrika"
+ },
  "45999-2026-11-13": {
   "address": "1108 Frankford Ave, Philadelphia, PA 19125, USA",
   "all_day": false,
@@ -2881,6 +2938,24 @@
   "time": "2:30 PM \u2013 6:30 PM",
   "title": "Uninhibited: A Fetish Fashion Affair",
   "url": "https://phillygaycalendar.com/events/uninhibited-a-fetish-fashion-affair/",
+  "venue": "Paradise"
+ },
+ "46103-2026-11-29": {
+  "address": "101 Asbury Avenue, Asbury Park, NJ, USA",
+  "all_day": false,
+  "cats": [
+   "Health & Wellness"
+  ],
+  "date": "2026-11-29",
+  "desc": "AIDS MEMORIAL QUILT DISPLAY Join us at Paradise on Sunday, November 29th, from 1PM\u20137PM for a special and meaningful display of six panels from the AIDS Memorial Quilt, presented in honor of World AIDS Day. The AIDS Memorial Quilt serves\u2026",
+  "end": "2026-11-29T19:00:00",
+  "id": 46103,
+  "performers": "",
+  "start": "2026-11-29T13:00:00",
+  "ticket": "https://www.paradisenj.com",
+  "time": "8:00 AM \u2013 2:00 PM",
+  "title": "AIDS Memorial Quilt Display",
+  "url": "https://phillygaycalendar.com/events/aids-memorial-quilt-display/",
   "venue": "Paradise"
  },
  "46122-2026-11-20": {
@@ -3284,6 +3359,46 @@
   "title": "Tiny Habits",
   "url": "https://phillygaycalendar.com/events/tiny-habits/",
   "venue": "Brooklyn Bowl"
+ },
+ "46379-2026-11-29": {
+  "address": "33 West Laurel Street, Philadelphia, PA, USA",
+  "all_day": false,
+  "cats": [
+   "Celebrity",
+   "Comedy",
+   "People of Color"
+  ],
+  "date": "2026-11-29",
+  "desc": "Comedian Jerrod Carmichael brings his sharp, personal stand-up to Punch Line Philly. Known for his honest storytelling, Jerrod has become one of the most talked-about voices in comedy.LGBT+ connection: Jerrod Carmichael is an openly gay comedian. His HBO special Rothaniel\u2026",
+  "end": "2026-11-29T21:00:00",
+  "id": 46379,
+  "performers": "",
+  "start": "2026-11-29T19:00:00",
+  "ticket": "https://www.ticketmaster.com/jerrod-carmichael-on-stage-in-philadelphia-philadelphia-pennsylvania-11-29-2026/event/0200652B15CD5D8A",
+  "time": "2:00 PM",
+  "title": "Jerrod Carmichael",
+  "url": "https://phillygaycalendar.com/events/jerrod-carmichael/",
+  "venue": "Punch Line Philadelphia"
+ },
+ "46382-2026-11-29": {
+  "address": "3601 S Broad St, Philadelphia, PA 19148",
+  "all_day": false,
+  "cats": [
+   "Celebrity",
+   "Performance",
+   "Sober"
+  ],
+  "date": "2026-11-29",
+  "desc": "Pop and rap superstar Doja Cat brings her Tour Ma Vie World Tour to Xfinity Mobile Arena in South Philadelphia. Expect a big arena production with her genre-blending hits.LGBT+ connection: Doja Cat has publicly said she is attracted to both\u2026",
+  "end": "2026-11-29T21:30:00",
+  "id": 46382,
+  "performers": "",
+  "start": "2026-11-29T19:30:00",
+  "ticket": "https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-philadelphia-pennsylvania-11-29-2026/event/3000633AC3E34D89",
+  "time": "2:30 PM",
+  "title": "Doja Cat \u2013 Tour Ma Vie World Tour",
+  "url": "https://phillygaycalendar.com/events/doja-cat-tour-ma-vie-world-tour/",
+  "venue": "Xfinity Mobile Arena"
  },
  "46453-2026-11-23": {
   "address": "1123 S Broad St, Philadelphia, PA 19147, USA",

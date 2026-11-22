@@ -1,19 +1,5 @@
 [
  {
-  "venue": "Dawson Street Pub",
-  "title": "Electric Sex Power, Roberta Faceplant, The Black Seamen",
-  "subtitle": null,
-  "date": "2026-11-20",
-  "show_time": null,
-  "doors_time": null,
-  "set_times": [],
-  "url": "http://beta.dawsonstreetpub.com/index.php",
-  "ticket_url": null,
-  "price": null,
-  "source": "html",
-  "needs_manual": true
- },
- {
   "venue": "SOUTH Jazz Club",
   "title": "JEFF BRADSHAW",
   "subtitle": null,
@@ -54,81 +40,6 @@
   "price": null,
   "source": "html",
   "needs_manual": true
- },
- {
-  "venue": "Sellersville Theater",
-  "title": "Comedian Bob Marley (5 PM)",
-  "subtitle": null,
-  "date": "2026-11-21",
-  "show_time": "17:00",
-  "doors_time": "16:30",
-  "set_times": [],
-  "url": "https://www.st94.com/events/comedian-bob-marley-5-pm-3/",
-  "ticket_url": "https://www.etix.com/ticket/p/57493000/comedian-bob-marley-5-pm-sellersville-sellersville-theater-1894",
-  "price": "$39.5 to $66.5",
-  "source": "html",
-  "needs_manual": false,
-  "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Tommy Chong",
-  "subtitle": null,
-  "date": "2026-11-21",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
-  "venue": "Sellersville Theater",
-  "title": "Comedian Bob Marley (8 PM)",
-  "subtitle": null,
-  "date": "2026-11-21",
-  "show_time": "20:00",
-  "doors_time": "19:30",
-  "set_times": [],
-  "url": "https://www.st94.com/events/comedian-bob-marley-8-pm-3/",
-  "ticket_url": "https://www.etix.com/ticket/p/59759795/comedian-bob-marley-8-pm-sellersville-sellersville-theater-1894",
-  "price": "$39.5 to $66.5",
-  "source": "html",
-  "needs_manual": false,
-  "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "The Queen",
-  "title": "Beer Run Comedy",
-  "subtitle": null,
-  "date": "2026-11-21",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/beer-run-comedy/",
-  "ticket_url": "https://www.ticketmaster.com/beer-run-comedy-wilmington-delaware-11-21-2026/event/020065379A01870B",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Bonehead",
-  "subtitle": null,
-  "date": "2026-11-21",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
  },
  {
   "venue": "SOUTH Jazz Club",
@@ -1462,21 +1373,6 @@
  },
  {
   "venue": "Parx Casino",
-  "title": "Joe Conklin Holiday Special",
-  "subtitle": "with The City Rhythm Orchestra",
-  "date": "2026-12-17",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
   "title": "Get The Led Out",
   "subtitle": null,
   "date": "2026-12-17",
@@ -1489,6 +1385,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "Xcite Center"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Joe Conklin Holiday Special",
+  "subtitle": "with The City Rhythm Orchestra",
+  "date": "2026-12-17",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
@@ -4698,5 +4609,20 @@
   "source": "html",
   "needs_manual": false,
   "room": "TD Pavilion"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Beer Run Comedy",
+  "subtitle": null,
+  "date": "2027-11-21",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/beer-run-comedy/",
+  "ticket_url": "https://www.ticketmaster.com/beer-run-comedy-wilmington-delaware-11-21-2026/event/020065379A01870B",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  }
 ]
