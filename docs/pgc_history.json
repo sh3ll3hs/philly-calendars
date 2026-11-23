@@ -3456,5 +3456,24 @@
   "title": "Vanity\u2019s Affair",
   "url": "https://phillygaycalendar.com/events/vanitys-affair-5/",
   "venue": "Paradise"
+ },
+ "46649-2026-11-25": {
+  "address": "1220 Locust St Philadelphia, PA 19107",
+  "all_day": false,
+  "cats": [
+   "Dinner",
+   "Seasonal / Holiday"
+  ],
+  "date": "2026-11-25",
+  "desc": "U Bar hosts Donnie's Annual Thanksgiving Dinner, with Thanksgiving food served starting at 4 PM until it runs out. The event is held the Wednesday before Thanksgiving.",
+  "end": "2026-11-25T19:00:00",
+  "id": 46649,
+  "performers": "",
+  "start": "2026-11-25T16:00:00",
+  "ticket": "https://www.instagram.com/p/DfqZjhIB4lF/",
+  "time": "11:00 AM \u2013 2:00 PM",
+  "title": "Donnie\u2019s Annual Thanksgiving Dinner",
+  "url": "https://phillygaycalendar.com/events/donnies-annual-thanksgiving-dinner/",
+  "venue": "U Bar Philadelphia"
  }
 }
