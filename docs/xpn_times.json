@@ -6706,5 +6706,17 @@
   "source": "http:530",
   "time": null,
   "url": "https://www.ticketweb.com/event/never-easy-wayside-postdrome-nikki-lopez-philly-tickets/14319944"
+ },
+ "519481": {
+  "checked": "2026-11-23",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.facebook.com/1002524289/posts/10239658486372517/?mibextid=wwXIfr&amp;rdid=HqLPRFMgSkFpZpT3#"
+ },
+ "519484": {
+  "checked": "2026-11-23",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://www.tickettailor.com/events/annacrusisfeministchoir"
  }
 }

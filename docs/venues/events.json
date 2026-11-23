@@ -2177,6 +2177,21 @@
  },
  {
   "venue": "Sellersville Theater",
+  "title": "Beer Tasting: Broad Street Brewing",
+  "subtitle": null,
+  "date": "2027-01-08",
+  "show_time": "17:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.st94.com/events/beer-tasting-broad-street-brewing-2/",
+  "ticket_url": "https://www.etix.com/ticket/p/98687946/beer-tastingbroad-street-brewing-sellersville-the-washington-house",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Washington House"
+ },
+ {
+  "venue": "Sellersville Theater",
   "title": "Smilo & the Ghost",
   "subtitle": null,
   "date": "2027-01-08",
@@ -3010,6 +3025,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "360"
+ },
+ {
+  "venue": "Sellersville Theater",
+  "title": "Beer Tasting: Flying Fish Brewing",
+  "subtitle": null,
+  "date": "2027-02-05",
+  "show_time": "17:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.st94.com/events/beer-tasting-flying-fish-brewing/",
+  "ticket_url": "https://www.etix.com/ticket/p/50806661/beer-tastingflying-fish-brewing-sellersville-the-washington-house",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Washington House"
  },
  {
   "venue": "Parx Casino",
