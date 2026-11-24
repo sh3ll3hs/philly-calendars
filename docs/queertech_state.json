@@ -228,7 +228,7 @@
 }
 }
 },
-"last_run": "2026-11-24T10:16:09.263159+00:00",
+"last_run": "2026-11-24T21:34:25.895488+00:00",
 "sources": {
 "qt_buildout": {
 "checked": "2026-11-24",
@@ -328,7 +328,7 @@
 "qt_queertech_toronto": {
 "checked": "2026-11-24",
 "error": "",
-"events": 0
+"events": 1
 },
 "qt_queertech_vancouver": {
 "checked": "2026-11-24",
@@ -338,7 +338,7 @@
 "qt_romba": {
 "checked": "2026-11-24",
 "error": "",
-"events": 0
+"events": 1
 },
 "qt_startout": {
 "checked": "2026-11-24",
