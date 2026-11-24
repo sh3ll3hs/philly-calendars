@@ -1,21 +1,6 @@
 [
  {
   "venue": "Sellersville Theater",
-  "title": "Gregg Allman: The Music Of My Soul",
-  "subtitle": null,
-  "date": "2026-11-23",
-  "show_time": "19:30",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://www.st94.com/events/gregg-allman-the-music-of-my-soul/",
-  "ticket_url": "https://www.etix.com/ticket/p/64475855/gregg-allmanthe-music-of-my-soul-sellersville-sellersville-theater-1894",
-  "price": "$25 to $32",
-  "source": "html",
-  "needs_manual": false,
-  "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Sellersville Theater",
   "title": "Thanksgiving Dinner Take Out",
   "subtitle": null,
   "date": "2026-11-25",
@@ -4553,5 +4538,20 @@
   "source": "html",
   "needs_manual": false,
   "room": "TD Pavilion"
+ },
+ {
+  "venue": "Sellersville Theater",
+  "title": "Gregg Allman: The Music Of My Soul",
+  "subtitle": null,
+  "date": "2027-11-23",
+  "show_time": "19:30",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://www.st94.com/events/gregg-allman-the-music-of-my-soul/",
+  "ticket_url": "https://www.etix.com/ticket/p/64475855/gregg-allmanthe-music-of-my-soul-sellersville-sellersville-theater-1894",
+  "price": "$25 to $32",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
  }
 ]

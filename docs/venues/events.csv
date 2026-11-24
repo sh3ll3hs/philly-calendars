@@ -1,5 +1,4 @@
 venue,title,subtitle,date,show_time,doors_time,set_times,url,ticket_url,price,source,needs_manual,room
-Sellersville Theater,Gregg Allman: The Music Of My Soul,,2026-11-23,19:30,19:00,,https://www.st94.com/events/gregg-allman-the-music-of-my-soul/,https://www.etix.com/ticket/p/64475855/gregg-allmanthe-music-of-my-soul-sellersville-sellersville-theater-1894,$25 to $32,html,False,Sellersville Theater 1894
 Sellersville Theater,Thanksgiving Dinner Take Out,,2026-11-25,12:00,,,https://www.st94.com/events/thanksgiving-dinner-take-out-2/,,,html,False,The Washington House
 Parx Casino,Sway Duo featuring Joanne Farrell,,2026-11-25,17:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Liberty Bell Gastropub
 Sellersville Theater,Grateful Dead Tribute Box Of Rain plays American Beauty and Workingman's Dead,,2026-11-25,19:30,19:00,,https://www.st94.com/events/grateful-dead-tribute-box-of-rain-plays-american-beauty-and-workingmans-dead/,https://www.etix.com/ticket/p/76574493/grateful-dead-tribute-box-of-rain-plays-american-beauty-and-workingmans-dead-sellersville-sellersville-theater-1894,$30 to $37,html,False,Sellersville Theater 1894
@@ -304,3 +303,4 @@ Highmark Mann,Kings of Leon,,2027-05-12,19:00,17:30,,https://highmarkmann.org/ev
 Highmark Mann,Two Friends,,2027-06-04,19:00,18:00,,https://highmarkmann.org/events/2027-06-04/two-friends,https://www.ticketmaster.com/event/020065648A7736A2,,html,False,TD Pavilion
 Highmark Mann,Matchbox Twenty,,2027-07-17,19:30,18:00,,https://highmarkmann.org/events/2027-07-17/matchbox-twenty,https://www.ticketmaster.com/event/02006541CDABDF32,,html,False,TD Pavilion
 Highmark Mann,Leon Bridges,,2027-07-28,19:30,18:00,,https://highmarkmann.org/events/2027-07-28/leon-bridges,https://www.ticketmaster.com/event/0200653EAA31A9CF,,html,False,TD Pavilion
+Sellersville Theater,Gregg Allman: The Music Of My Soul,,2027-11-23,19:30,19:00,,https://www.st94.com/events/gregg-allman-the-music-of-my-soul/,https://www.etix.com/ticket/p/64475855/gregg-allmanthe-music-of-my-soul-sellersville-sellersville-theater-1894,$25 to $32,html,False,Sellersville Theater 1894

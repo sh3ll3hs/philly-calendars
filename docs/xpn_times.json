@@ -347,12 +347,6 @@
   "time": "19:30",
   "url": "https://events.humanitix.com/shovels-and-rope-bare-bones"
  },
- "513815": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:30",
-  "url": "https://tickets.citywinery.com/event/avery-wilson-t7b19e?_gl=1*pisltw*_gcl_au*NjkzMTYxMTQwLjE3OTAwNDAxODguLS4tLjE3OTAwNDAxODguMjA4MzQ4Mjg2OC4xNzkyNTA4NTU5LjE3OTI1MTE4MzA.*_ga*MTExNTcwNDMwOS4xNzgxOTIyMTQ4*_ga_4QGPZ6P9NP*czE3OTI1MDg1NTkkbzEyJGcxJHQxNzkyNTExODMyJGo1NSRsMCRoMTkwMTk3NjUxOQ.."
- },
  "513817": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -635,12 +629,6 @@
   "time": "20:00",
   "url": "https://www.st94.com/events/bruce-in-the-usa-the-worlds-1-tribute-to-bruce-springsteen-the-e-street-band-9/"
  },
- "514411": {
-  "checked": "2026-11-08",
-  "source": "venue-site:aeg:Union Transfer",
-  "time": "20:00",
-  "url": "https://www.axs.com/events/1489853/yaelokre-tickets?skin=uniontransfer&amp;_gl=1*1dnruf7*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
- },
  "514413": {
   "checked": "2026-11-08",
   "source": "venue-site:undergroundarts.org",
@@ -652,12 +640,6 @@
   "source": "evening-time-near-date",
   "time": "20:00",
   "url": "https://tickets.thegrandwilmington.org/9514"
- },
- "514522": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "20:00",
-  "url": "https://johnnybrendas.com/event/julia-minkin/johnny-brendas/philadelphia-pennsylvania/"
  },
  "514526": {
   "checked": "2026-11-08",
