@@ -3163,6 +3163,21 @@
  },
  {
   "venue": "Sellersville Theater",
+  "title": "Johnny Peers & The Muttville Comix",
+  "subtitle": null,
+  "date": "2027-02-07",
+  "show_time": "13:00",
+  "doors_time": "12:30",
+  "set_times": [],
+  "url": "https://www.st94.com/events/johnny-peers-the-muttville-comix-7/",
+  "ticket_url": "https://www.etix.com/ticket/p/43630271/johnny-peers-the-muttville-comix-sellersville-sellersville-theater-1894",
+  "price": "$12.5 to $16",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
+ },
+ {
+  "venue": "Sellersville Theater",
   "title": "The Gibson Brothers",
   "subtitle": null,
   "date": "2027-02-07",
@@ -3460,6 +3475,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "Liberty Bell Gastropub"
+ },
+ {
+  "venue": "Sellersville Theater",
+  "title": "Selwyn Birchwood",
+  "subtitle": null,
+  "date": "2027-02-17",
+  "show_time": "19:30",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://www.st94.com/events/selwyn-birchwood-4/",
+  "ticket_url": "https://www.etix.com/ticket/p/85940005/selwyn-birchwood-sellersville-sellersville-theater-1894",
+  "price": "$29.5 to $56.5",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
  },
  {
   "venue": "Parx Casino",
@@ -3865,6 +3895,21 @@
   "room": "Sellersville Theater 1894"
  },
  {
+  "venue": "Sellersville Theater",
+  "title": "Sons Of Town Hall",
+  "subtitle": null,
+  "date": "2027-03-02",
+  "show_time": "19:30",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://www.st94.com/events/sons-of-town-hall/",
+  "ticket_url": "https://www.etix.com/ticket/p/80495907/sons-of-town-hall-sellersville-sellersville-theater-1894",
+  "price": "$25 to $42",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
+ },
+ {
   "venue": "Parx Casino",
   "title": "Sway Duo featuring Joanne Farrell",
   "subtitle": null,
@@ -3893,6 +3938,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "Liberty Bell Gastropub"
+ },
+ {
+  "venue": "Sellersville Theater",
+  "title": "Vandenberg \"My Whitesnake Years\" with Marco Mendoza and Vinnie Moore",
+  "subtitle": null,
+  "date": "2027-03-04",
+  "show_time": "20:00",
+  "doors_time": "19:30",
+  "set_times": [],
+  "url": "https://www.st94.com/events/vandenberg-my-whitesnake-years-with-marco-mendoza-and-vinnie-moore/",
+  "ticket_url": "https://www.etix.com/ticket/p/50222711/vandenberg-my-whitesnake-yearswith-marco-mendoza-and-vinnie-moore-sellersville-sellersville-theater-1894",
+  "price": "$39.5 to $86.5",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
  },
  {
   "venue": "The Queen",
@@ -4045,6 +4105,21 @@
   "room": "Xcite Center"
  },
  {
+  "venue": "Sellersville Theater",
+  "title": "Into The Mystic - Philly's Tribute to the Music of Van Morrison",
+  "subtitle": null,
+  "date": "2027-03-12",
+  "show_time": "20:00",
+  "doors_time": "19:30",
+  "set_times": [],
+  "url": "https://www.st94.com/events/into-the-mystic-phillys-tribute-to-the-music-of-van-morrison-2/",
+  "ticket_url": "https://www.etix.com/ticket/p/52698061/into-the-mystic-phillys-tribute-to-the-music-of-van-morrison-sellersville-sellersville-theater-1894",
+  "price": "$25 to $52",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
+ },
+ {
   "venue": "Parx Casino",
   "title": "DJ Tonka",
   "subtitle": null,
@@ -4058,6 +4133,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "Xlounge"
+ },
+ {
+  "venue": "Sellersville Theater",
+  "title": "The World Famous Glenn Miller Orchestra",
+  "subtitle": null,
+  "date": "2027-03-13",
+  "show_time": "14:00",
+  "doors_time": "13:30",
+  "set_times": [],
+  "url": "https://www.st94.com/events/the-world-famous-glenn-miller-orchestra-6/",
+  "ticket_url": "https://www.etix.com/ticket/p/71683337/the-world-famous-glenn-miller-orchestra-sellersville-sellersville-theater-1894",
+  "price": "$35 to $72",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
  },
  {
   "venue": "Parx Casino",
@@ -4076,6 +4166,21 @@
  },
  {
   "venue": "The Queen",
+  "title": "Alaska Thunderf*ck: The Revolution Tour",
+  "subtitle": null,
+  "date": "2027-03-13",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/alaska-thunderfck-the-revolution-tour/",
+  "ticket_url": "https://www.ticketmaster.com/alaska-thunderfck-the-revolution-tour-wilmington-delaware-03-13-2027/event/02006528FA3B49F7",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
   "title": "Damn The Torpedoes: Tom Petty Concert Experience",
   "subtitle": null,
   "date": "2027-03-13",
@@ -4090,19 +4195,19 @@
   "room": "The Crown"
  },
  {
-  "venue": "The Queen",
-  "title": "Alaska Thunderf*ck: The Revolution Tour",
+  "venue": "Sellersville Theater",
+  "title": "Curtis Salgado",
   "subtitle": null,
-  "date": "2027-03-13",
-  "show_time": "20:00",
+  "date": "2027-03-15",
+  "show_time": "19:30",
   "doors_time": "19:00",
   "set_times": [],
-  "url": "https://thequeenwilmington.com/events/alaska-thunderfck-the-revolution-tour/",
-  "ticket_url": "https://www.ticketmaster.com/alaska-thunderfck-the-revolution-tour-wilmington-delaware-03-13-2027/event/02006528FA3B49F7",
-  "price": null,
+  "url": "https://www.st94.com/events/curtis-salgado/",
+  "ticket_url": "https://www.etix.com/ticket/p/48014150/curtis-salgado-sellersville-sellersville-theater-1894",
+  "price": "$25 to $46.5",
   "source": "html",
   "needs_manual": false,
-  "room": "The Main Hall"
+  "room": "Sellersville Theater 1894"
  },
  {
   "venue": "Parx Casino",
@@ -4355,6 +4460,21 @@
   "url": "https://www.st94.com/events/livestream-robert-jon-the-wreck/",
   "ticket_url": "https://www.etix.com/ticket/p/39959416/livestreamrobert-jon-the-wreck-sellersville-sellersville-theater-1894",
   "price": "$15 to $18.5",
+  "source": "html",
+  "needs_manual": false,
+  "room": "Sellersville Theater 1894"
+ },
+ {
+  "venue": "Sellersville Theater",
+  "title": "Church Of Cash - World Class Johnny Cash Tribute",
+  "subtitle": null,
+  "date": "2027-03-28",
+  "show_time": "19:30",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://www.st94.com/events/church-of-cash-world-class-johnny-cash-tribute-4/",
+  "ticket_url": "https://www.etix.com/ticket/p/36200482/church-of-cash-world-class-johnny-cash-tribute-sellersville-sellersville-theater-1894",
+  "price": "$29.5 to $56.5",
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"

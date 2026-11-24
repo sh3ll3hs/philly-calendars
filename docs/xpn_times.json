@@ -6006,9 +6006,9 @@
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/43444357/gripper-philadelphia-johnny-brendas?partner_id=100"
  },
  "519019": {
-  "checked": "2026-11-19",
-  "source": "http:202",
-  "time": null,
+  "checked": "2026-11-24",
+  "source": "venue-site:johnnybrendas.com (name match)",
+  "time": "21:00",
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/34525575/kendall-street-company-minka-philadelphia-johnny-brendas?utm_source=jambase"
  },
  "519020": {
@@ -6088,12 +6088,6 @@
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fluke-combs-my-kinda-saturday-night-philadelphia-pennsylvania-04-24-2027%2Fevent%2F0200650AD64CFAEB&amp;utm_medium=affiliate&amp;utm_source=jambase"
- },
- "519033": {
-  "checked": "2026-11-19",
-  "source": "venue-site:r5productions.com (name match)",
-  "time": "20:00",
-  "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/93049665/haley-heynderickx-philadelphia-the-first-unitarian-church?utm_source=jambase"
  },
  "519034": {
   "checked": "2026-11-19",
@@ -6700,5 +6694,131 @@
   "source": "no-time-found",
   "time": null,
   "url": "https://www.tickettailor.com/events/annacrusisfeministchoir"
+ },
+ "519707": {
+  "checked": "2026-11-24",
+  "source": "jsonld",
+  "time": "19:00",
+  "url": "https://dice.fm/event/99eo86-soft-idiot-lunar-pools-felt-rite-and-rescue-pets-5th-dec-ortliebs-philadelphia-tickets?lng=en-US"
+ },
+ "519710": {
+  "checked": "2026-11-24",
+  "source": "jsonld",
+  "time": "19:00",
+  "url": "https://dice.fm/event/kxpdl8-stella-stella-ruth-in-the-bardo-lovelock-more-6th-dec-ortliebs-philadelphia-tickets?lng=en-US"
+ },
+ "519714": {
+  "checked": "2026-11-24",
+  "source": "jsonld",
+  "time": "20:00",
+  "url": "https://dice.fm/event/bvlomx-sean-danger-smith-tubey-frank-xixix-10th-dec-ortliebs-philadelphia-tickets?lng=en-US"
+ },
+ "519723": {
+  "checked": "2026-11-24",
+  "source": "jsonld",
+  "time": "12:30",
+  "url": "https://dice.fm/event/3kql8p-a-benefit-for-caring-for-friends-fighting-hunger-19th-dec-ortliebs-philadelphia-tickets?lng=en-US"
+ },
+ "519726": {
+  "checked": "2026-11-24",
+  "source": "jsonld",
+  "time": "19:00",
+  "url": "https://dice.fm/event/r32pvv-chandelier-the-iii-nrg-and-souvenir-20th-dec-ortliebs-philadelphia-tickets?lng=en-US"
+ },
+ "519731": {
+  "checked": "2026-11-24",
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
+  "url": "https://www.parxcasino.com/bensalem/calendar?sort=entertainment"
+ },
+ "519733": {
+  "checked": "2026-11-24",
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
+  "url": "https://www.parxcasino.com/bensalem/calendar?sort=entertainment"
+ },
+ "519736": {
+  "checked": "2026-11-24",
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
+  "url": "https://www.parxcasino.com/bensalem/calendar?sort=entertainment"
+ },
+ "519741": {
+  "checked": "2026-11-24",
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
+  "url": "https://www.parxcasino.com/bensalem/calendar?sort=entertainment"
+ },
+ "519745": {
+  "checked": "2026-11-24",
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
+  "url": "https://www.parxcasino.com/bensalem/calendar?sort=entertainment"
+ },
+ "519754": {
+  "checked": "2026-11-24",
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
+  "url": "https://www.parxcasino.com/bensalem/calendar?sort=entertainment"
+ },
+ "519758": {
+  "checked": "2026-11-24",
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
+  "url": "https://www.parxcasino.com/bensalem/calendar?sort=entertainment"
+ },
+ "519762": {
+  "checked": "2026-11-24",
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
+  "url": "https://www.parxcasino.com/bensalem/calendar?sort=entertainment"
+ },
+ "519766": {
+  "checked": "2026-11-24",
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
+  "url": "https://www.parxcasino.com/bensalem/calendar?sort=entertainment"
+ },
+ "519771": {
+  "checked": "2026-11-24",
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
+  "url": "https://www.parxcasino.com/bensalem/calendar?sort=entertainment"
+ },
+ "519776": {
+  "checked": "2026-11-24",
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
+  "url": "https://www.parxcasino.com/bensalem/calendar?sort=entertainment"
+ },
+ "519792": {
+  "checked": "2026-11-24",
+  "source": "venue-site:Parx Casino",
+  "time": "17:00",
+  "url": "https://www.parxcasino.com/bensalem/calendar?sort=entertainment"
+ },
+ "519798": {
+  "checked": "2026-11-24",
+  "source": "blocked-site",
+  "time": null,
+  "url": "https://www.etix.com/ticket/p/47048082/?_gl=1*ppjnej*_ga*MTQ4ODMyODM0Ny4xNzg0ODUxMzE4*_ga_YQH4P4GGFF*czE3OTU1NDIwMjEkbzQkZzEkdDE3OTU1NDMwMDAkajYwJGwwJGgw"
+ },
+ "519802": {
+  "checked": "2026-11-24",
+  "source": "venue-site:r5productions.com",
+  "time": "20:00",
+  "url": "https://www.etix.com/ticket/p/99671759?_gl=1*1kc0w34*_ga*MTQ4ODMyODM0Ny4xNzg0ODUxMzE4*_ga_YQH4P4GGFF*czE3OTU1NDIwMjEkbzQkZzEkdDE3OTU1NDMyNjgkajYwJGwwJGgw"
+ },
+ "519809": {
+  "checked": "2026-11-24",
+  "source": "venue-site:The Queen",
+  "time": "20:00",
+  "url": "https://www.ticketmaster.com/lukas-nelson-live-wilmington-delaware-12-06-2026/event/0200656DA8F5B4FA"
+ },
+ "519811": {
+  "checked": "2026-11-24",
+  "source": "no-time-found",
+  "time": null,
+  "url": "https://events.ticketleap.com/events/jhom-6/pbs-event-tom-hambridge-band"
  }
 }

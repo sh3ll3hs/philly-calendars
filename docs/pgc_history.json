@@ -3817,5 +3817,85 @@
   "title": "The Naughty Jawn Finale",
   "url": "https://phillygaycalendar.com/events/the-naughty-jawn-finale/",
   "venue": "Love City Manayunk"
+ },
+ "46788-2026-11-29": {
+  "address": "605 S 3rd St, Philadelphia, PA 19147",
+  "all_day": false,
+  "cats": [
+   "Comedy",
+   "Community",
+   "Lesbian",
+   "Open Mic"
+  ],
+  "date": "2026-11-29",
+  "desc": "Oops! All Queers Open Mic Comedy is back at Val's. Join us for a queer and femme centered night of five-minute sets and extra fruity fun.",
+  "end": "2026-11-29T23:00:00",
+  "id": 46788,
+  "performers": "",
+  "start": "2026-11-29T20:00:00",
+  "ticket": "https://www.instagram.com/p/Df2bmDXJLsv/",
+  "time": "3:00 PM \u2013 6:00 PM",
+  "title": "Oops! All Queers Open Mic Comedy",
+  "url": "https://phillygaycalendar.com/events/oops-all-queers-open-mic-comedy/",
+  "venue": "Val's Lesbian Bar"
+ },
+ "46812-2026-11-24": {
+  "address": "1211 Chestnut Street, 9th Fl., Philadelphia, PA",
+  "all_day": false,
+  "cats": [
+   "Community",
+   "Talks & Workshops"
+  ],
+  "date": "2026-11-24",
+  "desc": "A special TNT: Tuesday Night Talks community talk back. Speak openly, share your insight, and tell COLOURS directly what you want to see to make it an even safer, stronger, and more engaging space for the community. Pull up a\u2026",
+  "end": "2026-11-24T19:00:00",
+  "id": 46812,
+  "performers": "",
+  "start": "2026-11-24T17:00:00",
+  "ticket": "https://www.instagram.com/p/DgG72gKOhl9/",
+  "time": "12:00 PM \u2013 2:00 PM",
+  "title": "TNT: Tuesday Night Talks \u2013 With You In Mind Community Talk Back",
+  "url": "https://phillygaycalendar.com/events/tnt-tuesday-night-talks-with-you-in-mind-community-talk-back/",
+  "venue": "The Colours Organization"
+ },
+ "46815-2026-11-25": {
+  "address": "254, South 12th Street, Philadelphia, PA",
+  "all_day": false,
+  "cats": [
+   "Community",
+   "Dance Party",
+   "Trans"
+  ],
+  "date": "2026-11-25",
+  "desc": "The first nighttime edition of Trans Takeover on Blackout Wednesday, on the 2nd floor. Celebrate trans joy, chosen family, and community while dancing to the biggest Y2K and 2007 pop anthems. Hosted by Sasha Kameron with DJ sets by Headphone\u2026",
+  "end": "2026-11-26T02:00:00",
+  "id": 46815,
+  "performers": "Dentana, Headphone Eden, hopifer, Sasha Kameron",
+  "start": "2026-11-25T22:00:00",
+  "ticket": "https://www.instagram.com/p/DfsLfMYREop/",
+  "time": "5:00 PM \u2013 9:00 PM",
+  "title": "Trans Takeover: Blackout Edition",
+  "url": "https://phillygaycalendar.com/events/trans-takeover-blackout-edition/",
+  "venue": "254"
+ },
+ "46817-2026-12-01": {
+  "address": "1325 N Beach St, Philadelphia, PA 19125, USA",
+  "all_day": false,
+  "cats": [
+   "Community",
+   "Lesbian",
+   "Sports"
+  ],
+  "date": "2026-12-01",
+  "desc": "Footy with Friends brings its sapphic social soccer community to Philadelphia for the first time. No experience is needed, whether you are trying soccer for the first time or returning to the field after years. A fun, safe, queer space\u2026",
+  "end": "2026-12-01T21:00:00",
+  "id": 46817,
+  "performers": "",
+  "start": "2026-12-01T19:00:00",
+  "ticket": "https://www.instagram.com/p/Df2L5YhoRIq/",
+  "time": "2:00 PM \u2013 4:00 PM",
+  "title": "Footy with Friends Philly",
+  "url": "https://phillygaycalendar.com/events/footy-with-friends-philly/",
+  "venue": "Ballers"
  }
 }
