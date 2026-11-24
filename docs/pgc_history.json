@@ -168,6 +168,25 @@
   "url": "https://phillygaycalendar.com/events/club-papi-chulo/",
   "venue": "Bar X"
  },
+ "32685-2026-12-01": {
+  "address": "255 S Camac St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Dance Party",
+   "People of Color"
+  ],
+  "date": "2026-12-01",
+  "desc": "Latin night at Bar X1st and 3rd Tuesday of the MonthAya Papi Chulo contest at midnight plus hot Latin go go dancers.",
+  "end": "2026-12-01T23:55:00",
+  "id": 32685,
+  "performers": "",
+  "start": "2026-12-01T20:00:00",
+  "ticket": "",
+  "time": "3:00 PM \u2013 6:55 PM",
+  "title": "Club Papi Chulo",
+  "url": "https://phillygaycalendar.com/events/club-papi-chulo/",
+  "venue": "Bar X"
+ },
  "37804-2026-11-15": {
   "address": "243 S Camac St, Philadelphia, PA 19107, USA",
   "all_day": false,
@@ -434,6 +453,24 @@
   "id": 42646,
   "performers": "",
   "start": "2026-11-24T18:00:00",
+  "ticket": "https://www.instagram.com/p/DcrKrDFsMcW/",
+  "time": "1:00 PM \u2013 3:30 PM",
+  "title": "Takin\u2019 It Back Tuesdays",
+  "url": "https://phillygaycalendar.com/events/takin-it-back-tuesdays/",
+  "venue": "Bar X"
+ },
+ "42646-2026-12-01": {
+  "address": "255 S Camac St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Dance Party"
+  ],
+  "date": "2026-12-01",
+  "desc": "Start Your September with a BANG!Get ready to turn up the heat at X Bar every Tuesday night! Whether you\u2019re looking to unwind after a long day or kick off your night right, Takin' It Back Tuesdays is the perfect\u2026",
+  "end": "2026-12-01T20:30:00",
+  "id": 42646,
+  "performers": "",
+  "start": "2026-12-01T18:00:00",
   "ticket": "https://www.instagram.com/p/DcrKrDFsMcW/",
   "time": "1:00 PM \u2013 3:30 PM",
   "title": "Takin\u2019 It Back Tuesdays",
@@ -2058,6 +2095,25 @@
   "url": "https://phillygaycalendar.com/events/stride-out-speak-up-2/",
   "venue": "254"
  },
+ "45121-2026-12-01": {
+  "address": "1735 Market St, Philadelphia, PA 19103, USA",
+  "all_day": false,
+  "cats": [
+   "Celebrity",
+   "Community"
+  ],
+  "date": "2026-12-01",
+  "desc": "Join the Celebration of LGBTQ+ Excellence On December 1st, join us for a momentous occasion as we gather to honor the 3rd Annual LGBTQ+ Hall of Fame! This event is a heartfelt celebration of the individuals who have made a\u2026",
+  "end": "2026-12-01T20:30:00",
+  "id": 45121,
+  "performers": "",
+  "start": "2026-12-01T17:30:00",
+  "ticket": "http://bit.ly/3rdAnnualHOF",
+  "time": "12:30 PM \u2013 3:30 PM",
+  "title": "Third Annual LGBTQ+ Hall of Fame",
+  "url": "https://phillygaycalendar.com/events/third-annual-lgbtq-hall-of-fame/",
+  "venue": "Pyramid Club"
+ },
  "45136-2026-11-08": {
   "address": "1320 Chancellor St, Philadelphia, PA 19107, USA",
   "all_day": false,
@@ -3203,6 +3259,27 @@
   "time": "7:00 AM \u2013 9:00 AM",
   "title": "Thanksgiving Holiday Meal at William Way",
   "url": "https://phillygaycalendar.com/events/thanksgiving-holiday-meal-at-william-way/",
+  "venue": "William Way LGBT Community Center"
+ },
+ "46219-2026-12-01": {
+  "address": "1315 Spruce St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Brunch",
+   "Community",
+   "Health & Wellness",
+   "Sober"
+  ],
+  "date": "2026-12-01",
+  "desc": "A World AIDS Day brunch from the William Way LGBT Community Center, bringing people together for a shared meal, awareness and community support.",
+  "end": "2026-12-01T13:00:00",
+  "id": 46219,
+  "performers": "",
+  "start": "2026-12-01T11:00:00",
+  "ticket": "https://www.waygay.org/calendar",
+  "time": "6:00 AM \u2013 8:00 AM",
+  "title": "World AIDS Day Brunch",
+  "url": "https://phillygaycalendar.com/events/world-aids-day-brunch/",
   "venue": "William Way LGBT Community Center"
  },
  "46236-2026-11-19": {

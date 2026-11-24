@@ -1272,21 +1272,6 @@
  },
  {
   "venue": "Parx Casino",
-  "title": "Joe Conklin Holiday Special",
-  "subtitle": "with The City Rhythm Orchestra",
-  "date": "2026-12-17",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
   "title": "Get The Led Out",
   "subtitle": null,
   "date": "2026-12-17",
@@ -1299,6 +1284,21 @@
   "source": "json",
   "needs_manual": false,
   "room": "Xcite Center"
+ },
+ {
+  "venue": "Parx Casino",
+  "title": "Joe Conklin Holiday Special",
+  "subtitle": "with The City Rhythm Orchestra",
+  "date": "2026-12-17",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
@@ -1729,14 +1729,14 @@
  },
  {
   "venue": "Sellersville Theater",
-  "title": "Eddie Bruce Sings Songs for the Season",
+  "title": "Songs For The Season sung by Eddie Bruce ft. Sue Matsuki",
   "subtitle": null,
   "date": "2026-12-23",
   "show_time": "19:30",
   "doors_time": "19:00",
   "set_times": [],
   "url": "https://www.st94.com/events/eddie-bruce-sings-songs-for-the-season/",
-  "ticket_url": "https://www.etix.com/ticket/p/64887074/eddie-bruce-sings-songs-for-the-season-sellersville-sellersville-theater-1894",
+  "ticket_url": "https://www.etix.com/ticket/p/64887074/songs-for-the-season-sung-by-eddie-bruce-ftsue-matsuki-sellersville-sellersville-theater-1894",
   "price": "$35 to $62",
   "source": "html",
   "needs_manual": false,
@@ -4076,21 +4076,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Alaska Thunderf*ck: The Revolution Tour",
-  "subtitle": null,
-  "date": "2027-03-13",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/alaska-thunderfck-the-revolution-tour/",
-  "ticket_url": "https://www.ticketmaster.com/alaska-thunderfck-the-revolution-tour-wilmington-delaware-03-13-2027/event/02006528FA3B49F7",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Main Hall"
- },
- {
-  "venue": "The Queen",
   "title": "Damn The Torpedoes: Tom Petty Concert Experience",
   "subtitle": null,
   "date": "2027-03-13",
@@ -4103,6 +4088,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Crown"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Alaska Thunderf*ck: The Revolution Tour",
+  "subtitle": null,
+  "date": "2027-03-13",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/alaska-thunderfck-the-revolution-tour/",
+  "ticket_url": "https://www.ticketmaster.com/alaska-thunderfck-the-revolution-tour-wilmington-delaware-03-13-2027/event/02006528FA3B49F7",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Main Hall"
  },
  {
   "venue": "Parx Casino",
@@ -4538,20 +4538,5 @@
   "source": "html",
   "needs_manual": false,
   "room": "TD Pavilion"
- },
- {
-  "venue": "Sellersville Theater",
-  "title": "Gregg Allman: The Music Of My Soul",
-  "subtitle": null,
-  "date": "2027-11-23",
-  "show_time": "19:30",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://www.st94.com/events/gregg-allman-the-music-of-my-soul/",
-  "ticket_url": "https://www.etix.com/ticket/p/64475855/gregg-allmanthe-music-of-my-soul-sellersville-sellersville-theater-1894",
-  "price": "$25 to $32",
-  "source": "html",
-  "needs_manual": false,
-  "room": "Sellersville Theater 1894"
  }
 ]
