@@ -2564,6 +2564,21 @@
   "room": "Liberty Bell Gastropub"
  },
  {
+  "venue": "Parx Casino",
+  "title": "360 Comedy Night hosted by Joe Conklin",
+  "subtitle": "NJ 101.5 presents \"New Jersey Funny\" with Bill Spadea, Steve Trevalise & Jill Myra with comedians Fred Rubino & Gemini Lombardi",
+  "date": "2027-01-21",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "360"
+ },
+ {
   "venue": "Sellersville Theater",
   "title": "Gold Rush - The Ultimate Neil Young Celebration",
   "subtitle": null,
@@ -3522,6 +3537,21 @@
   "room": "Sellersville Theater 1894"
  },
  {
+  "venue": "Parx Casino",
+  "title": "360 Comedy Night hosted by Joe Conklin",
+  "subtitle": "Joey Vegas & special guests celebrating \"Sex, Love & Marriage\"",
+  "date": "2027-02-18",
+  "show_time": "20:00",
+  "doors_time": null,
+  "set_times": [],
+  "url": "https://www.parxcasino.com/bensalem/calendar",
+  "ticket_url": null,
+  "price": null,
+  "source": "json",
+  "needs_manual": false,
+  "room": "360"
+ },
+ {
   "venue": "Dawson Street Pub",
   "title": "Freddie Berman's Birthday Jam",
   "subtitle": null,
@@ -4166,21 +4196,6 @@
  },
  {
   "venue": "The Queen",
-  "title": "Damn The Torpedoes: Tom Petty Concert Experience",
-  "subtitle": null,
-  "date": "2027-03-13",
-  "show_time": "20:00",
-  "doors_time": "19:00",
-  "set_times": [],
-  "url": "https://thequeenwilmington.com/events/damn-the-torpedoes-tom-petty-concert-experience/",
-  "ticket_url": "https://www.ticketmaster.com/damn-the-torpedoes-tom-petty-concert-wilmington-delaware-03-13-2027/event/0200656392A537DE",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Crown"
- },
- {
-  "venue": "The Queen",
   "title": "Alaska Thunderf*ck: The Revolution Tour",
   "subtitle": null,
   "date": "2027-03-13",
@@ -4193,6 +4208,21 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
+ },
+ {
+  "venue": "The Queen",
+  "title": "Damn The Torpedoes: Tom Petty Concert Experience",
+  "subtitle": null,
+  "date": "2027-03-13",
+  "show_time": "20:00",
+  "doors_time": "19:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/damn-the-torpedoes-tom-petty-concert-experience/",
+  "ticket_url": "https://www.ticketmaster.com/damn-the-torpedoes-tom-petty-concert-wilmington-delaware-03-13-2027/event/0200656392A537DE",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Crown"
  },
  {
   "venue": "Sellersville Theater",

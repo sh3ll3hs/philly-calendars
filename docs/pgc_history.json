@@ -4017,5 +4017,26 @@
   "title": "Black Friday Sale",
   "url": "https://phillygaycalendar.com/events/black-friday-sale/",
   "venue": "Philly AIDS Thrift"
+ },
+ "46952-2026-11-29": {
+  "address": "1 Boathouse Row, Philadelphia, PA 19130, USA",
+  "all_day": false,
+  "cats": [
+   "Christmas",
+   "Community",
+   "Lesbian",
+   "Outdoor"
+  ],
+  "date": "2026-11-29",
+  "desc": "Work off the holiday leftovers with a brisk, friendly stroll through the heart of Philadelphia. OUT on the Trails invites you to the Queer Holiday Weekend City Walk, a 6.5-mile route led by Victor of Adventures with Victor. It is\u2026",
+  "end": "2026-11-29T15:00:00",
+  "id": 46952,
+  "performers": "",
+  "start": "2026-11-29T13:00:00",
+  "ticket": "https://www.instagram.com/p/DgJDrTyx_av/",
+  "time": "8:00 AM",
+  "title": "Queer Holiday Weekend City Walk: Ben Franklin Bridge",
+  "url": "https://phillygaycalendar.com/events/queer-holiday-weekend-city-walk-ben-franklin-bridge/",
+  "venue": "Cosmic Cafe"
  }
 }

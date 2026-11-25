@@ -432,7 +432,7 @@
   },
   "171876|2026-12-12": {
    "branch": "Charles Santore Library",
-   "category": 10,
+   "category": 5,
    "desc": "Ry will be at the library to present a music program designed to get even the smallest kiddo clapping along! Kiddos and their caregivers are invited to join in.",
    "id": "171876",
    "start": "2026-12-12T11:00:00",
@@ -852,13 +852,23 @@
   },
   "175943|2026-12-07": {
    "branch": "Wyoming Library",
-   "category": 8,
+   "category": null,
    "desc": "Free English as a Second Language I course with Community College of Philadelphia's English as A Second Language Institute\n ESL I: Beginner\n Mondays and Wednesdays, 10:00 AM - 12:30 PM (August 26 - December 16, 2026)\n Registration is required and Learners must take a placement test prior to the start of class.\n Email Dorianna Estes at destesccp.edu for more information or questions.",
    "id": "175943",
    "start": "2026-12-07T10:00:00",
    "timed": true,
    "title": "ESL I: English as a Second Language Class",
    "url": "https://libwww.freelibrary.org/calendar/event/175943"
+  },
+  "175944|2026-12-09": {
+   "branch": "Wyoming Library",
+   "category": 8,
+   "desc": "Free English as a Second Language I course with Community College of Philadelphia's English as A Second Language Institute\n ESL I: Beginner\n Mondays and Wednesdays, 10:00 AM - 12:30 PM (August 26 - December 16, 2026)\n Registration is required and Learners must take a placement test prior to the start of class.\n Email Dorianna Estes at destesccp.edu for more information or questions.",
+   "id": "175944",
+   "start": "2026-12-09T10:00:00",
+   "timed": true,
+   "title": "ESL I: English as a Second Language Class",
+   "url": "https://libwww.freelibrary.org/calendar/event/175944"
   },
   "175972|2026-11-17": {
    "branch": "Bustleton Library",
@@ -879,16 +889,6 @@
    "timed": true,
    "title": "Senator Joe Picozzi Mobile Office Hours",
    "url": "https://libwww.freelibrary.org/calendar/event/175973"
-  },
-  "175996|2026-11-10": {
-   "branch": "Nicetown-Tioga Library",
-   "category": null,
-   "desc": "Adult Basic Literacy \n Nicetown-Tioga Library (3720 North Broad Street, 19140)\n Tuesdays and Thursdays, 12-2 pm\n Do you know an adult who wants to learn to read or write? We are offering FREE basic literacy courses for adults to help them improve their basic skills. For more information, call 215-686-8664 or email adultlearningfreelibrary.org. \n *Please note this class takes place on the 2nd floor of the library and there is no elevator access.\n *Adult Basic Literacy classes are made possible\u2026",
-   "id": "175996",
-   "start": "2026-11-10T12:00:00",
-   "timed": true,
-   "title": "Adult Basic Literacy",
-   "url": "https://libwww.freelibrary.org/calendar/event/175996"
   },
   "175997|2026-11-12": {
    "branch": "Nicetown-Tioga Library",
@@ -1082,13 +1082,23 @@
   },
   "176091|2026-12-04": {
    "branch": "Charles Santore Library",
-   "category": 5,
+   "category": null,
    "desc": "We've filled our meeting room with toys good for a range of ages. Come and socialize in the comfort of the library!\n Groups can call to arrange a separate visit at 215-686-1766.",
    "id": "176091",
    "start": "2026-12-04T10:00:00",
    "timed": true,
    "title": "Library Playgroup",
    "url": "https://libwww.freelibrary.org/calendar/event/176091"
+  },
+  "176092|2026-12-11": {
+   "branch": "Charles Santore Library",
+   "category": 5,
+   "desc": "We've filled our meeting room with toys good for a range of ages. Come and socialize in the comfort of the library!\n Groups can call to arrange a separate visit at 215-686-1766.",
+   "id": "176092",
+   "start": "2026-12-11T10:00:00",
+   "timed": true,
+   "title": "Library Playgroup",
+   "url": "https://libwww.freelibrary.org/calendar/event/176092"
   },
   "176113|2026-11-16": {
    "branch": "Charles Santore Library",
@@ -1269,16 +1279,6 @@
    "timed": true,
    "title": "All about Birds with the PA Game Commission",
    "url": "https://libwww.freelibrary.org/calendar/event/176226"
-  },
-  "176294|2026-11-10": {
-   "branch": "Wyoming Library",
-   "category": null,
-   "desc": "Free English as a Second Language I course with Community College of Philadelphia's English as A Second Language Institute\n ESL II: Intermediate\n Tuesdays and Thursdays,10:00 AM - 12:30 PM\n August 25 - December 10, 2026\n Registration is required and Learners must take a placement test prior to the start of class.\n Email Dorianna Estes at destesccp.edu to register.",
-   "id": "176294",
-   "start": "2026-11-10T10:00:00",
-   "timed": true,
-   "title": "ESL II: English as a Second Language Class",
-   "url": "https://libwww.freelibrary.org/calendar/event/176294"
   },
   "176295|2026-11-12": {
    "branch": "Wyoming Library",
@@ -1630,16 +1630,6 @@
    "title": "Children's Advisory Board",
    "url": "https://libwww.freelibrary.org/calendar/event/178605"
   },
-  "178617|2026-11-10": {
-   "branch": "Kensington Library",
-   "category": null,
-   "desc": "Join us inside the library for stories, rhymes, songs, and movement!\n Best suited for children ages 2-5 and their caregivers.",
-   "id": "178617",
-   "start": "2026-11-10T11:00:00",
-   "timed": true,
-   "title": "Preschool Storytime",
-   "url": "https://libwww.freelibrary.org/calendar/event/178617"
-  },
   "178618|2026-11-17": {
    "branch": "Kensington Library",
    "category": null,
@@ -1830,16 +1820,6 @@
    "title": "Caf Franais: French Language Exchange",
    "url": "https://libwww.freelibrary.org/calendar/event/179853"
   },
-  "179865|2026-11-10": {
-   "branch": "Lucien E. Blackwell West Philadelphia Regional Library",
-   "category": null,
-   "desc": "This program is an opportunity for students to practice their reading skills, with one-on-one support from your local librarian! Drop in for a 20-minute session, pick out a book (or two) and read aloud with a librarian to build your skills and level up your reading comprehension. This program is designed to support, but not replace, curriculum in school, as practicing reading skills is the best way to build reading skills. Pre-K through 3rd grade encouraged, 4th grade through 6th grade welcome.",
-   "id": "179865",
-   "start": "2026-11-10T17:00:00",
-   "timed": true,
-   "title": "Read with a Librarian!",
-   "url": "https://libwww.freelibrary.org/calendar/event/179865"
-  },
   "179866|2026-11-17": {
    "branch": "Lucien E. Blackwell West Philadelphia Regional Library",
    "category": null,
@@ -1929,16 +1909,6 @@
    "timed": true,
    "title": "Crafternoon",
    "url": "https://libwww.freelibrary.org/calendar/event/179946"
-  },
-  "179983|2026-11-10": {
-   "branch": "Thomas F. Donatucci, Sr. Library",
-   "category": null,
-   "desc": "Sew What?! Is a clever and creative get together for crafters who do crochet, knitting, sewing, embroidery, quilting, felting, and more. \n\nWant to share what you're making with other fabric crafters? Join us to collaborate and learn. \n\nIn-person, Tuesdays from 4-6pm. Bring in your project, or use one of ours. \n\nFor any skill, craft or technique level....Sew What?!",
-   "id": "179983",
-   "start": "2026-11-10T16:00:00",
-   "timed": true,
-   "title": "Sew What?! Donatucci Evening Sewcial",
-   "url": "https://libwww.freelibrary.org/calendar/event/179983"
   },
   "179985|2026-11-17": {
    "branch": "Thomas F. Donatucci, Sr. Library",
@@ -2039,6 +2009,16 @@
    "timed": true,
    "title": "Sew What?! Donatucci Afternoon Sewcial",
    "url": "https://libwww.freelibrary.org/calendar/event/180007"
+  },
+  "180009|2026-12-18": {
+   "branch": "Thomas F. Donatucci, Sr. Library",
+   "category": 8,
+   "desc": "Sew What?! Is a clever and creative get together for crafters who do crochet, knitting, sewing, embroidery, quilting, felting, and more. \n\nWant to share what you're making with other fabric crafters? Join us to collaborate and learn. \n\nIn-person, Fridays from 2-4pm. Bring in your project, or use one of ours. \n\nFor any skill, craft or technique level....Sew What?!",
+   "id": "180009",
+   "start": "2026-12-18T14:00:00",
+   "timed": true,
+   "title": "Sew What?! Donatucci Afternoon Sewcial",
+   "url": "https://libwww.freelibrary.org/calendar/event/180009"
   },
   "180020|2026-11-13": {
    "branch": "Widener Library",
@@ -2272,7 +2252,7 @@
   },
   "181298|2027-03-09": {
    "branch": "Eastwick Library",
-   "category": null,
+   "category": 3,
    "desc": "Each month, our book club has a theme where you can read any book that fits that theme (or whatever you'd like). We come together to share what we're reading, and why we chose our book. There's no pressure to read a specific book; we encourage any type of reading! Our main goal is to keep as many community members motivated to read, even if we lead busy lives!",
    "id": "181298",
    "start": "2027-03-09T14:00:00",
@@ -2810,16 +2790,6 @@
    "title": "Resume Review with Dress For Success",
    "url": "https://libwww.freelibrary.org/calendar/event/181662"
   },
-  "181677|2026-11-10": {
-   "branch": "Thomas F. Donatucci, Sr. Library",
-   "category": null,
-   "desc": "Mobile Constituent Services with State Rep Regina Young Every Tuesday from 12:00 P.M.-4.00 P.M.\n\nThe Office of PA State Representative Regina Young provides constituent services at the Donatucci Library every Tuesday from 12:00 p.m. to 4:00 p.m. Representatives provide assistance with SEPTA senior I.D., disability placards, unemployment claims, consumer complaints and more.",
-   "id": "181677",
-   "start": "2026-11-10T12:00:00",
-   "timed": true,
-   "title": "Mobile Constituent Services with State Rep Regina Young",
-   "url": "https://libwww.freelibrary.org/calendar/event/181677"
-  },
   "181678|2026-11-17": {
    "branch": "Thomas F. Donatucci, Sr. Library",
    "category": null,
@@ -2940,16 +2910,6 @@
    "title": "Junk Journal Workshop",
    "url": "https://libwww.freelibrary.org/calendar/event/181804"
   },
-  "181816|2026-11-10": {
-   "branch": "Parkway Central Library",
-   "category": null,
-   "desc": "Art making club is canceled for Tuesday, November 10th. We'll be back next week!",
-   "id": "181816",
-   "start": "2026-11-10T12:00:00",
-   "timed": true,
-   "title": "CANCELED: Art Making Club",
-   "url": "https://libwww.freelibrary.org/calendar/event/181816"
-  },
   "181817|2026-11-17": {
    "branch": "Parkway Central Library",
    "category": 1,
@@ -2959,16 +2919,6 @@
    "timed": true,
    "title": "Art Making Club",
    "url": "https://libwww.freelibrary.org/calendar/event/181817"
-  },
-  "181832|2026-11-10": {
-   "branch": "Joseph E. Coleman Northwest Regional Library",
-   "category": null,
-   "desc": "Join Heartwell Yoga for songs, stories, breath, yoga poses and relaxation to move us through all that the back-to-school transition brings up. Enjoy the calming power of the natural world. This program is perfect for kids of any age (young children with a grown-up). Each session will be based on a children's book with the themes of the book woven into a playful, yoga-inspired movement, and more. Please bring a towel or yoga mat and dress for moving around. No yoga experience is needed.\n We will\u2026",
-   "id": "181832",
-   "start": "2026-11-10T16:30:00",
-   "timed": true,
-   "title": "Storytime Yoga in Vernon Park",
-   "url": "https://libwww.freelibrary.org/calendar/event/181832"
   },
   "181833|2026-12-08": {
    "branch": "Joseph E. Coleman Northwest Regional Library",
@@ -3190,16 +3140,6 @@
    "title": "Art Making Club",
    "url": "https://libwww.freelibrary.org/calendar/event/181993"
   },
-  "182022|2026-11-10": {
-   "branch": "Parkway Central Library",
-   "category": null,
-   "desc": "Are you looking for a place to play chess, or are you interested in learning how to play? Join us on Tuesdays from 4:00-7:00 pm in the Heim Center on the First Floor. We have 20 chess sets and a limited amount of clocks available for use, or feel free to bring your own.",
-   "id": "182022",
-   "start": "2026-11-10T16:00:00",
-   "timed": true,
-   "title": "Free Library Chess Club",
-   "url": "https://libwww.freelibrary.org/calendar/event/182022"
-  },
   "182023|2026-11-17": {
    "branch": "Parkway Central Library",
    "category": null,
@@ -3369,6 +3309,16 @@
    "timed": true,
    "title": "Read, Baby, Read Storytime  Playgroup",
    "url": "https://libwww.freelibrary.org/calendar/event/182089"
+  },
+  "182090|2026-12-11": {
+   "branch": "Lucien E. Blackwell West Philadelphia Regional Library",
+   "category": 5,
+   "desc": "Join us every Friday for lap time with stories, songs, rhymes, and bounces! Stay after storytime for playgroup. This program is for babies and their caregivers. Siblings are welcome. Read, Baby, Read is made possible by a generous grant from the William Penn Foundation.",
+   "id": "182090",
+   "start": "2026-12-11T11:00:00",
+   "timed": true,
+   "title": "Read, Baby, Read Storytime  Playgroup",
+   "url": "https://libwww.freelibrary.org/calendar/event/182090"
   },
   "182132|2026-11-12": {
    "branch": "Oak Lane Library",
@@ -3732,7 +3682,7 @@
   },
   "182301|2026-12-07": {
    "branch": "Philadelphia City Institute",
-   "category": 10,
+   "category": null,
    "desc": "Looking for something to do on Mondays? We've got you covered! Join us for fun and unique teen programs on Mondays, 4:00 p.m.-6:00 p.m. Come hang out and enjoy everything from anime screenings to tie-dye!",
    "id": "182301",
    "start": "2026-12-07T16:00:00",
@@ -3762,7 +3712,7 @@
   },
   "182315|2026-12-04": {
    "branch": "Philadelphia City Institute",
-   "category": 10,
+   "category": null,
    "desc": "Looking for something to do on a Friday afternoon? Come play video games with us! There will be snacks along with random banter--just drop in!\n This program runs every Friday the library is open from 3:00 p.m. to 4:45 p.m. Located in the meeting room on the ground floor.",
    "id": "182315",
    "start": "2026-12-04T15:00:00",
@@ -3990,16 +3940,6 @@
    "title": "Coltrane's Philadelphia",
    "url": "https://libwww.freelibrary.org/calendar/event/182429"
   },
-  "182441|2026-11-10": {
-   "branch": "Parkway Central Library",
-   "category": null,
-   "desc": "Play, talk, sing and explore books and toys while listening to music and gaining social, emotional, fine and gross motor skills.\n This program is intended for babies and toddlers along with parents, grandparents or caregivers.\n We will be meeting in the Storyhour Room.",
-   "id": "182441",
-   "start": "2026-11-10T12:00:00",
-   "timed": true,
-   "title": "Baby and Toddler Playtime!",
-   "url": "https://libwww.freelibrary.org/calendar/event/182441"
-  },
   "182442|2026-11-17": {
    "branch": "Parkway Central Library",
    "category": 5,
@@ -4022,7 +3962,7 @@
   },
   "182460|2026-11-30": {
    "branch": "Parkway Central Library",
-   "category": 4,
+   "category": null,
    "desc": "For more than 140 years, The Philadelphia Tribune has been dedicated to advancing the social, political, and economic well-being of African Americans throughout the Greater Philadelphia region.\n\nThe exhibit has three parts:\n\nGraphic panels are displayed along the second-floor railing in the News and Microfilm Center that highlight headlines from defining eras in the history of The Philadelphia Tribune.\n\nA web component that is accessible through a scannable QR code (below) to a blog post\u2026",
    "id": "182460",
    "start": "2026-11-30T17:00:00",
@@ -4162,7 +4102,7 @@
   },
   "182542|2026-11-30": {
    "branch": "Parkway Central Library",
-   "category": 8,
+   "category": null,
    "desc": "Do you know an adult who wants to learn to read or write? We are offering FREE basic literacy courses for adults to help them improve their basic skills. For more information, call 215-686-8664 or email adultlearningfreelibrary.org.\n Class is held in Heim 131/132 or Room 108 on the first floor.\n *Adult Basic Literacy classes at Parkway Central Library are made possible through the generous support of Comcast.",
    "id": "182542",
    "start": "2026-11-30T17:30:00",
@@ -4239,16 +4179,6 @@
    "timed": true,
    "title": "Adult Basic Literacy Classes",
    "url": "https://libwww.freelibrary.org/calendar/event/182577"
-  },
-  "182594|2026-11-10": {
-   "branch": "Paschalville Library",
-   "category": null,
-   "desc": "Basic English Literacy (for English Language Learners)\n\nPaschalville Library (6942 Woodland Ave, 19142)\n\nTuesdays and Thursdays 10 am - 12 pm\n\nDo you know an adult who wants to learn English and does not know how to read or write? The Free Library of Philadelphia is offering a FREE basic English literacy course for adults to help them improve their basic skills in English. For more information, call 215-686-8664 or email adultlearningfreelibrary.org.\n English Basic Literacy classes at\u2026",
-   "id": "182594",
-   "start": "2026-11-10T10:00:00",
-   "timed": true,
-   "title": "Basic English Literacy",
-   "url": "https://libwww.freelibrary.org/calendar/event/182594"
   },
   "182595|2026-11-12": {
    "branch": "Paschalville Library",
@@ -4369,16 +4299,6 @@
    "timed": true,
    "title": "Beginner English",
    "url": "https://libwww.freelibrary.org/calendar/event/182640"
-  },
-  "182661|2026-11-10": {
-   "branch": "Frankford Library",
-   "category": null,
-   "desc": "Frankford Library (4634 Frankford Avenue, 19124)\n Tuesdays and Fridays 11 am - 12:30 pm (September 15 - December 11, 2026)\n English for Daily Life - practice listening, speaking, reading, and writing to build your confidence in using English. For beginners. Class is free; no registration required. Sign-up for the interest list here: https://forms.gle/RHDnm6mhs4X4gvJo7\n\nBeginner English classes at Frankford Library are made possible through the generous support of Comcast NBCUniversal.",
-   "id": "182661",
-   "start": "2026-11-10T11:00:00",
-   "timed": true,
-   "title": "Beginner English",
-   "url": "https://libwww.freelibrary.org/calendar/event/182661"
   },
   "182662|2026-11-13": {
    "branch": "Frankford Library",
@@ -4950,16 +4870,6 @@
    "title": "English Conversation Group - Intermediate+",
    "url": "https://libwww.freelibrary.org/calendar/event/182896"
   },
-  "182901|2026-11-10": {
-   "branch": "Independence Library",
-   "category": null,
-   "desc": "2-3:30 pm\n Build your confidence in speaking English while meeting other adults in a casual learning environment. No registration is required. This group is for intermediate/advanced English speakers and is led by Free Library volunteer Stan.\n Questions? Email adultlearningfreelibrary.org or call 215-686-8664.",
-   "id": "182901",
-   "start": "2026-11-10T14:00:00",
-   "timed": true,
-   "title": "English Conversation Group - Intermediate+",
-   "url": "https://libwww.freelibrary.org/calendar/event/182901"
-  },
   "182903|2026-11-17": {
    "branch": "Independence Library",
    "category": null,
@@ -4999,16 +4909,6 @@
    "timed": true,
    "title": "English Conversation Group - Intermediate+",
    "url": "https://libwww.freelibrary.org/calendar/event/182906"
-  },
-  "182908|2026-11-10": {
-   "branch": "Fishtown Community Library",
-   "category": null,
-   "desc": "Build your confidence in speaking English while meeting other adults in a casual learning environment. No registration is required. This group is for intermediate/advanced English speakers and is led by Free Library volunteer Gleb. Questions? Email adultlearningfreelibrary.org or call 215-686-8664.\n\nThis program takes place on the library's 3rd floor, accessible by stairs and elevator.",
-   "id": "182908",
-   "start": "2026-11-10T17:45:00",
-   "timed": true,
-   "title": "English Conversation Group",
-   "url": "https://libwww.freelibrary.org/calendar/event/182908"
   },
   "182909|2026-11-17": {
    "branch": "Fishtown Community Library",
@@ -5212,23 +5112,13 @@
   },
   "183005|2026-11-30": {
    "branch": "Parkway Central Library",
-   "category": 3,
+   "category": null,
    "desc": "This group is canceled for Monday, November 30. The next meeting wiill be on Monday, December 7.\n\n5:45-6:45 pm\n Build your confidence in speaking English while meeting other adults in a casual learning environment. No registration is required. This group is for intermediate/advanced English speakers and is led by Free Library volunteer Hannah. \n The group will meet in BRIC 60 on the ground floor. \n Questions? Email adultlearningfreelibrary.org or call 215-686-8664.",
    "id": "183005",
    "start": "2026-11-30T17:45:00",
    "timed": true,
    "title": "*CANCELED* English Conversation Group - Intermediate+",
    "url": "https://libwww.freelibrary.org/calendar/event/183005"
-  },
-  "183019|2026-11-10": {
-   "branch": "Tacony Library",
-   "category": null,
-   "desc": "Tuesdays and Wednesdays 1:10 - 3:40 pm pm (August 4 - November 18, 2026)\n This group will not meet on 11/3 or 11/11",
-   "id": "183019",
-   "start": "2026-11-10T13:10:00",
-   "timed": true,
-   "title": "GED Prep (offered by CCP)",
-   "url": "https://libwww.freelibrary.org/calendar/event/183019"
   },
   "183022|2026-11-17": {
    "branch": "Tacony Library",
@@ -5249,16 +5139,6 @@
    "timed": true,
    "title": "GED Prep (offered by CCP)",
    "url": "https://libwww.freelibrary.org/calendar/event/183024"
-  },
-  "183036|2026-11-10": {
-   "branch": "Northeast Regional Library",
-   "category": null,
-   "desc": "Tuesdays 3:30 - 5:30 pm/Fridays 10:30 am -12:30 pm\n Do you know an adult who wants to learn to read or write? We are offering FREE basic literacy course for adults to help them improve their basic skills. For more information, call 215-686-8664 or email adultlearningfreelibrary.org.\n\nAdult Basic Literacy classes at Northeast Regional Library are made possible through the generous support of Comcast NBCUniversal.",
-   "id": "183036",
-   "start": "2026-11-10T15:30:00",
-   "timed": true,
-   "title": "Adult Basic Literacy Classes",
-   "url": "https://libwww.freelibrary.org/calendar/event/183036"
   },
   "183037|2026-11-17": {
    "branch": "Northeast Regional Library",
@@ -5299,16 +5179,6 @@
    "timed": true,
    "title": "Beginner English",
    "url": "https://libwww.freelibrary.org/calendar/event/183057"
-  },
-  "183058|2026-11-10": {
-   "branch": "Greater Olney Library",
-   "category": null,
-   "desc": "Mondays and Tuesdays 5:15-6:45 pm (October 5 - December 8, 2026)\n English for Daily Life - practice listening, speaking, reading, and writing to build your confidence in using English. For beginners. Class is free, no registration required.\n Sign-up for the interest list here: https://forms.gle/FgcXxKrBUUFWHame7 \n *Please note this class takes place on the 2nd floor of the library and there is no elevator access.\n\nBeginner English classes at Greater Olney Library are made possible through the\u2026",
-   "id": "183058",
-   "start": "2026-11-10T17:15:00",
-   "timed": true,
-   "title": "Beginner English",
-   "url": "https://libwww.freelibrary.org/calendar/event/183058"
   },
   "183059|2026-11-30": {
    "branch": "Greater Olney Library",
@@ -5370,6 +5240,16 @@
    "title": "Tuesday Night Yoga",
    "url": "https://libwww.freelibrary.org/calendar/event/183069"
   },
+  "183070|2026-12-08": {
+   "branch": "Whitman Library",
+   "category": 10,
+   "desc": "Join us for a free, weekly yoga class taught by Anne-Marie Mulgrew. All levels welcome! Bring your own mat or use one of ours. No need to register, just show up! Weekly classes will begin on October 6, 2026 and end on June 29, 2027.",
+   "id": "183070",
+   "start": "2026-12-08T18:00:00",
+   "timed": true,
+   "title": "Tuesday Night Yoga",
+   "url": "https://libwww.freelibrary.org/calendar/event/183070"
+  },
   "183104|2026-11-20": {
    "branch": "Tacony Library",
    "category": null,
@@ -5422,7 +5302,7 @@
   },
   "183129|2026-12-02": {
    "branch": "Northeast Regional Library",
-   "category": 3,
+   "category": null,
    "desc": "English Conversation Practice\n Build your confidence in listening to and speaking English in a welcoming atmosphere with other adult learners. The session is free. All are welcome! Wednesdays at 2:00 PM. No registration required.",
    "id": "183129",
    "start": "2026-12-02T14:00:00",
@@ -5512,7 +5392,7 @@
   },
   "183161|2026-12-10": {
    "branch": "Wynnefield Library",
-   "category": 8,
+   "category": null,
    "desc": "Sign up for a free one-on-one session to scan your family or community organization's treasured photographs and documents; learn best (and good enough) practices for sharing and preserving your personal archives. \n A librarian will contact you to confirm your appointment. \n\nOur scanner handles flat items measuring less than 11x17 inches.\n Questions? Please call Wynnefield Library Adult/Teen Services, 215-685-0298. \n This program is funded by the Hyperlocal Heritage Grant. Lead support is\u2026",
    "id": "183161",
    "start": "2026-12-10T11:00:00",
@@ -5912,7 +5792,7 @@
   },
   "183467|2026-12-05": {
    "branch": "Kingsessing Library",
-   "category": null,
+   "category": 8,
    "desc": "AI is seemingly everywhere these days. With increasing pushes towards adoption of AI across platforms, it's important to understand the numerous ethical issues with this technology. Join Alison Macrina of Library Freedom Project to examine AI from an ethics-based framework.\n Macrina will help us gain a better understanding of just what artificial intelligence actually is, providing an overview of the ethical issues with widespread AI adoption and an analysis of some major consumer-facing tools\u2026",
    "id": "183467",
    "start": "2026-12-05T14:00:00",
@@ -5942,7 +5822,7 @@
   },
   "183484|2026-12-02": {
    "branch": "Joseph E. Coleman Northwest Regional Library",
-   "category": 3,
+   "category": null,
    "desc": "All teens are welcome to drop-in for a weekly program with musical artist MB to explore performance practices that express what makes you you. Develop your creative voice to sing, rap, move, make magic, or story-tell in any kind of performing way that feels right to you. Learn more about MB's musical performance work by clicking here.\n Wednesdays, October 14 - December 12, 3:15 - 4:30 p.m.",
    "id": "183484",
    "start": "2026-12-02T15:15:00",
@@ -5959,16 +5839,6 @@
    "timed": true,
    "title": "Teen Performance: Drop-in Sessions with MB",
    "url": "https://libwww.freelibrary.org/calendar/event/183485"
-  },
-  "183507|2026-11-10": {
-   "branch": "Walnut Street West Library",
-   "category": null,
-   "desc": "Join us for books, songs, and dancing! Then stick around for free play with toys! For ages 5 and under and their caregivers.",
-   "id": "183507",
-   "start": "2026-11-10T11:30:00",
-   "timed": true,
-   "title": "Baby  Toddler Storytime  Free Play",
-   "url": "https://libwww.freelibrary.org/calendar/event/183507"
   },
   "183508|2026-11-17": {
    "branch": "Walnut Street West Library",
@@ -6000,6 +5870,16 @@
    "title": "Baby  Toddler Storytime  Free Play",
    "url": "https://libwww.freelibrary.org/calendar/event/183511"
   },
+  "183512|2026-12-08": {
+   "branch": "Walnut Street West Library",
+   "category": 5,
+   "desc": "Join us for books, songs, and dancing! Then stick around for free play with toys! For ages 5 and under and their caregivers.",
+   "id": "183512",
+   "start": "2026-12-08T11:30:00",
+   "timed": true,
+   "title": "Baby  Toddler Storytime  Free Play",
+   "url": "https://libwww.freelibrary.org/calendar/event/183512"
+  },
   "183522|2026-11-18": {
    "branch": "Walnut Street West Library",
    "category": null,
@@ -6022,7 +5902,7 @@
   },
   "183524|2026-12-02": {
    "branch": "Walnut Street West Library",
-   "category": 5,
+   "category": null,
    "desc": "Join us for lap time with stories, songs, rhymes, and bounces! For ages 2 and under and their caregivers. Siblings are welcome.",
    "id": "183524",
    "start": "2026-12-02T10:30:00",
@@ -6130,16 +6010,6 @@
    "title": "Music and Movement Storytime",
    "url": "https://libwww.freelibrary.org/calendar/event/183547"
   },
-  "183575|2026-11-10": {
-   "branch": "Walnut Street West Library",
-   "category": null,
-   "desc": "Join us after school for anime, conversation, and fun! Each month we'll feature a different anime series to binge and discuss, from popular favorites to series you may have missed.\n\nHelp choose what we watch next by voting on our monthly series! Come discover something new and meet other fans! No registration is required. \n This Month: Haikyu!!",
-   "id": "183575",
-   "start": "2026-11-10T15:15:00",
-   "timed": true,
-   "title": "Anime After School (Grades 612)",
-   "url": "https://libwww.freelibrary.org/calendar/event/183575"
-  },
   "183576|2026-11-17": {
    "branch": "Walnut Street West Library",
    "category": null,
@@ -6162,7 +6032,7 @@
   },
   "183578|2026-12-01": {
    "branch": "Walnut Street West Library",
-   "category": 3,
+   "category": null,
    "desc": "Join us after school for anime, conversation, and fun! Each month we'll feature a different anime series to binge and discuss, from popular favorites to series you may have missed.\n\nHelp choose what we watch next by voting on our monthly series! Come discover something new and meet other fans! No registration is required. \n This Month: Spy X Family",
    "id": "183578",
    "start": "2026-12-01T15:15:00",
@@ -6370,6 +6240,16 @@
    "title": "Virtual Yoga Workshop",
    "url": "https://libwww.freelibrary.org/calendar/event/183665"
   },
+  "183666|2026-12-07": {
+   "branch": "Philadelphia City Institute",
+   "category": 10,
+   "desc": "Join us for a yoga-based movement workshop with instructor Michele Tantoco. The class blends traditional yoga postures, breathwork, and mindfulness with pilates.\n Please email nguyentfreelibrary.org for the Zoom registration link. This program meets Mondays at 6:00 p.m.: October 5, 19, 26 November 2, 9, 16, 23, 30 December 7, 14.\n This program series is generously sponsored by the Friends of PCI Library.",
+   "id": "183666",
+   "start": "2026-12-07T18:00:00",
+   "timed": true,
+   "title": "Virtual Yoga Workshop",
+   "url": "https://libwww.freelibrary.org/calendar/event/183666"
+  },
   "183668|2026-11-16": {
    "branch": "Independence Library",
    "category": null,
@@ -6489,16 +6369,6 @@
    "timed": true,
    "title": "The IEP Toolkit Series - Transition: From High School to What's Next",
    "url": "https://libwww.freelibrary.org/calendar/event/183719"
-  },
-  "183752|2026-11-10": {
-   "branch": "Haverford Library",
-   "category": null,
-   "desc": "Explore your creative side with Legos, Magna-Tiles, cardboard crafts and more! At Builder's Club, patrons can freely explore different blocks and building materials, compete with other builders in contests, and familiarize themselves with shapes and engineering design. Intended for younger audiences, but older patrons are welcome to help.",
-   "id": "183752",
-   "start": "2026-11-10T16:00:00",
-   "timed": true,
-   "title": "Builder Club: For Kids of All ages",
-   "url": "https://libwww.freelibrary.org/calendar/event/183752"
   },
   "183753|2026-11-17": {
    "branch": "Haverford Library",
@@ -6630,6 +6500,16 @@
    "title": "Family Storytime",
    "url": "https://libwww.freelibrary.org/calendar/event/183770"
   },
+  "183771|2026-12-30": {
+   "branch": "Haverford Library",
+   "category": 5,
+   "desc": "Join librarian Andrew for stories, songs, and lots of fun with interactive props and crafts! Intended for children ages 2-5 and their families/caregivers.",
+   "id": "183771",
+   "start": "2026-12-30T10:30:00",
+   "timed": true,
+   "title": "Family Storytime",
+   "url": "https://libwww.freelibrary.org/calendar/event/183771"
+  },
   "183782|2026-11-14": {
    "branch": "Parkway Central Library",
    "category": null,
@@ -6642,7 +6522,7 @@
   },
   "183785|2026-11-30": {
    "branch": "Parkway Central Library",
-   "category": 5,
+   "category": null,
    "desc": "Join us for Chess Club on Mondays from 4:00-4:45 pm! Kids 12 and under are welcome to play and learn. All supplies provided. No experience is necessary; all skill levels welcome!\n This event will be held in the Story Hour Room, within the Central Children's Department.",
    "id": "183785",
    "start": "2026-11-30T16:00:00",
@@ -6702,7 +6582,7 @@
   },
   "183824|2026-11-30": {
    "branch": "Parkway Central Library",
-   "category": 4,
+   "category": null,
    "desc": "This exhibit explores how the 1876 Philadelphia Centennial influenced Americans interest in decorating porcelain and pottery in the late 1800s. On display are periodicals and books printed at the time that share painting techniques and designs for decorators, along with books displaying decorated pottery from Japan and China.",
    "id": "183824",
    "start": "2026-11-30T12:00:00",
@@ -6743,11 +6623,11 @@
   "183835|2026-12-02": {
    "branch": "Parkway Central Library",
    "category": 5,
-   "desc": "Bilingual Chinese Family Storytime\n Have you ever wanted to learn another language? Join us at Parkway Central Library in Montgomery Auditorium for a special Chinese storytime! Part of our Languages of Philadelphia storytime series, this storytime is intended for children aged 6 and under and their caregivers. \n \u53cc\u8bed\u4e2d\u6587\u5bb6\u5ead\u6545\u4e8b\u8868\u6f14\n \u60a8\u662f\u5426\u60f3\u8fc7\u5b66\u4e60\u53e6\u4e00\u95e8\u8bed\u8a00\uff1f\u6b22\u8fce\u6765\u5230\u8cbb\u93ae\u4e2d\u592e\u56fe\u4e66\u9986\u7684\u5927\u5ef3\uff0c\u53c2\u52a0\u4e00\u573a\u7279\u522b\u7684\u4e2d\u6587\u6545\u4e8b\u8868\u6f14\uff01\u4f5c\u4e3a\"\u8d39\u57ce\u8bed\u8a00\u6545\u4e8b\u8868\u6f14\"\u7cfb\u5217\u7684\u4e00\u90e8\u5206\uff0c\u8fd9\u573a\u6545\u4e8b\u66f8\u4e13\u4e3a6\u5c81\u53ca\u4ee5\u4e0b\u7684\u513f\u7ae5\u53ca\u5176\u76d1\u62a4\u4eba\u51c6\u5907\u3002",
+   "desc": "We are very sad to say we have had to cancel next week's Bilingual Chinese Family Storytime. We hope to bring it back again!!\n \u6211\u4eec\u975e\u5e38\u9057\u61be\u5730\u8bf4\uff0c\u4e0b\u5468\u7684\u53cc\u8bed\u4e2d\u6587\u5bb6\u5ead\u6545\u4e8b\u65f6\u95f4\u4e0d\u5f97\u4e0d\u53d6\u6d88\u3002\u6211\u4eec\u5e0c\u671b\u80fd\u518d\u6b21\u4e3e\u529e\uff01\uff01\n Bilingual Chinese Family Storytime\n Have you ever wanted to learn another language? Join us at Parkway Central Library in Montgomery Auditorium for a special Chinese storytime! Part of our Languages of Philadelphia storytime series, this storytime is intended for children aged 6 and under and their caregivers. \n \u53cc\u8bed\u4e2d\u6587\u5bb6\u5ead\u6545\u4e8b\u8868\u6f14\n\u2026",
    "id": "183835",
    "start": "2026-12-02T10:30:00",
    "timed": true,
-   "title": "Languages of Philadelphia: Chinese \u53cc\u8bed\u4e2d\u6587\u5bb6\u5ead\u6545\u4e8b\u8868\u6f14",
+   "title": "CANCELLED - Languages of Philadelphia: Chinese \u53cc\u8bed\u4e2d\u6587\u5bb6\u5ead\u6545\u4e8b\u8868\u6f14",
    "url": "https://libwww.freelibrary.org/calendar/event/183835"
   },
   "183836|2027-01-11": {
@@ -7010,16 +6890,6 @@
    "title": "Toddler Art Studio",
    "url": "https://libwww.freelibrary.org/calendar/event/183965"
   },
-  "183967|2026-11-10": {
-   "branch": "Philadelphia City Institute",
-   "category": null,
-   "desc": "Join library staff on Tuesdays for toddler storytime. We will enjoy songs, stories, rhymes, and follow up with a special toddler playtime!\n This program takes place in the downstairs meeting room on Tuesdays at 11:15 a.m. from November 3 - December 15.",
-   "id": "183967",
-   "start": "2026-11-10T11:15:00",
-   "timed": true,
-   "title": "Toddler Storytime",
-   "url": "https://libwww.freelibrary.org/calendar/event/183967"
-  },
   "183968|2026-11-17": {
    "branch": "Philadelphia City Institute",
    "category": null,
@@ -7212,7 +7082,7 @@
   },
   "184013|2026-12-04": {
    "branch": "Whitman Library",
-   "category": 5,
+   "category": null,
    "desc": "Join Whitman Librarian Ms. Rachel for storytime in the library meeting room!\n Sharing songs, stories, and rhymes will help develop a love of reading from an early age.\n This storytime is geared towards toddlers, preschoolers and their caregivers, but babies and older siblings are welcome. After storytime, attendees are welcome to stay and play with the library's toys in the children's area.\n For day-of event cancellation or updates please check Facebook or call us at 215-685-1754. No school or\u2026",
    "id": "184013",
    "start": "2026-12-04T10:15:00",
@@ -7270,6 +7140,16 @@
    "title": "Adult Fiber Arts Club at Whitman Library",
    "url": "https://libwww.freelibrary.org/calendar/event/184019"
   },
+  "184020|2026-12-08": {
+   "branch": "Whitman Library",
+   "category": 10,
+   "desc": "Are you a fan of crocheting, knitting, weaving, or any other fiber art? Feel free to bring a project or start a new one to our drop-in fiber arts club and meet other fiber artists! All skill levels are welcome. Limited materials will be provided.",
+   "id": "184020",
+   "start": "2026-12-08T17:00:00",
+   "timed": true,
+   "title": "Adult Fiber Arts Club at Whitman Library",
+   "url": "https://libwww.freelibrary.org/calendar/event/184020"
+  },
   "184025|2026-11-12": {
    "branch": "Whitman Library",
    "category": null,
@@ -7302,7 +7182,7 @@
   },
   "184028|2026-12-03": {
    "branch": "Whitman Library",
-   "category": 10,
+   "category": null,
    "desc": "Free yoga every Thursday at Whitman Library, with instructors Janet Faulls and Anne-Marie Mulgrew! This class is for all levels of practice and beginners are welcome. Bring your own mat or use one of ours. Cleaning wipes for mats are also available. This weekly class is sponsored by The Friends of Whitman Library.",
    "id": "184028",
    "start": "2026-12-03T15:30:00",
@@ -7339,6 +7219,16 @@
    "timed": true,
    "title": "Senior Strength Training",
    "url": "https://libwww.freelibrary.org/calendar/event/184033"
+  },
+  "184034|2026-12-08": {
+   "branch": "Whitman Library",
+   "category": null,
+   "desc": "This Senior Strength and Conditioning class, led by a certified instructor, combines hand weights, chair exercises along with cardio work to improve your fitness, strength and balance. All equipment is provided. Please wear comfortable and appropriate attire. This program is sponsored by the Friends of the Whitman Library. No need to register, just show up.",
+   "id": "184034",
+   "start": "2026-12-08T15:00:00",
+   "timed": true,
+   "title": "Senior Strength Training",
+   "url": "https://libwww.freelibrary.org/calendar/event/184034"
   },
   "184039|2026-11-18": {
    "branch": "Whitman Library",
@@ -7389,16 +7279,6 @@
    "timed": true,
    "title": "Preschool Storytime with Patricia Tanumihardja",
    "url": "https://libwww.freelibrary.org/calendar/event/184049"
-  },
-  "184051|2026-11-10": {
-   "branch": "Dwight Evans Library of West Oak Lane",
-   "category": null,
-   "desc": "Join us for four weeks in November when you can learn about file management skills, essential applications like Word, Internet and digital safety, and the basics of using the Cloud. Some keyboarding skills will be helpful, not not required. We will meet in the Computer Lab. Space may be limited.\n Tuesdays from 1:00 - 2:00 p.m. November 3, 10*, 17 and 24.\n * Please note that on November 10, we will meet at 11:30 a.m.",
-   "id": "184051",
-   "start": "2026-11-10T11:30:00",
-   "timed": true,
-   "title": "Computer Basics Class",
-   "url": "https://libwww.freelibrary.org/calendar/event/184051"
   },
   "184052|2026-11-17": {
    "branch": "Dwight Evans Library of West Oak Lane",
@@ -7589,16 +7469,6 @@
    "timed": true,
    "title": "Book Club for Kids",
    "url": "https://libwww.freelibrary.org/calendar/event/184086"
-  },
-  "184091|2026-11-10": {
-   "branch": "Parkway Central Library",
-   "category": null,
-   "desc": "Please join the Digital Deputies in the Science and Wellness Department from 10am-12pm for assistance with your computer, tablet, or phone concerns.\n These sessions are free and open to the public.",
-   "id": "184091",
-   "start": "2026-11-10T10:00:00",
-   "timed": true,
-   "title": "Digital Deputies in the Science and Wellness Department",
-   "url": "https://libwww.freelibrary.org/calendar/event/184091"
   },
   "184092|2026-11-17": {
    "branch": "Parkway Central Library",
@@ -7802,7 +7672,7 @@
   },
   "184134|2026-12-03": {
    "branch": "Wyoming Library",
-   "category": 8,
+   "category": null,
    "desc": "Pet Adoption 101 for Adults\n Thursday, December 3 at 3:30 PM\n ACCT Philadelphia is not just a shelter for homeless animals, but also a place where you can adopt your new best friend! Learn about how to prepare for adoption and what you will need for your new dog or cat, plus low-cost resources to keep your new friend safe and healthy!\n For ages 18 and up.",
    "id": "184134",
    "start": "2026-12-03T15:30:00",
@@ -8220,16 +8090,6 @@
    "title": "Magic the Gathering at the Library",
    "url": "https://libwww.freelibrary.org/calendar/event/184265"
   },
-  "184267|2026-11-10": {
-   "branch": "Roxborough Library",
-   "category": null,
-   "desc": "Join Mr. Rich for stories, songs, rhymes, and dances perfect for infants and toddlers along with their caregivers! Free play with baby-friendly toys and a baby-friendly climbing wall will wrap up the program. Siblings are always welcome.",
-   "id": "184267",
-   "start": "2026-11-10T11:15:00",
-   "timed": true,
-   "title": "Baby Storytime",
-   "url": "https://libwww.freelibrary.org/calendar/event/184267"
-  },
   "184268|2026-11-17": {
    "branch": "Roxborough Library",
    "category": null,
@@ -8362,7 +8222,7 @@
   },
   "184287|2026-12-03": {
    "branch": "Roxborough Library",
-   "category": 1,
+   "category": null,
    "desc": "Are you interested in all things manga and anime? Do you want to hang out with others who feel the same? Then join Meghan Turbitt for a manga drawing class at the library. You will build some drawing skills, learn character design, and be able to experiment with new materials. Or, you can read manga and make new friends! Don't know how to draw? Come anyway. For ages 10 - 18.\n 3:30 - 4:30 p.m.",
    "id": "184287",
    "start": "2026-12-03T15:30:00",
@@ -8490,16 +8350,6 @@
    "title": "Social Services at the Library with a Social Worker",
    "url": "https://libwww.freelibrary.org/calendar/event/184310"
   },
-  "184311|2026-11-10": {
-   "branch": "Thomas F. Donatucci, Sr. Library",
-   "category": null,
-   "desc": "5:45-6:45 pm\n Build your confidence in speaking English while meeting other adults in a casual learning environment. No registration is required. This group is for intermediate/advanced English speakers and is led by Free Library volunteer Harper. \n Questions? Email adultlearningfreelibrary.org or call 215-686-8664.",
-   "id": "184311",
-   "start": "2026-11-10T17:45:00",
-   "timed": true,
-   "title": "English Conversation Group - Intermediate+",
-   "url": "https://libwww.freelibrary.org/calendar/event/184311"
-  },
   "184312|2026-11-17": {
    "branch": "Thomas F. Donatucci, Sr. Library",
    "category": null,
@@ -8549,16 +8399,6 @@
    "timed": true,
    "title": "English Conversation Group - Intermediate+",
    "url": "https://libwww.freelibrary.org/calendar/event/184316"
-  },
-  "184323|2026-11-10": {
-   "branch": "Northeast Regional Library",
-   "category": null,
-   "desc": "Need computer help? Take a free 8-week digital skills course at the Library! Learn how to use a computer, get online, and more. Training provided by Beyond Literacy. \n This session is closed. Please call to register for a future session at 215-474-1235.",
-   "id": "184323",
-   "start": "2026-11-10T11:00:00",
-   "timed": true,
-   "title": "Computer Skills for Beginners - Closed Session",
-   "url": "https://libwww.freelibrary.org/calendar/event/184323"
   },
   "184324|2026-11-24": {
    "branch": "Dwight Evans Library of West Oak Lane",
@@ -8699,16 +8539,6 @@
    "timed": true,
    "title": "Brazilian Adventure: Drumming and Singing",
    "url": "https://libwww.freelibrary.org/calendar/event/184417"
-  },
-  "184420|2026-11-10": {
-   "branch": "Bustleton Library",
-   "category": null,
-   "desc": "Family Storytime\n On Tuesdays at 11:30 AM, we will have a family storytime. Bring your babies, toddlers, and older siblings for stories, songs, and play!",
-   "id": "184420",
-   "start": "2026-11-10T11:30:00",
-   "timed": true,
-   "title": "Family Storytime",
-   "url": "https://libwww.freelibrary.org/calendar/event/184420"
   },
   "184421|2026-11-17": {
    "branch": "Bustleton Library",
@@ -9790,6 +9620,16 @@
    "title": "Twilight Tales Family Story Time",
    "url": "https://libwww.freelibrary.org/calendar/event/184595"
   },
+  "184596|2026-12-15": {
+   "branch": "Blanche A. Nixon/Cobbs Creek Library",
+   "category": null,
+   "desc": "Join us every Tuesday at the library for an interactive Storytime and literacy activity or craft that is fun for the whole family.",
+   "id": "184596",
+   "start": "2026-12-15T17:00:00",
+   "timed": true,
+   "title": "Twilight Tales Family Story Time",
+   "url": "https://libwww.freelibrary.org/calendar/event/184596"
+  },
   "184597|2026-12-22": {
    "branch": "Blanche A. Nixon/Cobbs Creek Library",
    "category": 1,
@@ -10139,16 +9979,6 @@
    "timed": true,
    "title": "Digitize Your Archives",
    "url": "https://libwww.freelibrary.org/calendar/event/184675"
-  },
-  "184677|2026-11-10": {
-   "branch": "Joseph E. Coleman Northwest Regional Library",
-   "category": null,
-   "desc": "Join us for a half-hour of stories, songs, rhymes, and bounces that will help your young child develop important pre-literary skills while you bond and have fun together! This program is intended for our friends ages 2 and under, and their caregivers. Siblings are welcome.",
-   "id": "184677",
-   "start": "2026-11-10T11:30:00",
-   "timed": true,
-   "title": "Baby and Toddler Storytime",
-   "url": "https://libwww.freelibrary.org/calendar/event/184677"
   },
   "184678|2026-11-17": {
    "branch": "Joseph E. Coleman Northwest Regional Library",
@@ -10500,16 +10330,6 @@
    "title": "Mah Jongg Club",
    "url": "https://libwww.freelibrary.org/calendar/event/184737"
   },
-  "184739|2026-11-10": {
-   "branch": "Independence Library",
-   "category": null,
-   "desc": "Tuesdays 11:30 am -1 pm\n\nJoin us as we read about and talk about a variety of topics, including current events, American cultural issues, English grammar, current American expressions, etc. - all with the goal of improving participants' proficiency in spoken and written English. Each week participants will receive an e-mail with links to reading and writing assignments that we will discuss in class. This program is appropriate for intermediate-level English language learners. This group is led\u2026",
-   "id": "184739",
-   "start": "2026-11-10T11:30:00",
-   "timed": true,
-   "title": "Intermediate ESL",
-   "url": "https://libwww.freelibrary.org/calendar/event/184739"
-  },
   "184740|2026-11-17": {
    "branch": "Independence Library",
    "category": null,
@@ -10602,7 +10422,7 @@
   },
   "184752|2027-03-15": {
    "branch": "Dwight Evans Library of West Oak Lane",
-   "category": 1,
+   "category": null,
    "desc": "Do you love Anime and Manga? If so, join our book club. Each session will feature fun activities like Show Tell, drawing, arts and crafts, Anime showings and more. We will also have some snacks. \n Meets once a month from 3:30 - 5:00 p.m. For teens and pre-teens.",
    "id": "184752",
    "start": "2027-03-15T15:30:00",
@@ -10762,7 +10582,7 @@
   },
   "184778|2026-12-09": {
    "branch": "Fishtown Community Library",
-   "category": 3,
+   "category": null,
    "desc": "Love Mahjong or want to learn how to play? Join a group of players of various skill levels each Wednesday between 10:00am and 12:00pm.\n In favorable weather, meet at the tables in front of the Fishtown Rec Center. In unfavorable weather, meet on the library's 3rd floor, accessible by stairs or elevator.",
    "id": "184778",
    "start": "2026-12-09T10:00:00",
@@ -10792,7 +10612,7 @@
   },
   "184781|2026-12-30": {
    "branch": "Fishtown Community Library",
-   "category": 10,
+   "category": 3,
    "desc": "Love Mahjong or want to learn how to play? Join a group of players of various skill levels each Wednesday between 10:00am and 12:00pm.\n In favorable weather, meet at the tables in front of the Fishtown Rec Center. In unfavorable weather, meet on the library's 3rd floor, accessible by stairs or elevator.",
    "id": "184781",
    "start": "2026-12-30T10:00:00",
@@ -10852,7 +10672,7 @@
   },
   "184792|2026-12-08": {
    "branch": "Fishtown Community Library",
-   "category": 3,
+   "category": null,
    "desc": "Build your confidence in speaking English while meeting other adults in a casual learning environment. No registration is required. This group is for intermediate/advanced English speakers and is led by Free Library volunteer Gleb. Questions? Email adultlearningfreelibrary.org or call 215-686-8664.\n\nThis program takes place on the library's 3rd floor, accessible by stairs and elevator.",
    "id": "184792",
    "start": "2026-12-08T17:45:00",
@@ -10879,6 +10699,16 @@
    "timed": true,
    "title": "English Conversation Group",
    "url": "https://libwww.freelibrary.org/calendar/event/184794"
+  },
+  "184795|2026-12-29": {
+   "branch": "Fishtown Community Library",
+   "category": 3,
+   "desc": "Build your confidence in speaking English while meeting other adults in a casual learning environment. No registration is required. This group is for intermediate/advanced English speakers and is led by Free Library volunteer Gleb. Questions? Email adultlearningfreelibrary.org or call 215-686-8664.\n\nThis program takes place on the library's 3rd floor, accessible by stairs and elevator.",
+   "id": "184795",
+   "start": "2026-12-29T17:45:00",
+   "timed": true,
+   "title": "English Conversation Group",
+   "url": "https://libwww.freelibrary.org/calendar/event/184795"
   },
   "184796|2026-12-01": {
    "branch": "Dwight Evans Library of West Oak Lane",
@@ -10932,7 +10762,7 @@
   },
   "184802|2026-12-19": {
    "branch": "Richmond Library",
-   "category": 6,
+   "category": null,
    "desc": "Boyer EQ (Electric Quartet) is a contemporary electric guitar ensemble founded in 2026 at Temple University's Boyer College of Music and Dance. EQ's mission is to advance the use of the electric guitar in contemporary art music by creating collaborative performance spaces for guitarists from a wider variety of backgrounds, and programming new works written by living composers.",
    "id": "184802",
    "start": "2026-12-19T14:00:00",
@@ -11180,16 +11010,6 @@
    "title": "Chess Club",
    "url": "https://libwww.freelibrary.org/calendar/event/184837"
   },
-  "184839|2026-11-10": {
-   "branch": "Lillian Marrero Library",
-   "category": null,
-   "desc": "Join us for a fun morning filled with singing, dancing, and stories followed by a short play session.",
-   "id": "184839",
-   "start": "2026-11-10T11:00:00",
-   "timed": true,
-   "title": "Family Storytime",
-   "url": "https://libwww.freelibrary.org/calendar/event/184839"
-  },
   "184840|2026-11-17": {
    "branch": "Lillian Marrero Library",
    "category": null,
@@ -11209,16 +11029,6 @@
    "timed": true,
    "title": "Family Storytime",
    "url": "https://libwww.freelibrary.org/calendar/event/184841"
-  },
-  "184843|2026-11-10": {
-   "branch": "Parkway Central Library",
-   "category": null,
-   "desc": "Have questions about your computer, tablet, or phone? The Digital Deputies are here to help! Stop by Central Senior Services on the first floor between 10:00 a.m. and 12:00 p.m. for free technology assistance and support.",
-   "id": "184843",
-   "start": "2026-11-10T10:00:00",
-   "timed": true,
-   "title": "Digital Deputies in Central Senior Services",
-   "url": "https://libwww.freelibrary.org/calendar/event/184843"
   },
   "184844|2026-11-11": {
    "branch": "Parkway Central Library",
@@ -11299,16 +11109,6 @@
    "timed": true,
    "title": "Tabletop Role Playing Game Club",
    "url": "https://libwww.freelibrary.org/calendar/event/184854"
-  },
-  "184856|2026-11-10": {
-   "branch": "Lovett Memorial Library",
-   "category": null,
-   "desc": "Come join us for songs, stories, rhymes and lap time!\n Stick around for playtime afterward. This program is intended for ages 0 - 24 months, along with their caregivers.",
-   "id": "184856",
-   "start": "2026-11-10T11:30:00",
-   "timed": true,
-   "title": "Read, Baby, Read Storytime",
-   "url": "https://libwww.freelibrary.org/calendar/event/184856"
   },
   "184857|2026-11-17": {
    "branch": "Lovett Memorial Library",
@@ -12180,6 +11980,16 @@
    "title": "Sensory Storytime and Craft",
    "url": "https://libwww.freelibrary.org/calendar/event/184998"
   },
+  "184998|2026-12-17": {
+   "branch": "Wynnefield Library",
+   "category": 5,
+   "desc": "Join us for an interactive, sensory-friendly Storytime with a fun activity for Autistic children with their families. This program is being offered by the ABA Centers of Pennsylvania.",
+   "id": "184998",
+   "start": "2026-12-17T10:30:00",
+   "timed": true,
+   "title": "Sensory Storytime and Craft",
+   "url": "https://libwww.freelibrary.org/calendar/event/184998"
+  },
   "184999|2026-12-14": {
    "branch": "Independence Library",
    "category": 1,
@@ -12370,16 +12180,6 @@
    "title": "MOONSTONE ARTS CENTER NEW VOICES 2026",
    "url": "https://libwww.freelibrary.org/calendar/event/185018"
   },
-  "185021|2026-11-10": {
-   "branch": "Logan Library",
-   "category": null,
-   "desc": "Join us for a storytime where we will sing and read to our young ones.\n There will be songs, puppets, rhythms, books, and of course laughter and giggles. Stay for playtime immediately following storytime. Best for children aged 2 and under, siblings are welcome too.",
-   "id": "185021",
-   "start": "2026-11-10T11:30:00",
-   "timed": true,
-   "title": "Read, Baby, Read Storytime",
-   "url": "https://libwww.freelibrary.org/calendar/event/185021"
-  },
   "185022|2026-11-17": {
    "branch": "Logan Library",
    "category": null,
@@ -12532,7 +12332,7 @@
   },
   "185046|2026-12-18": {
    "branch": "Ramonita G. de Rodriguez Library",
-   "category": 5,
+   "category": null,
    "desc": "Join Miss Chelsea for storytime!\n This program is geared towards toddlers, but can be adapted for younger and older children. Read, sing, and play at the library!\n Every Friday at 11:00 AM - See you there!",
    "id": "185046",
    "start": "2026-12-18T11:00:00",
@@ -13730,6 +13530,16 @@
    "title": "Winter Tales",
    "url": "https://libwww.freelibrary.org/calendar/event/185256"
   },
+  "185257|2026-12-14": {
+   "branch": "Haddington Library",
+   "category": 5,
+   "desc": "Join Librarian Silas in the evening at the library for an interactive winter-themed storytime that includes favorite read-aloud books and songs. Feel free to come cozy in pajamas! The program is intended for children aged 2-7 and their families, siblings welcome!",
+   "id": "185257",
+   "start": "2026-12-14T17:00:00",
+   "timed": true,
+   "title": "Winter Tales",
+   "url": "https://libwww.freelibrary.org/calendar/event/185257"
+  },
   "185260|2026-12-02": {
    "branch": "Haddington Library",
    "category": null,
@@ -13752,7 +13562,7 @@
   },
   "185265|2026-12-05": {
    "branch": "Haddington Library",
-   "category": 5,
+   "category": null,
    "desc": "Join Librarian Silas at the library for an interactive storytime that includes favorite read-aloud books and songs. If there's interest, there will be a short craft after the program. This program is intended for children aged 0-5 and their families, but older siblings are welcome!",
    "id": "185265",
    "start": "2026-12-05T11:00:00",
@@ -13902,7 +13712,7 @@
   },
   "185295|2026-12-05": {
    "branch": "Roxborough Library",
-   "category": 6,
+   "category": null,
    "desc": "A free concert in the library? What could be better?!\n Live music is back at the library! We are excited to welcome local band Sludge.",
    "id": "185295",
    "start": "2026-12-05T15:00:00",
@@ -13922,7 +13732,7 @@
   },
   "185298|2026-12-07": {
    "branch": "Roxborough Library",
-   "category": 10,
+   "category": null,
    "desc": "Make Magic with us! Drop in for Magic the Gathering night. Whether you are a newbie or an expert, stop by to learn the basic rules and build competence. You can bring your own deck or build one with our cards, provided by Magic Kids. We will have a limited supply of free cards, and we will also have raffles for MTG merch. This program is for teens and adults.\n 4:30 - 6:30 p.m.",
    "id": "185298",
    "start": "2026-12-07T16:30:00",
@@ -13940,6 +13750,16 @@
    "title": "Baby Storytime",
    "url": "https://libwww.freelibrary.org/calendar/event/185302"
   },
+  "185303|2026-12-08": {
+   "branch": "Roxborough Library",
+   "category": 10,
+   "desc": "Join Mr. Rich for stories, songs, rhymes, and dances perfect for infants and toddlers along with their caregivers! Free play with baby-friendly toys and a baby-friendly climbing wall will wrap up the program. Siblings are always welcome.",
+   "id": "185303",
+   "start": "2026-12-08T11:15:00",
+   "timed": true,
+   "title": "Baby Storytime",
+   "url": "https://libwww.freelibrary.org/calendar/event/185303"
+  },
   "185307|2026-12-02": {
    "branch": "Roxborough Library",
    "category": null,
@@ -13949,6 +13769,16 @@
    "timed": true,
    "title": "Baby Storytime",
    "url": "https://libwww.freelibrary.org/calendar/event/185307"
+  },
+  "185308|2026-12-09": {
+   "branch": "Roxborough Library",
+   "category": 10,
+   "desc": "Join Mr. Rich for stories, songs, rhymes, and dances perfect for infants and toddlers along with their caregivers! Free play with baby-friendly toys and a baby-friendly climbing wall will wrap up the program. Siblings are always welcome.",
+   "id": "185308",
+   "start": "2026-12-09T10:30:00",
+   "timed": true,
+   "title": "Baby Storytime",
+   "url": "https://libwww.freelibrary.org/calendar/event/185308"
   },
   "185312|2026-12-01": {
    "branch": "Roxborough Library",
@@ -14022,7 +13852,7 @@
   },
   "185324|2026-12-02": {
    "branch": "Roxborough Library",
-   "category": 10,
+   "category": null,
    "desc": "Join us for an hour of calm, focused meditation in our meeting room. This series will provide an opportunity to explore several different meditation practices. You will be guided by Cameron McMillan, who has taught meditation since 2006, studied with many teachers, and attended numerous residential silent meditation retreats. She also graduated from the ISPP program at Barre Center for Buddhist Studies in 2010 and has continued her practice with her main meditation teacher for close to 30\u2026",
    "id": "185324",
    "start": "2026-12-02T11:30:00",
@@ -14070,6 +13900,16 @@
    "title": "Infant/Toddler Storytime",
    "url": "https://libwww.freelibrary.org/calendar/event/185335"
   },
+  "185336|2026-12-23": {
+   "branch": "Wynnefield Library",
+   "category": 5,
+   "desc": "Come join Ms. Haley for stories, songs, and interactive fun for children 0-2 years old! Stay afterwards for playtime with manipulatives and themed activities.",
+   "id": "185336",
+   "start": "2026-12-23T10:30:00",
+   "timed": true,
+   "title": "Infant/Toddler Storytime",
+   "url": "https://libwww.freelibrary.org/calendar/event/185336"
+  },
   "185342|2026-12-16": {
    "branch": "Wynnefield Library",
    "category": 5,
@@ -14082,7 +13922,7 @@
   },
   "185343|2026-12-10": {
    "branch": "Wynnefield Library",
-   "category": 5,
+   "category": null,
    "desc": "Come join Ms. Haley for stories, songs, and interactive fun for children 2-5 years old! Stay afterwards for playtime with manipulatives and themed activities.",
    "id": "185343",
    "start": "2026-12-10T10:30:00",
@@ -14112,7 +13952,7 @@
   },
   "185359|2026-12-12": {
    "branch": "Wynnefield Library",
-   "category": 1,
+   "category": null,
    "desc": "In celebration of the Free Library of Philadelphia Parkway Central's upcoming 100th Anniversary celebration, children and teens ages 5-17 can come and enjoy \"sipping\" a juice box while \"painting\" a portrait of the African American architect of the Free Library of Philadelphia Parkway Central Library, Julian Abele. Once completed, the portraits will be displayed in the Wynnefield Library Children's Department.",
    "id": "185359",
    "start": "2026-12-12T11:00:00",
@@ -14202,7 +14042,7 @@
   },
   "185369|2027-02-17": {
    "branch": "Oak Lane Library",
-   "category": 10,
+   "category": null,
    "desc": "Drop by for this hands-on program and connect with the past.\n View or collection of posters, newspaper articles, books, pictures, and other documents highlighting the history of East Oak Lane. Get up close and personal with your local archive.",
    "id": "185369",
    "start": "2027-02-17T14:00:00",
@@ -14502,7 +14342,7 @@
   },
   "185409|2026-12-03": {
    "branch": "Lucien E. Blackwell West Philadelphia Regional Library",
-   "category": 3,
+   "category": null,
    "desc": "11 am - 12 pm\n Interested in learning French and helping French speakers practice English? Interested in learning English and helping English speakers practice French? Come join our free informal group.\n Sign up for the interest list: https://bit.ly/BRLEnglishFrench2025 \n Avez-vous envie d'apprendre le franccedil;ais et d'aider les francophones agrave; pratiquer l'anglais? Vous souhaitez apprendre l'anglais et aider les anglophones agrave; pratiquer le franccedil;ais? Rejoignez notre groupe\u2026",
    "id": "185409",
    "start": "2026-12-03T11:00:00",
@@ -14632,7 +14472,7 @@
   },
   "185428|2026-12-07": {
    "branch": "Thomas F. Donatucci, Sr. Library",
-   "category": 3,
+   "category": null,
    "desc": "Build your confidence in speaking English while meeting other adults in a casual learning environment. No registration is required. This group is for intermediate/advanced English speakers and is led by Free Library volunteer Sonya. \n Questions? Email adultlearningfreelibrary.org or call 215-686-8664.",
    "id": "185428",
    "start": "2026-12-07T17:45:00",
@@ -14679,6 +14519,16 @@
    "timed": true,
    "title": "Infant and Toddler Storytime and Playgroup",
    "url": "https://libwww.freelibrary.org/calendar/event/185432"
+  },
+  "185433|2026-12-21": {
+   "branch": "Thomas F. Donatucci, Sr. Library",
+   "category": 3,
+   "desc": "Build your confidence in speaking English while meeting other adults in a casual learning environment. No registration is required. This group is for intermediate/advanced English speakers and is led by Free Library volunteer Sonya. \n Questions? Email adultlearningfreelibrary.org or call 215-686-8664.",
+   "id": "185433",
+   "start": "2026-12-21T17:45:00",
+   "timed": true,
+   "title": "English Conversation Group - Intermediate+",
+   "url": "https://libwww.freelibrary.org/calendar/event/185433"
   },
   "185434|2026-12-14": {
    "branch": "South Philadelphia Library",
@@ -14732,7 +14582,7 @@
   },
   "185444|2026-12-05": {
    "branch": "Independence Library",
-   "category": 3,
+   "category": null,
    "desc": "Saturdays 11 am - 12 pm\n Build your confidence in speaking English while meeting other adults in a casual learning environment. No registration is required. This group is for intermediate/advanced English speakers and is led by Free Library volunteer Gail.",
    "id": "185444",
    "start": "2026-12-05T11:00:00",
@@ -14900,6 +14750,16 @@
    "title": "English Conversation Group - Intermediate+",
    "url": "https://libwww.freelibrary.org/calendar/event/185477"
   },
+  "185479|2026-12-03": {
+   "branch": "Parkway Central Library",
+   "category": 3,
+   "desc": "This group will not meet December 3. The next meeting will be December 10.\n\n10-11 am\n Build your confidence in speaking English while meeting other adults in a casual learning environment. No registration is required. This group is for intermediate/advanced English speakers and is led by Free Library volunteer Elizabeth.\n The group will meet in BRIC 60 on the ground floor. \n Questions? Email adultlearningfreelibrary.org or call 215-686-8664.",
+   "id": "185479",
+   "start": "2026-12-03T10:00:00",
+   "timed": true,
+   "title": "*CANCELED*English Conversation Group - Intermediate+",
+   "url": "https://libwww.freelibrary.org/calendar/event/185479"
+  },
   "185487|2026-12-03": {
    "branch": "Walnut Street West Library",
    "category": 3,
@@ -14942,7 +14802,7 @@
   },
   "185502|2026-12-18": {
    "branch": "Chestnut Hill Library",
-   "category": 3,
+   "category": null,
    "desc": "Build your confidence in speaking English while meeting other adults in a casual learning environment. This group is for intermediate/advanced English speakers and no registration is required. Program is led by Erica, a library volunteer.\n Most Fridays, 3:30 - 4:30 p.m.",
    "id": "185502",
    "start": "2026-12-18T15:30:00",
@@ -15210,6 +15070,16 @@
    "title": "Open Play at the Library",
    "url": "https://libwww.freelibrary.org/calendar/event/185550"
   },
+  "185551|2026-12-18": {
+   "branch": "Lovett Memorial Library",
+   "category": null,
+   "desc": "Come play with blocks, floor puzzles, and other toys! This program is best for children ages 2 - 6 and older siblings are welcome.\n We'll meet from 10:00 - 11:30 a.m. on Fridays in December, in our Storytime Room.",
+   "id": "185551",
+   "start": "2026-12-18T10:00:00",
+   "timed": true,
+   "title": "Open Play at the Library",
+   "url": "https://libwww.freelibrary.org/calendar/event/185551"
+  },
   "185552|2026-11-23": {
    "branch": "Walnut Street West Library",
    "category": null,
@@ -15242,13 +15112,33 @@
   },
   "185556|2026-12-12": {
    "branch": "Lovett Memorial Library",
-   "category": 10,
+   "category": null,
    "desc": "Do you want to go on an adventure? Join our tabletop role playing campaigns. Tabletop Role Playing games (TTRPG) are cooperative group games where each participant plays a character and collaborates to build a narrative as the gameplay progresses. Dungeons and Dragons is the most well-known TTRPG, but we will use other game systems as well. Newcomers are always welcome. Experience is not required, anyone can play. The recommended age is 10 and up.\n Meets most Saturdays, from 12:30 - 4:30 p.m.,\u2026",
    "id": "185556",
    "start": "2026-12-12T12:30:00",
    "timed": true,
    "title": "Tabletop Role Playing Game Club",
    "url": "https://libwww.freelibrary.org/calendar/event/185556"
+  },
+  "185557|2026-12-19": {
+   "branch": "Lovett Memorial Library",
+   "category": null,
+   "desc": "Do you want to go on an adventure? Join our tabletop role playing campaigns. Tabletop Role Playing games (TTRPG) are cooperative group games where each participant plays a character and collaborates to build a narrative as the gameplay progresses. Dungeons and Dragons is the most well-known TTRPG, but we will use other game systems as well. Newcomers are always welcome. Experience is not required, anyone can play. The recommended age is 10 and up.\n Meets most Saturdays, from 12:30 - 4:30 p.m.,\u2026",
+   "id": "185557",
+   "start": "2026-12-19T12:30:00",
+   "timed": true,
+   "title": "Tabletop Role Playing Game Club",
+   "url": "https://libwww.freelibrary.org/calendar/event/185557"
+  },
+  "185558|2026-12-26": {
+   "branch": "Lovett Memorial Library",
+   "category": 10,
+   "desc": "Do you want to go on an adventure? Join our tabletop role playing campaigns. Tabletop Role Playing games (TTRPG) are cooperative group games where each participant plays a character and collaborates to build a narrative as the gameplay progresses. Dungeons and Dragons is the most well-known TTRPG, but we will use other game systems as well. Newcomers are always welcome. Experience is not required, anyone can play. The recommended age is 10 and up.\n Meets most Saturdays, from 12:30 - 4:30 p.m.,\u2026",
+   "id": "185558",
+   "start": "2026-12-26T12:30:00",
+   "timed": true,
+   "title": "Tabletop Role Playing Game Club",
+   "url": "https://libwww.freelibrary.org/calendar/event/185558"
   },
   "185559|2026-12-02": {
    "branch": "Wyoming Library",
@@ -15269,6 +15159,16 @@
    "timed": true,
    "title": "Chess Club",
    "url": "https://libwww.freelibrary.org/calendar/event/185560"
+  },
+  "185561|2026-12-16": {
+   "branch": "Wyoming Library",
+   "category": 10,
+   "desc": "CHESS\n Wednesdays at 3!\n Back by popular demand, the Wyoming Chess Club is back! Come after-school to both learn and play one of the oldest games in the world. Ages 8 and up. Starts at 3:00 p.m.",
+   "id": "185561",
+   "start": "2026-12-16T15:00:00",
+   "timed": true,
+   "title": "Chess Club",
+   "url": "https://libwww.freelibrary.org/calendar/event/185561"
   },
   "185562|2026-12-05": {
    "branch": "Tacony Library",
@@ -15332,7 +15232,7 @@
   },
   "185568|2026-12-15": {
    "branch": "Andorra Library",
-   "category": 8,
+   "category": null,
    "desc": "Let's meditate together! We will explore various modalities of meditation in this ongoing program. Meditation has many benefits. It can reduce stress, help control anxiety, improve sleep and emotional health, and may reduce blood pressure and help control pain.\n Our Meditation Club meets weekly and these sessions will take place virtually. Please be sure to have what you need to be comfortable - loose fitting clothing and something to sit on such as a pillow, bolster or mat. If you have\u2026",
    "id": "185568",
    "start": "2026-12-15T18:00:00",
@@ -15369,6 +15269,16 @@
    "timed": true,
    "title": "Mah Jongg Club",
    "url": "https://libwww.freelibrary.org/calendar/event/185579"
+  },
+  "185580|2026-12-10": {
+   "branch": "Andorra Library",
+   "category": null,
+   "desc": "Do you know how to play American Mah Jongg? If so, join an enthusiastic group of players on Thursdays. We will use the Official Standard Hands and Rules of the National Mah Jongg League - please bring your official game card to play. We will be playing a medium-paced game and there is no need to sign up, just join us. If you have your own set, please bring it along, just in case we need an extra. We will not be betting during these games.\n If you don't know how to play Mah Jongg, this group is\u2026",
+   "id": "185580",
+   "start": "2026-12-10T12:30:00",
+   "timed": true,
+   "title": "Mah Jongg Club",
+   "url": "https://libwww.freelibrary.org/calendar/event/185580"
   },
   "185583|2026-12-05": {
    "branch": "Ramonita G. de Rodriguez Library",
@@ -15450,6 +15360,16 @@
    "title": "Free Self-Service Laundry for Our Unhoused Neighbors",
    "url": "https://libwww.freelibrary.org/calendar/event/185595"
   },
+  "185596|2026-12-30": {
+   "branch": "Ramonita G. de Rodriguez Library",
+   "category": 10,
+   "desc": "Spin Go's mobile self-serve laundry truck will be available every Wednesday outside Rodriguez Library for our unhoused neighbors to clean their clothes. Detergent will be provided.",
+   "id": "185596",
+   "start": "2026-12-30T10:00:00",
+   "timed": true,
+   "title": "Free Self-Service Laundry for Our Unhoused Neighbors",
+   "url": "https://libwww.freelibrary.org/calendar/event/185596"
+  },
   "185601|2026-12-04": {
    "branch": "Parkway Central Library",
    "category": 5,
@@ -15512,7 +15432,7 @@
   },
   "185622|2026-12-05": {
    "branch": "Charles Santore Library",
-   "category": 2,
+   "category": null,
    "desc": "Come meet author and illustrator Greg Pizzoli! He's visiting the Santore Library to read his books aloud, and we'll be giving away free copies while supplies last.",
    "id": "185622",
    "start": "2026-12-05T11:00:00",
@@ -15630,6 +15550,16 @@
    "title": "Chair Yoga with Yoga4Philly",
    "url": "https://libwww.freelibrary.org/calendar/event/185663"
   },
+  "185664|2026-12-16": {
+   "branch": "Bustleton Library",
+   "category": 10,
+   "desc": "Bustleton Library will be offering a Chair Yoga series on Wednesdays at 10:10. Chair Yoga will be presented by Yoga4Philly. \n No registration required.",
+   "id": "185664",
+   "start": "2026-12-16T10:10:00",
+   "timed": true,
+   "title": "Chair Yoga with Yoga4Philly",
+   "url": "https://libwww.freelibrary.org/calendar/event/185664"
+  },
   "185665|2026-12-04": {
    "branch": "Bustleton Library",
    "category": null,
@@ -15642,7 +15572,7 @@
   },
   "185666|2026-12-11": {
    "branch": "Bustleton Library",
-   "category": 2,
+   "category": null,
    "desc": "Fun Friday\n Fridays 3:30 PM\n Join us for crafts and games! This program is for school-age children, beginning at 3:30 p.m.",
    "id": "185666",
    "start": "2026-12-11T15:30:00",
@@ -15892,7 +15822,7 @@
   },
   "185788|2026-12-05": {
    "branch": "Thomas F. Donatucci, Sr. Library",
-   "category": 1,
+   "category": null,
    "desc": "11:30am: Holiday story time, Noon: Santa arrives! Stay for cookies, hot cocoa, and a children's craft activity\n\nYou can now purchase tickets for the Friends' holiday raffle prizes at the library anytime it is open until the drawing on December 5th at 1:30pm. The prizes so far:\n Coloring gift basket\n\nComic Book Basket\n\n\"Elf\" gift basket\n\n\"Feelin' Chili\" basket, slow cooker and chili supplies\n\nItalian Dinner basket, including a gift card to Ristorante Pesto\n\nMain Squeeze gift card\n\nMovie Night\u2026",
    "id": "185788",
    "start": "2026-12-05T11:30:00",
@@ -15970,9 +15900,19 @@
    "title": "Preschool Storytime",
    "url": "https://libwww.freelibrary.org/calendar/event/185814"
   },
+  "185815|2026-12-12": {
+   "branch": "Joseph E. Coleman Northwest Regional Library",
+   "category": 5,
+   "desc": "Join us for stories, songs, rhymes and more! For children ages 2 to 5, along with an adult caregiver. Siblings are always welcome. 11:00 - 11:30 a.m.\n Daycares and other groups should call the library to arrange their own special appointment.",
+   "id": "185815",
+   "start": "2026-12-12T11:00:00",
+   "timed": true,
+   "title": "Preschool Storytime",
+   "url": "https://libwww.freelibrary.org/calendar/event/185815"
+  },
   "185818|2026-12-02": {
    "branch": "Joseph E. Coleman Northwest Regional Library",
-   "category": 1,
+   "category": null,
    "desc": "Fiber artists are invited to join us for an afternoon of crafting and conversation with fellow artists. All skill levels are welcome. Please bring your own project; this is a skill share, not an organized lesson. We will have a sewing machine to use and some supplies will be available.",
    "id": "185818",
    "start": "2026-12-02T13:00:00",
@@ -16079,6 +16019,16 @@
    "timed": true,
    "title": "Teen Video Games",
    "url": "https://libwww.freelibrary.org/calendar/event/185837"
+  },
+  "185838|2026-12-11": {
+   "branch": "Parkway Central Library",
+   "category": 10,
+   "desc": "Join us for video games at the Field Teen Center on Fridays! We play a variety of games. New players and experienced pros welcome. \n\nPrograms at the Field Teen Center are open to individuals ages 12 to 18. Organized groups (including camp groups and school groups) must contact the Teen Center to see if special arrangements are possible.\n Contact TeenCenterfreelibrary.org or call 215-686-5395 for more info.\n Follow FLPTeenCenter on Instagram.\n Teen programming at the Field Teen Center is made\u2026",
+   "id": "185838",
+   "start": "2026-12-11T15:00:00",
+   "timed": true,
+   "title": "Teen Video Games",
+   "url": "https://libwww.freelibrary.org/calendar/event/185838"
   },
   "185840|2027-02-01": {
    "branch": "Tacony Library",
@@ -16309,7 +16259,297 @@
    "timed": true,
    "title": "End of Year Talent Show",
    "url": "https://libwww.freelibrary.org/calendar/event/185886"
+  },
+  "185888|2027-01-09": {
+   "branch": "Wynnefield Library",
+   "category": 1,
+   "desc": "Goodbye 2026, hello 2027! What will this new year look like for YOU? We will reflect, dream, establish goals, and imagine all that 2027 can be as we create vision boards together! Collaging and writing materials will be provided.",
+   "id": "185888",
+   "start": "2027-01-09T11:00:00",
+   "timed": true,
+   "title": "National Vision Board Day Celebration",
+   "url": "https://libwww.freelibrary.org/calendar/event/185888"
+  },
+  "185891|2026-12-03": {
+   "branch": "Lucien E. Blackwell West Philadelphia Regional Library",
+   "category": 8,
+   "desc": "Part of \"Dance! The Series\" for Tweens Teens. Join us at the library to try bucket drumming with Mr. Jordan. Give it a try and learn about types of rhythms, techniques, and percussion instruments, as well as historical and cultural contexts for this kind of music-making.",
+   "id": "185891",
+   "start": "2026-12-03T15:30:00",
+   "timed": true,
+   "title": "Bucket Drumming! With Leon Jordan, Sr.",
+   "url": "https://libwww.freelibrary.org/calendar/event/185891"
+  },
+  "185892|2026-12-01": {
+   "branch": "Lucien E. Blackwell West Philadelphia Regional Library",
+   "category": null,
+   "desc": "Come join the girl scouts for a night of STEM/science-themed activities for\n K - 1st grade students. No sign-up required and open for all!",
+   "id": "185892",
+   "start": "2026-12-01T17:00:00",
+   "timed": true,
+   "title": "Girl Scout STEM Night",
+   "url": "https://libwww.freelibrary.org/calendar/event/185892"
+  },
+  "185894|2027-02-01": {
+   "branch": "Philadelphia City Institute",
+   "category": 8,
+   "desc": "A fun, hands-on introduction to acting for teens. Through storytelling games, improv, and simple character exercises, students will practice using their voice, body, and imagination in a supportive space. No experience needed.\n This program takes place in the ground floor meeting room from 4:00 - 6:00 p.m. Please use the registration link to register for this workshop.",
+   "id": "185894",
+   "start": "2027-02-01T16:00:00",
+   "timed": true,
+   "title": "Introduction to Acting Workshop for Teens",
+   "url": "https://libwww.freelibrary.org/calendar/event/185894"
+  },
+  "185898|2026-12-03": {
+   "branch": "Kingsessing Library",
+   "category": null,
+   "desc": "Calling all babies, toddlers and twos! Librarian Rachel will lead families in stories, songs, tickles, bounces, bubbles and maybe a few peek-a-boos! Afterwards, families can stay in our community room to explore baby toys and socialize. Older siblings welcome.",
+   "id": "185898",
+   "start": "2026-12-03T10:30:00",
+   "timed": true,
+   "title": "Read Baby Read Storytime  Playgroup",
+   "url": "https://libwww.freelibrary.org/calendar/event/185898"
+  },
+  "185899|2026-12-10": {
+   "branch": "Kingsessing Library",
+   "category": 5,
+   "desc": "Calling all babies, toddlers and twos! Librarian Rachel will lead families in stories, songs, tickles, bounces, bubbles and maybe a few peek-a-boos! Afterwards, families can stay in our community room to explore baby toys and socialize. Older siblings welcome.",
+   "id": "185899",
+   "start": "2026-12-10T10:30:00",
+   "timed": true,
+   "title": "Read Baby Read Storytime  Playgroup",
+   "url": "https://libwww.freelibrary.org/calendar/event/185899"
+  },
+  "185900|2026-12-17": {
+   "branch": "Kingsessing Library",
+   "category": 5,
+   "desc": "Calling all babies, toddlers and twos! Librarian Rachel will lead families in stories, songs, tickles, bounces, bubbles and maybe a few peek-a-boos! Afterwards, families can stay in our community room to explore baby toys and socialize. Older siblings welcome.",
+   "id": "185900",
+   "start": "2026-12-17T10:30:00",
+   "timed": true,
+   "title": "Read Baby Read Storytime  Playgroup",
+   "url": "https://libwww.freelibrary.org/calendar/event/185900"
+  },
+  "185901|2026-12-24": {
+   "branch": "Kingsessing Library",
+   "category": 5,
+   "desc": "Calling all babies, toddlers and twos! Librarian Rachel will lead families in stories, songs, tickles, bounces, bubbles and maybe a few peek-a-boos! Afterwards, families can stay in our community room to explore baby toys and socialize. Older siblings welcome.",
+   "id": "185901",
+   "start": "2026-12-24T10:30:00",
+   "timed": true,
+   "title": "Read Baby Read Storytime  Playgroup",
+   "url": "https://libwww.freelibrary.org/calendar/event/185901"
+  },
+  "185910|2026-12-05": {
+   "branch": "Kingsessing Library",
+   "category": 1,
+   "desc": "Join Librarian Rachel for stories, songs and scarves in our community room. After storytime, stay for a craft. The last storytime of every month will be a STEM craft!",
+   "id": "185910",
+   "start": "2026-12-05T10:30:00",
+   "timed": true,
+   "title": "Artsy Craftsy Storytime",
+   "url": "https://libwww.freelibrary.org/calendar/event/185910"
+  },
+  "185911|2026-12-12": {
+   "branch": "Kingsessing Library",
+   "category": 1,
+   "desc": "Join Librarian Rachel for stories, songs and scarves in our community room. After storytime, stay for a craft. The last storytime of every month will be a STEM craft!",
+   "id": "185911",
+   "start": "2026-12-12T10:30:00",
+   "timed": true,
+   "title": "Artsy Craftsy Storytime",
+   "url": "https://libwww.freelibrary.org/calendar/event/185911"
+  },
+  "185912|2026-12-19": {
+   "branch": "Kingsessing Library",
+   "category": 1,
+   "desc": "Join Librarian Rachel for stories, songs and scarves in our community room. After storytime, stay for a craft. The last storytime of every month will be a STEM craft!",
+   "id": "185912",
+   "start": "2026-12-19T10:30:00",
+   "timed": true,
+   "title": "Artsy Craftsy Storytime",
+   "url": "https://libwww.freelibrary.org/calendar/event/185912"
+  },
+  "185922|2026-12-04": {
+   "branch": "Kingsessing Library",
+   "category": null,
+   "desc": "Craft pom-poms and yarn dolls; learn the basics of crochet; finger knit; mushroom knit; or just get cozy with some yarn on a Friday afternoon. Yarn will be out in the children's area starting at 3:30pm and Librarian Rachel will provide a short fiber art craft starting at 4pm every week.\n Experienced crochet and knitting artists welcome to come and share their craft with the next generation. This intergenerational program welcomes all ages.",
+   "id": "185922",
+   "start": "2026-12-04T15:30:00",
+   "timed": true,
+   "title": "Fiber Craft Fridays",
+   "url": "https://libwww.freelibrary.org/calendar/event/185922"
+  },
+  "185923|2026-12-11": {
+   "branch": "Kingsessing Library",
+   "category": 1,
+   "desc": "Craft pom-poms and yarn dolls; learn the basics of crochet; finger knit; mushroom knit; or just get cozy with some yarn on a Friday afternoon. Yarn will be out in the children's area starting at 3:30pm and Librarian Rachel will provide a short fiber art craft starting at 4pm every week.\n Experienced crochet and knitting artists welcome to come and share their craft with the next generation. This intergenerational program welcomes all ages.",
+   "id": "185923",
+   "start": "2026-12-11T15:30:00",
+   "timed": true,
+   "title": "Fiber Craft Fridays",
+   "url": "https://libwww.freelibrary.org/calendar/event/185923"
+  },
+  "185924|2026-12-18": {
+   "branch": "Kingsessing Library",
+   "category": 1,
+   "desc": "Craft pom-poms and yarn dolls; learn the basics of crochet; finger knit; mushroom knit; or just get cozy with some yarn on a Friday afternoon. Yarn will be out in the children's area starting at 3:30pm and Librarian Rachel will provide a short fiber art craft starting at 4pm every week.\n Experienced crochet and knitting artists welcome to come and share their craft with the next generation. This intergenerational program welcomes all ages.",
+   "id": "185924",
+   "start": "2026-12-18T15:30:00",
+   "timed": true,
+   "title": "Fiber Craft Fridays",
+   "url": "https://libwww.freelibrary.org/calendar/event/185924"
+  },
+  "185932|2026-11-30": {
+   "branch": "Parkway Central Library",
+   "category": null,
+   "desc": "Are you interested in crochet? Learn how to crochet or practice your skills with our volunteer, Lily, and other children and teens. \n All supplies will be provided. This program is for children and teens, and will take place in the public area of The Central Children's Department.",
+   "id": "185932",
+   "start": "2026-11-30T15:30:00",
+   "timed": true,
+   "title": "Crochet Club",
+   "url": "https://libwww.freelibrary.org/calendar/event/185932"
+  },
+  "185933|2026-12-07": {
+   "branch": "Parkway Central Library",
+   "category": 1,
+   "desc": "Are you interested in crochet? Learn how to crochet or practice your skills with our volunteer, Lily, and other children and teens. \n All supplies will be provided. This program is for children and teens, and will take place in the public area of The Central Children's Department.",
+   "id": "185933",
+   "start": "2026-12-07T15:30:00",
+   "timed": true,
+   "title": "Crochet Club",
+   "url": "https://libwww.freelibrary.org/calendar/event/185933"
+  },
+  "185935|2026-12-21": {
+   "branch": "Parkway Central Library",
+   "category": 6,
+   "desc": "The Literature department invites you to join us in the Skyline Room (on the 4th floor) for an evening of poetry with Gabriel Ramirez and Saskia Kercy.",
+   "id": "185935",
+   "start": "2026-12-21T18:00:00",
+   "timed": true,
+   "title": "PARKWAY CENTRAL MONDAY POETS SEASON 32",
+   "url": "https://libwww.freelibrary.org/calendar/event/185935"
+  },
+  "185936|2026-12-17": {
+   "branch": "Blanche A. Nixon/Cobbs Creek Library",
+   "category": 10,
+   "desc": "Stop by for Open Office Hours with a Social Worker where you can receive help finding, navigating, and connecting to relevant community and government agencies. This service will be available today from 10:00 a.m. - 12:00 p.m.\n If you have questions, you can email socialservicesfreelibrary.org. Social Workers are also available by phone, Monday - Friday. Please call 215-814-4492.",
+   "id": "185936",
+   "start": "2026-12-17T10:00:00",
+   "timed": true,
+   "title": "Social Services at the Library with a Social Worker",
+   "url": "https://libwww.freelibrary.org/calendar/event/185936"
+  },
+  "185937|2026-12-10": {
+   "branch": "Eastwick Library",
+   "category": null,
+   "desc": "Stop by for Open Office Hours with a Social Worker where you can receive help finding, navigating, and connecting to relevant community and government agencies. This service will be available today from 10:00 a.m. - 12:00 p.m.\n If you have questions, you can email socialservicesfreelibrary.org. Social Workers are also available by phone, Monday - Friday. Please call 215-814-4492.",
+   "id": "185937",
+   "start": "2026-12-10T10:00:00",
+   "timed": true,
+   "title": "Social Services at the Library with a Social Worker",
+   "url": "https://libwww.freelibrary.org/calendar/event/185937"
+  },
+  "185938|2026-12-22": {
+   "branch": "Haddington Library",
+   "category": 10,
+   "desc": "Stop by for Open Office Hours with a Social Worker where you can receive help finding, navigating, and connecting to relevant community and government agencies. This service will be available today from 2:00 p.m. - 5:00 p.m.\n If you have questions, you can email socialservicesfreelibrary.org. Social Workers are also available by phone, Monday - Friday. Please call 215-814-4492.",
+   "id": "185938",
+   "start": "2026-12-22T14:00:00",
+   "timed": true,
+   "title": "Social Services at the Library with a Social Worker",
+   "url": "https://libwww.freelibrary.org/calendar/event/185938"
+  },
+  "185939|2026-12-03": {
+   "branch": "Haverford Library",
+   "category": null,
+   "desc": "Stop by for Open Office Hours with a Social Worker where you can receive help finding, navigating, and connecting to relevant community and government agencies. This service will be available today from 10:00 a.m. - 12:00 p.m.\n If you have questions, you can email socialservicesfreelibrary.org. Social Workers are also available by phone, Monday - Friday. Please call 215-814-4492.",
+   "id": "185939",
+   "start": "2026-12-03T10:00:00",
+   "timed": true,
+   "title": "Social Services at the Library with a Social Worker",
+   "url": "https://libwww.freelibrary.org/calendar/event/185939"
+  },
+  "185940|2026-12-17": {
+   "branch": "Kingsessing Library",
+   "category": 10,
+   "desc": "Stop by for Open Office Hours with a Social Worker where you can receive help finding, navigating, and connecting to relevant community and government agencies. This service will be available today from 2:00 p.m. - 5:00 p.m.\n If you have questions, you can email socialservicesfreelibrary.org. Social Workers are also available by phone, Monday - Friday. Please call 215-814-4492.",
+   "id": "185940",
+   "start": "2026-12-17T14:00:00",
+   "timed": true,
+   "title": "Social Services at the Library with a Social Worker",
+   "url": "https://libwww.freelibrary.org/calendar/event/185940"
+  },
+  "185941|2026-12-03": {
+   "branch": "Lucien E. Blackwell West Philadelphia Regional Library",
+   "category": 10,
+   "desc": "Stop by for Open Office Hours with a Social Worker where you can receive help finding, navigating, and connecting to relevant community and government agencies. This service will be available today from 2:00 p.m. - 5:00 p.m.\n If you have questions, you can email socialservicesfreelibrary.org. Social Workers are also available by phone, Monday - Friday. Please call 215-814-4492.",
+   "id": "185941",
+   "start": "2026-12-03T14:00:00",
+   "timed": true,
+   "title": "Social Services at the Library with a Social Worker",
+   "url": "https://libwww.freelibrary.org/calendar/event/185941"
+  },
+  "185942|2026-12-10": {
+   "branch": "Paschalville Library",
+   "category": 10,
+   "desc": "Stop by for Open Office Hours with a Social Worker where you can receive help finding, navigating, and connecting to relevant community and government agencies. This service will be available today from 2:00 p.m. - 5:00 p.m.\n If you have questions, you can email socialservicesfreelibrary.org. Social Workers are also available by phone, Monday - Friday. Please call 215-814-4492.",
+   "id": "185942",
+   "start": "2026-12-10T14:00:00",
+   "timed": true,
+   "title": "Social Services at the Library with a Social Worker",
+   "url": "https://libwww.freelibrary.org/calendar/event/185942"
+  },
+  "185943|2026-12-14": {
+   "branch": "Walnut Street West Library",
+   "category": 10,
+   "desc": "Stop by for Open Office Hours with a Social Worker where you can receive help finding, navigating, and connecting to relevant community and government agencies. This service will be available today from 2:00 p.m. - 5:00 p.m.\n If you have questions, you can email socialservicesfreelibrary.org. Social Workers are also available by phone, Monday - Friday. Please call 215-814-4492.",
+   "id": "185943",
+   "start": "2026-12-14T14:00:00",
+   "timed": true,
+   "title": "Social Services at the Library with a Social Worker",
+   "url": "https://libwww.freelibrary.org/calendar/event/185943"
+  },
+  "185944|2026-12-26": {
+   "branch": "Northeast Regional Library",
+   "category": 5,
+   "desc": "Kwanzaa Storytime\n Saturday 12/26 at 11am\n Enjoy some Kwanzaa stories followed by a craft. This program is for families with young children.",
+   "id": "185944",
+   "start": "2026-12-26T11:00:00",
+   "timed": true,
+   "title": "Kwanzaa Storytime",
+   "url": "https://libwww.freelibrary.org/calendar/event/185944"
+  },
+  "185945|2026-12-05": {
+   "branch": "Torresdale Library",
+   "category": null,
+   "desc": "Winter Storytime\n Saturday, December 5th at 10:15 am\n Families are welcome to stop by for a winter themed storytime and for a fun game/craft after. Recommended for children 4 and up.\n Interested families can also sign up for our Winter Reading Challenge happening from November 25 through January 31.",
+   "id": "185945",
+   "start": "2026-12-05T10:15:00",
+   "timed": true,
+   "title": "Winter Storytime",
+   "url": "https://libwww.freelibrary.org/calendar/event/185945"
+  },
+  "185952|2026-12-11": {
+   "branch": "Holmesburg Library",
+   "category": 3,
+   "desc": "Switch Gaming\n Come to the library to play some fun games using our new Nintendo Switch. For patrons 18 and younger.",
+   "id": "185952",
+   "start": "2026-12-11T14:30:00",
+   "timed": true,
+   "title": "Switch Gaming",
+   "url": "https://libwww.freelibrary.org/calendar/event/185952"
+  },
+  "185953|2026-12-17": {
+   "branch": "Holmesburg Library",
+   "category": 3,
+   "desc": "Nintendo Switch Gaming\n Come to the library to play some fun games using our new Nintendo Switch. For patrons 18 and younger.",
+   "id": "185953",
+   "start": "2026-12-17T14:30:00",
+   "timed": true,
+   "title": "Nintendo Switch Gaming",
+   "url": "https://libwww.freelibrary.org/calendar/event/185953"
   }
  },
- "last_run": "2026-11-24T21:08:54.237990+00:00"
+ "last_run": "2026-11-25T20:26:15.793971+00:00"
 }
