@@ -929,12 +929,6 @@
   "time": "19:00",
   "url": "https://www.ticketmaster.com/reconnect-2026-the-starting-line-with-philadelphia-pennsylvania-12-19-2026/event/02006538D1AD613C?_gl=1*1g07unj*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzAkdDE3OTM0NzQ4MDMkajYwJGwwJGgw"
  },
- "515546": {
-  "checked": "2026-11-08",
-  "source": "venue-site:thefillmorephilly.com",
-  "time": "20:00",
-  "url": "https://www.ticketmaster.com/laya-lipstick-n-leather-philadelphia-pennsylvania-11-24-2026/event/0200654C0253C671?_gl=1*12ycfqx*_ga*Mjk2MzgzMTU2LjE3ODUzNzkxMDI.*_ga_C1T806G4DF*czE3OTM0NzQ4MDMkbzckZzEkdDE3OTM0NzYzMDUkajYwJGwwJGgw"
- },
  "515548": {
   "checked": "2026-11-08",
   "source": "venue-site:thefillmorephilly.com",
@@ -1180,12 +1174,6 @@
   "source": "blocked-site",
   "time": null,
   "url": "https://www.tixr.com/groups/wowphilly/events/chris-farren-208499"
- },
- "516303": {
-  "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.ticketmaster.com/event/30006551A94C3435?_gl=1*1tm9qv1*_gcl_au*NzAxNzc2MDE1LjE3OTA1NDg3ODc.*_ga*NjMyNTc1NDU5LjE3ODIyNDI0ODk.*_ga_2X5Q2J1M51*czE3OTM5ODAyMDIkbzUkZzEkdDE3OTM5ODA2NzAkajQwJGwwJGgw"
  },
  "516305": {
   "checked": "2026-11-08",
@@ -2424,127 +2412,127 @@
   "url": "https://www.tixr.com/groups/118north/events/bill-payne-of-little-feat-a-performance-discussion-signing-for-his-memoir-carnival-ghosts-214560"
  },
  "518152": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:530",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fmainliners-nikki-lopez-philly-tickets%2F14335354&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518153": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:530",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fdevon-gabriella-nikki-lopez-philly-tickets%2F14404594&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518154": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:530",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fcrooked-fingers-julia-barfield-nikki-lopez-philly-tickets%2F14395254&amp;utm_medium=affiliate"
  },
  "518155": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:530",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fyouth-fountain-not-my-weekend-nikki-lopez-philly-tickets%2F14335004&amp;utm_medium=affiliate"
  },
  "518156": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:530",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fearth-to-eve-nikki-lopez-philly-tickets%2F14393194&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518157": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:530",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fradio-free-alice-nikki-lopez-philly-tickets%2F14435714&amp;utm_medium=affiliate"
  },
  "518158": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:530",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fbaby-bugs-elliot-lee-nikki-lopez-philly-tickets%2F14822203&amp;utm_medium=affiliate"
  },
  "518159": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:530",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fdouble-camp-alt-bloom-nikki-lopez-philly-tickets%2F14394234&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518160": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:530",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fwill-linley-could-nikki-lopez-philly-tickets%2F14320654&amp;utm_medium=affiliate"
  },
  "518161": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:530",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fjosh-joplin-group-valley-lodge-nikki-lopez-philly-tickets%2F14243934&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518162": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:530",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fbabes-in-canyon-smokey-brights-nikki-lopez-philly-tickets%2F14416604&amp;utm_medium=affiliate"
  },
  "518190": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:202",
   "time": null,
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/32519014/railroad-earth-1127-stroudsburg-sherman-theater?utm_source=jambase"
  },
  "518191": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:202",
   "time": null,
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/57918582/railroad-earth-1128-stroudsburg-sherman-theater?utm_source=jambase"
  },
  "518192": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:202",
   "time": null,
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/79160160/the-eric-mintel-quartetcharlie-brown-jazz-holiday-concert-stroudsburg-sherman-theater?utm_source=jambase"
  },
  "518193": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:202",
   "time": null,
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/52725376/jessica-lynns-a-very-merry-classic-christmas-stroudsburg-sherman-theater?utm_source=jambase"
  },
  "518196": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:202",
   "time": null,
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/89835706/greensky-bluegrass-stroudsburg-sherman-theater?utm_source=jambase"
  },
  "518204": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "no-time-found",
   "time": null,
   "url": "https://skypac.org/?utm_source=jambase"
  },
  "518205": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "no-time-found",
   "time": null,
   "url": "https://skypac.org/the-wood-brothers/"
  },
  "518206": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "no-time-found",
   "time": null,
   "url": "https://skypac.org/?utm_source=jambase"
  },
  "518207": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "no-time-found",
   "time": null,
   "url": "https://skypac.org/from-good-homes/"
  },
  "518208": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "no-time-found",
   "time": null,
   "url": "https://skypac.org/from-good-homes/"
@@ -2640,61 +2628,61 @@
   "url": "https://www.axs.com/events/1645221/bunt-tickets?cid=usaffjambase"
  },
  "518227": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "no-time-found",
   "time": null,
   "url": "https://theticketing.co/e/minka-nov27?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
  },
  "518228": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "no-time-found",
   "time": null,
   "url": "https://theticketing.co/e/shrimpnblitz?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
  },
  "518229": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "no-time-found",
   "time": null,
   "url": "https://theticketing.co/e/firesidegrassplayers?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
  },
  "518230": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "no-time-found",
   "time": null,
   "url": "https://theticketing.co/e/octavecatdec10?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
  },
  "518231": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "no-time-found",
   "time": null,
   "url": "https://theticketing.co/e/ctsdec19?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
  },
  "518232": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "no-time-found",
   "time": null,
   "url": "https://theticketing.co/e/tdkhbg?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
  },
  "518233": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "no-time-found",
   "time": null,
   "url": "https://theticketing.co/e/dpaisley?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
  },
  "518234": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:404",
   "time": null,
   "url": "https://abcbrew.com/the-abbey-bar/?utm_source=jambase"
  },
  "518235": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "no-time-found",
   "time": null,
   "url": "https://theticketing.co/e/joeyabbeybar?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
  },
  "518236": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "no-time-found",
   "time": null,
   "url": "https://theticketing.co/e/chillton?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
@@ -2808,31 +2796,31 @@
   "url": "https://www.axs.com/events/1607350/big-bad-voodoo-daddy-tickets?skin=keswick&amp;_gl=1*bu1irq*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
  },
  "518308": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Ffantastic-cat-asbury-park-new-jersey-11-25-2026%2Fevent%2F000064A8EE35CD1F%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518309": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fdave-hause-the-mermaid-asbury-park-new-jersey-11-27-2026%2Fevent%2F000064BA1463F167%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518310": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fsuper-70s-show-feat-super-trans-asbury-park-new-jersey-11-28-2026%2Fevent%2F00006548128E94EC%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518311": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fgrayscale-asbury-park-new-jersey-12-04-2026%2Fevent%2F0000652BBCCB6D29%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518312": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fa-big-band-holiday-to-remember-asbury-park-new-jersey-12-11-2026%2Fevent%2F0000652A1C7F3C41%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
@@ -2844,97 +2832,97 @@
   "url": "https://www.ticketmaster.com/event/0000650EB3B74868"
  },
  "518314": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fjesse-malin-asbury-park-new-jersey-12-13-2026%2Fevent%2F00006550D097E9B9%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518315": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fjake-thistle-band-asbury-park-new-jersey-12-18-2026%2Fevent%2F000064F3FD79C5E5%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518316": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-nerds-annual-holiday-show-asbury-park-new-jersey-12-19-2026%2Fevent%2F00006545038A30F6%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518317": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fsandstorm-festival-holiday-edition-21-event-asbury-park-new-jersey-12-27-2026%2Fevent%2F0000655CD8874AEF%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518318": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fportugal-the-man-in-the-mountain-asbury-park-new-jersey-01-07-2027%2Fevent%2F00006558C862F9C2&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518319": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-e-street-shuffle-tribute-to-asbury-park-new-jersey-01-09-2027%2Fevent%2F00006564D758E31D%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518320": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Feddie-testa-band-with-asbury-jukes-asbury-park-new-jersey-02-06-2027%2Fevent%2F00006559F9B0FA6D&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518321": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fsuit-mai-tai-asbury-park-new-jersey-02-20-2027%2Fevent%2F0000650B45C7D875&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518322": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-mary-wallopers-asbury-park-new-jersey-03-05-2027%2Fevent%2F00006505EA26D322&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518323": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-funeral-portrait-a-hex-on-asbury-park-new-jersey-03-10-2027%2Fevent%2F00006564EC8915BF&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518324": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Falaska-thunderfck-the-revolution-tour-asbury-park-new-jersey-03-12-2027%2Fevent%2F00006522AA13422A&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518325": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fmarcy-playground-wheatus-asbury-park-new-jersey-03-20-2027%2Fevent%2F00006563CA21B2B3&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518326": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fblondshell-scaring-strangers-tour-asbury-park-new-jersey-03-23-2027%2Fevent%2F00006538E67CCB2E&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518327": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Falmost-monday-us-tour-2027-asburypark-asbury-park-new-jersey-03-26-2027%2Fevent%2F0000656EF8CE7834&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518328": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-growlers-city-club-live-10th-asbury-park-new-jersey-04-16-2027%2Fevent%2F00006550D2E1F05E&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518329": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Ffour-year-strong-rise-or-die-asbury-park-new-jersey-04-27-2027%2Fevent%2F0000654ECE14F32C&amp;utm_medium=affiliate&amp;utm_source=jambase"
@@ -2952,25 +2940,25 @@
   "url": "https://www.tixr.com/groups/anchorrockclub/events/ty-segall-214294?utm_campaign=jambase&amp;utm_source=jambase"
  },
  "518333": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fcatch-your-breath-not-broken-enough-allentown-pennsylvania-11-27-2026%2Fevent%2F300064B6B60E6FE9%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518334": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fski-mask-the-slump-god-allentown-pennsylvania-12-18-2026%2Fevent%2F30006562AD2F5354%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518335": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Falexandra-kay-the-one-woman-show-allentown-pennsylvania-01-30-2027%2Fevent%2F3000655B03C1DC0E&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518336": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-funeral-portrait-a-hex-on-allentown-pennsylvania-03-06-2027%2Fevent%2F300065624904FDC2&amp;utm_medium=affiliate&amp;utm_source=jambase"
@@ -3012,127 +3000,127 @@
   "url": "https://www.st94.com/events/avi-kaplan-down-the-divine-tour/"
  },
  "518349": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://boxoffice.amtshows.com/online/mapSelect.asp?doWork::WSmap::loadMap=Load&amp;createBO::WSmap=1&amp;BOparam::WSmap::loadMap::performance_ids=D2ACDF9F-4370-4A26-ABD7-D1DD4060315B&amp;_gl=1*18cdvb8*_gcl_au*MTE1ODQ0NzM3NC4xNzkzNzMyODE4LjIyNjExOTEyLjE3OTUwMTEwMDkuMTc5NTAxMTAwOC4xODAxMjQ2OTI1LjE3OTUwMTEwMDkuMTc5NTAxMTAwOA.."
  },
  "518351": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://boxoffice.amtshows.com/online/mapSelect.asp?doWork::WSmap::loadMap=Load&amp;createBO::WSmap=1&amp;BOparam::WSmap::loadMap::performance_ids=EFC827E1-079E-4FD2-BB81-3C3A9275F055&amp;_gl=1*1q5zt5t*_gcl_au*MTE1ODQ0NzM3NC4xNzkzNzMyODE4LjE1NTA4MzE5OTUuMTc5MzczMzIwNC4xNzkzNzMzMjAzLjE1NDAwMTc5MjQuMTc5MzczMzIwNC4xNzkzNzMzMjAz"
  },
  "518356": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fwe-three-kings-the-irish-dance-jim-thorpe-pennsylvania-12-11-2026%2Fevent%2F02006521DC203887%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518357": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fsara-evans-holiday-road-tour-jim-thorpe-pennsylvania-12-12-2026%2Fevent%2F02006516FDA7DEE1%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518358": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fback-to-the-eighties-with-jessies-jim-thorpe-pennsylvania-01-30-2027%2Fevent%2F0200652FD2073B02&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518359": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fchris-janson-jim-thorpe-pennsylvania-02-12-2027%2Fevent%2F02006523FB6DE851&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518360": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fumphreys-mcgee-fresh-cut-2027-jim-thorpe-pennsylvania-02-13-2027%2Fevent%2F02006549D246D3CA&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518361": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Flittle-feat-the-last-farewell-tour-jim-thorpe-pennsylvania-02-21-2027%2Fevent%2F02006530A410C6A4&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518362": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-musical-box-presentsand-then-there-jim-thorpe-pennsylvania-02-26-2027%2Fevent%2F02006562EA0CBFC0&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518363": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fgaelic-storm-jim-thorpe-pennsylvania-03-05-2027%2Fevent%2F020065539DAC513A&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518364": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fwarrant-jim-thorpe-pennsylvania-03-06-2027%2Fevent%2F0200656CE5014AF4&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518365": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Flive-wire-the-ultimate-acdc-tribute-jim-thorpe-pennsylvania-03-13-2027%2Fevent%2F02006535DA21F0F1&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518366": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Furiah-heep-magicians-farewell-tour-jim-thorpe-pennsylvania-03-19-2027%2Fevent%2F0200656CEC2F5DDB&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518367": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-outlaws-jim-thorpe-pennsylvania-03-20-2027%2Fevent%2F02006553E181B053&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518368": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fmarty-stuart-his-fabulous-superlatives-jim-thorpe-pennsylvania-04-01-2027%2Fevent%2F0200654A08D37E23&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518369": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fjethro-tulls-martin-barre-the-2027-jim-thorpe-pennsylvania-04-17-2027%2Fevent%2F0200653CE49D1F88&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518370": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Ffirehouse-and-white-lion-jim-thorpe-pennsylvania-04-30-2027%2Fevent%2F02006546A1A97176&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518371": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fhermans-hermits-starring-peter-noone-jim-thorpe-pennsylvania-05-07-2027%2Fevent%2F0200656D94888308&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518372": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fhannah-harper-behind-this-guitar-tour-jim-thorpe-pennsylvania-05-08-2027%2Fevent%2F02006566EBEF287D&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518410": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fmolly-hatchet-reading-pennsylvania-12-12-2026%2Fevent%2F0200648FA0F7BE88&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518411": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Finsomnium-amorphis-reading-pennsylvania-12-18-2026%2Fevent%2F02006517B800C0A5%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
@@ -3144,103 +3132,103 @@
   "url": "https://link.dice.fm/ib20596ac065?utm_source=jambase"
  },
  "518413": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fmax-b-reading-pennsylvania-01-15-2027%2Fevent%2F020064FE19E89CA9&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518414": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fas-i-lay-dying-reading-pennsylvania-02-17-2027%2Fevent%2F0200652B9F77CC3C&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518415": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fdead-again-type-o-negative-tribute-reading-pennsylvania-02-27-2027%2Fevent%2F020065630B1DCFDB&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518416": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fpowerman-5000-reading-pennsylvania-04-30-2027%2Fevent%2F0200652A336E7083&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518417": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fperreoland-featuring-nicky-jam-reading-pennsylvania-11-27-2026%2Fevent%2F020064BB0C5FD55D%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518418": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fdalvin-la-melodia-reading-pennsylvania-02-05-2027%2Fevent%2F02006539A5D6B35E&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518419": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fsoul-nation-events-presents-rb-sunday-reading-pennsylvania-02-21-2027%2Fevent%2F0200654DF94631B8&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518420": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Flil-wayne-20-years-of-carter-reading-pennsylvania-02-26-2027%2Fevent%2F0200646CBDC2C268&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518421": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Frod-stewart-reading-pennsylvania-03-02-2027%2Fevent%2F0200653CC47EC202&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518422": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fstaind-break-the-cycle-25th-anniversary-reading-pennsylvania-03-09-2027%2Fevent%2F02006541B36EAC1B&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518423": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fjay-wheeler-lvf-tour-reading-pennsylvania-03-25-2027%2Fevent%2F0200653E9FA592E2&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518424": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fmercyme-ben-fuller-peter-burton-reading-pennsylvania-04-04-2027%2Fevent%2F0200654CCF138C02&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518425": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fmarc-anthony-the-last-dance-reading-pennsylvania-04-10-2027%2Fevent%2F0200654FBC8EBAFE&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518427": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:202",
   "time": null,
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/55489437/emo-night-philly-karaoke-philadelphia-kung-fu-necktie-kfn?utm_source=jambase"
  },
  "518428": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:202",
   "time": null,
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/77648458/montana-700-the-reminiscing-tour-philadelphia-kung-fu-necktie?utm_source=jambase"
  },
  "518429": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:202",
   "time": null,
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/72731461/teenage-wrist-philadelphia-kung-fu-necktie?utm_source=jambase"
  },
  "518430": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:202",
   "time": null,
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/72130610/islandman-philadelphia-kung-fu-necktie?utm_source=jambase"
@@ -3282,19 +3270,19 @@
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fdylan-gossett-the-ramblin-tour-2027-philadelphia-pennsylvania-04-06-2027%2Fevent%2F0200653DC1683C79&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518438": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fwxpn-welcomes-nathaniel-rateliff-endless-horizon-philadelphia-pennsylvania-04-07-2027%2Fevent%2F02006569CBBDB0A6&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518439": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fbebe-and-cece-winans-the-encore-philadelphia-pennsylvania-04-14-2027%2Fevent%2F02006564D84CB22A&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518440": {
-  "checked": "2026-11-18",
+  "checked": "2026-11-25",
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fwarren-zeiders-no-brakes-tour-philadelphia-pennsylvania-04-22-2027%2Fevent%2F0200653DC346439C&amp;utm_medium=affiliate&amp;utm_source=jambase"
@@ -3678,9 +3666,9 @@
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fchelsea-cutler-is-this-the-end-philadelphia-pennsylvania-02-10-2027%2Fevent%2F020065379D7B90A6&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518578": {
-  "checked": "2026-11-19",
-  "source": "http:403",
-  "time": null,
+  "checked": "2026-11-25",
+  "source": "venue-site:thefillmorephilly.com (name match)",
+  "time": "20:00",
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2F2hollis-the-pirouette-tour-philadelphia-pennsylvania-02-16-2027%2Fevent%2F02006553F90FD55F&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518579": {
