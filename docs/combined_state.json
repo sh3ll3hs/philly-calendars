@@ -5803,7 +5803,7 @@
 "fetched": "2026-11-15"
 }
 },
-"last_run": "2026-11-26T08:35:35.732702+00:00",
+"last_run": "2026-11-26T20:04:07.704317+00:00",
 "sources": {
 "2ndstfestival": {
 "checked": "2026-11-26",
@@ -5893,12 +5893,12 @@
 "centercityevents": {
 "checked": "2026-11-26",
 "error": "",
-"events": 13
+"events": 12
 },
 "chconservancy": {
 "checked": "2026-11-26",
-"error": "",
-"events": 23
+"error": "error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+"events": 0
 },
 "cherrystreetpier": {
 "checked": "2026-11-26",
@@ -5917,13 +5917,13 @@
 },
 "chinatownpcdc": {
 "checked": "2026-11-26",
-"error": "",
+"error": "blocked: BlockedError: 403 from chinatown-pcdc.org",
 "events": 0
 },
 "circularphiladelphia": {
 "checked": "2026-11-26",
-"error": "",
-"events": 5
+"error": "error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+"events": 0
 },
 "curtis": {
 "checked": "2026-11-26",
@@ -6148,7 +6148,7 @@
 "freelibraryfdn": {
 "checked": "2026-11-26",
 "error": "",
-"events": 4
+"events": 0
 },
 "friendsofcolumbussq": {
 "checked": "2026-11-26",
@@ -6188,12 +6188,12 @@
 "hive76": {
 "checked": "2026-11-26",
 "error": "",
-"events": 8
+"events": 7
 },
 "icaphila": {
 "checked": "2026-11-26",
 "error": "",
-"events": 5
+"events": 0
 },
 "inliquidart": {
 "checked": "2026-11-26",
@@ -6307,8 +6307,8 @@
 },
 "mtairycdc": {
 "checked": "2026-11-26",
-"error": "",
-"events": 10
+"error": "blocked: BlockedError: 403 from mtairycdc.org",
+"events": 0
 },
 "muralarts": {
 "checked": "2026-11-26",
@@ -6352,7 +6352,7 @@
 },
 "olneyculturelab": {
 "checked": "2026-11-26",
-"error": "",
+"error": "error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
 "events": 0
 },
 "paflaxproject": {
@@ -6408,16 +6408,16 @@
 "phillyjazzscene": {
 "checked": "2026-11-26",
 "error": "",
-"events": 162
+"events": 163
 },
 "phillyorchards": {
 "checked": "2026-11-26",
 "error": "",
-"events": 1
+"events": 0
 },
 "phillyrollerderby": {
 "checked": "2026-11-26",
-"error": "",
+"error": "error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
 "events": 0
 },
 "pistolasdelsur": {
@@ -6427,8 +6427,8 @@
 },
 "pleasetouchmuseum": {
 "checked": "2026-11-26",
-"error": "",
-"events": 300
+"error": "error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+"events": 0
 },
 "popupplay": {
 "checked": "2026-11-26",
@@ -6468,7 +6468,7 @@
 "riverfrontnorth": {
 "checked": "2026-11-26",
 "error": "",
-"events": 0
+"events": 1
 },
 "saintlazarusbar": {
 "checked": "2026-11-26",
@@ -6487,8 +6487,8 @@
 },
 "schuylkillcenter": {
 "checked": "2026-11-26",
-"error": "",
-"events": 28
+"error": "blocked: BlockedError: 403 from schuylkillcenter.org",
+"events": 0
 },
 "sciencehistory": {
 "checked": "2026-11-26",

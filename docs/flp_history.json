@@ -260,16 +260,6 @@
    "title": "Coffee  Conversations: An Open Mic Spoken Word Night",
    "url": "https://libwww.freelibrary.org/calendar/event/170496"
   },
-  "170874|2026-11-11": {
-   "branch": "Parkway Central Library",
-   "category": null,
-   "desc": "**Sew What cancelled today due to the holiday. Join us again on Thurs Nov 12, or Weds Nov 18**\n Sew What?! Is a clever and creative get together for crafters who do crochet, knitting, sewing, embroidery, quilting, felting, and more. Want to share what you're making with other textile crafters? Join us to collaborate and learn! Our staff of library workers can help you learn to use a sewing machine or other craft tools, and refer you to books to learn from.\n\nSew What meets in-person, Wednesdays\u2026",
-   "id": "170874",
-   "start": "2026-11-11T14:00:00",
-   "timed": true,
-   "title": "**CANCELLED** - Sew What?! Afternoon Sewcial - Needle Crafts",
-   "url": "https://libwww.freelibrary.org/calendar/event/170874"
-  },
   "170875|2026-11-18": {
    "branch": "Parkway Central Library",
    "category": null,
@@ -779,16 +769,6 @@
    "timed": true,
    "title": "Identity Theft  Fraud Prevention-with PFCU",
    "url": "https://libwww.freelibrary.org/calendar/event/175924"
-  },
-  "175934|2026-11-11": {
-   "branch": "Wyoming Library",
-   "category": null,
-   "desc": "Free English as a Second Language I course with Community College of Philadelphia's English as A Second Language Institute\n ESL I: Beginner\n Mondays and Wednesdays, 10:00 AM - 12:30 PM (August 26 - December 16, 2026)\n Registration is required and Learners must take a placement test prior to the start of class.\n Email Dorianna Estes at destesccp.edu for more information or questions.",
-   "id": "175934",
-   "start": "2026-11-11T10:00:00",
-   "timed": true,
-   "title": "ESL I: English as a Second Language Class",
-   "url": "https://libwww.freelibrary.org/calendar/event/175934"
   },
   "175935|2026-11-16": {
    "branch": "Wyoming Library",
@@ -1499,16 +1479,6 @@
    "timed": true,
    "title": "Infant and Toddler Storytime and Playgroup",
    "url": "https://libwww.freelibrary.org/calendar/event/178536"
-  },
-  "178539|2026-11-11": {
-   "branch": "Ramonita G. de Rodriguez Library",
-   "category": null,
-   "desc": "Spin Go's mobile self-serve laundry truck will be available every Wednesday outside Rodriguez Library for our unhoused neighbors to clean their clothes. Detergent will be provided.",
-   "id": "178539",
-   "start": "2026-11-11T10:00:00",
-   "timed": true,
-   "title": "Free Self-Service Laundry for Our Unhoused Neighbors",
-   "url": "https://libwww.freelibrary.org/calendar/event/178539"
   },
   "178540|2026-11-18": {
    "branch": "Ramonita G. de Rodriguez Library",
@@ -2440,6 +2410,16 @@
    "title": "Toddler Storytime",
    "url": "https://libwww.freelibrary.org/calendar/event/181341"
   },
+  "181342|2026-12-31": {
+   "branch": "South Philadelphia Library",
+   "category": 5,
+   "desc": "Fun stories and sing-alongs for early literacy development! \n Recommended for children ages 1-3 and their families.",
+   "id": "181342",
+   "start": "2026-12-31T10:00:00",
+   "timed": true,
+   "title": "Toddler Storytime",
+   "url": "https://libwww.freelibrary.org/calendar/event/181342"
+  },
   "181353|2026-11-17": {
    "branch": "South Philadelphia Library",
    "category": null,
@@ -2529,6 +2509,16 @@
    "timed": true,
    "title": "Teen Super Smash Club",
    "url": "https://libwww.freelibrary.org/calendar/event/181388"
+  },
+  "181389|2026-12-08": {
+   "branch": "South Philadelphia Library",
+   "category": 10,
+   "desc": "Join us for Super Smash Bros on the Switch! New players and experienced pros are all welcome. Hang out, play games, make new friends.\n From 3:30 to 5:00 p.m. in the Computer Lab. Snacks provided.",
+   "id": "181389",
+   "start": "2026-12-08T15:30:00",
+   "timed": true,
+   "title": "Teen Super Smash Club",
+   "url": "https://libwww.freelibrary.org/calendar/event/181389"
   },
   "181400|2026-11-23": {
    "branch": "South Philadelphia Library",
@@ -3170,16 +3160,6 @@
    "title": "Lindsey Fitzharris Sleuth-Hound",
    "url": "https://libwww.freelibrary.org/calendar/event/182035"
   },
-  "182038|2026-11-11": {
-   "branch": "Blanche A. Nixon/Cobbs Creek Library",
-   "category": null,
-   "desc": "A monthly teen program that will incorporate robotics, engineering, and Live Science so teens can experience a variety of hands-on STEM activities throughout the fall.",
-   "id": "182038",
-   "start": "2026-11-11T15:30:00",
-   "timed": true,
-   "title": "Sparklab STEM: Robotics  Engineering",
-   "url": "https://libwww.freelibrary.org/calendar/event/182038"
-  },
   "182039|2026-12-16": {
    "branch": "Blanche A. Nixon/Cobbs Creek Library",
    "category": 8,
@@ -3329,16 +3309,6 @@
    "timed": true,
    "title": "Read, Baby, Read Storytime and Playgroup",
    "url": "https://libwww.freelibrary.org/calendar/event/182132"
-  },
-  "182141|2026-11-11": {
-   "branch": "Oak Lane Library",
-   "category": null,
-   "desc": "Join Mr. Alec and Mr. Turtle while we read stories, sing songs, and play! For ages 3 - 5 years old, their siblings, and caregivers.\n Wednesdays from 10:30 - 11:30 a.m.",
-   "id": "182141",
-   "start": "2026-11-11T10:30:00",
-   "timed": true,
-   "title": "Preschool Storytime",
-   "url": "https://libwww.freelibrary.org/calendar/event/182141"
   },
   "182142|2026-11-18": {
    "branch": "Oak Lane Library",
@@ -11030,16 +11000,6 @@
    "title": "Family Storytime",
    "url": "https://libwww.freelibrary.org/calendar/event/184841"
   },
-  "184844|2026-11-11": {
-   "branch": "Parkway Central Library",
-   "category": null,
-   "desc": "Have questions about your computer, tablet, or phone? The Digital Deputies are here to help! Stop by Central Senior Services on the first floor between 10:00 a.m. and 12:00 p.m. for free technology assistance and support.",
-   "id": "184844",
-   "start": "2026-11-11T10:00:00",
-   "timed": true,
-   "title": "Digital Deputies in Central Senior Services",
-   "url": "https://libwww.freelibrary.org/calendar/event/184844"
-  },
   "184845|2026-11-17": {
    "branch": "Parkway Central Library",
    "category": null,
@@ -14812,7 +14772,7 @@
   },
   "185503|2026-12-05": {
    "branch": "South Philadelphia Library",
-   "category": 3,
+   "category": null,
    "desc": "English Conversation Group - Intermediate+\n\nSouth Philadelphia Library (1700 S. Broad Street, 19145)\n\nSaturdays 10-11:30 am\n\nBuild your confidence in speaking English while meeting other adults in a casual learning environment. No registration is required. This group is for intermediate/advanced English speakers and is led by Free Library volunteer Minh.",
    "id": "185503",
    "start": "2026-12-05T10:00:00",
@@ -16551,5 +16511,5 @@
    "url": "https://libwww.freelibrary.org/calendar/event/185953"
   }
  },
- "last_run": "2026-11-25T20:26:15.793971+00:00"
+ "last_run": "2026-11-26T20:04:00.650944+00:00"
 }
