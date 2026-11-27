@@ -1,20 +1,5 @@
 [
  {
-  "venue": "Sellersville Theater",
-  "title": "Thanksgiving Dinner",
-  "subtitle": null,
-  "date": "2026-11-26",
-  "show_time": "12:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.st94.com/events/thanksgiving-dinner-6/",
-  "ticket_url": "https://www.etix.com/ticket/p/89635815/thanksgiving-dinner-sellersville-the-washington-house",
-  "price": null,
-  "source": "html",
-  "needs_manual": false,
-  "room": "The Washington House"
- },
- {
   "venue": "Dawson Street Pub",
   "title": "Cordelia Blue w/ Emily Claffy",
   "subtitle": null,
