@@ -362,6 +362,27 @@
   "url": "https://phillygaycalendar.com/events/friday-night-karaoke-at-254/",
   "venue": "254"
  },
+ "38980-2026-12-04": {
+  "address": "254, South 12th Street, Philadelphia, PA",
+  "all_day": false,
+  "cats": [
+   "Drag",
+   "Comedy",
+   "Karaoke",
+   "Trans"
+  ],
+  "date": "2026-12-04",
+  "desc": "Shine on the cabaret stage every Friday night at 254 for the gayest karaoke in downtown Philadelphia. Hostess Lamia leads a late-night session featuring a library of over 20,000 songs spanning every genre from R&B and heavy metal to musical\u2026",
+  "end": "2026-12-04T23:00:00",
+  "id": 38980,
+  "performers": "Lamia",
+  "start": "2026-12-04T21:00:00",
+  "ticket": "",
+  "time": "4:00 PM",
+  "title": "Friday Night Karaoke",
+  "url": "https://phillygaycalendar.com/events/friday-night-karaoke-at-254/",
+  "venue": "254"
+ },
  "40147-2026-12-03": {
   "address": "1320 Chancellor St, Philadelphia, PA 19107, USA",
   "all_day": false,
@@ -1488,6 +1509,26 @@
   "id": 44668,
   "performers": "",
   "start": "2026-11-27T19:00:00",
+  "ticket": "https://www.eventbrite.com/e/5-fridays-tickets-2004172880035?aff=erelpanelorg",
+  "time": "2:00 PM \u2013 4:30 PM",
+  "title": "$5 Fridays at Franky Bradley\u2019s",
+  "url": "https://phillygaycalendar.com/events/5-fridays-at-franky-bradleys/",
+  "venue": "Franky Bradley's"
+ },
+ "44668-2026-12-04": {
+  "address": "1320 Chancellor St, Philadelphia, PA 19107, USA",
+  "all_day": false,
+  "cats": [
+   "Dance Party",
+   "Happy Hour",
+   "Performance"
+  ],
+  "date": "2026-12-04",
+  "desc": "The weekly $5 Friday night at Franky Bradley's.7 PM every Friday. Listed here through the end of December.",
+  "end": "2026-12-04T21:30:00",
+  "id": 44668,
+  "performers": "",
+  "start": "2026-12-04T19:00:00",
   "ticket": "https://www.eventbrite.com/e/5-fridays-tickets-2004172880035?aff=erelpanelorg",
   "time": "2:00 PM \u2013 4:30 PM",
   "title": "$5 Fridays at Franky Bradley\u2019s",
@@ -3112,6 +3153,26 @@
   "url": "https://phillygaycalendar.com/events/aids-memorial-quilt-display/",
   "venue": "Paradise"
  },
+ "46116-2026-12-04": {
+  "address": "211 S Christopher Columbus Blvd, Philadelphia, PA 19106, USA",
+  "all_day": false,
+  "cats": [
+   "Arts & Theater",
+   "Christmas",
+   "Sober"
+  ],
+  "date": "2026-12-04",
+  "desc": "Join the Philadelphia Gay Men\u2019s Chorus for The Light We Share, a joyful holiday celebration that journeys across the globe through music. From beloved classics to vibrant traditions from around the world and inspiring new works, we celebrate the hope,\u2026",
+  "end": "2026-12-04T22:00:00",
+  "id": 46116,
+  "performers": "",
+  "start": "2026-12-04T20:00:00",
+  "ticket": "https://pgmc.app.neoncrm.com/nx/portal/neonevents/events?path=%2Fportal%2Fevents%2F54760",
+  "time": "3:00 PM \u2013 5:00 PM",
+  "title": "The Light We Share",
+  "url": "https://phillygaycalendar.com/events/the-light-we-share/",
+  "venue": "Independence Seaport Museum"
+ },
  "46122-2026-11-20": {
   "address": "254, South 12th Street, Philadelphia, PA",
   "all_day": false,
@@ -3262,6 +3323,26 @@
   "url": "https://phillygaycalendar.com/events/sip-city-mixer-wlw-mid-30s-and-up/",
   "venue": "Blind Barber"
  },
+ "46188-2026-12-04": {
+  "address": "1108 Frankford Ave, Philadelphia, PA 19125, USA",
+  "all_day": false,
+  "cats": [
+   "Christmas",
+   "Comedy",
+   "Drag"
+  ],
+  "date": "2026-12-04",
+  "desc": "The Nutcracker, but make it a Fabrika holiday special. You know the story, but this version trades the stiff formality for a whole lot of sparkle, silliness, and surprise. Think rat kings with a taste for cheap beer, nutcrackers in\u2026",
+  "end": "2026-12-04T21:30:00",
+  "id": 46188,
+  "performers": "",
+  "start": "2026-12-04T19:30:00",
+  "ticket": "https://fabrikaphilly.com",
+  "time": "2:30 PM",
+  "title": "Nut Cracker: A Fabrika Holiday Special",
+  "url": "https://phillygaycalendar.com/events/nut-cracker-a-fabrika-holiday-special/",
+  "venue": "Fabrika"
+ },
  "46209-2026-11-14": {
   "address": "254, South 12th Street, Philadelphia, PA",
   "all_day": false,
@@ -3379,6 +3460,25 @@
   "title": "World AIDS Day Brunch",
   "url": "https://phillygaycalendar.com/events/world-aids-day-brunch/",
   "venue": "William Way LGBT Community Center"
+ },
+ "46221-2026-12-04": {
+  "address": "2999 Street Rd, Bensalem, PA 19020",
+  "all_day": false,
+  "cats": [
+   "Celebrity",
+   "Comedy"
+  ],
+  "date": "2026-12-04",
+  "desc": "Hot & Healed Comedy Tour 2026 with Jonathan Van Ness, the Emmy-winning star of Netflix\u2019s Queer Eye, podcast host of Getting Curious and best-selling author. 21 and over. Doors 7 PM, show 8 PM.",
+  "end": "2026-12-04T23:00:00",
+  "id": 46221,
+  "performers": "Jonathan Van Ness",
+  "start": "2026-12-04T20:00:00",
+  "ticket": "https://www.axs.com/events/1379992/jonathan-van-ness-21-event-tickets",
+  "time": "3:00 PM \u2013 6:00 PM",
+  "title": "Jonathan Van Ness: Hot & Healed Comedy Tour",
+  "url": "https://phillygaycalendar.com/events/jonathan-van-ness-hot-healed-comedy-tour/",
+  "venue": "Parx Casino"
  },
  "46236-2026-11-19": {
   "address": "177 Markle St, Philadelphia, PA 19127",
@@ -3632,6 +3732,25 @@
   "url": "https://phillygaycalendar.com/events/vanitys-affair-5/",
   "venue": "Paradise"
  },
+ "46481-2026-12-04": {
+  "address": "1705 Chancellor Street, Philadelphia, PA 19103, USA",
+  "all_day": false,
+  "cats": [
+   "Dance Party",
+   "Lesbian"
+  ],
+  "date": "2026-12-04",
+  "desc": "\ud83d\udc99\ud83e\ude77\ud83d\udc9c Sip City Bi Bi Baby Mixer, centering and celebrating bisexual and \u2018othered\u2019 queer sexualities, including demi, ace, grey, pan, and those who\u2019ve come out later in life as well as women and trans folks who are questioning. \ud83d\udcabWe support\u2026",
+  "end": "2026-12-05T00:00:00",
+  "id": 46481,
+  "performers": "",
+  "start": "2026-12-04T20:00:00",
+  "ticket": "https://www.facebook.com/events/2132197488170574",
+  "time": "3:00 PM \u2013 7:00 PM",
+  "title": "Sip City Bi Bi Baby Party",
+  "url": "https://phillygaycalendar.com/events/sip-city-bi-bi-baby-party/",
+  "venue": "Stir Lounge"
+ },
  "46649-2026-11-25": {
   "address": "1220 Locust St Philadelphia, PA 19107",
   "all_day": false,
@@ -3650,6 +3769,25 @@
   "title": "Donnie\u2019s Annual Thanksgiving Dinner",
   "url": "https://phillygaycalendar.com/events/donnies-annual-thanksgiving-dinner/",
   "venue": "U Bar Philadelphia"
+ },
+ "46657-2026-12-04": {
+  "address": "605 S 3rd St, Philadelphia, PA 19147",
+  "all_day": false,
+  "cats": [
+   "Dance Party",
+   "Lesbian"
+  ],
+  "date": "2026-12-04",
+  "desc": "A party for all the Sagittarians and freaks excited to get loose and wild on the dance floor. One big birthday party for all of our favorite fiery adventurers. 30+ baddies are encouraged to attend.",
+  "end": "2026-12-05T02:00:00",
+  "id": 46657,
+  "performers": "afro.fem, bb basura, Ishtar Sr., nila Paradise",
+  "start": "2026-12-04T21:30:00",
+  "ticket": "https://www.instagram.com/p/Df-KTyEht6P/",
+  "time": "4:30 PM \u2013 9:00 PM",
+  "title": "Archer",
+  "url": "https://phillygaycalendar.com/events/archer/",
+  "venue": "Val's Lesbian Bar"
  },
  "46666-2026-11-25": {
   "address": "243 S Camac St, Philadelphia, PA 19107, USA",
@@ -4115,5 +4253,43 @@
   "title": "Queer Holiday Weekend City Walk: Ben Franklin Bridge",
   "url": "https://phillygaycalendar.com/events/queer-holiday-weekend-city-walk-ben-franklin-bridge/",
   "venue": "Cosmic Cafe"
+ },
+ "46963-2026-11-28": {
+  "address": "1403 Valley Road, Coatesville, PA 19320",
+  "all_day": false,
+  "cats": [
+   "Dance Party",
+   "Drag"
+  ],
+  "date": "2026-11-28",
+  "desc": "The Battle of the Decades: a 2 hour 80s vs 90s drag show celebrating two iconic decades of music, fashion and pop culture. Fierce drag tributes inspired by legends like Madonna, Whitney Houston, Britney Spears, the Spice Girls and more.\u2026",
+  "end": "2026-11-28T22:00:00",
+  "id": 46963,
+  "performers": "Buttakup, Iconique, Ophelia Bawdy, Samara LaNegra",
+  "start": "2026-11-28T19:00:00",
+  "ticket": "https://www.instagram.com/p/DgKYCfkRsr8/",
+  "time": "2:00 PM \u2013 5:00 PM",
+  "title": "80\u2019s / 90\u2019s Drag Show",
+  "url": "https://phillygaycalendar.com/events/80s-90s-drag-show/",
+  "venue": "Westwood Fire Company"
+ },
+ "46968-2026-12-03": {
+  "address": "605 S 3rd St, Philadelphia, PA 19147",
+  "all_day": false,
+  "cats": [
+   "Arts & Theater",
+   "Open Mic"
+  ],
+  "date": "2026-12-03",
+  "desc": "The next Queer Open Jam at Val's Lesbian Bar. Come get jammy with us! The event is held on the 2nd floor of Val's, which requires going up a flight of stairs. The event will be photographed for social media\u2026",
+  "end": "2026-12-03T22:00:00",
+  "id": 46968,
+  "performers": "",
+  "start": "2026-12-03T19:00:00",
+  "ticket": "https://www.instagram.com/p/DgNuAJHBOZt/",
+  "time": "2:00 PM \u2013 5:00 PM",
+  "title": "Queer Open Jam",
+  "url": "https://phillygaycalendar.com/events/queer-open-jam/",
+  "venue": "Val's Lesbian Bar"
  }
 }
