@@ -733,6 +733,21 @@
   "room": "Liberty Bell Gastropub"
  },
  {
+  "venue": "The Queen",
+  "title": "City of Wilmington 250th Holiday Concert",
+  "subtitle": null,
+  "date": "2026-12-09",
+  "show_time": "19:00",
+  "doors_time": "18:00",
+  "set_times": [],
+  "url": "https://thequeenwilmington.com/events/city-of-wilmington-250th-holiday-concert/",
+  "ticket_url": "https://www.ticketmaster.com/city-of-wilmington-250th-holiday-concert-wilmington-delaware-12-09-2026/event/0200657B7AA02A79",
+  "price": null,
+  "source": "html",
+  "needs_manual": false,
+  "room": "The Main Hall"
+ },
+ {
   "venue": "Sellersville Theater",
   "title": "Rickie Lee Jones",
   "subtitle": null,
@@ -854,21 +869,6 @@
   "room": "The Crown"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Friday Night Throwback!",
-  "subtitle": "Stealing Savanah",
-  "date": "2026-12-11",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
   "venue": "Dawson Street Pub",
   "title": "Pachyderm, Denim Dennis, and The Parameters",
   "subtitle": null,
@@ -957,21 +957,6 @@
   "room": "The Crown"
  },
  {
-  "venue": "Parx Casino",
-  "title": "The Exceptions",
-  "subtitle": null,
-  "date": "2026-12-12",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
   "venue": "SOUTH Jazz Club",
   "title": "Sounds of April & Randall: The Feeling of the Holidays",
   "subtitle": null,
@@ -986,19 +971,19 @@
   "needs_manual": true
  },
  {
-  "venue": "Parx Casino",
-  "title": "Live Piano Brunch with Ginger Coyle",
-  "subtitle": "Holiday Hits!",
+  "venue": "The Queen",
+  "title": "Future Stars Showcase",
+  "subtitle": null,
   "date": "2026-12-13",
-  "show_time": "11:00",
-  "doors_time": null,
+  "show_time": "12:30",
+  "doors_time": "12:00",
   "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
+  "url": "https://thequeenwilmington.com/events/future-stars-showcase/",
+  "ticket_url": "https://www.ticketmaster.com/future-stars-showcase-wilmington-delaware-12-13-2026/event/0200657B7DC72C15",
   "price": null,
-  "source": "json",
+  "source": "html",
   "needs_manual": false,
-  "room": "Beer Garden"
+  "room": "The Crown"
  },
  {
   "venue": "Sellersville Theater",
@@ -1106,21 +1091,6 @@
   "room": "The Crown"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2026-12-16",
-  "show_time": "17:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Sue Foley / GA-20 - Together For The Holidays",
   "subtitle": null,
@@ -1134,51 +1104,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "The Chris Stevens Duo",
-  "subtitle": null,
-  "date": "2026-12-17",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Get The Led Out",
-  "subtitle": null,
-  "date": "2026-12-17",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Joe Conklin Holiday Special",
-  "subtitle": "with The City Rhythm Orchestra",
-  "date": "2026-12-17",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
@@ -1254,21 +1179,6 @@
   "room": "The Washington House"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Lady A",
-  "subtitle": "This Winter's Night Tour 2026",
-  "date": "2026-12-18",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
   "venue": "Sellersville Theater",
   "title": "An Evening with Emma Nissen",
   "subtitle": null,
@@ -1327,36 +1237,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Friday Night Throwback!",
-  "subtitle": "Rustic Revival",
-  "date": "2026-12-18",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Deen Anthony",
-  "subtitle": null,
-  "date": "2026-12-18",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xlounge"
  },
  {
   "venue": "Dawson Street Pub",
@@ -1431,21 +1311,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Are You Garbage?",
-  "subtitle": "The Army of Garbage Tour",
-  "date": "2026-12-19",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Beatlemania Now is Fab Forever! (8 PM)",
   "subtitle": null,
@@ -1459,36 +1324,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Jolly Monroe",
-  "subtitle": null,
-  "date": "2026-12-19",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Brandon Alex",
-  "subtitle": null,
-  "date": "2026-12-19",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xlounge"
  },
  {
   "venue": "Dawson Street Pub",
@@ -1593,21 +1428,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2026-12-23",
-  "show_time": "17:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Songs For The Season sung by Eddie Bruce ft. Sue Matsuki",
   "subtitle": null,
@@ -1621,21 +1441,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Kyla Nicole Healey",
-  "subtitle": "Holiday Show",
-  "date": "2026-12-23",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
@@ -1699,21 +1504,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Covered In Ash",
-  "subtitle": null,
-  "date": "2026-12-26",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
   "venue": "SOUTH Jazz Club",
   "title": "Nasir Dickerson presents A Kwanzaa Celebration Experience: Bridging the Black Diaspora, Discipline, and Jazz Expression",
   "subtitle": null,
@@ -1756,21 +1546,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2026-12-30",
-  "show_time": "17:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
  },
  {
   "venue": "Sellersville Theater",
@@ -1848,21 +1623,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Boot Scootin’ New Years Eve at 360!",
-  "subtitle": null,
-  "date": "2026-12-31",
-  "show_time": "19:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
   "venue": "Sellersville Theater",
   "title": "NYE Party ft. AM Radio - Disco, David & DANCE! (9 PM)",
   "subtitle": null,
@@ -1890,21 +1650,6 @@
   "price": null,
   "source": "html",
   "needs_manual": true
- },
- {
-  "venue": "Parx Casino",
-  "title": "Stone Zero",
-  "subtitle": null,
-  "date": "2027-01-01",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
  },
  {
   "venue": "Dawson Street Pub",
@@ -1936,21 +1681,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Fat Mezz",
-  "subtitle": null,
-  "date": "2027-01-02",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
   "venue": "Sellersville Theater",
   "title": "A Band Called Honalee - A Folk Trio Celebrating Peter, Paul & Mary",
   "subtitle": null,
@@ -1966,21 +1696,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2027-01-06",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Wintergrass ft. Joe Cirotti Trio and Wood Flower",
   "subtitle": null,
@@ -1994,36 +1709,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "The Quixote Project Duo",
-  "subtitle": null,
-  "date": "2027-01-07",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
-  "venue": "Parx Casino",
-  "title": "360 Country Night!",
-  "subtitle": "Country Line Dancing Lessons with DJ Dave Kim & musical performance by Big Whiskey",
-  "date": "2027-01-07",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
@@ -2071,21 +1756,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "The Gab Cinque Band",
-  "subtitle": null,
-  "date": "2027-01-08",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
   "venue": "Dawson Street Pub",
   "title": "Soul and Blues",
   "subtitle": null,
@@ -2130,21 +1800,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Ear Candy",
-  "subtitle": null,
-  "date": "2027-01-09",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
   "venue": "Sellersville Theater",
   "title": "WXPN Welcomes On A Winter's Night featuring Cliff Eberhardt, John Gorka, Lucy Kaplansky & Patty Larkin",
   "subtitle": null,
@@ -2175,21 +1830,6 @@
   "room": "The Washington House"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2027-01-13",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Joe Pug",
   "subtitle": null,
@@ -2203,21 +1843,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "The Chris Stevens Duo",
-  "subtitle": null,
-  "date": "2027-01-14",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
  },
  {
   "venue": "Sellersville Theater",
@@ -2235,21 +1860,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Pete Holmes",
-  "subtitle": "We’re Having Fun Tour!",
-  "date": "2027-01-15",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Manticore - The Tribute to Emerson, Lake & Palmer",
   "subtitle": null,
@@ -2265,21 +1875,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Shot of Southern",
-  "subtitle": null,
-  "date": "2027-01-15",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
   "venue": "Dawson Street Pub",
   "title": "Choke Artists",
   "subtitle": null,
@@ -2292,21 +1887,6 @@
   "price": null,
   "source": "html",
   "needs_manual": true
- },
- {
-  "venue": "Parx Casino",
-  "title": "Bee Gees Gold",
-  "subtitle": null,
-  "date": "2027-01-16",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
  },
  {
   "venue": "Sellersville Theater",
@@ -2337,21 +1917,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Crown"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Anger Management",
-  "subtitle": null,
-  "date": "2027-01-16",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
@@ -2399,21 +1964,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2027-01-20",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
   "venue": "Sellersville Theater",
   "title": "The Youngers",
   "subtitle": null,
@@ -2427,36 +1977,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "The Quixote Project Duo",
-  "subtitle": null,
-  "date": "2027-01-21",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
-  "venue": "Parx Casino",
-  "title": "360 Comedy Night hosted by Joe Conklin",
-  "subtitle": "NJ 101.5 presents \"New Jersey Funny\" with Bill Spadea, Steve Trevalise & Jill Myra with comedians Fred Rubino & Gemini Lombardi",
-  "date": "2027-01-21",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
@@ -2503,21 +2023,6 @@
   "room": "The Washington House"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Ashanti",
-  "subtitle": null,
-  "date": "2027-01-22",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Eric Steckel",
   "subtitle": null,
@@ -2533,51 +2038,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Don't Tell Mom",
-  "subtitle": null,
-  "date": "2027-01-22",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
-  "title": "DJ Pop",
-  "subtitle": null,
-  "date": "2027-01-22",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xlounge"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Almost Queen",
-  "subtitle": "A Tribute To Queen",
-  "date": "2027-01-23",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
   "venue": "Sellersville Theater",
   "title": "A Magical Evening with John Westford",
   "subtitle": null,
@@ -2591,21 +2051,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Split Decision",
-  "subtitle": null,
-  "date": "2027-01-23",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
@@ -2638,21 +2083,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2027-01-27",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Messer Chups",
   "subtitle": null,
@@ -2683,21 +2113,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "The Chris Stevens Duo",
-  "subtitle": null,
-  "date": "2027-01-28",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Joel Hoekstra & Brandon Gibbs",
   "subtitle": null,
@@ -2711,36 +2126,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Philly Jazz Night at Parx",
-  "subtitle": "Featuring up and coming jazz artists from Philly",
-  "date": "2027-01-28",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
-  "title": "WXPN welcomes Grace Potter & The Trespassers",
-  "subtitle": "The Trespasser Tour",
-  "date": "2027-01-29",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
  },
  {
   "venue": "Sellersville Theater",
@@ -2758,21 +2143,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Radio Royalty",
-  "subtitle": null,
-  "date": "2027-01-29",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
   "venue": "Dawson Street Pub",
   "title": "People On Other Planets",
   "subtitle": null,
@@ -2785,21 +2155,6 @@
   "price": null,
   "source": "html",
   "needs_manual": true
- },
- {
-  "venue": "Parx Casino",
-  "title": "David Spade",
-  "subtitle": null,
-  "date": "2027-01-30",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
  },
  {
   "venue": "Sellersville Theater",
@@ -2817,36 +2172,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Bonehead",
-  "subtitle": null,
-  "date": "2027-01-30",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Deen Anthony",
-  "subtitle": null,
-  "date": "2027-01-30",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xlounge"
- },
- {
   "venue": "Sellersville Theater",
   "title": "The Lords of 52nd Street - Legends of the Billy Joel Band",
   "subtitle": null,
@@ -2862,51 +2187,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2027-02-03",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
-  "venue": "Parx Casino",
-  "title": "The Quixote Project Duo",
-  "subtitle": null,
-  "date": "2027-02-04",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
-  "venue": "Parx Casino",
-  "title": "360 Country Night!",
-  "subtitle": "Country Line Dancing Lessons with DJ Dave Kim & musical performance by Karly C & The Rebel Y'all Band",
-  "date": "2027-02-04",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Beer Tasting: Flying Fish Brewing",
   "subtitle": null,
@@ -2920,21 +2200,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Washington House"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Behind The Apple",
-  "subtitle": "The Untold Stories of New York",
-  "date": "2027-02-05",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
  },
  {
   "venue": "Sellersville Theater",
@@ -2967,36 +2232,6 @@
   "room": "The Crown"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Porch",
-  "subtitle": null,
-  "date": "2027-02-05",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Matt Mathews",
-  "subtitle": "Not What I Ordered World Tour",
-  "date": "2027-02-06",
-  "show_time": "19:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Bruce In The USA: The World's #1 Tribute to Bruce Springsteen & The E Street Band",
   "subtitle": null,
@@ -3010,51 +2245,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Flip Like Wilson",
-  "subtitle": null,
-  "date": "2027-02-06",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Santi",
-  "subtitle": null,
-  "date": "2027-02-06",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xlounge"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Matt Mathews",
-  "subtitle": "Not What I Ordered World Tour",
-  "date": "2027-02-06",
-  "show_time": "22:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
  },
  {
   "venue": "Sellersville Theater",
@@ -3102,21 +2292,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2027-02-10",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Craig Thatcher & Tim Farrell",
   "subtitle": null,
@@ -3130,21 +2305,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "The Chris Stevens Duo",
-  "subtitle": null,
-  "date": "2027-02-11",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
  },
  {
   "venue": "Sellersville Theater",
@@ -3177,21 +2337,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Rumba 106.1 presents 360 Latin Night!",
-  "subtitle": "Latin Dance Lessons with Barbara Capaldi & musical performance by Panchito Bongo Y Su Orquestra",
-  "date": "2027-02-11",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
   "venue": "The Queen",
   "title": "UMPHREY’S McGEE – Fresh Cut 2027",
   "subtitle": null,
@@ -3205,21 +2350,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
- },
- {
-  "venue": "Parx Casino",
-  "title": "The Magic of Manilow",
-  "subtitle": "Starring Terry Davies - A Celebration of Barry Manilow",
-  "date": "2027-02-12",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
  },
  {
   "venue": "Sellersville Theater",
@@ -3237,21 +2367,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Turning The Tide",
-  "subtitle": null,
-  "date": "2027-02-12",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
   "venue": "The Queen",
   "title": "KIDZ BOP Daytime Dance Party",
   "subtitle": null,
@@ -3267,21 +2382,6 @@
   "room": "The Main Hall"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Steve-O",
-  "subtitle": "The Crash and Burn! Tour",
-  "date": "2027-02-13",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Bad Animals - The Heart Tribute",
   "subtitle": null,
@@ -3295,21 +2395,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Five Dollar Shakes",
-  "subtitle": null,
-  "date": "2027-02-13",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
@@ -3357,21 +2442,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2027-02-17",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Selwyn Birchwood",
   "subtitle": null,
@@ -3387,21 +2457,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "The Quixote Project Duo",
-  "subtitle": null,
-  "date": "2027-02-18",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Black History Month Celebration by Dr. K's Motown Revue",
   "subtitle": null,
@@ -3415,21 +2470,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "360 Comedy Night hosted by Joe Conklin",
-  "subtitle": "Joey Vegas & special guests celebrating \"Sex, Love & Marriage\"",
-  "date": "2027-02-18",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
  },
  {
   "venue": "Dawson Street Pub",
@@ -3461,21 +2501,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Midnight Sun Rize",
-  "subtitle": null,
-  "date": "2027-02-19",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
   "venue": "Dawson Street Pub",
   "title": "Kenn Kweder and the Men from WAWA",
   "subtitle": null,
@@ -3503,21 +2528,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Jamison",
-  "subtitle": null,
-  "date": "2027-02-20",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
  },
  {
   "venue": "The Queen",
@@ -3595,21 +2605,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2027-02-24",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Matt Nathanson - To The Point Solo Tour 2027",
   "subtitle": null,
@@ -3623,36 +2618,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "The Chris Stevens Duo",
-  "subtitle": null,
-  "date": "2027-02-25",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Philly Jazz Night at Parx",
-  "subtitle": "Featuring up and coming jazz artists from Philly",
-  "date": "2027-02-25",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
@@ -3670,21 +2635,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Scotty McCreery",
-  "subtitle": null,
-  "date": "2027-02-26",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
   "venue": "Sellersville Theater",
   "title": "WXPN Welcomes THAO - \"Show Me\" Tour",
   "subtitle": null,
@@ -3700,51 +2650,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "80's Revolution",
-  "subtitle": null,
-  "date": "2027-02-26",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Deen Anthony",
-  "subtitle": null,
-  "date": "2027-02-26",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xlounge"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Bachman-Turner Overdrive",
-  "subtitle": "No Speed Limit Tour 2027",
-  "date": "2027-02-27",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Absolute Adele with Jennifer Cella",
   "subtitle": null,
@@ -3758,21 +2663,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Bigg Romeo",
-  "subtitle": null,
-  "date": "2027-02-27",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "360"
  },
  {
   "venue": "Sellersville Theater",
@@ -3820,36 +2710,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2027-03-03",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
-  "venue": "Parx Casino",
-  "title": "The Quixote Project Duo",
-  "subtitle": null,
-  "date": "2027-03-04",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Vandenberg \"My Whitesnake Years\" with Marco Mendoza and Vinnie Moore",
   "subtitle": null,
@@ -3878,21 +2738,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "The Main Hall"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Michael Blaustein",
-  "subtitle": "Bad Bad Boy Tour",
-  "date": "2027-03-06",
-  "show_time": "19:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
  },
  {
   "venue": "Sellersville Theater",
@@ -3925,21 +2770,6 @@
   "room": "The Crown"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Teso",
-  "subtitle": null,
-  "date": "2027-03-06",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xlounge"
- },
- {
   "venue": "The Queen",
   "title": "Dropkick Murphys",
   "subtitle": null,
@@ -3970,51 +2800,6 @@
   "room": "The Main Hall"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2027-03-10",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Sway Duo",
-  "subtitle": null,
-  "date": "2027-03-11",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Blackberry Smoke",
-  "subtitle": "All Over The Road Tour 2027",
-  "date": "2027-03-12",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Into The Mystic - Philly's Tribute to the Music of Van Morrison",
   "subtitle": null,
@@ -4030,21 +2815,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "DJ Tonka",
-  "subtitle": null,
-  "date": "2027-03-12",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xlounge"
- },
- {
   "venue": "Sellersville Theater",
   "title": "The World Famous Glenn Miller Orchestra",
   "subtitle": null,
@@ -4058,21 +2828,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Anthony Rodia",
-  "subtitle": "Insanely Funny Tour",
-  "date": "2027-03-13",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
  },
  {
   "venue": "The Queen",
@@ -4120,36 +2875,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2027-03-17",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
-  "venue": "Parx Casino",
-  "title": "The Quixote Project Duo",
-  "subtitle": null,
-  "date": "2027-03-18",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Uriah Heep Magician's Farewell Tour",
   "subtitle": null,
@@ -4180,21 +2905,6 @@
   "room": "The Main Hall"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Kathleen Madigan",
-  "subtitle": "Flying Cats Tour",
-  "date": "2027-03-19",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
   "venue": "Sellersville Theater",
   "title": "Lotus Land - American Rush Tribute",
   "subtitle": null,
@@ -4208,21 +2918,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Kathleen Madigan",
-  "subtitle": "Flying Cats Tour",
-  "date": "2027-03-20",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
  },
  {
   "venue": "Sellersville Theater",
@@ -4240,36 +2935,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2027-03-24",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Sway Duo",
-  "subtitle": null,
-  "date": "2027-03-25",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
   "venue": "Sellersville Theater",
   "title": "The Land Of Ozz - The Ultimate Ozzy Osbourne Experience (6 PM)",
   "subtitle": null,
@@ -4285,36 +2950,6 @@
   "room": "Sellersville Theater 1894"
  },
  {
-  "venue": "Parx Casino",
-  "title": "Atsuko Okatsuka",
-  "subtitle": "The Big Bowl Tour",
-  "date": "2027-03-26",
-  "show_time": "19:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
- },
- {
-  "venue": "Parx Casino",
-  "title": "DJ Capps",
-  "subtitle": null,
-  "date": "2027-03-26",
-  "show_time": "21:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xlounge"
- },
- {
   "venue": "Sellersville Theater",
   "title": "The Land Of Ozz - The Ultimate Ozzy Osbourne Experience (9 PM)",
   "subtitle": null,
@@ -4328,21 +2963,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Todd Rundgren",
-  "subtitle": "Damned If I Do Tour",
-  "date": "2027-03-27",
-  "show_time": "20:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
  },
  {
   "venue": "Sellersville Theater",
@@ -4403,36 +3023,6 @@
   "source": "html",
   "needs_manual": false,
   "room": "Sellersville Theater 1894"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Sway Duo featuring Joanne Farrell",
-  "subtitle": null,
-  "date": "2027-03-31",
-  "show_time": "17:30",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Liberty Bell Gastropub"
- },
- {
-  "venue": "Parx Casino",
-  "title": "Jimmy Jam & Terry Lewis",
-  "subtitle": "WDAS presents A Tribute to Gamble & Huff with special guests Morris Day, Ruben Studdard & Shanice Wilson - Benefitting the Universal Charter Schools",
-  "date": "2027-04-10",
-  "show_time": "19:00",
-  "doors_time": null,
-  "set_times": [],
-  "url": "https://www.parxcasino.com/bensalem/calendar",
-  "ticket_url": null,
-  "price": null,
-  "source": "json",
-  "needs_manual": false,
-  "room": "Xcite Center"
  },
  {
   "venue": "The Queen",

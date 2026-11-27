@@ -6730,5 +6730,11 @@
   "source": "no-time-found",
   "time": null,
   "url": "https://events.ticketleap.com/events/jhom-6/pbs-event-tom-hambridge-band"
+ },
+ "519971": {
+  "checked": "2026-11-27",
+  "source": "jsonld",
+  "time": "12:00",
+  "url": "https://www.eventbrite.com/e/wxpn-free-at-noon-with-buddy-miller-tickets-2001076140604?aff=oddtdtcreator"
  }
 }
