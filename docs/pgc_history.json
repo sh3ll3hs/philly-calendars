@@ -4254,6 +4254,24 @@
   "url": "https://phillygaycalendar.com/events/queer-holiday-weekend-city-walk-ben-franklin-bridge/",
   "venue": "Cosmic Cafe"
  },
+ "46962-2026-12-04": {
+  "address": "32 North 3rd Street, Philadelphia, PA",
+  "all_day": false,
+  "cats": [
+   "Arts & Theater"
+  ],
+  "date": "2026-12-04",
+  "desc": "The Jane Gallery is delighted to present a special exhibition featuring the work of students and instructors from the Realist Art League Philadelphia, celebrating the enduring practice of observational art and the artists dedicated to its study. The Jane Gallery's\u2026",
+  "end": "2026-12-04T21:00:00",
+  "id": 46962,
+  "performers": "",
+  "start": "2026-12-04T17:30:00",
+  "ticket": "https://www.thejanegallery.com/realistartleague",
+  "time": "12:30 PM \u2013 4:00 PM",
+  "title": "First Friday at The Jane Gallery",
+  "url": "https://phillygaycalendar.com/events/first-friday-at-the-jane-gallery/",
+  "venue": "The Jane Gallery"
+ },
  "46963-2026-11-28": {
   "address": "1403 Valley Road, Coatesville, PA 19320",
   "all_day": false,
