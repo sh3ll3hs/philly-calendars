@@ -1,10 +1,6 @@
 venue,title,subtitle,date,show_time,doors_time,set_times,url,ticket_url,price,source,needs_manual,room
 Dawson Street Pub,Cordelia Blue w/ Emily Claffy,,2026-11-27,,,,http://beta.dawsonstreetpub.com/index.php,,,html,True,
 SOUTH Jazz Club,NICOLE HENRY,,2026-11-27,,,,https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/,,,html,True,
-Sellersville Theater,Wine Flights,,2026-11-27,17:00,,,https://www.st94.com/events/wine-flights-70/,https://www.etix.com/ticket/p/99989973/wine-flights-sellersville-the-washington-house,,html,False,The Washington House
-Sellersville Theater,Gary Ho Ho Hoey,,2026-11-27,20:00,19:30,,https://www.st94.com/events/gary-ho-ho-hoey-3/,https://www.etix.com/ticket/p/93361802/gary-ho-ho-hoey-sellersville-sellersville-theater-1894,$35 to $72,html,False,Sellersville Theater 1894
-The Queen,Community Chapstick,,2026-11-27,20:00,19:00,,https://thequeenwilmington.com/events/community-chapstick/,https://www.ticketmaster.com/community-chapstick-wilmington-delaware-11-27-2026/event/0200656CAFF4C2BA,,html,False,The Crown
-Parx Casino,Back in the Day Dance Party,DJ Bobby Sacco,2026-11-27,21:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,360
 Dawson Street Pub,"Plunger, Monsters Eat People, Shawn Mendez Karaoke!",,2026-11-28,,,,http://beta.dawsonstreetpub.com/index.php,,,html,True,
 Dawson Street Pub,Stan's Birthday Bash!,,2026-11-28,,,,http://beta.dawsonstreetpub.com/index.php,,,html,True,
 SOUTH Jazz Club,NICOLE HENRY,,2026-11-28,,,,https://www.southjazzkitchen.com/event/jj-sansaverino-christmas-concert-presented-by-unscripted-jazz/,,,html,True,
@@ -103,7 +99,7 @@ Parx Casino,Jolly Monroe,,2026-12-19,21:00,,,https://www.parxcasino.com/bensalem
 Parx Casino,Brandon Alex,,2026-12-19,21:00,,,https://www.parxcasino.com/bensalem/calendar,,,json,False,Xlounge
 Dawson Street Pub,Philly Blind Pig BBQ!,,2026-12-20,,,,http://beta.dawsonstreetpub.com/index.php,,,html,True,
 SOUTH Jazz Club,Carol Riddick A Holiday To Remember,,2026-12-20,,,,https://www.southjazzkitchen.com/event/carol-riddick-a-holiday-to-remember-dec-18-20-showtimes-vary-by-day/,,,html,True,
-Sellersville Theater,Musiquita's Nutcracker Tap Dance Special,,2026-12-20,11:00,10:30,,https://www.st94.com/events/musiquitas-nutcracker-tap-dance-special/,https://www.etix.com/ticket/p/94349386/musiquitas-nutcracker-tap-dance-special-sellersville-sellersville-theater-1894,$15 to $18.5,html,False,Sellersville Theater 1894
+Sellersville Theater,A Nutcracker Tap Dance Special by Musiquita,,2026-12-20,11:00,10:30,,https://www.st94.com/events/musiquitas-nutcracker-tap-dance-special/,https://www.etix.com/ticket/p/94349386/a-nutcracker-tap-dance-special-by-musiquita-sellersville-sellersville-theater-1894,$15 to $18.5,html,False,Sellersville Theater 1894
 Dawson Street Pub,Slowey & The Boats,,2026-12-20,17:00,,,http://beta.dawsonstreetpub.com/index.php,,,html,False,
 Sellersville Theater,"Mary Fahl (formerly of October Project) - ""Wintersongs""",,2026-12-20,19:30,19:00,,https://www.st94.com/events/mary-fahl-formerly-of-october-project-wintersongs/,https://www.etix.com/ticket/p/60050082/mary-fahl-formerly-of-october-projectwintersongs-sellersville-sellersville-theater-1894,$39.5 to $76.5,html,False,Sellersville Theater 1894
 Sellersville Theater,Free Movie: It's A Wonderful Life,,2026-12-21,19:30,19:00,,https://www.st94.com/events/free-movie-its-a-wonderful-life-9/,,,html,False,Sellersville Theater 1894

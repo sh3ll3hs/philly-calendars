@@ -173,12 +173,6 @@
   "time": "20:00",
   "url": "https://www.etix.com/ticket/p/98190926/friendship-charlotte-cornfieldwith-more-eaze-philadelphia-the-first-unitarian-church"
  },
- "510936": {
-  "checked": "2026-11-08",
-  "source": "venue-site:ardmoremusichall.com",
-  "time": "18:00",
-  "url": "http://tixr.com/groups/ardmoremusichall/events/huffamoose-hezekiah-jones-203149"
- },
  "511600": {
   "checked": "2026-11-08",
   "source": "venue-site:thefillmorephilly.com (name match)",
@@ -226,12 +220,6 @@
   "source": "jsonld",
   "time": "20:00",
   "url": "https://dice.fm/event/2wn2rm-wxpn-welcomes-loudon-wainwright-iii-8th-jan-arden-gild-hall-wilmington-tickets?pid=36d2aee9&amp;_branch_match_id=1427047065559758097&amp;utm_medium=partners_api&amp;_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1S9NMzGwMDIxTk2xSLEvyEyxNTZLMUpMTbVUqytKTUstKsrMS49PKsovL04tsg1OTEssygQABd6eckgAAAA%3D"
- },
- "513307": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:30",
-  "url": "https://www.chrisjazzcafe.com/events/143326"
  },
  "513309": {
   "checked": "2026-11-08",
@@ -485,12 +473,6 @@
   "time": "20:00",
   "url": "https://thecolonialtheatre.com/events/live-music/anthony-green-east-coast-winters-26/?doing_wp_cron=1792523337.1411190032958984375000"
  },
- "514019": {
-  "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.facebook.com/DawsonStreetPub/events"
- },
  "514027": {
   "checked": "2026-11-22",
   "source": "http:200",
@@ -611,12 +593,6 @@
   "time": "20:00",
   "url": "https://www.st94.com/events/bruce-in-the-usa-the-worlds-1-tribute-to-bruce-springsteen-the-e-street-band-9/"
  },
- "514413": {
-  "checked": "2026-11-08",
-  "source": "venue-site:undergroundarts.org",
-  "time": "20:30",
-  "url": "https://www.tixr.com/groups/undergroundarts/events/underground-arts-noah-richardson-203438"
- },
  "514421": {
   "checked": "2026-11-08",
   "source": "evening-time-near-date",
@@ -647,12 +623,6 @@
   "time": null,
   "url": "https://www.ensembleartsphilly.org/tickets-and-events/philadelphia-orchestra/2026-27-season/yo-yo-ma-and-emanuel-ax"
  },
- "514598": {
-  "checked": "2026-11-08",
-  "source": "jsonld",
-  "time": "19:00",
-  "url": "https://kungfunecktie.com/event/liim/kung-fu-necktie/philadelphia-pennsylvania/"
- },
  "514600": {
   "checked": "2026-11-08",
   "source": "jsonld",
@@ -682,12 +652,6 @@
   "source": "venue-site:themetphilly.com (name match)",
   "time": "20:00",
   "url": "https://www.ticketmaster.com/event/02006554AEC28578"
- },
- "514724": {
-  "checked": "2026-11-08",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.tixr.com/groups/milkboy/events/chioke-205599"
  },
  "514726": {
   "checked": "2026-11-08",
@@ -803,12 +767,6 @@
   "time": "20:00",
   "url": "https://www.st94.com/events/mikey-junior-3/"
  },
- "515059": {
-  "checked": "2026-11-08",
-  "source": "show",
-  "time": "19:00",
-  "url": "https://silkcityphilly.com/events/leadpetal-the-angies-nadafinger/"
- },
  "515061": {
   "checked": "2026-11-08",
   "source": "show",
@@ -844,12 +802,6 @@
   "source": "jsonld",
   "time": "20:00",
   "url": "https://dice.fm/event/v3xr37-marta-snchez-17th-dec-solar-myth-philadelphia-tickets?pid=efdf5368&amp;_branch_match_id=1427047065559758097&amp;utm_medium=partners_api&amp;_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Q8zMDFJTjMxNjAwsbAvyEyxTU1LSTM1NrNQqytKTUstKsrMS49PKsovL04tsg1OTEssygQAzw0IbUgAAAA%3D"
- },
- "515472": {
-  "checked": "2026-11-22",
-  "source": "no-time-found",
-  "time": null,
-  "url": "https://www.southjazzkitchen.com/event/nicole-henry-fri-sat-sun-nov-27-28-29-showtimes-vary-by-day-tickets-on-sale-soon/"
  },
  "515474": {
   "checked": "2026-11-22",
@@ -940,18 +892,6 @@
   "source": "venue-site:The Queen",
   "time": "20:00",
   "url": "https://www.ticketmaster.com/elizabeth-cook-wilmington-delaware-12-03-2026/event/02006551AC5E6A35"
- },
- "515612": {
-  "checked": "2026-11-22",
-  "source": "no-time-found",
-  "time": null,
-  "url": "https://www.timerestaurant.net/copy-of-music-events"
- },
- "515614": {
-  "checked": "2026-11-22",
-  "source": "no-time-found",
-  "time": null,
-  "url": "https://www.timerestaurant.net/copy-of-music-events"
  },
  "515616": {
   "checked": "2026-11-22",
@@ -2207,12 +2147,6 @@
   "time": null,
   "url": "https://www.instagram.com/p/Dfucv5PN4hq/?hl=en"
  },
- "517784": {
-  "checked": "2026-11-16",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.facebook.com/events/992688869794982"
- },
  "517787": {
   "checked": "2026-11-16",
   "source": "jsonld",
@@ -2441,12 +2375,6 @@
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fbabes-in-canyon-smokey-brights-nikki-lopez-philly-tickets%2F14416604&amp;utm_medium=affiliate"
  },
- "518190": {
-  "checked": "2026-11-25",
-  "source": "http:202",
-  "time": null,
-  "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/32519014/railroad-earth-1127-stroudsburg-sherman-theater?utm_source=jambase"
- },
  "518191": {
   "checked": "2026-11-25",
   "source": "http:202",
@@ -2590,12 +2518,6 @@
   "source": "venue-site:aeg:Franklin Music Hall",
   "time": "20:00",
   "url": "https://www.axs.com/events/1645221/bunt-tickets?cid=usaffjambase"
- },
- "518227": {
-  "checked": "2026-11-25",
-  "source": "no-time-found",
-  "time": null,
-  "url": "https://theticketing.co/e/minka-nov27?utm_medium=referral&amp;utm_campaign=jambase_integration&amp;utm_source=jambase"
  },
  "518228": {
   "checked": "2026-11-25",
@@ -2759,12 +2681,6 @@
   "time": null,
   "url": "https://www.axs.com/events/1607350/big-bad-voodoo-daddy-tickets?skin=keswick&amp;_gl=1*bu1irq*_gcl_au*MjE0NTc4MDg4NC4xNzkyNTMzNDkz"
  },
- "518309": {
-  "checked": "2026-11-25",
-  "source": "http:403",
-  "time": null,
-  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fdave-hause-the-mermaid-asbury-park-new-jersey-11-27-2026%2Fevent%2F000064BA1463F167%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
- },
  "518310": {
   "checked": "2026-11-25",
   "source": "http:403",
@@ -2896,12 +2812,6 @@
   "source": "blocked-site",
   "time": null,
   "url": "https://www.tixr.com/groups/anchorrockclub/events/ty-segall-214294?utm_campaign=jambase&amp;utm_source=jambase"
- },
- "518333": {
-  "checked": "2026-11-25",
-  "source": "http:403",
-  "time": null,
-  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fcatch-your-breath-not-broken-enough-allentown-pennsylvania-11-27-2026%2Fevent%2F300064B6B60E6FE9%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518334": {
   "checked": "2026-11-25",
@@ -3112,12 +3022,6 @@
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fpowerman-5000-reading-pennsylvania-04-30-2027%2Fevent%2F0200652A336E7083&amp;utm_medium=affiliate&amp;utm_source=jambase"
- },
- "518417": {
-  "checked": "2026-11-25",
-  "source": "http:403",
-  "time": null,
-  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fperreoland-featuring-nicky-jam-reading-pennsylvania-11-27-2026%2Fevent%2F020064BB0C5FD55D%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
  "518418": {
   "checked": "2026-11-25",
@@ -4799,12 +4703,6 @@
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fthe-menzingers-everything-i-ever-saw-harrisburg-pennsylvania-05-15-2027%2Fevent%2F020065659E226241&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
- "518804": {
-  "checked": "2026-11-26",
-  "source": "http:403",
-  "time": null,
-  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fudit-narayan-bethlehem-pennsylvania-11-27-2026%2Fevent%2F0200650CA730C5CB%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
- },
  "518805": {
   "checked": "2026-11-26",
   "source": "http:403",
@@ -4954,12 +4852,6 @@
   "source": "http:403",
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fyuri-lucero-entre-amigas-tour-newark-new-jersey-05-09-2027%2Fevent%2F0200650EB920AAA7&amp;utm_medium=affiliate&amp;utm_source=jambase"
- },
- "518835": {
-  "checked": "2026-11-19",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.axs.com/events/1485543/state-champs-tickets?cid=usaffjambase"
  },
  "518836": {
   "checked": "2026-11-19",
@@ -5309,12 +5201,6 @@
   "time": null,
   "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fmatthew-west-jesus-is-king-tour-reading-pennsylvania-04-30-2027%2Fevent%2F02006539C75C1628&amp;utm_medium=affiliate&amp;utm_source=jambase"
  },
- "518903": {
-  "checked": "2026-11-19",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.ticketmaster.com/event/02006538CEFA59CC"
- },
  "518904": {
   "checked": "2026-11-26",
   "source": "http:403",
@@ -5368,12 +5254,6 @@
   "source": "venue-site:r5productions.com (name match)",
   "time": "20:00",
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/32691375/dirty-projectors-solowith-otto-benson-philadelphia-philadelphia-ethical-society"
- },
- "518913": {
-  "checked": "2026-11-26",
-  "source": "http:202",
-  "time": null,
-  "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/54810380/railroad-earth-preshowlegion-of-dead-stroudsburg-sherman-showcase?utm_source=jambase"
  },
  "518914": {
   "checked": "2026-11-26",
@@ -5434,12 +5314,6 @@
   "source": "jsonld",
   "time": "18:00",
   "url": "https://link.dice.fm/t77c61c2abd1?utm_source=jambase"
- },
- "518929": {
-  "checked": "2026-11-19",
-  "source": "venue-site:Sellersville Theater (name match)",
-  "time": "20:00",
-  "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/93361802/gary-ho-ho-hoey-sellersville-sellersville-theater-1894?utm_source=jambase"
  },
  "518930": {
   "checked": "2026-11-19",
@@ -5620,12 +5494,6 @@
   "source": "venue-site:Sellersville Theater (name match)",
   "time": "20:00",
   "url": "https://etix.prf.hn/click/camref:1101lGKCg/destination:https://www.etix.com/ticket/p/65319428/robert-jon-the-wreck-sellersville-sellersville-theater-1894?utm_source=jambase"
- },
- "518962": {
-  "checked": "2026-11-19",
-  "source": "blocked-site",
-  "time": null,
-  "url": "https://www.tixr.com/groups/118north/events/american-vanity-205343?utm_campaign=jambase&amp;utm_source=jambase"
  },
  "518963": {
   "checked": "2026-11-19",
@@ -6143,12 +6011,6 @@
   "time": "19:00",
   "url": "https://www.tonewoodbrewing.com/?utm_source=jambase"
  },
- "519058": {
-  "checked": "2026-11-26",
-  "source": "http:403",
-  "time": null,
-  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fjohn-summit-ctrl-escape-arena-tour-philadelphia-pennsylvania-11-27-2026%2Fevent%2F020064B3BF9DC462%3Futm_content%3Dhotevent&amp;utm_medium=affiliate&amp;utm_source=jambase"
- },
  "519059": {
   "checked": "2026-11-26",
   "source": "http:530",
@@ -6335,12 +6197,6 @@
   "time": "19:00",
   "url": "https://www.parxcasino.com/bensalem/xcitecenter?utm_source=jambase"
  },
- "519148": {
-  "checked": "2026-11-27",
-  "source": "jsonld",
-  "time": "19:30",
-  "url": "https://ticketmaster.evyy.net/c/252938/271177/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fmourning-noises-annual-black-friday-dingbatz-tickets%2F15053623%3FREFERRAL_ID%3Dtmfeed&amp;utm_medium=affiliate&amp;utm_source=jambase"
- },
  "519149": {
   "checked": "2026-11-27",
   "source": "jsonld",
@@ -6400,12 +6256,6 @@
   "source": "venue-site:ardmoremusichall.com",
   "time": "19:30",
   "url": "https://www.tixr.com/groups/ardmoremusichall/events/teenage-fanclub-214916"
- },
- "519245": {
-  "checked": "2026-11-20",
-  "source": "jsonld",
-  "time": "12:00",
-  "url": "https://www.eventbrite.com/e/wxpn-free-at-noon-with-the-ben-vaughn-quintet-tickets-2001075206811?aff=oddtdtcreator"
  },
  "519290": {
   "checked": "2026-11-20",
